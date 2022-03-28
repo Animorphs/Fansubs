@@ -1,0 +1,336 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,2,225,225,50,1
+Style: Default - Italics,Gandhi Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,-1,0,0,100,100,0,0,1,3,0,2,225,225,50,1
+Style: Signs,Cardo,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: Insert_ED,IM FELL English PRO,70,&H00FFFFFF,&H00B6B6B6,&H00013801,&H002A2A2A,0,0,0,0,100,100,0,0,1,2.5,0,8,50,50,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 5,0:00:02.22,0:00:03.84,Default,,0,0,0,,You think you can just ignore me?
+Dialogue: 5,0:00:03.84,0:00:07.69,Default,,0,0,0,,You shithead, you take me for an idiot?
+Dialogue: 5,0:00:08.28,0:00:10.03,Default,,0,0,0,,Answer me!
+Dialogue: 5,0:00:10.03,0:00:12.53,Default,,0,0,0,,Yer gonna be so messed up when I'm done with you!
+Dialogue: 5,0:00:12.53,0:00:14.04,Default,,0,0,0,,Just wait right there.
+Dialogue: 5,0:00:20.02,0:00:21.87,Default,,0,0,0,,What the hell? Did you just lock the door?
+Dialogue: 5,0:00:22.62,0:00:24.33,Default,,0,0,0,,Open up right now!
+Dialogue: 5,0:00:25.30,0:00:28.17,Default,,0,0,0,,If he gets through this door I might have to kill him...
+Dialogue: 5,0:00:30.48,0:00:32.80,Default,,0,0,0,,Next time I see you, you're dead, hear me?
+Dialogue: 5,0:00:44.60,0:00:46.06,Default - Italics,,0,0,0,,He's still warm.
+Dialogue: 5,0:00:46.60,0:00:48.80,Default - Italics,,0,0,0,,It hasn't been long since he was killed.
+Dialogue: 5,0:00:54.54,0:00:55.91,Default - Italics,,0,0,0,,Kemper Boltz.
+Dialogue: 5,0:01:00.24,0:01:05.25,Default - Italics,,0,0,0,,In this heat, it won't take long for the body to be discovered.
+Dialogue: 5,0:01:05.54,0:01:09.42,Default - Italics,,0,0,0,,And I'll be subpoenaed as a witness to the crime
+Dialogue: 5,0:01:09.42,0:01:11.75,Default - Italics,,0,0,0,,and won't be able to go on the mission tomorrow.
+Dialogue: 5,0:01:12.68,0:01:15.74,Default - Italics,,0,0,0,,My superiors wouldn't be able to get me out of a subpoena,
+Dialogue: 5,0:01:16.40,0:01:17.43,Default - Italics,,0,0,0,,so I won't even ask.
+Dialogue: 5,0:01:18.76,0:01:22.32,Default - Italics,,0,0,0,,I could make it to the mission if I hid the body.
+Dialogue: 5,0:01:22.32,0:01:27.23,Default - Italics,,0,0,0,,No, if the mission fails, I won't be \Nable to return to the Military Police.
+Dialogue: 5,0:01:27.56,0:01:32.54,Default - Italics,,0,0,0,,If I'm not here, there's a chance they'll dig up my real identity in the investigation.
+Dialogue: 5,0:01:32.54,0:01:34.49,Default - Italics,,0,0,0,,It could even put the other two in danger.
+Dialogue: 5,0:01:35.36,0:01:36.82,Default - Italics,,0,0,0,,I can't have that.
+Dialogue: 5,0:01:40.30,0:01:45.46,Default - Italics,,0,0,0,,I have to find Carly so I can pretend I never came to this house.
+Dialogue: 5,0:01:45.46,0:01:50.34,Default - Italics,,0,0,0,,Then once it all gets cleaned up, I can send in an anonymous report of Kemper's death.
+Dialogue: 5,0:01:51.56,0:01:53.38,Default - Italics,,0,0,0,,This is the only way.
+Dialogue: 5,0:02:10.68,0:02:12.07,Default,,0,0,0,,What are you doing, Annie?
+Dialogue: 5,0:02:12.34,0:02:13.50,Default,,0,0,0,,You can't stop now.
+Dialogue: 5,0:02:13.50,0:02:16.28,Default,,0,0,0,,How do you expect to complete your mission like that?
+Dialogue: 5,0:02:16.74,0:02:18.86,Default,,0,0,0,,Are you listening or not, Annie?
+Dialogue: 5,0:02:38.34,0:02:39.76,Default,,0,0,0,,According to the doctor,
+Dialogue: 5,0:02:40.34,0:02:43.68,Default,,0,0,0,,my leg will never fully heal.
+Dialogue: 5,0:02:50.52,0:02:52.40,Default,,0,0,0,,Well done, Annie.
+Dialogue: 5,0:02:53.04,0:02:55.38,Default,,0,0,0,,I know you'll keep getting stronger.
+Dialogue: 5,0:03:04.94,0:03:07.16,Default - Italics,,0,0,0,,Did he finally fall asleep?
+Dialogue: 5,0:03:10.26,0:03:14.50,Default - Italics,,0,0,0,,I wonder if Kemper's killer abducted Carly as well...
+Dialogue: 5,0:03:14.94,0:03:16.26,Default - Italics,,0,0,0,,No, that can't be.
+Dialogue: 5,0:03:16.26,0:03:20.26,Default - Italics,,0,0,0,,They would have locked the door to delay discovery of the body.
+Dialogue: 5,0:03:20.98,0:03:24.10,Default - Italics,,0,0,0,,Was he after the coderoin, not Carly?
+Dialogue: 5,0:03:24.76,0:03:26.30,Default - Italics,,0,0,0,,That's not it either.
+Dialogue: 5,0:03:26.30,0:03:29.84,Default - Italics,,0,0,0,,It wasn't exactly well-hidden.
+Dialogue: 5,0:03:29.84,0:03:31.27,Default - Italics,,0,0,0,,They wouldn't have missed it.
+Dialogue: 5,0:03:32.52,0:03:35.06,Default,,0,0,0,,Coderoin is the newest street drug.
+Dialogue: 5,0:03:35.44,0:03:39.40,Default,,0,0,0,,It's expensive, but it's very effective and highly addictive.
+Dialogue: 5,0:03:39.40,0:03:41.57,Default,,0,0,0,,It appeared in Mitras two years ago,
+Dialogue: 5,0:03:42.14,0:03:45.70,Default,,0,0,0,,{\fad(0,500)}and it's finally found its way to the streets of Stohess.
+Dialogue: 5,0:03:47.00,0:03:49.75,Default - Italics,,0,0,0,,There were three boxes in Kemper's room.
+Dialogue: 5,0:03:50.82,0:03:53.29,Default - Italics,,0,0,0,,If Kemper and Carly were dealers,
+Dialogue: 5,0:03:53.94,0:03:56.92,Default - Italics,,0,0,0,,{\fad(0,500)}where did they get such a large supply?
+Dialogue: 5,0:03:57.38,0:04:03.72,Default - Italics,,0,0,0,,I'll start by getting Stratmann to cough up everything he knows.
+Dialogue: 5,0:04:04.82,0:04:07.22,Default - Italics,,0,0,0,,After that, I'll just have to find where his daughter is.
+Dialogue: 5,0:04:08.92,0:04:09.98,Default,,0,0,0,,Thanks for waiting.
+Dialogue: 5,0:04:09.98,0:04:10.94,Default,,0,0,0,,Yeah.
+Dialogue: 5,0:04:15.38,0:04:17.10,Default,,0,0,0,,Take me to the Stratmann manor.
+Dialogue: 5,0:04:21.72,0:04:25.20,Default,,0,0,0,,Don't try to move. The plan isn't to kill you here.
+Dialogue: 5,0:04:26.34,0:04:28.62,Default,,0,0,0,,Don't make us do anything too uncivilised.
+Dialogue: 5,0:04:30.32,0:04:34.74,Default,,0,0,0,,A man wearing a fancy suit with a fake eye.
+Dialogue: 5,0:04:34.74,0:04:38.34,Default,,0,0,0,,{\fad(0,400)}The eye was all red. \NYou'd recognize him in an instant.
+Dialogue: 5,0:04:41.12,0:04:42.10,Default,,0,0,0,,Hey.
+Dialogue: 5,0:04:48.50,0:04:50.97,Default,,0,0,0,,Wow, this is a great find.
+Dialogue: 5,0:04:51.40,0:04:52.22,Default,,0,0,0,,Boss.
+Dialogue: 5,0:05:02.44,0:05:06.07,Default,,0,0,0,,You seem to be quite the dedicated worker.
+Dialogue: 5,0:05:06.90,0:05:09.32,Default,,0,0,0,,Where are we headed?
+Dialogue: 5,0:05:09.32,0:05:11.08,Default,,0,0,0,,The industrial district.
+Dialogue: 5,0:05:11.08,0:05:13.45,Default,,0,0,0,,They have large tubs of toxic waste there.
+Dialogue: 0,0:05:13.45,0:05:16.25,Default,,0,0,0,,Lots of things have been sinking to the bottom of them lately.
+Dialogue: 5,0:05:16.34,0:05:19.84,Default,,0,0,0,,Everything that falls in melts into sludge.
+Dialogue: 5,0:05:20.46,0:05:23.63,Default,,0,0,0,,Is that what happened to your brain as well?
+Dialogue: 5,0:05:27.64,0:05:29.64,Default,,0,0,0,,Don't do anything you'll regret, lady!
+Dialogue: 5,0:05:30.02,0:05:32.81,Default,,0,0,0,,Lou, don't be uncivilized.
+Dialogue: 5,0:05:36.56,0:05:40.31,Default,,0,0,0,,...So, I must have upset you.
+Dialogue: 5,0:05:40.78,0:05:42.54,Default,,0,0,0,,We're not upset,
+Dialogue: 5,0:05:42.54,0:05:46.82,Default,,0,0,0,,let's just say that you're... {\i1}in our way.
+Dialogue: 5,0:05:47.56,0:05:52.33,Default,,0,0,0,,I was searching for Carly Stratmann, \Nbut I suppose you already know where she is.
+Dialogue: 5,0:05:52.33,0:05:54.52,Default,,0,0,0,,Our paths may have crossed before.
+Dialogue: 5,0:05:55.16,0:05:59.26,Default,,0,0,0,,The Military Police will find her, whether you toss me in a vat or not.
+Dialogue: 5,0:05:59.26,0:06:00.88,Default,,0,0,0,,There's no sense in lying.
+Dialogue: 5,0:06:02.08,0:06:04.24,Default,,0,0,0,,Stratmann told me everything.
+Dialogue: 5,0:06:04.24,0:06:07.24,Default,,0,0,0,,He said you're working alone.
+Dialogue: 5,0:06:07.24,0:06:08.66,Default,,0,0,0,,When I met him, sure.
+Dialogue: 5,0:06:08.66,0:06:11.56,Default,,0,0,0,,But I've already reported the situation to my superiors.
+Dialogue: 5,0:06:11.56,0:06:14.14,Default,,0,0,0,,If I stop updating them, the Military Police will take action.
+Dialogue: 5,0:06:14.40,0:06:17.39,Default,,0,0,0,,You must have found it, right? Kemper's body...
+Dialogue: 5,0:06:18.16,0:06:20.92,Default,,0,0,0,,You were in there for quite a while.
+Dialogue: 5,0:06:20.92,0:06:24.56,Default,,0,0,0,,But you were heading to Stratmann's house,
+Dialogue: 5,0:06:24.56,0:06:26.40,Default,,0,0,0,,not the Military Police's quarters.
+Dialogue: 5,0:06:26.80,0:06:31.40,Default,,0,0,0,,Could there be a reason you can't report to them?
+Dialogue: 5,0:06:31.40,0:06:33.91,Default,,0,0,0,,Feel free to let me know if I'm wrong.
+Dialogue: 5,0:06:34.96,0:06:37.56,Default,,0,0,0,,Did you two kill Kemper?
+Dialogue: 5,0:06:37.56,0:06:40.42,Default,,0,0,0,,We wouldn't do something that vulgar.
+Dialogue: 5,0:06:40.88,0:06:44.67,Default,,0,0,0,,He was acting a bit out of control.
+Dialogue: 5,0:06:44.67,0:06:48.67,Default,,0,0,0,,I could understand why a lot of people might want him to end up the way he did.
+Dialogue: 5,0:06:50.42,0:06:54.02,Default,,0,0,0,,I have one request before I take a dip in that waste fluid.
+Dialogue: 5,0:06:54.02,0:06:54.93,Default,,0,0,0,,Go on.
+Dialogue: 5,0:06:55.80,0:06:59.76,Default,,0,0,0,,Could you have your oh-so-civilised friend next to me return my ring?
+Dialogue: 5,0:06:59.76,0:07:01.27,Default,,0,0,0,,Not a chance.
+Dialogue: 5,0:07:02.02,0:07:03.64,Default,,0,0,0,,Be quiet, Lou.
+Dialogue: 5,0:07:04.50,0:07:05.27,Default,,0,0,0,,Why do you want it?
+Dialogue: 5,0:07:05.82,0:07:09.46,Default,,0,0,0,,My father gave it to me before I left my hometown.
+Dialogue: 5,0:07:09.46,0:07:12.78,Default,,0,0,0,,I would be able to sink in peace if I could at least have it with me.
+Dialogue: 5,0:07:17.14,0:07:19.14,Default,,0,0,0,,Hand it over, Lou.
+Dialogue: 5,0:07:19.14,0:07:20.41,Default,,0,0,0,,No way, Wald!
+Dialogue: 5,0:07:20.88,0:07:22.06,Default,,0,0,0,,Do as I say.
+Dialogue: 5,0:07:24.48,0:07:25.60,Default,,0,0,0,,Fine!
+Dialogue: 5,0:07:25.60,0:07:26.92,Default,,0,0,0,,No.
+Dialogue: 5,0:07:29.24,0:07:30.17,Default,,0,0,0,,Give it to {\i1}me.
+Dialogue: 5,0:07:38.28,0:07:39.60,Default,,0,0,0,,Whoa! Wuzzat?
+Dialogue: 5,0:07:39.94,0:07:42.72,Default,,0,0,0,,Could there be poison on it?
+Dialogue: 5,0:07:42.72,0:07:44.42,Default,,0,0,0,,Why not find out for yourself?
+Dialogue: 5,0:07:48.06,0:07:48.65,Default,,0,0,0,,No,
+Dialogue: 5,0:07:49.28,0:07:50.50,Default,,0,0,0,,I'd better not.
+Dialogue: 5,0:07:50.50,0:07:52.30,Default,,0,0,0,,You're too calm.
+Dialogue: 5,0:07:52.30,0:07:55.78,Default,,0,0,0,,If it really was poisoned, you wouldn't provoke me like that.
+Dialogue: 5,0:07:55.78,0:07:58.16,Default,,0,0,0,,Not unless you had an ulterior motive.
+Dialogue: 5,0:07:59.98,0:08:02.92,Default,,0,0,0,,You think we're dumb enough to fall for a ploy like that?
+Dialogue: 5,0:08:03.86,0:08:04.38,Default,,0,0,0,,Yeah.
+Dialogue: 5,0:08:08.10,0:08:10.04,Default,,0,0,0,,You bitch!
+Dialogue: 5,0:08:14.80,0:08:16.05,Default,,0,0,0,,What an idiot.
+Dialogue: 5,0:09:01.92,0:09:04.31,Default,,0,0,0,,Where is Carly Stratmann?
+Dialogue: 5,0:09:07.66,0:09:09.94,Default,,0,0,0,,You're just like a Titan.
+Dialogue: 5,0:09:09.94,0:09:13.30,Default,,0,0,0,,Appearing out of nowhere... you've ruined everything!
+Dialogue: 5,0:09:16.34,0:09:17.12,Default,,0,0,0,,Carly is—
+Dialogue: 5,0:09:26.66,0:09:29.18,Default,,0,0,0,,Did you sneak some kinda bomb in there or something?
+Dialogue: 5,0:09:29.18,0:09:31.34,Default,,0,0,0,,Hey Boss, can you still stand?
+Dialogue: 5,0:09:31.34,0:09:32.82,Default,,0,0,0,,I'll manage...
+Dialogue: 5,0:09:32.82,0:09:34.97,Default,,0,0,0,,That's no good.
+Dialogue: 5,0:09:36.26,0:09:38.09,Default,,0,0,0,,I'll be taking care of things from here.
+Dialogue: 5,0:09:41.92,0:09:45.30,Default,,0,0,0,,So you were the one who killed Kemper?
+Dialogue: 5,0:09:45.30,0:09:47.04,Default,,0,0,0,,I dunno what you're talking about.
+Dialogue: 5,0:10:00.36,0:10:01.72,Default,,0,0,0,,You're still alive, aren't you?
+Dialogue: 5,0:10:05.74,0:10:07.75,Default,,0,0,0,,Where is Carly?
+Dialogue: 5,0:10:13.50,0:10:17.26,Default,,0,0,0,,197 Van Gelder Street.
+Dialogue: 5,0:10:17.72,0:10:19.88,Default,,0,0,0,,Who are you people?
+Dialogue: 5,0:10:19.88,0:10:22.24,Default,,0,0,0,,Just hired hands...
+Dialogue: 5,0:10:22.24,0:10:27.78,Default,,0,0,0,,We got a request a few days ago from Stratmann. He asked us to find his daughter.
+Dialogue: 5,0:10:27.78,0:10:31.66,Default,,0,0,0,,It didn't take us long to track down Kemper.
+Dialogue: 5,0:10:31.66,0:10:40.20,Default,,0,0,0,,He said he'd tell us her whereabouts and her secret if we helped him with a job.
+Dialogue: 5,0:10:41.04,0:10:42.94,Default,,0,0,0,,A job?
+Dialogue: 5,0:10:42.94,0:10:44.03,Default,,0,0,0,,Extortion.
+Dialogue: 5,0:10:44.76,0:10:48.20,Default,,0,0,0,,Use Carly's secret to blackmail Stratmann,
+Dialogue: 5,0:10:48.20,0:10:51.50,Default,,0,0,0,,and get a ransom for her on top...
+Dialogue: 5,0:10:51.50,0:10:53.04,Default,,0,0,0,,We agreed to do it.
+Dialogue: 5,0:10:53.78,0:10:58.30,Default,,0,0,0,,All we had to do was hide the girl and then collect the money two days later.
+Dialogue: 5,0:10:58.94,0:11:02.55,Default,,0,0,0,,Then we'd be able to wash our hands of this mess.
+Dialogue: 5,0:11:03.46,0:11:06.08,Default,,0,0,0,,If things had gone smoothly for just a little longer,
+Dialogue: 5,0:11:06.80,0:11:09.02,Default,,0,0,0,,we'd have pulled it off.
+Dialogue: 5,0:11:10.82,0:11:13.14,Default,,0,0,0,,It's just like five years ago...
+Dialogue: 5,0:11:15.50,0:11:19.24,Default,,0,0,0,,If that attack had happened just one day later,
+Dialogue: 5,0:11:19.24,0:11:22.03,Default,,0,0,0,,my son and I would have been in this city instead.
+Dialogue: 5,0:11:22.74,0:11:24.76,Default,,0,0,0,,It's always like this.
+Dialogue: 5,0:11:24.76,0:11:28.00,Default,,0,0,0,,Just when the goal is within reach,\N something goes wrong.
+Dialogue: 5,0:11:28.00,0:11:29.94,Default,,0,0,0,,And everything slips through my fingers.
+Dialogue: 5,0:11:31.52,0:11:34.78,Default,,0,0,0,,That's who I am.
+Dialogue: 5,0:11:56.36,0:12:00.28,Default,,0,0,0,,It's a nice, cool day out, isn't it?
+Dialogue: 5,0:12:04.24,0:12:07.03,Default,,0,0,0,,Edda, Father,
+Dialogue: 5,0:12:08.52,0:12:10.18,Default,,0,0,0,,I'm home.
+Dialogue: 5,0:12:16.60,0:12:17.54,Default,,0,0,0,,You!
+Dialogue: 5,0:12:19.58,0:12:21.18,Default,,0,0,0,,K-Kill her!
+Dialogue: 5,0:12:22.12,0:12:23.30,Default,,0,0,0,,Die, bitch!
+Dialogue: 5,0:12:30.42,0:12:31.48,Default,,0,0,0,,Shit!
+Dialogue: 5,0:12:31.48,0:12:31.98,Default,,0,0,0,,Shit!
+Dialogue: 5,0:12:48.40,0:12:50.12,Default,,0,0,0,,Is Carly here?
+Dialogue: 5,0:12:51.80,0:12:54.00,Default,,0,0,0,,I was never here.
+Dialogue: 5,0:12:54.00,0:12:56.46,Default,,0,0,0,,And I never met you or Wald.
+Dialogue: 5,0:12:56.46,0:12:58.13,Default,,0,0,0,,Got it?
+Dialogue: 5,0:12:58.94,0:13:04.06,Default,,0,0,0,,If I find out that you so much as \Nwhispered my name to a gutter rat...
+Dialogue: 5,0:13:07.10,0:13:07.89,Default,,0,0,0,,Bang!
+Dialogue: 5,0:13:17.54,0:13:18.62,Default,,0,0,0,,Is it over?
+Dialogue: 5,0:13:20.72,0:13:22.98,Default,,0,0,0,,I suppose you're Carly Stratmann?
+Dialogue: 5,0:13:22.98,0:13:24.74,Default,,0,0,0,,Your father is looking for you.
+Dialogue: 5,0:13:25.18,0:13:26.74,Default,,0,0,0,,Let's get you back home.
+Dialogue: 5,0:13:30.78,0:13:33.94,Default,,0,0,0,,Why don't we sit down for a drink first?
+Dialogue: 5,0:13:46.74,0:13:49.36,Default,,0,0,0,,I see, he died...
+Dialogue: 5,0:13:49.36,0:13:51.02,Default,,0,0,0,,Poor Kemper.
+Dialogue: 5,0:13:51.68,0:13:55.00,Default,,0,0,0,,What's this secret you've been keeping from your father?
+Dialogue: 5,0:13:56.00,0:13:57.60,Default,,0,0,0,,Coderoin's secret recipe.
+Dialogue: 5,0:13:58.44,0:14:01.04,Default,,0,0,0,,You're the one who makes it?
+Dialogue: 5,0:14:01.04,0:14:03.32,Default,,0,0,0,,It's actually pretty easy.
+Dialogue: 5,0:14:03.32,0:14:07.32,Default,,0,0,0,,We used the morphine\N supplied to the Military Police.
+Dialogue: 5,0:14:08.12,0:14:10.52,Default,,0,0,0,,Kemper was just a dealer.
+Dialogue: 5,0:14:10.52,0:14:11.83,Default,,0,0,0,,Papa is the one in charge.
+Dialogue: 5,0:14:12.52,0:14:14.12,Default,,0,0,0,,Mr. Stratmann?
+Dialogue: 5,0:14:14.12,0:14:18.58,Default,,0,0,0,,But I was told that coderoin was a new drug from Mitras.
+Dialogue: 5,0:14:19.06,0:14:20.62,Default,,0,0,0,,Of course you were.
+Dialogue: 5,0:14:20.62,0:14:25.34,Default,,0,0,0,,When I started making coderoin, \NI made him promise not to sell it in this town.
+Dialogue: 5,0:14:26.54,0:14:29.59,Default,,0,0,0,,But your father broke that promise.
+Dialogue: 5,0:14:30.20,0:14:33.92,Default,,0,0,0,,That's why you got angry after seeing coderoin in the bar.
+Dialogue: 5,0:14:37.26,0:14:40.02,Default,,0,0,0,,My plan was to leave this city with Kemper.
+Dialogue: 5,0:14:40.48,0:14:45.82,Default,,0,0,0,,But he didn't want to uproot his life and start over from nothing in an unfamiliar city.
+Dialogue: 5,0:14:46.70,0:14:48.90,Default,,0,0,0,,That's when those two showed up.
+Dialogue: 5,0:14:49.66,0:14:52.66,Default,,0,0,0,,But if what you've said is true,
+Dialogue: 5,0:14:52.66,0:14:54.70,Default,,0,0,0,,Lou must have betrayed both of them.
+Dialogue: 5,0:14:55.46,0:14:57.50,Default,,0,0,0,,{\fad(0,800)}Silly Kemper.
+Dialogue: 5,0:14:58.28,0:15:01.66,Default,,0,0,0,,Hey, could we make it so that you never found me?
+Dialogue: 5,0:15:03.20,0:15:05.50,Default,,0,0,0,,Why did you ever decide to make coderoin?
+Dialogue: 5,0:15:07.48,0:15:10.24,Default,,0,0,0,,Papa lost everything five years ago.
+Dialogue: 5,0:15:11.72,0:15:14.14,Default,,0,0,0,,I was just trying to get it back for him.
+Dialogue: 5,0:15:21.72,0:15:23.98,Default,,0,0,0,,Carly, come on, dance with me!
+Dialogue: 5,0:15:24.28,0:15:26.48,Default,,0,0,0,,Hmm, I wonder if that's a good idea?
+Dialogue: 5,0:15:29.00,0:15:31.50,Default,,0,0,0,,Sorry, boys, something just came up.
+Dialogue: 5,0:15:38.06,0:15:39.12,Default,,0,0,0,,Thanks for waiting.
+Dialogue: 5,0:15:41.56,0:15:42.42,Default,,0,0,0,,Try this.
+Dialogue: 5,0:15:42.86,0:15:44.20,Default,,0,0,0,,It's delicious.
+Dialogue: 5,0:15:44.20,0:15:45.34,Default,,0,0,0,,What is it?
+Dialogue: 5,0:15:45.34,0:15:46.46,Default,,0,0,0,,A donut.
+Dialogue: 5,0:15:47.32,0:15:48.94,Default,,0,0,0,,I've never had one before.
+Dialogue: 5,0:15:53.38,0:15:54.34,Default,,0,0,0,,This too.
+Dialogue: 5,0:15:58.94,0:16:01.61,Default,,0,0,0,,I guess I'll have to say farewell to this city.
+Dialogue: 5,0:16:01.61,0:16:03.86,Default,,0,0,0,,You don't necessarily have to leave.
+Dialogue: 5,0:16:03.86,0:16:06.65,Default,,0,0,0,,All you need to do is stop making coderoin.
+Dialogue: 5,0:16:06.95,0:16:09.53,Default,,0,0,0,,Well, I'd like to be able to do that, but...
+Dialogue: 5,0:16:09.53,0:16:12.91,Default,,0,0,0,,If I saw Papa in the state he must be in right now, I might start making coderoin again.
+Dialogue: 5,0:16:15.16,0:16:18.67,Default,,0,0,0,,This is a travel permit to Wall Rose, as promised.
+Dialogue: 5,0:16:19.37,0:16:21.21,Default,,0,0,0,,But you can rip it up if you want.
+Dialogue: 5,0:16:23.67,0:16:25.05,Default,,0,0,0,,Thank you.
+Dialogue: 5,0:16:25.55,0:16:27.05,Default,,0,0,0,,But I will go.
+Dialogue: 5,0:16:28.43,0:16:30.05,Default,,0,0,0,,You take it easy too.
+Dialogue: 5,0:16:30.72,0:16:35.56,Default,,0,0,0,,I'd like to do that, but there's one more thing I have to do.
+Dialogue: 5,0:16:39.81,0:16:41.61,Default,,0,0,0,,It smells nice in here.
+Dialogue: 5,0:16:41.61,0:16:44.44,Default,,0,0,0,,Is that a rare type of tobacco?
+Dialogue: 5,0:16:44.44,0:16:45.94,Default,,0,0,0,,You're sharp.
+Dialogue: 5,0:16:45.94,0:16:49.66,Default,,0,0,0,,I stockpiled these. They used to be made near Wall Maria.
+Dialogue: 5,0:16:50.03,0:16:52.91,Default,,0,0,0,,I imagine that I'm the only one able to smoke them now.
+Dialogue: 5,0:16:53.16,0:16:55.79,Default,,0,0,0,,All of the fine things in my life are slipping away.
+Dialogue: 5,0:16:57.37,0:17:00.21,Default,,0,0,0,,You killed Kemper Boltz, didn't you?
+Dialogue: 5,0:17:01.38,0:17:04.21,Default,,0,0,0,,What kind of ridiculous claim is that?
+Dialogue: 5,0:17:04.63,0:17:10.22,Default,,0,0,0,,This morning, when we were talking, your butler passed you a note.
+Dialogue: 5,0:17:10.72,0:17:13.01,Default,,0,0,0,,{\fad(0,400)}That was from Kemper.
+Dialogue: 5,0:17:13.47,0:17:14.81,Default,,0,0,0,,Am I right?
+Dialogue: 5,0:17:16.06,0:17:21.69,Default,,0,0,0,,He was observing you, so he must have seen me enter your residence.
+Dialogue: 5,0:17:21.69,0:17:24.40,Default,,0,0,0,,Once he learned the MPs were involved, he got scared he'd be caught.
+Dialogue: 5,0:17:24.40,0:17:27.28,Default,,0,0,0,,He decided to speed up his plans.
+Dialogue: 5,0:17:28.03,0:17:29.99,Default,,0,0,0,,"I'll give you your daughter back.
+Dialogue: 5,0:17:29.99,0:17:31.57,Default,,0,0,0,,Bring the money to my place."
+Dialogue: 5,0:17:32.24,0:17:34.57,Default,,0,0,0,,That should be about what the letter said.
+Dialogue: 5,0:17:35.45,0:17:38.83,Default,,0,0,0,,After I left, you went to see Kemper.
+Dialogue: 5,0:17:38.83,0:17:41.71,Default,,0,0,0,,The two of you drank, and you spoke.
+Dialogue: 5,0:17:42.21,0:17:46.88,Default,,0,0,0,,{\fad(0,450)}I don't know what you talked about, but it made you decide to kill Wayne.
+Dialogue: 5,0:17:48.67,0:17:50.92,Default,,0,0,0,,That's an interesting story there.
+Dialogue: 5,0:17:52.80,0:17:55.68,Default,,0,0,0,,I found this in the ash tray in Kemper's apartment.
+Dialogue: 5,0:17:57.64,0:17:59.93,Default,,0,0,0,,You're the only one able to smoke these now, right?
+Dialogue: 5,0:18:00.35,0:18:03.98,Default,,0,0,0,,If the Military Police launched a full investigation,
+Dialogue: 5,0:18:03.98,0:18:06.48,Default,,0,0,0,,I think the outcome would be clear.
+Dialogue: 5,0:18:12.07,0:18:14.03,Default,,0,0,0,,It was an accident.
+Dialogue: 5,0:18:14.03,0:18:18.37,Default,,0,0,0,,That scum never intended to return my daughter to me.
+Dialogue: 5,0:18:18.87,0:18:22.21,Default,,0,0,0,,He only wanted to get me drunk and steal my money.
+Dialogue: 5,0:18:22.21,0:18:24.54,Default,,0,0,0,,That doesn't matter to me.
+Dialogue: 5,0:18:24.92,0:18:28.30,Default,,0,0,0,,Actually, could I ask you to stop smoking?
+Dialogue: 5,0:18:30.26,0:18:34.05,Default,,0,0,0,,I have no intention of taking orders from you.
+Dialogue: 5,0:18:34.38,0:18:36.85,Default,,0,0,0,,This is my house.
+Dialogue: 5,0:18:36.85,0:18:41.81,Default,,0,0,0,,I've had to deal with the smell of tobacco and alcohol all day.
+Dialogue: 5,0:18:43.14,0:18:45.65,Default,,0,0,0,,I'm sick of it.
+Dialogue: 5,0:18:48.11,0:18:50.57,Default,,0,0,0,,What's got you so irritated?
+Dialogue: 5,0:18:50.82,0:18:53.07,Default,,0,0,0,,I'm not irritated.
+Dialogue: 5,0:18:53.07,0:18:55.45,Default,,0,0,0,,Just tired.
+Dialogue: 5,0:18:55.45,0:18:57.32,Default,,0,0,0,,I want to get this over with quickly.
+Dialogue: 5,0:18:57.70,0:18:59.08,Default,,0,0,0,,That's all.
+Dialogue: 5,0:18:59.70,0:19:04.08,Default,,0,0,0,,What a shame. I suspect the tobacco won't be quite as good in jail.
+Dialogue: 5,0:19:05.00,0:19:06.63,Default,,0,0,0,,You're not going to jail.
+Dialogue: 5,0:19:17.09,0:19:19.14,Default,,0,0,0,,Why are you helping me?
+Dialogue: 5,0:19:19.14,0:19:20.89,Default,,0,0,0,,I'm not helping you.
+Dialogue: 5,0:19:21.47,0:19:23.31,Default,,0,0,0,,I'm doing this for myself.
+Dialogue: 5,0:19:24.64,0:19:27.35,Default,,0,0,0,,I have to be up very early for some important business.
+Dialogue: 5,0:19:27.35,0:19:30.98,Default,,0,0,0,,Before that, I need to get some rest, so I want to put a quick end to this.
+Dialogue: 5,0:19:35.49,0:19:39.07,Default,,0,0,0,,Feel free to come visit anytime the mood strikes you.
+Dialogue: 5,0:19:39.57,0:19:41.74,Default,,0,0,0,,I'll have some good food ready for you.
+Dialogue: 5,0:19:41.74,0:19:43.33,Default,,0,0,0,,Thank you.
+Dialogue: 5,0:19:43.66,0:19:47.54,Default,,0,0,0,,But I might not be in this city much longer.
+Dialogue: 5,0:19:47.54,0:19:49.29,Default,,0,0,0,,You plan on traveling?
+Dialogue: 5,0:19:51.42,0:19:54.42,Default,,0,0,0,,I might return to my hometown soon.
+Dialogue: 5,0:19:55.63,0:19:58.34,Default,,0,0,0,,And what should you do if you're outnumbered?
+Dialogue: 5,0:19:58.34,0:20:01.64,Default,,0,0,0,,Take out the strongest one first\N to weaken their will to fight.
+Dialogue: 5,0:20:01.64,0:20:04.27,Default,,0,0,0,,Correct. You're doing well, Annie.
+Dialogue: 5,0:20:05.68,0:20:10.40,Default,,0,0,0,,What must be done must be done,\N no matter the cost.
+Dialogue: 5,0:20:10.86,0:20:13.90,Default,,0,0,0,,We must use everything we've got to accomplish our goals.
+Dialogue: 5,0:20:13.90,0:20:15.15,Default,,0,0,0,,Understand, Annie?
+Dialogue: 5,0:20:22.08,0:20:23.79,Default,,0,0,0,,"Survey Report:
+Dialogue: 5,0:20:24.24,0:20:27.12,Default,,0,0,0,,The missing Carly Stratmann
+Dialogue: 5,0:20:27.12,0:20:31.96,Default,,0,0,0,,and her lover Kemper Boltz are believed to have left three days ago for Mitras.
+Dialogue: 5,0:20:32.38,0:20:35.92,Default,,0,0,0,,Upon further investigation,
+Dialogue: 5,0:20:35.92,0:20:39.43,Default,,0,0,0,,the two were likely using fake\N passports as well as fake names.
+Dialogue: 5,0:20:40.51,0:20:48.14,Default,,0,0,0,,It remains unknown what these fake names are,\N and who may have forged the passports.
+Dialogue: 5,0:20:48.85,0:20:52.27,Default,,0,0,0,,Further investigation is likely to be fruitless."
+Dialogue: 5,0:21:00.20,0:21:04.53,Default,,0,0,0,,"You didn't really go looking for that runaway girl, did you?
+Dialogue: 5,0:21:04.78,0:21:07.25,Default,,0,0,0,,Well, whatever the case, it's not my problem.
+Dialogue: 5,0:21:07.25,0:21:11.46,Default,,0,0,0,,Anyway, if you want to meet guys, try wearing something like this.
+Dialogue: 5,0:21:12.46,0:21:15.42,Default,,0,0,0,,All of humanity is stunned by how unsexy you are.
+Dialogue: 5,0:21:15.42,0:21:16.92,Default,,0,0,0,,Signed, Hitch Dreyse."
+Dialogue: 5,0:21:24.10,0:21:25.18,Default,,0,0,0,,Annie,
+Dialogue: 5,0:21:26.10,0:21:27.72,Default,,0,0,0,,I was wrong all this time.
+Dialogue: 5,0:21:28.48,0:21:31.02,Default,,0,0,0,,I won't ask you to forgive me after all that's happened.
+Dialogue: 5,0:21:32.06,0:21:36.23,Default,,0,0,0,,But please promise me just one thing.
+Dialogue: 5,0:21:37.40,0:21:44.74,Default,,0,0,0,,I don't care if you make the entire world your enemy. Even if every other creature alive comes to hate you...
+Dialogue: 5,0:21:45.33,0:21:48.25,Default,,0,0,0,,...your father will always be on your side.
+Dialogue: 5,0:21:48.58,0:21:50.75,Default,,0,0,0,,So please. Promise me...
+Dialogue: 5,0:21:52.58,0:21:54.38,Default,,0,0,0,,that you'll come back.
+Dialogue: 5,0:22:00.80,0:22:05.30,Default - Italics,,0,0,0,,Today's mission, the 57th expedition beyond the walls,
+Dialogue: 5,0:22:06.60,0:22:09.18,Default - Italics,,0,0,0,,will end in the capture of Eren Jaeger.
+Dialogue: 0,0:22:38.63,0:22:42.67,Insert_ED,,0,0,0,,{\fad(200,300)}She said she gave all her love to me.
+Dialogue: 0,0:22:44.84,0:22:51.06,Insert_ED,,0,0,0,,{\fad(200,300)}We dreamed a new life, someplace to be at peace.
+Dialogue: 0,0:22:51.93,0:22:55.23,Insert_ED,,0,0,0,,{\fad(200,300)}But things changed, suddenly.
+Dialogue: 0,0:22:57.27,0:23:02.11,Insert_ED,,0,0,0,,{\fad(200,300)}I lost my dreams in this disaster.
+Dialogue: 0,0:23:04.36,0:23:06.32,Insert_ED,,0,0,0,,{\fad(200,300)}I'm crying,
+Dialogue: 0,0:23:06.32,0:23:09.45,Insert_ED,,0,0,0,,{\fad(200,300)}missing my lover.
+Dialogue: 0,0:23:09.45,0:23:13.75,Insert_ED,,0,0,0,,{\fad(200,300)}I don't have the power
+Dialogue: 0,0:23:13.75,0:23:17.79,Insert_ED,,0,0,0,,{\fad(200,300)}on my side forever.
+Dialogue: 0,0:23:17.79,0:23:22.76,Insert_ED,,0,0,0,,{\fad(200,300)}Oh, where is my lover?
+Dialogue: 0,0:23:22.76,0:23:27.51,Insert_ED,,0,0,0,,{\fad(200,300)}And I've got no power.
+Dialogue: 0,0:23:27.51,0:23:35.02,Insert_ED,,0,0,0,,{\fad(200,300)}I'm standing alone, no way,
+Dialogue: 0,0:23:35.02,0:23:41.65,Insert_ED,,0,0,0,,{\fad(200,300)}calling out your name.
+Dialogue: 0,0:02:01.52,0:02:06.48,Signs,,0,0,0,,{\an5\pos(960,445)\fs42\fsp-1.5\bord5\1a&HFF&\3a&H55&\blur4.5\fad(750,1000)}—————————— {\fsp0}Part 2 {\fsp-1.5}——————————
+Dialogue: 1,0:02:01.52,0:02:06.48,Signs,,0,0,0,,{\an5\pos(960,445)\fs42\fsp-1.5\c&HD8D8D8&\3c&HFFFFFF&\blur0.6\fad(750,1000)}—————————— {\fsp0}Part 2 {\fsp-1.5}——————————
+Dialogue: 0,0:13:35.00,0:13:40.00,Signs,,0,0,0,,{\an7\pos(1191.4,668.39)\fscx133\fscy133\c&H573228&\blur1\p1}m 223.25 95.5 l 220.125 96.125 220.125 94.75 220.125 93.25 221.5 93.25 222.875 93.25 222.875 91.125 222.875 89.125 220 89.125 217.125 89.125 218 86.25 218.875 83.5 211.375 83.25 203.875 83.125 207.125 82.5 210.25 81.875 210.25 80.125 210.25 78.5 186.625 78.25 163.125 78 156.875 76.625 150.625 75.125 149.125 76.25 147.625 77.5 141.625 78.25 135.75 79 135.125 78 134.5 77 117.625 77.375 100.625 77.875 93.25 81.375 85.75 84.875 82 84.875 78.25 84.875 77.5 86.125 76.75 87.25 70.75 88.25 64.875 89.25 63.125 90.625 61.5 92 53.875 92.125 46.375 92.375 42.375 89.75 38.5 87.25 36.5 83.25 34.375 79.25 31.25 79.625 28.125 79.875 27.625 76.75 27.25 73.625 25.875 73.625 24.625 73.625 21.5 70.125 18.5 66.625 16.75 66.625 15 66.625 12 60.75 9 55 11.125 51.75 13.25 48.5 9.125 40 5 31.375 2.5 31.375 0 31.375 4.125 28 8.375 24.75 6.5 22.375 4.625 20.125 2.5 20.125 0.5 20.125 1.25 19 2 17.75 15.75 18 29.5 18.375 36.625 16.5 43.625 14.75 50.75 13.125 58 11.625 74 10.5 90 9.5 108.75 9.75 127.5 10 129.125 11.625 130.625 13.125 133.875 13.125 137.125 13.125 142.375 16 147.625 18.75 152.875 18.75 158.25 18.75 158.25 17.5 158.25 16.375 155 14.875 151.875 13.375 154.5 12.375 157 11.375 162.375 13.125 167.75 14.875 167 17.5 166.375 20.125 170.75 20.125 175.125 20.125 175.125 18.875 175.125 17.5 172.125 16.625 169.125 15.625 170.625 14.25 172 12.875 175 13.75 177.875 14.75 177.875 16.75 177.875 18.625 180.75 20.25 183.625 21.75 186.5 20.75 189.375 19.875 187.875 18.375 186.375 16.75 186.375 15.625 186.375 14.5 188.125 14.5 189.875 14.5 193.625 16.5 197.25 18.375 203.625 17.75 210 17 210.5 19.125 211 21.25 218 19.25 225 17.375 237.625 17.375 250.375 17.25 274.75 16.25 299.25 15.25 299.875 13.5 300.5 11.75 296.5 11.5 292.5 11.25 289.25 11.625 285.875 11.875 286.5 10 287.125 8.25 305.25 7.875 323.5 7.625 340.375 5.5 357.25 3.375 366.375 2.25 375.5 1 384.625 1.375 393.75 1.75 396.875 2 400.125 2.125 400.125 4 400.125 5.875 396.375 6.375 392.625 6.75 392 8.5 391.375 10.375 395.25 10.375 399 10.375 398.125 12.5 397.25 14.625 409.875 14.25 422.375 13.875 423.375 14.875 424.375 15.875 422.625 18 420.875 20.125 460 20.25 499.25 20.375 509.75 21.625 520.375 23 523.125 22.875 526 22.875 533.625 22.5 541.375 22.125 543.875 22.75 546.375 23.25 546.375 51.625 546.375 80 540 81.875 533.625 83.75 529.125 83 524.5 82.375 521 81.375 517.5 80.25 512.25 79.625 507 78.875 507 80.5 507 82 505.5 82 504.125 82 504.5 80.25 504.875 78.5 503.125 78.875 501.25 79.25 495.375 77.875 489.5 76.625 488 77.625 486.625 78.75 477.375 77.875 468.25 76.875 466.125 77.875 464.125 79 454.875 78.25 445.75 77.625 418.375 77.375 391 77.25 374.125 78.875 357.25 80.625 348 80.375 338.875 80 330.5 80.125 322 80.25 315 80.625 308 81 306.375 82.25 304.75 83.5 286 84.125 267.25 84.75 257.875 85.75 248.5 86.625 249.125 88.875 249.875 91.125 247.875 88.75 245.75 86.25 243.5 86.25 241.25 86.25 240.375 89.75 239.5 93.125 233 94 226.375 94.875 223.25 95.5 223.25 95.5 m 229.125 91.875 l 231.375 91.875 231.375 89.625 231.375 87.375 229.625 88 228 88.5 227.5 90.25 226.875 91.875 229.125 91.875 m 290.375 79.875 l 291.75 79 291.75 77.75 291.75 76.375 290.375 76.375 289 76.375 289 78.625 289 80.75 290.375 79.875 m 383.25 76.375 l 384.625 76.375 384.625 75 384.625 73.625 383.25 73.625 381.75 73.625 381.75 75 381.75 76.375 383.25 76.375 m 374.75 74.875 l 378.125 75 376.75 73.625 375.375 72.25 364.5 70.625 353.625 69 352.75 69.875 351.75 70.75 352.625 71.5 353.375 72.375 362.25 73.5 371.25 74.625 374.75 74.875 m 389.5 17.375 l 390.25 17.375 390.25 16.625 390.25 16 389.5 16 388.875 16 388.875 16.625 388.875 17.375 389.5 17.375 m 111.75 83 l 104.125 83 107.875 82.375 111.75 81.875 115.625 82.375 119.5 83
+Dialogue: 1,0:13:35.00,0:13:40.00,Signs,,0,0,0,,{\pos(1541.32,753.84)\fnAmazObitaemOstrovCrazy!\fs42\b1\c&HE6EEE8&\blur0.8}Currently Disclosable Information
+Dialogue: 0,0:13:35.00,0:13:40.00,Signs,,0,0,0,,{\an7\pos(1040.27,793.5)\fs42\bord3\1a&HFF&\blur10}Water Purification Plant\N\NThis facility contains 5,000 cubic meter large tanks that store \Npollutants and waste products generated by industrial activity.\NWhen the volume of waste reaches a certain level, it is transferred \Nto another tank, where it undergoes treatment and filtration to\N make it safe for human usage.
+Dialogue: 1,0:13:35.00,0:13:40.00,Signs,,0,0,0,,{\an7\pos(1040.27,793.5)\fs42\blur0.7}Water Purification Plant\N\NThis facility contains 5,000 cubic meter large tanks that store \Npollutants and waste products generated by industrial activity.\NWhen the volume of waste reaches a certain level, it is transferred \Nto another tank, where it undergoes treatment and filtration to\N make it safe for human usage.
+
