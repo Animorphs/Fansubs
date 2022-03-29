@@ -1,3 +1,3 @@
 # [Animorphs] Fansubs
 
-[Animorphs] fansubs that will occasionally be updated when errors are fixed or improvements are made.
+[Animorphs] fansubs with the most up to date edits.
