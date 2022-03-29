@@ -1,0 +1,988 @@
+﻿[Script Info]
+Title: 02
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+Aegisub Video Aspect Ratio: c1.777778
+
+[Aegisub Project Garbage]
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,70,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,150,150,50,0
+Style: OP_Romaji,TrekkerFrontier,75,&H00FFFFFF,&H00E1A6E2,&H008345D0,&H79069FFF,-1,0,0,0,100,100,3,0,1,4.5,0,8,30,30,18,1
+Style: OP_Translation,TrekkerFrontier,75,&H00FFFFFF,&H00E1A6E2,&H008345D0,&H79069FFF,-1,0,0,0,100,100,3,0,1,4.5,0,2,30,30,26,1
+Style: EDRomaji1,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,15,15,26,1
+Style: EDRomaji2,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,9,15,15,26,1
+Style: EDTranslation1,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,15,15,30,1
+Style: EDTranslation2,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,15,15,30,1
+Style: Signs,Gandhi Sans,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:01:20.98,Default,Chapter,0,0,0,,Intro
+Comment: 0,0:01:20.98,0:02:51.03,Default,Chapter,0,0,0,,OP
+Comment: 0,0:02:51.03,0:10:11.01,Default,Chapter,0,0,0,,Part A
+Comment: 0,0:10:11.01,0:22:11.02,Default,Chapter,0,0,0,,Part B
+Comment: 0,0:22:11.06,0:23:42.03,Default,Chapter,0,0,0,,ED
+Dialogue: 10,0:00:02.61,0:00:05.53,Default,Touya,0,0,0,,{\i1}After dying due to God's mistake,
+Dialogue: 10,0:00:05.53,0:00:09.45,Default,Touya,0,0,0,,{\i1}I started living a new life in another world,
+Dialogue: 10,0:00:09.45,0:00:13.37,Default,Touya,0,0,0,,{\i1}a world of fantasy where magic and magical beasts exist.
+Dialogue: 10,0:00:13.37,0:00:15.33,Default,Touya,0,0,0,,{\i1}But everything's all right.
+Dialogue: 10,0:00:15.33,0:00:18.92,Default,Touya,0,0,0,,{\i1}Because I have the abilities God gave me, \Nand this smartphone.
+Dialogue: 10,0:00:20.67,0:00:23.25,Default,Touya,0,0,0,,Let's find an inn in this city tonight.
+Dialogue: 10,0:00:23.25,0:00:25.71,Default,Elze,0,0,0,,Yeah, we have a long way to go before the royal capital.
+Dialogue: 10,0:00:25.71,0:00:30.93,Default,Touya,0,0,0,,Were you two really okay with the request \Nto deliver a letter to the royal capital?
+Dialogue: 10,0:00:30.93,0:00:34.18,Default,Touya,0,0,0,,Wouldn't the listing beside it \Nto defeat the megaslime be better?
+Dialogue: 10,0:00:34.18,0:00:35.27,Default,Both,0,0,0,,No!
+Dialogue: 10,0:00:35.27,0:00:36.02,Default,Touya,0,0,0,,Why not?
+Dialogue: 10,0:00:36.02,0:00:39.39,Default,Elze,0,0,0,,I hate squishy and springy creatures like slimes!
+Dialogue: 10,0:00:39.39,0:00:41.10,Default,Elze,0,0,0,,It's an inherent dislike!
+Dialogue: 10,0:00:41.10,0:00:45.78,Default,Elze,0,0,0,,Besides, those things melt your clothes and stuff.
+Dialogue: 10,0:00:45.78,0:00:46.82,Default,Elze,0,0,0,,Absolutely no way!
+Dialogue: 10,0:00:51.20,0:00:53.66,Default,Touya,0,0,0,,{\i1}That's kind of a shame, maybe...
+Dialogue: 10,0:00:53.66,0:00:56.08,Default,Elze,0,0,0,,Let's grab a meal before going to the inn.
+Dialogue: 10,0:00:56.08,0:00:59.00,Default,Elze,0,0,0,,I hope there's a place like the Silver Moon...
+Dialogue: 10,0:00:59.91,0:01:05.67,Default,Touya,0,0,0,,In that case, wouldn't it be easier to use Gate to return to the Silver Moon, and start from here again tomorrow?
+Dialogue: 10,0:01:05.67,0:01:06.92,Default,Both,0,0,0,,No way!
+Dialogue: 10,0:01:06.92,0:01:07.63,Default,Touya,0,0,0,,Huh?!
+Dialogue: 10,0:01:07.63,0:01:12.55,Default,Elze,0,0,0,,It's better to stay in unfamiliar places and visit \Nunfamiliar stores when you're in an unfamiliar town.
+Dialogue: 10,0:01:12.55,0:01:14.64,Default,Elze,0,0,0,,You just don't get it.
+Dialogue: 10,0:01:15.76,0:01:17.18,Default,Man,0,0,0,,Hey, hold it, you!
+Dialogue: 10,0:01:19.27,0:01:20.98,Default,Touya,0,0,0,,What's going on?
+Dialogue: 10,0:03:00.12,0:03:02.95,Default,Linze,0,0,0,,That girl's wearing an odd outfit.
+Dialogue: 10,0:03:02.95,0:03:04.08,Default,Touya,0,0,0,,She's a samurai.
+Dialogue: 10,0:03:04.08,0:03:05.04,Default,Linze,0,0,0,,Samurai?
+Dialogue: 10,0:03:05.04,0:03:08.96,Default,Man,0,0,0,,Lady, I hear you took real good care of my buddies.
+Dialogue: 10,0:03:08.96,0:03:12.88,Default,Yae,0,0,0,,Oh, you are with the men I turned in to the guards, yes?
+Dialogue: 10,0:03:12.88,0:03:15.43,Default,Yae,0,0,0,,The fault for that lies with you.
+Dialogue: 10,0:03:15.43,0:03:17.64,Default,Yae,0,0,0,,It is what you get for running amok.
+Dialogue: 10,0:03:17.64,0:03:18.30,Default,Man,0,0,0,,Shut up!
+Dialogue: 10,0:03:18.30,0:03:19.72,Default,Man,0,0,0,,Get her!
+Dialogue: 10,0:03:23.52,0:03:25.73,Default,Elze,0,0,0,,I've never seen techniques like that.
+Dialogue: 10,0:03:25.73,0:03:26.98,Default,Touya,0,0,0,,That's...
+Dialogue: 10,0:03:26.98,0:03:27.85,Default,Touya,0,0,0,,Jiu-jitsu?
+Dialogue: 10,0:03:31.73,0:03:33.65,Default,Yae,0,0,0,,Hunger causes my strength to wane...
+Dialogue: 10,0:03:33.65,0:03:35.78,Default,Elze,0,0,0,,She just suddenly stopped moving!
+Dialogue: 10,0:03:35.78,0:03:37.07,Default,Linze,0,0,0,,Look out! Behind you!
+Dialogue: 10,0:03:38.45,0:03:44.00,Default,Touya,0,0,0,,Come forth, Sand! \NObstructing Dust Storm: Blind Sand!
+Dialogue: 10,0:03:45.91,0:03:46.91,Default,Man,0,0,0,,My eyes!
+Dialogue: 10,0:03:46.91,0:03:47.83,Default,Touya,0,0,0,,Now!
+Dialogue: 10,0:03:48.58,0:03:50.04,Default,Linze,0,0,0,,Touya!
+Dialogue: 10,0:03:50.04,0:03:52.04,Default,Elze,0,0,0,,Ah, jeez...
+Dialogue: 10,0:03:52.04,0:03:55.67,Default,Elze,0,0,0,,You just had to stick your nose into trouble!
+Dialogue: 10,0:03:55.67,0:03:57.97,Default,Onlookers,0,0,0,,It's the guards!
+Dialogue: 10,0:03:57.97,0:04:00.39,Default,Linze,0,0,0,,Touya, let's get out of here.
+Dialogue: 10,0:04:00.39,0:04:01.51,Default,Touya,0,0,0,,All right.
+Dialogue: 10,0:04:01.51,0:04:02.51,Default,Touya,0,0,0,,You hurry, too.
+Dialogue: 10,0:04:05.10,0:04:07.94,Default,Touya,0,0,0,,I think we've run far enough now.
+Dialogue: 10,0:04:07.94,0:04:10.02,Default,Yae,0,0,0,,I am grateful for your assistance.
+Dialogue: 10,0:04:10.02,0:04:12.52,Default,Yae,0,0,0,,I am called Kokonoe Yae.
+Dialogue: 10,0:04:12.52,0:04:15.94,Default,Yae,0,0,0,,Oh, Yae is my given name. Kokonoe is my family name.
+Dialogue: 10,0:04:15.94,0:04:18.45,Default,Touya,0,0,0,,Are you from Eashen, then?
+Dialogue: 10,0:04:18.45,0:04:19.41,Default,Yae,0,0,0,,Indeed.
+Dialogue: 10,0:04:19.41,0:04:21.37,Default,Yae,0,0,0,,I come from Oedo in Eashen.
+Dialogue: 10,0:04:21.37,0:04:22.74,Default,Touya,0,0,0,,Oedo...
+Dialogue: 10,0:04:22.74,0:04:24.79,Default,Touya,0,0,0,,{\i1}So even that part's similar.
+Dialogue: 10,0:04:24.79,0:04:26.95,Default,Touya,0,0,0,,I'm Mochizuki Touya.
+Dialogue: 10,0:04:26.95,0:04:29.25,Default,Touya,0,0,0,,Touya's my given name. Mochizuki's my family name.
+Dialogue: 10,0:04:29.25,0:04:32.46,Default,Yae,0,0,0,,Oh! Master Touya, are you from Eashen, as well?
+Dialogue: 10,0:04:32.46,0:04:36.13,Default,Touya,0,0,0,,Oh, no. I'm from a different country that's very similar.
+Dialogue: 10,0:04:36.13,0:04:36.88,Default,Both,0,0,0,,Huh?
+Dialogue: 10,0:04:36.88,0:04:40.18,Default,Touya,0,0,0,,{\i1}Oh, right. They think I'm from Eashen.
+Dialogue: 10,0:04:40.18,0:04:43.43,Default,Touya,0,0,0,,More importantly, you looked a bit unsteady back there.
+Dialogue: 10,0:04:43.43,0:04:50.27,Default,Yae,0,0,0,,Well, embarrassing though it is, \NI lost my travel funds on the way here, so...
+Dialogue: 10,0:04:52.77,0:04:55.02,Default,Yae,0,0,0,,I shall gladly partake!
+Dialogue: 10,0:05:00.91,0:05:05.33,Default,Linze,0,0,0,,Wow, so you're traveling to improve your martial arts, Yae?
+Dialogue: 10,0:05:05.33,0:05:07.29,Default,Yae,0,0,0,,Indeed.
+Dialogue: 10,0:05:09.16,0:05:11.75,Default,Yae,0,0,0,,My family has produced generations of warriors.
+Dialogue: 10,0:05:11.75,0:05:15.71,Default,Yae,0,0,0,,I chose to travel in order to hone my skills.
+Dialogue: 10,0:05:15.71,0:05:17.38,Default,Elze,0,0,0,,I see.
+Dialogue: 10,0:05:17.38,0:05:22.39,Default,Yae,0,0,0,,Someday, I shall become a swordsman on par \Nwith my father and older brother!
+Dialogue: 10,0:05:22.39,0:05:24.01,Default,Touya,0,0,0,,{\i1}What an incredible appetite.
+Dialogue: 10,0:05:24.01,0:05:27.18,Default,Linze,0,0,0,,So, Yae, what are you doing after this?
+Dialogue: 10,0:05:27.18,0:05:29.23,Default,Yae,0,0,0,,For now,
+Dialogue: 10,0:05:29.23,0:05:34.52,Default,Yae,0,0,0,,I'm planning to head \Nto the royal capital to test my strength.
+Dialogue: 10,0:05:34.52,0:05:38.78,Default,Elze,0,0,0,,What a coincidence. We're heading \Nto the royal capital for work, as well.
+Dialogue: 10,0:05:38.78,0:05:41.20,Default,Elze,0,0,0,,Hey, would you like to come with us?
+Dialogue: 10,0:05:41.20,0:05:42.61,Default,Yae,0,0,0,,Do you truly...
+Dialogue: 10,0:05:46.08,0:05:47.34,Default,Yae,0,0,0,,mean that?
+Dialogue: 10,0:05:47.34,0:05:49.50,Default,Yae,0,0,0,,After you've shown me such hospitality...
+Dialogue: 10,0:05:51.75,0:05:57.46,Default,Yae,0,0,0,,Since it's come to this, please allow me \Nt' serve 'ou t' the besht o' m' abilithees.
+Dialogue: 10,0:05:58.88,0:06:02.38,Default,Linze,0,0,0,,You don't mind, right, Touya?
+Dialogue: 10,0:06:02.38,0:06:05.30,Default,Touya,0,0,0,,Huh? Oh, no. I don't...
+Dialogue: 10,0:06:05.30,0:06:07.43,Default,Elze,0,0,0,,It's settled, then.
+Dialogue: 10,0:06:07.43,0:06:08.51,Default,Yae,0,0,0,,Nice, indeed.
+Dialogue: 10,0:06:08.51,0:06:10.81,Default,Touya,0,0,0,,{\i1}Will our food expenses be all right?
+Dialogue: 10,0:06:15.19,0:06:18.02,Default,Touya,0,0,0,,So you can handle horses too, Yae?
+Dialogue: 10,0:06:18.02,0:06:21.44,Default,Yae,0,0,0,,I have trained in the equestrian arts, yes.
+Dialogue: 10,0:06:21.44,0:06:23.74,Default,Elze,0,0,0,,That means the three of us can trade off.
+Dialogue: 10,0:06:23.74,0:06:26.24,Default,Elze,0,0,0,,Frankly, it was a bit hard with just me and Linze.
+Dialogue: 10,0:06:26.24,0:06:28.53,Default,Touya,0,0,0,,I-I'm ashamed.
+Dialogue: 10,0:06:28.53,0:06:29.91,Default,Linze,0,0,0,,Heavens, no.
+Dialogue: 10,0:06:29.91,0:06:34.21,Default,Linze,0,0,0,,Touya, you're a talented mage, aren't you?
+Dialogue: 10,0:06:34.21,0:06:38.34,Default,Elze,0,0,0,,He can use my own Boost, not just Elemental magic.
+Dialogue: 10,0:06:38.34,0:06:41.51,Default,Linze,0,0,0,,Apparently Touya can activate most Null Magic
+Dialogue: 10,0:06:41.51,0:06:46.01,Default,Linze,0,0,0,,as long as he knows the spell name \Nand details about its effects.
+Dialogue: 10,0:06:46.01,0:06:49.93,Default,Elze,0,0,0,,Good grief... When he's {\i1}that{\i0} all-powerful, \Nit's more exasperating than surprising.
+Dialogue: 10,0:06:51.43,0:06:55.35,Default,Touya,0,0,0,,But there are many different types of Null Magic, right?
+Dialogue: 10,0:06:55.35,0:06:56.44,Default,Linze,0,0,0,,Yes.
+Dialogue: 10,0:06:56.44,0:07:01.28,Default,Linze,0,0,0,,It's mostly personal magic, \Nso it's said there are as many types as there are users.
+Dialogue: 10,0:07:01.28,0:07:03.36,Default,Touya,0,0,0,,So there's a preposterous number of them, huh?
+Dialogue: 10,0:07:03.36,0:07:07.87,Default,Linze,0,0,0,,But unlike Elemental magic, \Nonly certain individuals can use them,
+Dialogue: 10,0:07:07.87,0:07:12.29,Default,Linze,0,0,0,,so few know exactly what kinds of Null Magic exist.
+Dialogue: 10,0:07:12.29,0:07:16.25,Default,Linze,0,0,0,,The magic tomes circulating now \Nare all just hobbyists' collections.
+Dialogue: 10,0:07:16.25,0:07:21.67,Default,Touya,0,0,0,,Well, there aren't many who'd go out of their way \Nto study magic they can't use themselves.
+Dialogue: 10,0:07:21.67,0:07:24.97,Default,Touya,0,0,0,,A spell that curls hair into rolls.
+Dialogue: 10,0:07:21.67,0:07:24.97,Default,Elze,0,0,0,,{\an8}Whoa, my hair's gone wild!
+Dialogue: 10,0:07:26.01,0:07:28.80,Default,Touya,0,0,0,,A spell to make dogs very friendly.
+Dialogue: 10,0:07:26.01,0:07:28.80,Default,Linze,0,0,0,,{\an8}Stop it, that tickles!
+Dialogue: 10,0:07:28.80,0:07:31.85,Default,Yae,0,0,0,,{\an8}Oh, a good omen!
+Dialogue: 10,0:07:30.85,0:07:32.97,Default,Touya,0,0,0,,A spell to make tea stems stand upright.
+Dialogue: 10,0:07:32.97,0:07:36.52,Default,Touya,0,0,0,,Yeah, despite how many there are, most are useless.
+Dialogue: 10,0:07:36.52,0:07:42.40,Default,Elze,0,0,0,,Well, you never know when they'll be useful, \Nso what's wrong with learning every one you can?
+Dialogue: 10,0:07:42.40,0:07:49.53,Default,Touya,0,0,0,,{\i1}I know God boosted my memory, \Nbut memorizing all the ones in here is gonna be hard.
+Dialogue: 10,0:07:50.83,0:07:55.25,Default,Touya,0,0,0,,A spell to draw distant \Nobjects into your hand?
+Dialogue: 10,0:07:55.25,0:07:56.79,Default,Touya,0,0,0,,That could be useful.
+Dialogue: 10,0:07:56.79,0:07:58.58,Default,Linze,0,0,0,,Why don't you try using it?
+Dialogue: 10,0:07:59.75,0:08:00.58,Default,Touya,0,0,0,,Aports.
+Dialogue: 10,0:08:03.00,0:08:04.13,Default,Touya,0,0,0,,Huh?
+Dialogue: 10,0:08:04.13,0:08:06.05,Default,Linze,0,0,0,,Nothing's happening.
+Dialogue: 10,0:08:06.05,0:08:08.43,Default,Elze,0,0,0,,What did you try drawing toward you?
+Dialogue: 10,0:08:08.43,0:08:12.68,Default,Touya,0,0,0,,I figured Yae would be surprised \Nif she suddenly lost her katana.
+Dialogue: 10,0:08:12.68,0:08:15.39,Default,Elze,0,0,0,,Maybe a katana was too heavy for it to work?
+Dialogue: 10,0:08:15.39,0:08:18.60,Default,Touya,0,0,0,,I see. It does say it works on small objects.
+Dialogue: 10,0:08:18.60,0:08:20.60,Default,Touya,0,0,0,,This time I'll picture it clearly....
+Dialogue: 10,0:08:24.19,0:08:25.03,Default,Touya,0,0,0,,Aports!
+Dialogue: 10,0:08:27.45,0:08:30.70,Default,Elze,0,0,0,,What, what? Touya, what did you take?
+Dialogue: 10,0:08:30.70,0:08:31.78,Default,Touya,0,0,0,,This.
+Dialogue: 10,0:08:31.78,0:08:34.12,Default,Touya,0,0,0,,The ribbon tying Yae's hair.
+Dialogue: 10,0:08:34.12,0:08:35.79,Default,Linze,0,0,0,,It worked, then.
+Dialogue: 10,0:08:35.79,0:08:40.04,Default,Linze,0,0,0,,Depending on how it's used, \Nthat could be convenient or terrifying.
+Dialogue: 10,0:08:40.04,0:08:41.29,Default,Touya,0,0,0,,Terrifying?
+Dialogue: 10,0:08:41.29,0:08:43.96,Default,Elze,0,0,0,,Because you'd lose objects without realizing it.
+Dialogue: 10,0:08:43.96,0:08:47.80,Default,Elze,0,0,0,,You could pickpocket all you want with that spell, right?
+Dialogue: 10,0:08:47.80,0:08:51.30,Default,Touya,0,0,0,,I see. It {\i1}is{\i0} scary when you think of it that way.
+Dialogue: 10,0:08:51.30,0:08:55.10,Default,Touya,0,0,0,,I guess it could steal money, \Ngems, and things of that nature.
+Dialogue: 10,0:08:55.10,0:08:57.14,Default,Elze,0,0,0,,Don't go doing it, okay?
+Dialogue: 10,0:08:57.14,0:08:58.64,Default,Linze,0,0,0,,Please don't do it.
+Dialogue: 10,0:08:58.64,0:09:00.77,Default,Touya,0,0,0,,I won't do something like that.
+Dialogue: 10,0:09:00.77,0:09:01.73,Default,Touya,0,0,0,,But...
+Dialogue: 10,0:09:01.73,0:09:04.94,Default,Touya,0,0,0,,I wonder if you could use this \Nto draw things like underwear to you.
+Dialogue: 10,0:09:05.86,0:09:07.32,Default,Touya,0,0,0,,I'm just joking.
+Dialogue: 10,0:09:07.32,0:09:09.20,Default,Ya,0,0,0,,Um...
+Dialogue: 10,0:09:09.20,0:09:12.36,Default,Ya,0,0,0,,My hair is blowing about in the wind.
+Dialogue: 10,0:09:17.29,0:09:21.51,Default,Touya,0,0,0,,A spell to reduce friction for a short period of time,
+Dialogue: 10,0:09:21.51,0:09:22.71,Default,Touya,0,0,0,,Slip...
+Dialogue: 10,0:09:24.13,0:09:29.38,Default,Touya,0,0,0,,Null Magic is full of spells \Nthat are hard to figure out what to use them for, huh?
+Dialogue: 10,0:09:29.38,0:09:31.80,Default,Touya,0,0,0,,Hmm? This is...
+Dialogue: 10,0:09:31.80,0:09:33.47,Default,Touya,0,0,0,,Long Sense.
+Dialogue: 10,0:09:33.47,0:09:35.14,Default,Elze,0,0,0,,What does that spell do?
+Dialogue: 10,0:09:35.14,0:09:41.23,Default,Touya,0,0,0,,It expands your senses. It allows you to see \Nand hear things at a distance, apparently.
+Dialogue: 10,0:09:41.23,0:09:43.31,Default,Elze,0,0,0,,Don't go use it for peeping, okay?
+Dialogue: 10,0:09:43.31,0:09:45.40,Default,Touya,0,0,0,,I won't!
+Dialogue: 10,0:09:47.19,0:09:48.86,Default,Elze,0,0,0,,Can it pick up smells, too?
+Dialogue: 10,0:09:50.40,0:09:52.99,Default,Touya,0,0,0,,This smell is... iron?
+Dialogue: 10,0:09:52.99,0:09:54.82,Default,Touya,0,0,0,,No, it's blood!
+Dialogue: 10,0:09:57.66,0:09:58.87,Default,Touya,0,0,0,,Up ahead!
+Dialogue: 10,0:10:24.98,0:10:30.36,Default,Linze,0,0,0,,Come forth, Fire! \NWhirling Spiral: Fire Storm!
+Dialogue: 10,0:10:39.74,0:10:41.08,Default,Yae,0,0,0,,Ow...
+Dialogue: 10,0:10:43.79,0:10:46.63,Default,Touya,0,0,0,,Friction, begone! Slip!
+Dialogue: 10,0:10:53.09,0:10:56.14,Default,Touya,0,0,0,,{\i1}I guess Null Magic just depends on how you use it.
+Dialogue: 10,0:10:57.14,0:10:58.55,Default,Yae,0,0,0,,You have my gratitude.
+Dialogue: 10,0:10:58.55,0:10:59.76,Default,Touya,0,0,0,,I'm glad you're safe.
+Dialogue: 10,0:11:02.64,0:11:03.85,Default,Elze,0,0,0,,There's still more?!
+Dialogue: 10,0:11:08.40,0:11:11.07,Default,Touya,0,0,0,,Oh, beautiful swordsmanship.
+Dialogue: 10,0:11:13.28,0:11:14.49,Default,Touya,0,0,0,,Linze!
+Dialogue: 10,0:11:19.62,0:11:20.99,Default,Elze,0,0,0,,There's no end to them!
+Dialogue: 10,0:11:20.99,0:11:22.87,Default,Yae,0,0,0,,How many of them are there?!
+Dialogue: 10,0:11:22.87,0:11:27.50,Default,Man,0,0,0,,Come forth, Dark! \NI seek a scalebound warrior: Lizardman!
+Dialogue: 10,0:11:29.13,0:11:30.46,Default,Touya,0,0,0,,That's...
+Dialogue: 10,0:11:30.46,0:11:34.84,Default,Linze,0,0,0,,Summoning magic! That man is summoning the Lizardmen!
+Dialogue: 10,0:11:34.84,0:11:36.47,Default,Touya,0,0,0,,Got it! Slip!
+Dialogue: 10,0:11:40.35,0:11:42.56,Default,Yae,0,0,0,,That is far enough.
+Dialogue: 10,0:11:45.27,0:11:47.60,Default,Soldier,0,0,0,,You all saved us back there.
+Dialogue: 10,0:11:47.60,0:11:49.44,Default,Touya,0,0,0,,No. More importantly, is anyone hurt?
+Dialogue: 10,0:11:49.44,0:11:51.86,Default,Soldier,0,0,0,,Seven guards were done in.
+Dialogue: 10,0:11:51.86,0:11:54.65,Default,Soldier,0,0,0,,Damn it! If only we'd noticed a little sooner!
+Dialogue: 10,0:11:54.65,0:11:57.66,Default,Sushie,0,0,0,,Someone! Is anyone there?!
+Dialogue: 10,0:11:57.66,0:11:58.74,Default,Sushie,0,0,0,,Leim...
+Dialogue: 10,0:11:58.74,0:12:00.32,Default,Sushie,0,0,0,,Leim is...
+Dialogue: 10,0:12:00.32,0:12:02.24,Default,Sushie,0,0,0,,Someone help Leim!
+Dialogue: 10,0:12:02.24,0:12:03.29,Default,Sushie,0,0,0,,His chest...
+Dialogue: 10,0:12:03.29,0:12:04.79,Default,Sushie,0,0,0,,There's an arrow in his chest!
+Dialogue: 10,0:12:04.79,0:12:06.41,Default,Touya,0,0,0,,Linze! Healing magic!
+Dialogue: 10,0:12:08.75,0:12:12.21,Default,Linze,0,0,0,,The arrow's lodged in his body.
+Dialogue: 10,0:12:12.21,0:12:17.13,Default,Linze,0,0,0,,Even if I used healing magic on him in this state, \Nthe foreign object would remain in his body.
+Dialogue: 10,0:12:18.97,0:12:19.59,Default,Sushie,0,0,0,,Leim!
+Dialogue: 10,0:12:19.59,0:12:21.55,Default,Leim,0,0,0,,My lady...
+Dialogue: 10,0:12:21.55,0:12:23.51,Default,Sushie,0,0,0,,Leim! Leim!
+Dialogue: 10,0:12:23.51,0:12:26.27,Default,Leim,0,0,0,,It's time to bid farewell.
+Dialogue: 10,0:12:26.27,0:12:28.94,Default,Leim,0,0,0,,The time I spent with you was...
+Dialogue: 10,0:12:29.81,0:12:31.27,Default,Sushie,0,0,0,,Leim!
+Dialogue: 10,0:12:31.27,0:12:34.94,Default,Sushie,0,0,0,,{\an8}Leim, don't try to talk! Leim!
+Dialogue: 10,0:12:32.36,0:12:35.82,Default,Touya,0,0,0,,Linze, you can heal him if we pull the arrow out, right?
+Dialogue: 10,0:12:35.82,0:12:38.15,Default,Linze,0,0,0,,Huh? Yes, but...
+Dialogue: 10,0:12:37.15,0:12:38.15,Default,Linze,0,0,0,,{\an8}Leim...
+Dialogue: 10,0:12:38.15,0:12:39.36,Default,Touya,0,0,0,,All right!
+Dialogue: 10,0:12:41.95,0:12:43.08,Default,Touya,0,0,0,,Aports!
+Dialogue: 10,0:12:45.33,0:12:47.62,Default,Linze,0,0,0,,Huh? You drew the arrow from his body?
+Dialogue: 10,0:12:47.62,0:12:52.54,Default,Touya,0,0,0,,Come forth, Light! \NSoothing Comfort: Cure Heal!
+Dialogue: 10,0:12:58.22,0:12:59.47,Default,Leim,0,0,0,,The pain is fading?
+Dialogue: 10,0:13:00.97,0:13:02.39,Default,Sushie,0,0,0,,Leim!
+Dialogue: 10,0:13:02.39,0:13:04.64,Default,Sushie,0,0,0,,Leim! Leim!
+Dialogue: 10,0:13:05.97,0:13:07.64,Default,Linze,0,0,0,,Incredible, Touya.
+Dialogue: 10,0:13:10.19,0:13:12.69,Default,Sushie,0,0,0,,I'm grateful, Touya or whatever!
+Dialogue: 10,0:13:12.69,0:13:17.57,Default,Sushie,0,0,0,,You have saved Leim's— no, all of our lives!
+Dialogue: 10,0:13:17.57,0:13:19.95,Default,Leim,0,0,0,,My apologies for the delayed introductions.
+Dialogue: 10,0:13:19.95,0:13:25.28,Default,Leim,0,0,0,,I'm Leim, a butler in service to Duke Ortlinde.
+Dialogue: 10,0:13:25.28,0:13:31.67,Default,Leim,0,0,0,,And this young lady is the Duke's daughter, \NSushie Urnea Ortlinde.
+Dialogue: 10,0:13:31.67,0:13:34.42,Default,Sushi,0,0,0,,I'm Sushie Urnea Ortlinde!
+Dialogue: 10,0:13:34.42,0:13:35.59,Default,Sushi,0,0,0,,Pleasure to meet you.
+Dialogue: 10,0:13:35.59,0:13:37.09,Default,Touya,0,0,0,,Yes...
+Dialogue: 10,0:13:38.30,0:13:40.72,Default,Touya,0,0,0,,Huh? What's wrong?
+Dialogue: 10,0:13:40.72,0:13:42.34,Default,Elze,0,0,0,,What's wrong?
+Dialogue: 10,0:13:42.34,0:13:44.97,Default,Elze,0,0,0,,How can you be so calm?!
+Dialogue: 10,0:13:44.97,0:13:46.64,Default,Elze,0,0,0,,She's related to the Duke! The Duke!
+Dialogue: 10,0:13:46.64,0:13:48.06,Default,Touya,0,0,0,,The Duke?
+Dialogue: 10,0:13:48.06,0:13:50.56,Default,Linze,0,0,0,,Duke is the highest rank a noble can have.
+Dialogue: 10,0:13:50.56,0:13:55.27,Default,Linze,0,0,0,,The rank is only given to members of the royal family.
+Dialogue: 10,0:13:55.27,0:13:57.36,Default,Touya,0,0,0,,The royal family? Huh?
+Dialogue: 10,0:13:57.36,0:13:58.19,Default,Sushi,0,0,0,,Indeed.
+Dialogue: 10,0:13:58.19,0:14:04.49,Default,Sushi,0,0,0,,My father, Duke Alfred Urnes Ortlinde, \Nis the younger brother of His Royal Highness!
+Dialogue: 10,0:14:04.49,0:14:07.91,Default,Touya,0,0,0,,So you're the King's niece?
+Dialogue: 10,0:14:07.91,0:14:11.00,Default,Touya,0,0,0,,Should I address you as Lady Sushie?
+Dialogue: 10,0:14:11.00,0:14:12.29,Default,Sushie,0,0,0,,"Sue" will suffice.
+Dialogue: 10,0:14:12.29,0:14:15.92,Default,Sushie,0,0,0,,We're not in a formal setting here, \Nso no need for formalities!
+Dialogue: 10,0:14:15.92,0:14:20.46,Default,Sushie,0,0,0,,As I just said, we all owe you our lives.
+Dialogue: 10,0:14:20.46,0:14:23.13,Default,Touya,0,0,0,,But what's royalty doing out here?
+Dialogue: 10,0:14:23.13,0:14:27.39,Default,Sushie,0,0,0,,I was returning to the royal capital \Nafter visiting my grandmother.
+Dialogue: 10,0:14:27.39,0:14:29.43,Default,Tou,0,0,0,,And then you were attacked?
+Dialogue: 10,0:14:29.43,0:14:32.64,Default,Tou,0,0,0,,By ordinary bandits? Probably not, I suppose...
+Dialogue: 10,0:14:33.69,0:14:37.11,Default,Elze,0,0,0,,From what I heard, they were just hired hit men.
+Dialogue: 10,0:14:37.11,0:14:39.94,Default,Elze,0,0,0,,They didn't even know the name of whoever hired them.
+Dialogue: 10,0:14:39.94,0:14:42.03,Default,Sushie,0,0,0,,I see. How unfortunate.
+Dialogue: 10,0:14:42.03,0:14:44.32,Default,Elze,0,0,0,,Spill everything!
+Dialogue: 10,0:14:44.32,0:14:46.95,Default,Man,0,0,0,,There's nothing else to say!
+Dialogue: 10,0:14:46.95,0:14:48.49,Default,Touya,0,0,0,,So you wanted... what?
+Dialogue: 10,0:14:48.49,0:14:52.58,Default,Leim,0,0,0,,We can't protect the young lady on our own right now.
+Dialogue: 10,0:14:52.58,0:14:55.08,Default,Leim,0,0,0,,So, seeing your skill, I'd like to ask for your help.
+Dialogue: 10,0:14:55.08,0:14:57.50,Default,Leim,0,0,0,,Would you guard us on our journey?
+Dialogue: 10,0:14:57.50,0:15:01.21,Default,Leim,0,0,0,,Once we arrive at the royal capital, \Nwe'll pay you a proper reward.
+Dialogue: 10,0:15:01.21,0:15:02.88,Default,Touya,0,0,0,,Guard you, huh?
+Dialogue: 10,0:15:02.88,0:15:04.09,Default,Elze,0,0,0,,Why not?
+Dialogue: 10,0:15:04.09,0:15:05.93,Default,Elze,0,0,0,,We're heading to the royal capital anyway.
+Dialogue: 10,0:15:05.93,0:15:07.43,Default,Linze,0,0,0,,I don't mind, either.
+Dialogue: 10,0:15:07.43,0:15:10.31,Default,Yae,0,0,0,,I entrust the decision to you, Master Touya.
+Dialogue: 10,0:15:10.31,0:15:12.10,Default,Touya,0,0,0,,All right.
+Dialogue: 10,0:15:12.10,0:15:14.10,Default,Touya,0,0,0,,Let's stick together until the royal capital, then.
+Dialogue: 10,0:15:14.10,0:15:16.69,Default,Sushie,0,0,0,,Thank you for helping us!
+Dialogue: 10,0:15:27.16,0:15:28.99,Default,Touya,0,0,0,,That's the royal capital?
+Dialogue: 10,0:15:30.28,0:15:33.25,Default,Linze,0,0,0,,The capital of the Kingdom of Belfast, Alephis.
+Dialogue: 10,0:15:33.25,0:15:37.08,Default,Linze,0,0,0,,It's built on the bank of Lake Palette, formed by waterfalls flowing down,
+Dialogue: 10,0:15:37.08,0:15:39.80,Default,Linze,0,0,0,,earning it the nickname "The City of Lakes."
+Dialogue: 10,0:15:50.22,0:15:52.01,Default,Alfred,0,0,0,,Sue!
+Dialogue: 10,0:15:52.01,0:15:53.89,Default,Sushie,0,0,0,,Father!
+Dialogue: 10,0:15:53.89,0:15:55.81,Default,Alfred,0,0,0,,Oh, Sue!
+Dialogue: 10,0:15:55.81,0:15:57.81,Default,Alfred,0,0,0,,I'm glad you're safe!
+Dialogue: 10,0:15:57.81,0:16:01.65,Default,Alfred,0,0,0,,When I heard the news, I thought I was going to die!
+Dialogue: 10,0:16:03.90,0:16:07.45,Default,Alfred,0,0,0,,So you're the adventurers who saved my daughter?
+Dialogue: 10,0:16:08.45,0:16:09.32,Default,Alfred,0,0,0,,You have my thanks.
+Dialogue: 10,0:16:09.32,0:16:11.28,Default,Touya,0,0,0,,Please, raise your head.
+Dialogue: 10,0:16:11.28,0:16:14.04,Default,Touya,0,0,0,,We only did what anyone naturally would have.
+Dialogue: 10,0:16:14.04,0:16:16.25,Default,Alfred,0,0,0,,You show humility, too.
+Dialogue: 10,0:16:16.25,0:16:19.21,Default,Alfred,0,0,0,,Allow me to introduce myself properly.
+Dialogue: 10,0:16:19.21,0:16:21.92,Default,Alfred,0,0,0,,I am Alfred Urnes Ortlinde.
+Dialogue: 10,0:16:28.68,0:16:33.31,Default,Alfred,0,0,0,,So you came to the royal capital \Non a mission to deliver a letter?
+Dialogue: 10,0:16:33.31,0:16:33.47,Default,Touya,0,0,0,,Yes.
+Dialogue: 10,0:16:33.47,0:16:39.39,Default,Alfred,0,0,0,,If you all hadn't accepted that mission, \Nmy Sue may have been kidnapped, or even killed.
+Dialogue: 10,0:16:39.39,0:16:41.69,Default,Alfred,0,0,0,,I'll have to thank whoever made the request.
+Dialogue: 10,0:16:41.69,0:16:44.48,Default,Touya,0,0,0,,Do you have any idea who the attackers were?
+Dialogue: 10,0:16:44.48,0:16:48.40,Default,Alfred,0,0,0,,There are many who would see me \Nas a hindrance, given my position.
+Dialogue: 10,0:16:48.40,0:16:53.20,Default,Alfred,0,0,0,,Perhaps someone thought they could \Nkidnap my daughter to threaten me.
+Dialogue: 10,0:16:53.20,0:16:54.24,Default,Sushie,0,0,0,,Father.
+Dialogue: 10,0:16:56.41,0:16:58.00,Default,Sushie,0,0,0,,Sorry for the wait.
+Dialogue: 10,0:16:58.00,0:17:00.33,Default,Alfred,0,0,0,,Did you get to speak with Ellen?
+Dialogue: 10,0:17:00.33,0:17:05.55,Default,Sushie,0,0,0,,Yes. I didn't want to worry her, \Nso I didn't tell her about the attack.
+Dialogue: 10,0:17:05.55,0:17:07.67,Default,Touya,0,0,0,,Um, who's Ellen?
+Dialogue: 10,0:17:07.67,0:17:09.93,Default,Alfred,0,0,0,,Oh, my wife.
+Dialogue: 10,0:17:09.93,0:17:13.68,Default,Alfred,0,0,0,,Sorry you can't see her, \Neven though you saved my daughter.
+Dialogue: 10,0:17:13.68,0:17:15.97,Default,Alfred,0,0,0,,My wife is blind.
+Dialogue: 10,0:17:15.97,0:17:18.35,Default,Touya,0,0,0,,Is she... ill?
+Dialogue: 10,0:17:18.35,0:17:20.94,Default,Alfred,0,0,0,,Yes, it was about five years ago.
+Dialogue: 10,0:17:20.94,0:17:24.82,Default,Alfred,0,0,0,,She managed to survive, but she lost her vision.
+Dialogue: 10,0:17:28.44,0:17:30.36,Default,Linze,0,0,0,,Did you try magic healing?
+Dialogue: 10,0:17:30.36,0:17:31.78,Default,Alfred,0,0,0,,Of course.
+Dialogue: 10,0:17:31.78,0:17:33.78,Default,Alfred,0,0,0,,But it didn't help.
+Dialogue: 10,0:17:33.78,0:17:37.54,Default,Alfred,0,0,0,,Even though it restored some of the damage to her body,
+Dialogue: 10,0:17:37.54,0:17:40.75,Default,Alfred,0,0,0,,it had no effect on the aftereffects of her illness.
+Dialogue: 10,0:17:41.96,0:17:44.13,Default,Sushie,0,0,0,,If my grandfather were still alive...
+Dialogue: 10,0:17:44.13,0:17:49.67,Default,Alfred,0,0,0,,My wife's father, Sue's grandfather, wielded special magic.
+Dialogue: 10,0:17:49.67,0:17:52.68,Default,Alfred,0,0,0,,He was able to remove afflictions from the body.
+Dialogue: 10,0:17:52.68,0:17:56.81,Default,Alfred,0,0,0,,The purpose of Sue's latest journey was to try \Nand unravel his magic,
+Dialogue: 10,0:17:56.81,0:17:59.93,Default,Alfred,0,0,0,,in hopes that, perhaps, she could learn it.
+Dialogue: 10,0:17:59.93,0:18:05.77,Default,Sushie,0,0,0,,If only we could find someone capable \Nof using Grandfather's magic...
+Dialogue: 10,0:18:09.78,0:18:13.66,Default,Alfred,0,0,0,,Sue, Null Magic is personal magic.
+Dialogue: 10,0:18:13.66,0:18:16.33,Default,Alfred,0,0,0,,There won't be anyone who \Ncan use the same spell.
+Dialogue: 10,0:18:16.33,0:18:20.50,Default,Alfred,0,0,0,,But we can try searching for someone \Nwith a spell that has similar effects.
+Dialogue: 10,0:18:39.93,0:18:40.68,Default,Touya,0,0,0,,Recovery.
+Dialogue: 10,0:18:54.91,0:18:56.32,Default,Touya,0,0,0,,How do you feel?
+Dialogue: 10,0:19:03.91,0:19:05.46,Default,Ellen,0,0,0,,I can see...
+Dialogue: 10,0:19:05.46,0:19:06.92,Default,Ellen,0,0,0,,I can see!
+Dialogue: 10,0:19:07.83,0:19:09.75,Default,Ellen,0,0,0,,I can see!
+Dialogue: 10,0:19:10.46,0:19:12.67,Default,Ellen,0,0,0,,Darling! Sushie!
+Dialogue: 10,0:19:12.67,0:19:13.67,Default,Alfred,0,0,0,,Ellen!
+Dialogue: 10,0:19:12.67,0:19:13.67,Default,Sushie,0,0,0,,Mother!
+Dialogue: 10,0:19:14.97,0:19:17.64,Default,Elze,0,0,0,,I knew you'd be able to do it!
+Dialogue: 10,0:19:17.64,0:19:20.60,Default,Linze,0,0,0,,You can use any Null Magic, after all!
+Dialogue: 10,0:19:20.60,0:19:22.77,Default,Linze,0,0,0,,I'm truly impressed!
+Dialogue: 10,0:19:22.77,0:19:26.45,Default,Yae,0,0,0,,Your drive to aid others without fear of failure...
+Dialogue: 10,0:19:27.15,0:19:31.78,Default,Yae,0,0,0,,is something I respect from the bottom of my heart, Master Touya.
+Dialogue: 10,0:19:31.78,0:19:33.07,Default,Touya,0,0,0,,Thanks.
+Dialogue: 10,0:19:33.07,0:19:35.86,Default,Alfred,0,0,0,,To save not only my daughter, but my wife, as well...
+Dialogue: 10,0:19:35.86,0:19:38.12,Default,Alfred,0,0,0,,I wish to give you all proper thanks.
+Dialogue: 10,0:19:38.91,0:19:39.99,Default,Alfred,0,0,0,,Bring it to me.
+Dialogue: 10,0:19:43.75,0:19:45.33,Default,Alfred,0,0,0,,First, take this.
+Dialogue: 10,0:19:45.33,0:19:50.21,Default,Alfred,0,0,0,,My gratitude for saving my daughter \Nand protecting her on her travels.
+Dialogue: 10,0:19:50.21,0:19:52.13,Default,Alfred,0,0,0,,I want you to have it.
+Dialogue: 10,0:19:52.13,0:19:54.55,Default,Alfred,0,0,0,,Ow. What's this?
+Dialogue: 10,0:19:54.55,0:19:57.72,Default,Alfred,0,0,0,,There are 40 platinum coins inside.
+Dialogue: 10,0:19:59.14,0:20:00.64,Default,Touya,0,0,0,,What are platinum coins?
+Dialogue: 10,0:20:00.64,0:20:03.01,Default,Elze,0,0,0,,The denomination above gold coins.
+Dialogue: 10,0:20:03.01,0:20:05.81,Default,Elze,0,0,0,,Each one's worth ten gold.
+Dialogue: 10,0:20:06.56,0:20:10.48,Default,Touya,0,0,0,,Meaning 40 platinum is...
+Dialogue: 10,0:20:10.48,0:20:13.73,Default,,0,0,0,,{\i1}One! {\alpha&HFF&\t(563,563,\alpha&H00&)}Ten! {\alpha&HFF&\t(813,813,\alpha&H00&)}Hundred! {\alpha&HFF&\t(1105,1105,\alpha&H00&)}Thousand! {\alpha&HFF&\t(1397,1397,\alpha&H00&)}Ten thousand! \N{\alpha&HFF&\t(1731,1731,\alpha&H00&)}Hundred thousand! {\alpha&HFF&\t(2106,2106,\alpha&H00&)}Million! {\alpha&HFF&\t(2482,2482,\alpha&H00&)}Ten million!
+Dialogue: 10,0:20:13.73,0:20:15.40,Default,Touya,0,0,0,,40 million yen?!
+Dialogue: 10,0:20:15.40,0:20:17.65,Default,Touya,0,0,0,,This is way too much for us to accept!
+Dialogue: 10,0:20:17.65,0:20:22.70,Default,Alfred,0,0,0,,If you plan to continue as adventurers, you'll surely have need of that coin.
+Dialogue: 10,0:20:22.70,0:20:24.66,Default,Alfred,0,0,0,,Just think of it as capital.
+Dialogue: 10,0:20:24.66,0:20:25.41,Default,Touya,0,0,0,,Okay...
+Dialogue: 10,0:20:28.50,0:20:31.08,Default,Alfred,0,0,0,,These are my family's medals.
+Dialogue: 10,0:20:31.08,0:20:33.92,Default,Alfred,0,0,0,,With these, you can pass right through the checkpoints,
+Dialogue: 10,0:20:34.50,0:20:37.09,Default,Alfred,0,0,0,,and make use of facilities available only to nobility.
+Dialogue: 10,0:20:37.60,0:20:41.97,Default,Alfred,0,0,0,,It's proof that you have our duchy's \Nsupport should anything happen.
+Dialogue: 10,0:20:45.18,0:20:47.93,Default,Sushie,0,0,0,,Come see us again sometime!
+Dialogue: 10,0:20:47.93,0:20:50.94,Default,Sushie,0,0,0,,You'd better, okay?!
+Dialogue: 10,0:20:54.82,0:20:58.15,Default,Elze,0,0,0,,We've delivered the letter, \Nso now our mission's complete.
+Dialogue: 10,0:20:58.15,0:21:00.82,Default,Linze,0,0,0,,That sure was an eventful journey.
+Dialogue: 10,0:21:00.82,0:21:01.99,Default,Touya,0,0,0,,Yeah.
+Dialogue: 10,0:21:01.99,0:21:05.08,Default,Touya,0,0,0,,We're heading back to Reflet Village now.
+Dialogue: 10,0:21:05.08,0:21:06.54,Default,Touya,0,0,0,,What about you, Yae?
+Dialogue: 10,0:21:09.04,0:21:11.00,Default,Yae,0,0,0,,I have made up my mind!
+Dialogue: 10,0:21:12.04,0:21:14.75,Default,Yae,0,0,0,,Master Touya, I offer myself up to you.
+Dialogue: 10,0:21:14.75,0:21:16.00,Default,All,0,0,0,,Huh?!
+Dialogue: 10,0:21:16.00,0:21:19.17,Default,Yae,0,0,0,,N-No, I did not mean it in that manner!
+Dialogue: 10,0:21:19.17,0:21:21.59,Default,Elze,0,0,0,,Huh? Then what did you mean?
+Dialogue: 10,0:21:23.64,0:21:27.39,Default,Yae,0,0,0,,Though our journey together was short, \NI have seen the manner of person you are.
+Dialogue: 10,0:21:27.39,0:21:32.81,Default,Yae,0,0,0,,You possess great power, yet never act arrogant, \Nand constantly choose to help others.
+Dialogue: 10,0:21:32.81,0:21:36.11,Default,Yae,0,0,0,,Your attitude is impressive.
+Dialogue: 10,0:21:36.11,0:21:41.15,Default,Yae,0,0,0,,So for the sake of my training, \NI wish to remain at your side, Master Touya.
+Dialogue: 10,0:21:41.15,0:21:42.78,Default,Touya,0,0,0,,Huh?
+Dialogue: 10,0:21:42.78,0:21:44.07,Default,Touya,0,0,0,,What do you think?
+Dialogue: 10,0:21:44.07,0:21:45.62,Default,Elze,0,0,0,,Why not?
+Dialogue: 10,0:21:45.62,0:21:47.37,Default,Elze,0,0,0,,You can come with us!
+Dialogue: 10,0:21:47.37,0:21:51.00,Default,Elze,0,0,0,,Then you can join the guild, \Nand we can accept missions together!
+Dialogue: 10,0:21:51.00,0:21:52.75,Default,Touya,0,0,0,,Yeah, let's do that!
+Dialogue: 10,0:21:52.75,0:21:54.29,Default,Yae,0,0,0,,I would be honored.
+Dialogue: 10,0:21:54.29,0:21:58.67,Default,Linze,0,0,0,,It would be a shame to part here now that \Nwe're all getting along so well.
+Dialogue: 10,0:21:58.67,0:22:00.80,Default,Elze,0,0,0,,Once again, it's a pleasure to have you, Yae.
+Dialogue: 10,0:22:00.80,0:22:01.97,Default,Yae,0,0,0,,Thank you, as well!
+Dialogue: 10,0:22:01.97,0:22:06.60,Default,Touya,0,0,0,,{\i1}It's nice being able to bring smiles to others with my power.
+Dialogue: 0,0:20:06.56,0:20:07.06,Signs,Currency,0,0,0,,{\an2\pos(1450.98,468.81)\fax0.1\fnKomika Axis\fs120\b1\bord4.35\c&HF3FAF9&\3c&HECFDFF&\blur1.05}1,000 Yen
+Dialogue: 1,0:20:06.56,0:20:07.06,Signs,Currency,0,0,0,,{\an2\pos(1450.98,468.81)\fax0.1\fnKomika Axis\fs120\b1\c&H070A09&\blur1.05}1,000 Yen
+Dialogue: 0,0:20:06.56,0:20:07.06,Signs,Currency,0,0,0,,{\an2\pos(636.87,346.935)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HD8FDFC&\3c&HE5FFFE&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 1,0:20:06.56,0:20:07.06,Signs,Currency,0,0,0,,{\an2\pos(636.87,346.935)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 0,0:20:07.06,0:20:07.10,Signs,Currency,0,0,0,,{\an2\pos(1450.98,445.845)\fax0.1\fnKomika Axis\fs120\b1\bord4.35\c&HF3FAF9&\3c&HECFDFF&\blur1.05}1,000 Yen
+Dialogue: 1,0:20:07.06,0:20:07.10,Signs,Currency,0,0,0,,{\an2\pos(1450.98,445.845)\fax0.1\fnKomika Axis\fs120\b1\c&H070A09&\blur1.05}1,000 Yen
+Dialogue: 0,0:20:07.06,0:20:07.10,Signs,Currency,0,0,0,,{\an2\pos(636.87,323.91)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HD8FDFC&\3c&HE5FFFE&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 1,0:20:07.06,0:20:07.10,Signs,Currency,0,0,0,,{\an2\pos(636.87,323.91)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 0,0:20:07.10,0:20:07.14,Signs,Currency,0,0,0,,{\an2\pos(1450.98,384.765)\fax0.1\fnKomika Axis\fs120\b1\bord4.35\c&HF3FAF9&\3c&HECFDFF&\blur1.05}1,000 Yen
+Dialogue: 1,0:20:07.10,0:20:07.14,Signs,Currency,0,0,0,,{\an2\pos(1450.98,384.765)\fax0.1\fnKomika Axis\fs120\b1\c&H070A09&\blur1.05}1,000 Yen
+Dialogue: 0,0:20:07.10,0:20:07.14,Signs,Currency,0,0,0,,{\an2\pos(636.87,262.77)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HD8FDFC&\3c&HE5FFFE&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 1,0:20:07.10,0:20:07.14,Signs,Currency,0,0,0,,{\an2\pos(636.87,262.77)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 0,0:20:07.14,0:20:07.19,Signs,Currency,0,0,0,,{\an2\pos(1450.98,295.65)\fax0.1\fnKomika Axis\fs120\b1\bord4.35\c&HF3FAF9&\3c&HECFDFF&\blur1.05}1,000 Yen
+Dialogue: 1,0:20:07.14,0:20:07.19,Signs,Currency,0,0,0,,{\an2\pos(1450.98,295.65)\fax0.1\fnKomika Axis\fs120\b1\c&H070A09&\blur1.05}1,000 Yen
+Dialogue: 0,0:20:07.14,0:20:07.19,Signs,Currency,0,0,0,,{\an2\pos(970.005,1148.19)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.14,0:20:07.19,Signs,Currency,0,0,0,,{\an2\pos(970.005,1148.19)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.14,0:20:07.19,Signs,Currency,0,0,0,,{\an2\pos(636.87,173.625)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HD8FDFC&\3c&HE5FFFE&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 1,0:20:07.14,0:20:07.19,Signs,Currency,0,0,0,,{\an2\pos(636.87,173.625)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 0,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(1450.98,187.965)\fax0.1\fnKomika Axis\fs120\b1\bord4.35\c&HF3FAF9&\3c&HECFDFF&\blur1.05}1,000 Yen
+Dialogue: 1,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(1450.98,187.965)\fax0.1\fnKomika Axis\fs120\b1\c&H070A09&\blur1.05}1,000 Yen
+Dialogue: 0,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(970.005,1040.535)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(970.005,1040.535)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(1652.565,1087.29)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(1652.565,1087.29)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(636.87,65.97)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HD8FDFC&\3c&HE5FFFE&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 1,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(636.87,65.97)\fscy114\frz351\fax0.4\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}C{\frz348\fax0.36}o{\frz343\fax0.3}p{\frz338\fax0.2}p{\frz332\fax0.1}e{\frz330}r{\frz323\fax0.03\alpha&FF&}g{\frz319\fax0}u
+Dialogue: 0,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(375.615,1015.095)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.19,0:20:07.23,Signs,Currency,0,0,0,,{\an2\pos(375.615,1015.095)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(1450.98,70.935)\fax0.1\fnKomika Axis\fs120\b1\bord4.35\c&HF3FAF9&\3c&HECFDFF&\blur1.05}1,000 Yen
+Dialogue: 1,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(1450.98,70.935)\fax0.1\fnKomika Axis\fs120\b1\c&H070A09&\blur1.05}1,000 Yen
+Dialogue: 0,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(970.005,923.61)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(970.005,923.61)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(1652.565,970.35)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(1652.565,970.35)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(375.615,898.17)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.23,0:20:07.27,Signs,Currency,0,0,0,,{\an2\pos(375.615,898.17)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.27,0:20:07.31,Signs,Currency,0,0,0,,{\an2\pos(970.005,805.68)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.27,0:20:07.31,Signs,Currency,0,0,0,,{\an2\pos(970.005,805.68)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.27,0:20:07.31,Signs,Currency,0,0,0,,{\an2\pos(1652.565,852.42)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.27,0:20:07.31,Signs,Currency,0,0,0,,{\an2\pos(1652.565,852.42)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.27,0:20:07.31,Signs,Currency,0,0,0,,{\an2\pos(375.615,780.24)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.27,0:20:07.31,Signs,Currency,0,0,0,,{\an2\pos(375.615,780.24)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.31,0:20:07.35,Signs,Currency,0,0,0,,{\an2\pos(970.005,694.095)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.31,0:20:07.35,Signs,Currency,0,0,0,,{\an2\pos(970.005,694.095)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.31,0:20:07.35,Signs,Currency,0,0,0,,{\an2\pos(1652.565,740.76)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.31,0:20:07.35,Signs,Currency,0,0,0,,{\an2\pos(1652.565,740.76)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.31,0:20:07.35,Signs,Currency,0,0,0,,{\an2\pos(375.615,668.58)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.31,0:20:07.35,Signs,Currency,0,0,0,,{\an2\pos(375.615,668.58)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.35,0:20:07.39,Signs,Currency,0,0,0,,{\an2\pos(970.005,594.795)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.35,0:20:07.39,Signs,Currency,0,0,0,,{\an2\pos(970.005,594.795)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.35,0:20:07.39,Signs,Currency,0,0,0,,{\an2\pos(1652.565,641.46)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.35,0:20:07.39,Signs,Currency,0,0,0,,{\an2\pos(1652.565,641.46)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.35,0:20:07.39,Signs,Currency,0,0,0,,{\an2\pos(375.615,569.28)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.35,0:20:07.39,Signs,Currency,0,0,0,,{\an2\pos(375.615,569.28)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.39,0:20:07.44,Signs,Currency,0,0,0,,{\an2\pos(970.005,512.7)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.39,0:20:07.44,Signs,Currency,0,0,0,,{\an2\pos(970.005,512.7)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.39,0:20:07.44,Signs,Currency,0,0,0,,{\an2\pos(1652.565,559.365)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.39,0:20:07.44,Signs,Currency,0,0,0,,{\an2\pos(1652.565,559.365)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.39,0:20:07.44,Signs,Currency,0,0,0,,{\an2\pos(375.615,487.185)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.39,0:20:07.44,Signs,Currency,0,0,0,,{\an2\pos(375.615,487.185)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.44,0:20:07.48,Signs,Currency,0,0,0,,{\an2\pos(970.005,451.44)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.44,0:20:07.48,Signs,Currency,0,0,0,,{\an2\pos(970.005,451.44)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.44,0:20:07.48,Signs,Currency,0,0,0,,{\an2\pos(1652.565,498.105)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.44,0:20:07.48,Signs,Currency,0,0,0,,{\an2\pos(1652.565,498.105)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.44,0:20:07.48,Signs,Currency,0,0,0,,{\an2\pos(375.615,425.925)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.44,0:20:07.48,Signs,Currency,0,0,0,,{\an2\pos(375.615,425.925)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.48,0:20:07.52,Signs,Currency,0,0,0,,{\an2\pos(970.005,413.595)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.48,0:20:07.52,Signs,Currency,0,0,0,,{\an2\pos(970.005,413.595)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.48,0:20:07.52,Signs,Currency,0,0,0,,{\an2\pos(1652.565,460.245)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.48,0:20:07.52,Signs,Currency,0,0,0,,{\an2\pos(1652.565,460.245)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.48,0:20:07.52,Signs,Currency,0,0,0,,{\an2\pos(375.615,388.065)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.48,0:20:07.52,Signs,Currency,0,0,0,,{\an2\pos(375.615,388.065)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:07.52,0:20:08.31,Signs,Currency,0,0,0,,{\an2\pos(970.005,401.295)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:07.52,0:20:08.31,Signs,Currency,0,0,0,,{\an2\pos(970.005,401.295)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:07.52,0:20:08.31,Signs,Currency,0,0,0,,{\an2\pos(1652.565,447.93)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:07.52,0:20:08.31,Signs,Currency,0,0,0,,{\an2\pos(1652.565,447.93)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:07.52,0:20:08.31,Signs,Currency,0,0,0,,{\an2\pos(375.615,375.765)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:07.52,0:20:08.31,Signs,Currency,0,0,0,,{\an2\pos(375.615,375.765)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:08.31,0:20:08.35,Signs,Currency,0,0,0,,{\an2\pos(970.005,376.92)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:08.31,0:20:08.35,Signs,Currency,0,0,0,,{\an2\pos(970.005,376.92)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:08.31,0:20:08.35,Signs,Currency,0,0,0,,{\an2\pos(1652.565,423.585)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:08.31,0:20:08.35,Signs,Currency,0,0,0,,{\an2\pos(1652.565,423.585)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:08.31,0:20:08.35,Signs,Currency,0,0,0,,{\an2\pos(375.615,351.39)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:08.31,0:20:08.35,Signs,Currency,0,0,0,,{\an2\pos(375.615,351.39)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:08.35,0:20:08.40,Signs,Currency,0,0,0,,{\an2\pos(970.005,314.925)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:08.35,0:20:08.40,Signs,Currency,0,0,0,,{\an2\pos(970.005,314.925)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:08.35,0:20:08.40,Signs,Currency,0,0,0,,{\an2\pos(1652.565,361.605)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:08.35,0:20:08.40,Signs,Currency,0,0,0,,{\an2\pos(1652.565,361.605)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:08.35,0:20:08.40,Signs,Currency,0,0,0,,{\an2\pos(375.615,289.425)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:08.35,0:20:08.40,Signs,Currency,0,0,0,,{\an2\pos(375.615,289.425)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:08.40,0:20:08.44,Signs,Currency,0,0,0,,{\an2\pos(970.005,225.075)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:08.40,0:20:08.44,Signs,Currency,0,0,0,,{\an2\pos(970.005,225.075)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:08.40,0:20:08.44,Signs,Currency,0,0,0,,{\an2\pos(1652.565,271.74)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:08.40,0:20:08.44,Signs,Currency,0,0,0,,{\an2\pos(1652.565,271.74)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:08.40,0:20:08.44,Signs,Currency,0,0,0,,{\an2\pos(375.615,199.575)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:08.40,0:20:08.44,Signs,Currency,0,0,0,,{\an2\pos(375.615,199.575)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(970.005,116.94)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1F3FA&\3c&HE1F3FA&\blur1.05}10 Copper
+Dialogue: 1,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(970.005,116.94)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Copper
+Dialogue: 0,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(1652.565,163.62)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(1652.565,163.62)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(970.29,1026.735)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(970.29,1026.735)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(1666.71,1097.535)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(1666.71,1097.535)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(375.615,91.455)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HE5FFFE&\3c&HE5FFFE&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 1,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(375.615,91.455)\fscx99\fscy105\frz0.41\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}S{\frz-5\fax0.25}i{\frz-10\fax0.26}l{\frz-15\fax0.13}v{\frz-19\fax0.1}e{\frz-22\fax0.05}r
+Dialogue: 0,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(353.115,1013.265)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.44,0:20:08.48,Signs,Currency,0,0,0,,{\an2\pos(353.115,1013.265)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(1652.565,46.575)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDBF4F7&\3c&HDBF4F7&\blur1.05}10,000 Yen
+Dialogue: 1,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(1652.565,46.575)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}10,000 Yen
+Dialogue: 0,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(970.29,909.75)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(970.29,909.75)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(1666.71,980.55)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(1666.71,980.55)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(353.115,899.265)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.48,0:20:08.52,Signs,Currency,0,0,0,,{\an2\pos(353.115,899.265)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.52,0:20:08.56,Signs,Currency,0,0,0,,{\an2\pos(970.29,791.88)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.52,0:20:08.56,Signs,Currency,0,0,0,,{\an2\pos(970.29,791.88)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.52,0:20:08.56,Signs,Currency,0,0,0,,{\an2\pos(1666.71,862.695)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.52,0:20:08.56,Signs,Currency,0,0,0,,{\an2\pos(1666.71,862.695)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.52,0:20:08.56,Signs,Currency,0,0,0,,{\an2\pos(353.115,781.425)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.52,0:20:08.56,Signs,Currency,0,0,0,,{\an2\pos(353.115,781.425)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.56,0:20:08.60,Signs,Currency,0,0,0,,{\an2\pos(970.29,680.55)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.56,0:20:08.60,Signs,Currency,0,0,0,,{\an2\pos(970.29,680.55)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.56,0:20:08.60,Signs,Currency,0,0,0,,{\an2\pos(1666.71,751.365)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.56,0:20:08.60,Signs,Currency,0,0,0,,{\an2\pos(1666.71,751.365)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.56,0:20:08.60,Signs,Currency,0,0,0,,{\an2\pos(353.115,670.14)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.56,0:20:08.60,Signs,Currency,0,0,0,,{\an2\pos(353.115,670.14)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.60,0:20:08.65,Signs,Currency,0,0,0,,{\an2\pos(970.29,581.835)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.60,0:20:08.65,Signs,Currency,0,0,0,,{\an2\pos(970.29,581.835)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.60,0:20:08.65,Signs,Currency,0,0,0,,{\an2\pos(1666.71,652.635)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.60,0:20:08.65,Signs,Currency,0,0,0,,{\an2\pos(1666.71,652.635)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.60,0:20:08.65,Signs,Currency,0,0,0,,{\an2\pos(353.115,571.455)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.60,0:20:08.65,Signs,Currency,0,0,0,,{\an2\pos(353.115,571.455)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.65,0:20:08.69,Signs,Currency,0,0,0,,{\an2\pos(970.29,500.235)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.65,0:20:08.69,Signs,Currency,0,0,0,,{\an2\pos(970.29,500.235)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.65,0:20:08.69,Signs,Currency,0,0,0,,{\an2\pos(1666.71,571.035)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.65,0:20:08.69,Signs,Currency,0,0,0,,{\an2\pos(1666.71,571.035)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.65,0:20:08.69,Signs,Currency,0,0,0,,{\an2\pos(353.115,489.795)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.65,0:20:08.69,Signs,Currency,0,0,0,,{\an2\pos(353.115,489.795)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.69,0:20:08.73,Signs,Currency,0,0,0,,{\an2\pos(970.29,439.425)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.69,0:20:08.73,Signs,Currency,0,0,0,,{\an2\pos(970.29,439.425)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.69,0:20:08.73,Signs,Currency,0,0,0,,{\an2\pos(1666.71,510.225)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.69,0:20:08.73,Signs,Currency,0,0,0,,{\an2\pos(1666.71,510.225)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.69,0:20:08.73,Signs,Currency,0,0,0,,{\an2\pos(353.115,429)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.69,0:20:08.73,Signs,Currency,0,0,0,,{\an2\pos(353.115,429)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.73,0:20:08.77,Signs,Currency,0,0,0,,{\an2\pos(970.29,402.465)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.73,0:20:08.77,Signs,Currency,0,0,0,,{\an2\pos(970.29,402.465)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.73,0:20:08.77,Signs,Currency,0,0,0,,{\an2\pos(1666.71,473.265)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.73,0:20:08.77,Signs,Currency,0,0,0,,{\an2\pos(1666.71,473.265)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.73,0:20:08.77,Signs,Currency,0,0,0,,{\an2\pos(353.115,392.04)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.73,0:20:08.77,Signs,Currency,0,0,0,,{\an2\pos(353.115,392.04)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:08.77,0:20:09.56,Signs,Currency,0,0,0,,{\an2\pos(970.29,390.9)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:08.77,0:20:09.56,Signs,Currency,0,0,0,,{\an2\pos(970.29,390.9)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:08.77,0:20:09.56,Signs,Currency,0,0,0,,{\an2\pos(1666.71,461.715)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:08.77,0:20:09.56,Signs,Currency,0,0,0,,{\an2\pos(1666.71,461.715)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:08.77,0:20:09.56,Signs,Currency,0,0,0,,{\an2\pos(353.115,380.475)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:08.77,0:20:09.56,Signs,Currency,0,0,0,,{\an2\pos(353.115,380.475)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:09.56,0:20:09.60,Signs,Currency,0,0,0,,{\an2\pos(970.29,365.175)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:09.56,0:20:09.60,Signs,Currency,0,0,0,,{\an2\pos(970.29,365.175)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:09.56,0:20:09.60,Signs,Currency,0,0,0,,{\an2\pos(1666.71,435.975)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:09.56,0:20:09.60,Signs,Currency,0,0,0,,{\an2\pos(1666.71,435.975)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:09.56,0:20:09.60,Signs,Currency,0,0,0,,{\an2\pos(353.115,354.75)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:09.56,0:20:09.60,Signs,Currency,0,0,0,,{\an2\pos(353.115,354.75)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:09.60,0:20:09.65,Signs,Currency,0,0,0,,{\an2\pos(970.29,302.28)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:09.60,0:20:09.65,Signs,Currency,0,0,0,,{\an2\pos(970.29,302.28)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:09.60,0:20:09.65,Signs,Currency,0,0,0,,{\an2\pos(1666.71,373.08)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:09.60,0:20:09.65,Signs,Currency,0,0,0,,{\an2\pos(1666.71,373.08)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:09.60,0:20:09.65,Signs,Currency,0,0,0,,{\an2\pos(353.115,291.825)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:09.60,0:20:09.65,Signs,Currency,0,0,0,,{\an2\pos(353.115,291.825)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(970.29,211.62)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(970.29,211.62)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(1666.71,282.42)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(1666.71,282.42)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(995.79,1130.34)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(995.79,1130.34)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(353.115,201.24)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(353.115,201.24)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(450.21,1115.985)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.65,0:20:09.69,Signs,Currency,0,0,0,,{\an2\pos(450.21,1115.985)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(970.29,103.035)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HF8FDFD&\3c&HF8FDFD&\blur1.05}10 Silver
+Dialogue: 1,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(970.29,103.035)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Silver
+Dialogue: 0,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(1666.71,173.835)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(1666.71,173.835)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(995.79,1021.77)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(995.79,1021.77)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(1636.71,1099.935)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(1636.71,1099.935)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(353.115,92.67)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\bord0.15\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 1,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(353.115,92.67)\fscx99\fscy105\frx358\fax0.26\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}G{\frz-6\fax0.2}o{\frz-9\fax0.15}l{\frz-12\fax0.13}d
+Dialogue: 0,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(450.21,1007.415)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.69,0:20:09.73,Signs,Currency,0,0,0,,{\an2\pos(450.21,1007.415)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(1666.71,56.73)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HDCF6F7&\3c&HDCF6F7&\blur1.05}100,000 Yen
+Dialogue: 1,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(1666.71,56.73)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}100,000 Yen
+Dialogue: 0,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(995.79,904.635)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(995.79,904.635)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(1636.71,982.8)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(1636.71,982.8)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(450.21,890.28)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.73,0:20:09.77,Signs,Currency,0,0,0,,{\an2\pos(450.21,890.28)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.77,0:20:09.81,Signs,Currency,0,0,0,,{\an2\pos(995.79,786.93)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.77,0:20:09.81,Signs,Currency,0,0,0,,{\an2\pos(995.79,786.93)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.77,0:20:09.81,Signs,Currency,0,0,0,,{\an2\pos(1636.71,865.095)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.77,0:20:09.81,Signs,Currency,0,0,0,,{\an2\pos(1636.71,865.095)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.77,0:20:09.81,Signs,Currency,0,0,0,,{\an2\pos(450.21,772.59)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.77,0:20:09.81,Signs,Currency,0,0,0,,{\an2\pos(450.21,772.59)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.81,0:20:09.86,Signs,Currency,0,0,0,,{\an2\pos(995.79,675.99)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.81,0:20:09.86,Signs,Currency,0,0,0,,{\an2\pos(995.79,675.99)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.81,0:20:09.86,Signs,Currency,0,0,0,,{\an2\pos(1636.71,754.155)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.81,0:20:09.86,Signs,Currency,0,0,0,,{\an2\pos(1636.71,754.155)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.81,0:20:09.86,Signs,Currency,0,0,0,,{\an2\pos(450.21,661.635)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.81,0:20:09.86,Signs,Currency,0,0,0,,{\an2\pos(450.21,661.635)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.86,0:20:09.90,Signs,Currency,0,0,0,,{\an2\pos(995.79,577.605)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.86,0:20:09.90,Signs,Currency,0,0,0,,{\an2\pos(995.79,577.605)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.86,0:20:09.90,Signs,Currency,0,0,0,,{\an2\pos(1636.71,655.77)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.86,0:20:09.90,Signs,Currency,0,0,0,,{\an2\pos(1636.71,655.77)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.86,0:20:09.90,Signs,Currency,0,0,0,,{\an2\pos(450.21,563.25)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.86,0:20:09.90,Signs,Currency,0,0,0,,{\an2\pos(450.21,563.25)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.90,0:20:09.94,Signs,Currency,0,0,0,,{\an2\pos(995.79,496.575)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.90,0:20:09.94,Signs,Currency,0,0,0,,{\an2\pos(995.79,496.575)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.90,0:20:09.94,Signs,Currency,0,0,0,,{\an2\pos(1636.71,574.74)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.90,0:20:09.94,Signs,Currency,0,0,0,,{\an2\pos(1636.71,574.74)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.90,0:20:09.94,Signs,Currency,0,0,0,,{\an2\pos(450.21,482.235)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.90,0:20:09.94,Signs,Currency,0,0,0,,{\an2\pos(450.21,482.235)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.94,0:20:09.98,Signs,Currency,0,0,0,,{\an2\pos(995.79,436.65)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.94,0:20:09.98,Signs,Currency,0,0,0,,{\an2\pos(995.79,436.65)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.94,0:20:09.98,Signs,Currency,0,0,0,,{\an2\pos(1636.71,514.815)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.94,0:20:09.98,Signs,Currency,0,0,0,,{\an2\pos(1636.71,514.815)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.94,0:20:09.98,Signs,Currency,0,0,0,,{\an2\pos(450.21,422.295)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.94,0:20:09.98,Signs,Currency,0,0,0,,{\an2\pos(450.21,422.295)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:09.98,0:20:10.02,Signs,Currency,0,0,0,,{\an2\pos(995.79,400.47)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:09.98,0:20:10.02,Signs,Currency,0,0,0,,{\an2\pos(995.79,400.47)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:09.98,0:20:10.02,Signs,Currency,0,0,0,,{\an2\pos(1636.71,478.635)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:09.98,0:20:10.02,Signs,Currency,0,0,0,,{\an2\pos(1636.71,478.635)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:09.98,0:20:10.02,Signs,Currency,0,0,0,,{\an2\pos(450.21,386.115)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:09.98,0:20:10.02,Signs,Currency,0,0,0,,{\an2\pos(450.21,386.115)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:20:10.02,0:20:10.48,Signs,Currency,0,0,0,,{\an2\pos(995.79,389.505)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\bord4.35\c&HE1FBFC&\3c&HE1FBFC&\blur1.05}10 Gold
+Dialogue: 1,0:20:10.02,0:20:10.48,Signs,Currency,0,0,0,,{\an2\pos(995.79,389.505)\fscx130\fscy132\fax0.1\fnKomika Axis\fs135\fsp3\b1\c&H060A0A&\blur1.05}10 Gold
+Dialogue: 0,0:20:10.02,0:20:10.48,Signs,Currency,0,0,0,,{\an2\pos(1636.71,467.67)\fax0.1\fnKomika Axis\fs75\b1\bord4.35\c&HE9FEFF&\3c&HE4FAFD&\blur1.05}1,000,000 Yen
+Dialogue: 1,0:20:10.02,0:20:10.48,Signs,Currency,0,0,0,,{\an2\pos(1636.71,467.67)\fax0.1\fnKomika Axis\fs75\b1\c&H020908&\blur1.05}1,000,000 Yen
+Dialogue: 0,0:20:10.02,0:20:10.48,Signs,Currency,0,0,0,,{\an2\pos(450.21,375.15)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\bord0.75\c&HC7F5F7&\3c&HC7F5F7&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 1,0:20:10.02,0:20:10.48,Signs,Currency,0,0,0,,{\an2\pos(450.21,375.15)\fscy114\frz351\fax0.3\fnKomika Axis\fs75\fsp3\b1\c&H090B0A&\blur1.05}P{\frz348\fax0.25}l{\frz343\fax0.2}a{\frz337\fax0.15}t{\frz330\fax0.08}i{\frz325\fax0.09}n{\frz320\fax0.06}u{\frz315\fax0}m
+Dialogue: 0,0:02:51.03,0:02:56.03,Signs,Title,0,0,0,,{\pos(960,300)\fnBPreplay\fs95\bord9\3c&H8A58F9&\blur12}Chapter 2
+Dialogue: 1,0:02:51.03,0:02:56.03,Signs,Title,0,0,0,,{\pos(960,300)\fnBPreplay\fs95\bord6.75\c&H8A58F9&\3c&H8A58F9&\blur0.6}Chapter 2
+Dialogue: 2,0:02:51.03,0:02:56.03,Signs,Title,0,0,0,,{\pos(960,300)\fnBPreplay\fs95\3c&H8A58F9&\blur0.6}Chapter 2
+Dialogue: 0,0:02:51.03,0:02:56.03,Signs,Title,0,0,0,,{\pos(960,780)\fnBPreplay\fs95\bord9\3c&H8A58F9&\blur12}First Journey, and Samurai
+Dialogue: 1,0:02:51.03,0:02:56.03,Signs,Title,0,0,0,,{\pos(960,780)\fnBPreplay\fs95\bord6.75\c&H8A58F9&\3c&H8A58F9&\blur0.6}First Journey, and Samurai
+Dialogue: 2,0:02:51.03,0:02:56.03,Signs,Title,0,0,0,,{\pos(960,780)\fnBPreplay\fs95\3c&H8A58F9&\blur0.6}First Journey, and Samurai
+Dialogue: 0,0:22:27.45,0:22:30.79,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}harisakesou kikoechau
+Dialogue: 0,0:22:30.79,0:22:33.21,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}kodo no oto ga
+Dialogue: 0,0:22:33.21,0:22:36.63,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}dare yori mo dare yori mo
+Dialogue: 0,0:22:36.63,0:22:40.13,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}kimi no mae ja kawaiku itai kara
+Dialogue: 0,0:22:40.13,0:22:42.13,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}masa ni Dangerous
+Dialogue: 0,0:22:41.34,0:22:43.09,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,300)}Dangerous
+Dialogue: 0,0:22:42.13,0:22:46.18,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}sono egao mujaki sugiru ne
+Dialogue: 0,0:22:43.09,0:22:46.18,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,0)}sono egao
+Dialogue: 0,0:22:46.18,0:22:49.56,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}kakusenai yo mitame yori
+Dialogue: 0,0:22:49.56,0:22:52.89,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,300)}uso ga heta na no
+Dialogue: 0,0:22:54.27,0:22:57.11,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}sowasowa
+Dialogue: 0,0:22:55.77,0:22:58.52,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,300)}fuwafuwa
+Dialogue: 0,0:22:57.11,0:23:00.78,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}chotto matte junbi undouchuu
+Dialogue: 0,0:23:00.78,0:23:03.03,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}hajimete wa donna aji
+Dialogue: 0,0:23:03.03,0:23:06.11,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}tashikamete hoshii yo
+Dialogue: 0,0:23:05.28,0:23:07.57,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,300)}Kiss Me!
+Dialogue: 0,0:23:06.11,0:23:09.53,EDRomaji1,,0,0,0,,{\blur0.75\fade(100,100)}moshi kamisama ga iru no nara
+Dialogue: 0,0:23:09.53,0:23:12.91,EDRomaji1,,0,0,0,,{\blur0.75\fade(100,150)}kono kimochi ga todoku no nara
+Dialogue: 0,0:23:12.91,0:23:15.92,EDRomaji1,,0,0,0,,{\blur0.75}kirakira no mahou wo kakeru yo
+Dialogue: 0,0:23:15.92,0:23:18.96,EDRomaji1,,0,0,0,,{\blur0.75}kotaete junjou Emotions aru
+Dialogue: 0,0:23:18.96,0:23:22.30,EDRomaji1,,0,0,0,,{\blur0.75}daitan na koe ga tsuyogaru no
+Dialogue: 0,0:23:22.30,0:23:26.05,EDRomaji1,,0,0,0,,{\blur0.75}me no mae no kimi ni todokechaun da
+Dialogue: 0,0:23:27.64,0:23:29.72,EDRomaji1,,0,0,0,,{\blur0.75}gikochinai mama de
+Dialogue: 0,0:23:30.56,0:23:33.39,EDRomaji1,,0,0,0,,{\blur0.75}sugu ni tsutaetai yo
+Dialogue: 0,0:22:27.45,0:22:30.79,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}My pounding heart is ready to burst.
+Dialogue: 0,0:22:30.79,0:22:33.21,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}As I listen to it,
+Dialogue: 0,0:22:33.21,0:22:36.63,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}More than anyone, more than anyone,
+Dialogue: 0,0:22:36.63,0:22:40.13,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}I want to be attractive in front of you.
+Dialogue: 0,0:22:40.13,0:22:42.13,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}Just dangerous.
+Dialogue: 0,0:22:41.34,0:22:43.09,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,300)}Dangerous
+Dialogue: 0,0:22:42.13,0:22:46.18,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}That smile is just too innocent.
+Dialogue: 0,0:22:43.09,0:22:46.18,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,0)}That smile
+Dialogue: 0,0:22:46.18,0:22:49.56,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}Your appearance can't hide it.
+Dialogue: 0,0:22:49.56,0:22:52.89,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,300)}Are you a bad liar?
+Dialogue: 0,0:22:54.27,0:22:57.11,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}I am anxious...
+Dialogue: 0,0:22:55.77,0:22:58.52,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,300)}and light-headed.
+Dialogue: 0,0:22:57.11,0:23:00.78,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}Just a moment. I am warming up.
+Dialogue: 0,0:23:00.78,0:23:03.03,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}What is the first time like?
+Dialogue: 0,0:23:03.03,0:23:06.11,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}I want to know!
+Dialogue: 0,0:23:05.28,0:23:07.57,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,300)}Kiss Me!
+Dialogue: 0,0:23:06.11,0:23:09.53,EDTranslation1,,0,0,0,,{\blur0.75\fade(100,100)}If God exists,
+Dialogue: 0,0:23:09.53,0:23:12.91,EDTranslation1,,0,0,0,,{\blur0.75\fade(100,150)}If these feelings reach you,
+Dialogue: 0,0:23:12.91,0:23:15.92,EDTranslation1,,0,0,0,,{\blur0.75}I will cast a sparkling spell that
+Dialogue: 0,0:23:15.92,0:23:18.96,EDTranslation1,,0,0,0,,{\blur0.75}Responds to my pure emotions.{answer?;glimpse?}
+Dialogue: 0,0:23:18.96,0:23:22.30,EDTranslation1,,0,0,0,,{\blur0.75}Acting tough with a daring voice,
+Dialogue: 0,0:23:22.30,0:23:26.05,EDTranslation1,,0,0,0,,{\blur0.75}I want to confess in front of you.{tell?,send?}
+Dialogue: 0,0:23:27.64,0:23:29.72,EDTranslation1,,0,0,0,,{\blur0.75}Stay awkward.
+Dialogue: 0,0:23:30.56,0:23:33.39,EDTranslation1,,0,0,0,,{\blur0.75}I will tell you soon.{want?;give it?,confess?}
+Dialogue: 0,0:01:27.03,0:01:28.61,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k28}ko{\k16}no {\k18}te {\k10}de {\k34}tsu{\k16}ka{\k34}me{\k3}
+Dialogue: 0,0:01:28.61,0:01:30.24,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k33}ko{\k12}no {\k18}te {\k14}de {\k28}tsu{\k22}na{\k30}ge{\k5}
+Dialogue: 0,0:01:30.24,0:01:34.99,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k41}ko{\k14}no {\k18}mi{\k14}ra{\k26}i {\k22}wo {\k32}u{\k28}ke{\k22}tsu{\k30}i{\k34}de{\k22}i{\k32}kun {\k108}da{\k33}
+Dialogue: 0,0:01:34.99,0:01:37.99,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k30}i{\k22}ma {\k22}wo {\k26}hi{\k30}ki{\k24}ka{\k38}e {\k38}ni {\k46}shi{\k20}te{\k3}
+Dialogue: 0,0:01:37.99,0:01:39.37,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k41}Ca{\k18}rry {\k22}on {\k18}Ca{\k22}rry {\k19}on
+Dialogue: 0,0:01:39.37,0:01:43.79,OP_Romaji,,0,0,0,,{\blur0.9\fade(0,400)}{\k25}i{\k22}i {\k61}ka {\k11}i{\k12}ku {\k42}zo {\k40}Fly {\k160}High{\k6}
+Dialogue: 0,0:01:51.01,0:01:54.43,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k86}Stop{\k20} {\k20}te {\k32}wo {\k30}ka{\k12}za{\k40}shi{\k28}ta {\k14}da{\k14}ke {\k44}ja{\k2}
+Dialogue: 0,0:01:54.43,0:01:57.60,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k64}Life{\k18} {\k20}na{\k30}ni{\k38}mo {\k18}ka{\k36}wa{\k22}ra{\k30}na{\k30}i{\k3}
+Dialogue: 0,0:01:57.60,0:02:00.98,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k95}Shine{\k10} {\k26}hi{\k30}ka{\k28}ri {\k14}no {\k20}sa{\k38}su {\k14}ba{\k16}sho {\k32}he{\k5}
+Dialogue: 0,0:02:00.98,0:02:04.77,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k55}ma{\k26}na{\k16}za{\k42}shi {\k26}wo {\k16}u{\k36}chi{\k56}kon{\k68}de{\k2}
+Dialogue: 0,0:02:04.77,0:02:07.94,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k15}hi{\k18}to {\k16}wa {\k30}da{\k20}re{\k22}mo {\k30}ga {\k60}mi{\k62}nna{\k4}
+Dialogue: 0,0:02:07.94,0:02:11.11,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k42}ta{\k12}bi{\k18}bi{\k30}to {\k20}no {\k24}you {\k22}ni {\k42}i{\k38}ki{\k62}ru{\k5}
+Dialogue: 0,0:02:11.11,0:02:12.24,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k40}chi{\k23}ka{\k11}i {\k20}wo{\k2}
+Dialogue: 0,0:02:12.24,0:02:12.95,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k10}(chi{\k16}ka{\k18}i {\k19}wo){\k0}
+Dialogue: 0,0:02:12.95,0:02:13.91,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k15}ki{\k31}zan{\k28}de
+Dialogue: 0,0:02:13.91,0:02:14.70,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k15}(ki{\k32}zan{\k18}de)
+Dialogue: 0,0:02:14.70,0:02:19.95,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,0)}{\k30}ha{\k22}te {\k10}na{\k24}i {\k32}so{\k18}ra {\k20}he {\k124}to{\k12} {\k14}ha{\k16}na{\k170}te{\k33}
+Dialogue: 0,0:02:19.95,0:02:21.50,OP_Romaji,,0,0,0,,{\blur0.9\fade(0,150)}{\k33}so{\k12}no {\k18}te {\k14}de {\k34}tsu{\k20}ka{\k18}me{\k5}
+Dialogue: 0,0:02:21.50,0:02:23.12,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k43}so{\k12}no {\k16}te {\k12}de {\k28}tsu{\k28}na{\k22}ge{\k2}
+Dialogue: 0,0:02:23.12,0:02:26.46,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k46}so{\k10}no {\k22}se{\k14}ka{\k32}i {\k18}wa {\k30}se{\k24}ma{\k32}su{\k22}gi{\k42}ru {\k18}ka{\k22}ra{\k2}
+Dialogue: 0,0:02:26.46,0:02:28.00,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k40}so{\k20}no {\k14}a{\k18}shi {\k20}de {\k30}yu{\k12}ke
+Dialogue: 0,0:02:28.00,0:02:29.96,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k52}so{\k16}no {\k16}mi{\k18}mi {\k24}de {\k22}ki{\k32}ke
+Dialogue: 0,0:02:29.96,0:02:33.05,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k24}so{\k12}no {\k18}ri{\k22}a{\k22}ru {\k20}wa {\k30}tsu{\k26}ku{\k28}ri{\k32}mo{\k22}no {\k14}de{\k23}shou?
+Dialogue: 0,0:02:33.05,0:02:34.68,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k49}ko{\k14}no {\k12}te {\k18}de {\k26}tsu{\k24}ka{\k19}me
+Dialogue: 0,0:02:34.68,0:02:36.30,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k51}ko{\k14}no {\k16}te {\k10}de {\k34}tsu{\k18}na{\k20}ge
+Dialogue: 0,0:02:36.30,0:02:41.22,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k54}ko{\k10}no {\k24}mi{\k14}ra{\k26}i {\k18}wo {\k34}u{\k28}ke{\k26}tsu{\k32}i{\k28}de{\k20}i{\k32}kun {\k94}da{\k6}
+Dialogue: 0,0:02:41.22,0:02:44.27,OP_Romaji,,0,0,0,,{\blur0.9\fade(0,150,))\k26}i{\k20}ma {\k20}wo {\k38}hi{\k28}ki{\k22}ka{\k36}e {\k32}ni {\k52}shi{\k26}te{\k5}
+Dialogue: 0,0:02:44.27,0:02:45.56,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k18}Ca{\k14}rry {\k38}on {\k18}Ca{\k16}rry {\k16}on{\k0}
+Dialogue: 0,0:02:45.56,0:02:49.61,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,300)}{\k24}i{\k22}i {\k44}ka{\k16} {\k14}i{\k14}ku {\k34}zo {\k44}Fly {\k180}High{\k0}
+Dialogue: 0,0:01:27.03,0:01:28.61,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Grasp it with these hands!
+Dialogue: 0,0:01:28.61,0:01:30.24,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Connect it with these hands!
+Dialogue: 0,0:01:30.24,0:01:34.99,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}We will go on to inherit this future!
+Dialogue: 0,0:01:34.99,0:01:37.99,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Giving our present time in exchange,
+Dialogue: 0,0:01:37.99,0:01:39.37,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Carry on, carry on.
+Dialogue: 0,0:01:39.37,0:01:43.79,OP_Translation,,0,0,0,,{\blur0.9\fade(0,400)}Are you ready? Let's go, fly high!
+Dialogue: 0,0:01:51.01,0:01:54.43,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Stop! Merely raising your hands
+Dialogue: 0,0:01:54.43,0:01:57.60,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}to the sky will not change your Life.
+Dialogue: 0,0:01:57.60,0:02:00.98,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Shine! Cast your gaze toward
+Dialogue: 0,0:02:00.98,0:02:04.77,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}where the light shines.
+Dialogue: 0,0:02:04.77,0:02:07.94,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Everybody lives
+Dialogue: 0,0:02:07.94,0:02:11.11,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}as a traveler,
+Dialogue: 0,0:02:11.11,0:02:12.24,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Carve out
+Dialogue: 0,0:02:12.24,0:02:12.95,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}(carve out)
+Dialogue: 0,0:02:12.95,0:02:13.91,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}new vows
+Dialogue: 0,0:02:13.91,0:02:14.70,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}(new vows)
+Dialogue: 0,0:02:14.70,0:02:19.95,OP_Translation,,0,0,0,,{\blur0.9\fade(150,0)}And release them to the limitless sky!
+Dialogue: 0,0:02:19.95,0:02:21.50,OP_Translation,,0,0,0,,{\blur0.9\fade(0,150)}Grasp it with those hands!
+Dialogue: 0,0:02:21.50,0:02:23.12,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Connect it with those hands!
+Dialogue: 0,0:02:23.12,0:02:26.46,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}That world is too small as is.
+Dialogue: 0,0:02:26.46,0:02:28.00,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Keep going with those legs!
+Dialogue: 0,0:02:28.00,0:02:29.96,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Listen with those ears!
+Dialogue: 0,0:02:29.96,0:02:33.05,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}That reality is just an imitation, right?
+Dialogue: 0,0:02:33.05,0:02:34.68,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Grasp it with these hands!
+Dialogue: 0,0:02:34.68,0:02:36.30,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Connect it with these hands!
+Dialogue: 0,0:02:36.30,0:02:41.22,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}We will go on to inherit this future!
+Dialogue: 0,0:02:41.22,0:02:44.27,OP_Translation,,0,0,0,,{\blur0.9\fade(0,150)}Giving our present time in exchange,
+Dialogue: 0,0:02:44.27,0:02:45.56,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Carry on, carry on.
+Dialogue: 0,0:02:45.56,0:02:49.61,OP_Translation,,0,0,0,,{\blur0.9\fade(150,300)}Are you ready? Let's go, fly high!
+Dialogue: 1,0:01:27.03,0:01:27.61,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(738.075,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ko
+Dialogue: 1,0:01:27.32,0:01:27.78,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(796.695,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:01:27.48,0:01:27.94,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(872.91,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:01:27.65,0:01:28.07,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(949.11,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:01:27.73,0:01:28.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1040.145,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:01:28.11,0:01:28.57,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1110.165,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:01:28.23,0:01:28.90,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1175.025,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}me
+Dialogue: 1,0:01:28.61,0:01:29.24,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(743.64,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ko
+Dialogue: 1,0:01:28.94,0:01:29.36,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(802.26,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:01:29.07,0:01:29.57,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(878.475,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:01:29.24,0:01:29.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(954.675,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:01:29.40,0:01:29.99,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1045.71,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:01:29.65,0:01:30.19,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1116.405,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:01:29.90,0:01:30.49,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1175.7,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ge
+Dialogue: 1,0:01:30.24,0:01:30.95,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(584.79,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ko
+Dialogue: 1,0:01:30.65,0:01:31.07,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(643.425,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:01:30.78,0:01:31.28,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(722.565,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mi
+Dialogue: 1,0:01:30.99,0:01:31.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(779.325,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ra
+Dialogue: 1,0:01:31.11,0:01:31.65,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(815.01,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:31.36,0:01:31.90,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(879.345,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo
+Dialogue: 1,0:01:31.57,0:01:32.20,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(950.385,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}u
+Dialogue: 1,0:01:31.90,0:01:32.49,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(994.2,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ke
+Dialogue: 1,0:01:32.20,0:01:32.70,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1064.22,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:01:32.41,0:01:33.03,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1113.345,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:32.70,0:01:33.36,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1151.1,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:01:33.03,0:01:33.57,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1188.84,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:33.28,0:01:33.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1240.74,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}kun
+Dialogue: 1,0:01:33.57,0:01:34.99,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1334.55,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}da
+Dialogue: 1,0:01:34.99,0:01:35.62,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(671.685,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:35.28,0:01:35.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(715.665,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ma
+Dialogue: 1,0:01:35.53,0:01:36.03,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(807.78,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo
+Dialogue: 1,0:01:35.74,0:01:36.28,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(886.92,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}hi
+Dialogue: 1,0:01:35.99,0:01:36.62,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(932.1,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ki
+Dialogue: 1,0:01:36.28,0:01:36.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(983.325,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:01:36.53,0:01:37.20,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1027.14,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}e
+Dialogue: 1,0:01:36.91,0:01:37.62,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1085.22,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ni
+Dialogue: 1,0:01:37.29,0:01:38.08,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1166.235,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}shi
+Dialogue: 1,0:01:37.74,0:01:38.24,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1230.195,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:01:37.99,0:01:38.70,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(759.105,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Ca
+Dialogue: 1,0:01:38.41,0:01:38.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(829.815,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}rry
+Dialogue: 1,0:01:38.58,0:01:39.12,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(920.175,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}on
+Dialogue: 1,0:01:38.83,0:01:39.29,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1000.515,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Ca
+Dialogue: 1,0:01:39.00,0:01:39.50,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1071.225,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}rry
+Dialogue: 1,0:01:39.20,0:01:39.70,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1161.585,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}on
+Dialogue: 1,0:01:39.37,0:01:39.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(718.095,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:39.62,0:01:40.16,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(734.295,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:39.87,0:01:40.75,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(791.715,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:01:40.46,0:01:40.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(849.135,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:40.58,0:01:41.00,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(886.215,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ku
+Dialogue: 1,0:01:40.71,0:01:41.41,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(962.835,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}zo
+Dialogue: 1,0:01:41.12,0:01:41.79,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1046.73,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Fly
+Dialogue: 1,0:01:41.50,0:01:43.42,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1156.665,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}High
+Dialogue: 1,0:01:51.01,0:01:52.18,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(645.075,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Stop
+Dialogue: 1,0:01:52.05,0:01:52.55,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(748.2,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:01:52.26,0:01:52.88,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(830.64,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo
+Dialogue: 1,0:01:52.59,0:01:53.18,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(915.84,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:01:52.88,0:01:53.30,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(972.12,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}za
+Dialogue: 1,0:01:53.01,0:01:53.72,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1037.16,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}shi
+Dialogue: 1,0:01:53.43,0:01:54.01,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1101.12,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ta
+Dialogue: 1,0:01:53.68,0:01:54.14,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1177.32,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}da
+Dialogue: 1,0:01:53.84,0:01:54.26,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1235.955,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ke
+Dialogue: 1,0:01:53.97,0:01:54.72,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1308.375,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ja
+Dialogue: 1,0:01:54.43,0:01:55.39,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(720.99,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Life
+Dialogue: 1,0:01:55.26,0:01:55.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(819.225,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:01:55.47,0:01:56.05,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(871.8,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ni
+Dialogue: 1,0:01:55.76,0:01:56.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(930.6,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mo
+Dialogue: 1,0:01:56.14,0:01:56.60,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1015.8,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:01:56.30,0:01:56.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1080.675,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wa
+Dialogue: 1,0:01:56.68,0:01:57.18,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1144.155,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ra
+Dialogue: 1,0:01:56.89,0:01:57.47,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1201.395,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:01:57.18,0:01:57.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1239.135,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:01:57.60,0:01:58.85,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(643.65,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Shine
+Dialogue: 1,0:01:58.64,0:01:59.22,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(755.01,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}hi
+Dialogue: 1,0:01:58.89,0:01:59.52,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(806.91,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:01:59.22,0:01:59.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(856.755,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ri
+Dialogue: 1,0:01:59.47,0:01:59.93,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(927.615,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:01:59.64,0:02:00.14,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1007.265,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}sa
+Dialogue: 1,0:01:59.85,0:02:00.52,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1066.56,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}su
+Dialogue: 1,0:02:00.22,0:02:00.64,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1146.195,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ba
+Dialogue: 1,0:02:00.35,0:02:00.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1220.325,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}sho
+Dialogue: 1,0:02:00.52,0:02:01.14,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1314.78,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}he
+Dialogue: 1,0:02:00.98,0:02:01.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(683.385,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ma
+Dialogue: 1,0:02:01.52,0:02:02.10,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(748.905,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:02:01.81,0:02:02.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(805.845,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}za
+Dialogue: 1,0:02:01.93,0:02:02.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(870.885,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}shi
+Dialogue: 1,0:02:02.35,0:02:02.94,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(964.86,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo
+Dialogue: 1,0:02:02.64,0:02:03.10,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1035.915,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}u
+Dialogue: 1,0:02:02.81,0:02:03.44,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1088.175,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}chi
+Dialogue: 1,0:02:03.14,0:02:04.02,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1169.4,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}kon
+Dialogue: 1,0:02:03.73,0:02:04.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1242.855,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:04.77,0:02:05.23,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(660.81,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}hi
+Dialogue: 1,0:02:04.94,0:02:05.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(709.95,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}to
+Dialogue: 1,0:02:05.10,0:02:05.56,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(792.39,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wa
+Dialogue: 1,0:02:05.27,0:02:05.86,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(878.265,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}da
+Dialogue: 1,0:02:05.56,0:02:06.06,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(935.505,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}re
+Dialogue: 1,0:02:05.77,0:02:06.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(998.985,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mo
+Dialogue: 1,0:02:05.98,0:02:06.61,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1084.86,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ga
+Dialogue: 1,0:02:06.27,0:02:07.19,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1164.015,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mi
+Dialogue: 1,0:02:06.90,0:02:07.82,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1237.635,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}nna
+Dialogue: 1,0:02:07.94,0:02:08.65,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(692.265,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ta
+Dialogue: 1,0:02:08.36,0:02:08.78,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(741.405,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}bi
+Dialogue: 1,0:02:08.44,0:02:08.94,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(787.245,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}bi
+Dialogue: 1,0:02:08.65,0:02:09.23,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(836.385,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}to
+Dialogue: 1,0:02:08.94,0:02:09.44,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(912.585,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:09.15,0:02:09.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1007.055,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}you
+Dialogue: 1,0:02:09.40,0:02:09.90,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1094.79,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ni
+Dialogue: 1,0:02:09.61,0:02:10.32,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1146.15,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:10.03,0:02:10.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1176.51,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ki
+Dialogue: 1,0:02:10.40,0:02:11.32,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1226.355,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ru
+Dialogue: 1,0:02:11.11,0:02:11.82,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(876.87,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}chi
+Dialogue: 1,0:02:11.53,0:02:12.07,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(943.275,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:11.74,0:02:12.15,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(980.355,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:11.86,0:02:12.36,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1044.675,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo
+Dialogue: 1,0:02:12.24,0:02:12.65,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(865.41,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}(chi
+Dialogue: 1,0:02:12.32,0:02:12.82,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(943.275,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:12.49,0:02:12.99,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(980.355,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:12.70,0:02:13.15,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1056.135,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo)
+Dialogue: 1,0:02:12.95,0:02:13.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(888.24,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ki
+Dialogue: 1,0:02:13.11,0:02:13.74,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(952.605,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}zan
+Dialogue: 1,0:02:13.40,0:02:13.99,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1024.365,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:13.91,0:02:14.36,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(876.78,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}(ki
+Dialogue: 1,0:02:14.07,0:02:14.70,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(952.605,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}zan
+Dialogue: 1,0:02:14.36,0:02:14.86,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1035.825,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de)
+Dialogue: 1,0:02:14.70,0:02:15.32,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(646.56,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ha
+Dialogue: 1,0:02:15.03,0:02:15.53,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(702.42,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:02:15.24,0:02:15.62,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(778.635,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:02:15.32,0:02:15.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(816.375,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:15.57,0:02:16.20,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(874.47,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}so
+Dialogue: 1,0:02:15.91,0:02:16.37,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(931.71,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ra
+Dialogue: 1,0:02:16.07,0:02:16.57,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1009.305,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}he
+Dialogue: 1,0:02:16.28,0:02:17.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1085.505,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}to
+Dialogue: 1,0:02:17.62,0:02:18.08,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1161.72,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ha
+Dialogue: 1,0:02:17.78,0:02:18.24,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1221.015,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:02:17.95,0:02:19.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1276.875,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:02:19.95,0:02:20.58,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(738.075,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}so
+Dialogue: 1,0:02:20.29,0:02:20.70,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(797.37,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:20.41,0:02:20.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(873.57,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:02:20.58,0:02:21.04,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(949.785,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:20.75,0:02:21.37,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1040.82,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:02:21.08,0:02:21.58,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1110.825,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:21.29,0:02:21.75,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1175.7,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}me
+Dialogue: 1,0:02:21.50,0:02:22.25,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(743.64,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}so
+Dialogue: 1,0:02:21.91,0:02:22.33,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(802.935,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:22.04,0:02:22.50,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(879.135,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:02:22.21,0:02:22.62,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(955.35,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:22.33,0:02:22.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1046.385,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:02:22.62,0:02:23.21,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1117.065,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:02:22.87,0:02:23.41,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1176.36,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ge
+Dialogue: 1,0:02:23.12,0:02:23.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(584.775,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}so
+Dialogue: 1,0:02:23.58,0:02:24.00,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(644.07,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:23.71,0:02:24.21,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(723.72,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}se
+Dialogue: 1,0:02:23.92,0:02:24.33,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(782.34,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:24.04,0:02:24.67,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(819.42,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:24.37,0:02:24.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(883.74,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wa
+Dialogue: 1,0:02:24.54,0:02:25.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(969.615,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}se
+Dialogue: 1,0:02:24.83,0:02:25.38,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1035.15,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ma
+Dialogue: 1,0:02:25.08,0:02:25.71,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1100.685,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}su
+Dialogue: 1,0:02:25.42,0:02:25.92,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1153.26,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}gi
+Dialogue: 1,0:02:25.63,0:02:26.33,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1203.78,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ru
+Dialogue: 1,0:02:26.04,0:02:26.54,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1280.7,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:26.25,0:02:26.75,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1337.28,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ra
+Dialogue: 1,0:02:26.46,0:02:27.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(758.985,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}so
+Dialogue: 1,0:02:26.88,0:02:27.38,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(818.28,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:27.09,0:02:27.50,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(883.095,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}a
+Dialogue: 1,0:02:27.21,0:02:27.71,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(935.67,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}shi
+Dialogue: 1,0:02:27.38,0:02:27.88,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1023.405,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:27.59,0:02:28.21,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1103.055,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}yu
+Dialogue: 1,0:02:27.88,0:02:28.29,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1161.675,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ke
+Dialogue: 1,0:02:28.00,0:02:28.84,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(760.635,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}so
+Dialogue: 1,0:02:28.54,0:02:29.00,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(819.945,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:28.67,0:02:29.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(899.085,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mi
+Dialogue: 1,0:02:28.84,0:02:29.34,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(957.405,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mi
+Dialogue: 1,0:02:29.05,0:02:29.59,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1036.545,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:29.25,0:02:29.80,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1108.8,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ki
+Dialogue: 1,0:02:29.50,0:02:30.13,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1160.025,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ke
+Dialogue: 1,0:02:29.96,0:02:30.51,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(530.13,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}so
+Dialogue: 1,0:02:30.21,0:02:30.63,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(589.425,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:30.34,0:02:30.80,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(660.3,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ri
+Dialogue: 1,0:02:30.51,0:02:31.05,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(695.985,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}a
+Dialogue: 1,0:02:30.71,0:02:31.26,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(738.405,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ru
+Dialogue: 1,0:02:30.96,0:02:31.46,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(822.24,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wa
+Dialogue: 1,0:02:31.13,0:02:31.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(919.5,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:02:31.46,0:02:32.01,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(989.52,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ku
+Dialogue: 1,0:02:31.71,0:02:32.30,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1039.365,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ri
+Dialogue: 1,0:02:32.01,0:02:32.59,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1096.125,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mo
+Dialogue: 1,0:02:32.30,0:02:32.84,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1161.66,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:32.55,0:02:32.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1241.295,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:32.67,0:02:33.22,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1345.23,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}shou?
+Dialogue: 1,0:02:33.05,0:02:33.84,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(738.075,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ko
+Dialogue: 1,0:02:33.55,0:02:34.01,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(796.695,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:33.68,0:02:34.09,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(872.91,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:02:33.80,0:02:34.30,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(949.11,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:34.01,0:02:34.55,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1040.145,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:02:34.26,0:02:34.80,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1110.165,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:34.51,0:02:34.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1175.025,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}me
+Dialogue: 1,0:02:34.68,0:02:35.51,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(743.64,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ko
+Dialogue: 1,0:02:35.18,0:02:35.64,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(802.26,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:35.34,0:02:35.80,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(878.475,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:02:35.51,0:02:35.89,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(954.675,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:35.59,0:02:36.22,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1045.71,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:02:35.93,0:02:36.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1116.405,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}na
+Dialogue: 1,0:02:36.09,0:02:36.59,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1175.7,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ge
+Dialogue: 1,0:02:36.30,0:02:37.14,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(584.79,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ko
+Dialogue: 1,0:02:36.84,0:02:37.26,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(643.425,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}no
+Dialogue: 1,0:02:36.97,0:02:37.47,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(722.565,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}mi
+Dialogue: 1,0:02:37.18,0:02:37.64,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(779.325,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ra
+Dialogue: 1,0:02:37.35,0:02:37.89,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(815.01,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:37.60,0:02:38.05,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(879.345,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo
+Dialogue: 1,0:02:37.76,0:02:38.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(950.385,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}u
+Dialogue: 1,0:02:38.10,0:02:38.68,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(994.2,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ke
+Dialogue: 1,0:02:38.39,0:02:38.93,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1064.22,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}tsu
+Dialogue: 1,0:02:38.64,0:02:39.26,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1113.345,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:38.97,0:02:39.56,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1151.1,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}de
+Dialogue: 1,0:02:39.26,0:02:39.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1188.84,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:39.43,0:02:40.06,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1240.74,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}kun
+Dialogue: 1,0:02:39.76,0:02:41.02,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1334.55,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}da
+Dialogue: 1,0:02:41.22,0:02:41.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(671.685,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:41.47,0:02:41.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(715.665,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ma
+Dialogue: 1,0:02:41.68,0:02:42.18,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(807.78,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}wo
+Dialogue: 1,0:02:41.89,0:02:42.56,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(886.92,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}hi
+Dialogue: 1,0:02:42.27,0:02:42.85,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(932.1,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ki
+Dialogue: 1,0:02:42.56,0:02:43.06,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(983.325,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:42.77,0:02:43.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1027.14,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}e
+Dialogue: 1,0:02:43.14,0:02:43.77,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1085.22,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ni
+Dialogue: 1,0:02:43.43,0:02:44.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1166.235,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}shi
+Dialogue: 1,0:02:43.98,0:02:44.52,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1230.195,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}te
+Dialogue: 1,0:02:44.27,0:02:44.77,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(759.105,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Ca
+Dialogue: 1,0:02:44.48,0:02:44.89,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(829.815,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}rry
+Dialogue: 1,0:02:44.60,0:02:45.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(920.175,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}on
+Dialogue: 1,0:02:44.98,0:02:45.48,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1000.515,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Ca
+Dialogue: 1,0:02:45.14,0:02:45.60,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1071.225,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}rry
+Dialogue: 1,0:02:45.31,0:02:45.77,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1161.585,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}on
+Dialogue: 1,0:02:45.56,0:02:46.10,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(718.095,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:45.81,0:02:46.31,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(734.295,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:46.02,0:02:46.77,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(791.715,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ka
+Dialogue: 1,0:02:46.65,0:02:47.06,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(849.135,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}i
+Dialogue: 1,0:02:46.77,0:02:47.23,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(886.215,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}ku
+Dialogue: 1,0:02:46.90,0:02:47.56,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(962.835,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}zo
+Dialogue: 1,0:02:47.23,0:02:47.98,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1046.73,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}Fly
+Dialogue: 1,0:02:47.69,0:02:49.77,OP_Romaji,hi-light,0,0,0,Effector [fx],{\an5\pos(1156.665,55.5)\fscx110\fscy110\3c&HFFFFFF&\4c&HE1A6E2&\4a&H00&\blur3\fad(0,300)\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)}High
+

@@ -1,0 +1,748 @@
+﻿[Script Info]
+Title: 11
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,70,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,150,150,50,0
+Style: OP_Romaji,TrekkerFrontier,75,&H00FFFFFF,&H00E1A6E2,&H008345D0,&H79069FFF,-1,0,0,0,100,100,3,0,1,4.5,0,8,30,30,18,1
+Style: OP_Translation,TrekkerFrontier,75,&H00FFFFFF,&H00E1A6E2,&H008345D0,&H79069FFF,-1,0,0,0,100,100,3,0,1,4.5,0,2,30,30,26,1
+Style: EDRomaji1,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,15,15,26,1
+Style: EDRomaji2,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,9,15,15,26,1
+Style: EDTranslation1,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,15,15,30,1
+Style: EDTranslation2,TrekkerFrontier,75,&H00FFFFFF,&H000000FF,&H00BB519C,&HB4000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,15,15,30,1
+Style: Signs,Gandhi Sans,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:01:01.04,Default,Chapter,0,0,0,,Intro
+Comment: 0,0:01:01.04,0:02:31.01,Default,Chapter,0,0,0,,OP
+Comment: 0,0:02:31.01,0:11:42.01,Default,Chapter,0,0,0,,Part A
+Comment: 0,0:11:42.01,0:22:10.98,Default,Chapter,0,0,0,,Part B
+Comment: 0,0:22:10.98,0:23:41.98,Default,Chapter,0,0,0,,ED
+Dialogue: 10,0:00:02.86,0:00:05.03,Default,Touya,0,0,0,,Why aren't you...
+Dialogue: 10,0:00:05.03,0:00:07.28,Default,Touya,0,0,0,,wearing anything... down below?
+Dialogue: 10,0:00:08.28,0:00:10.53,Default,Francesca,0,0,0,,I'm not sure how to answer that...
+Dialogue: 10,0:00:11.45,0:00:12.78,Default,Francesca,0,0,0,,Duty?
+Dialogue: 10,0:00:12.78,0:00:16.16,Default,Touya,0,0,0,,Uh... Francesca, was it?
+Dialogue: 10,0:00:16.16,0:00:18.50,Default,Francesca,0,0,0,,Yes. Please call me Cesca.
+Dialogue: 10,0:00:18.50,0:00:21.46,Default,Touya,0,0,0,,For now, could you go put something on?
+Dialogue: 10,0:00:21.46,0:00:24.25,Default,Touya,0,0,0,,It's, um, hard for me to look at you.
+Dialogue: 10,0:00:25.05,0:00:26.46,Default,Cesca,0,0,0,,But I'm wearing panties.
+Dialogue: 10,0:00:26.46,0:00:27.72,Default,Touya,0,0,0,,More than that!
+Dialogue: 10,0:00:30.68,0:00:32.85,Default,Touya,0,0,0,,Calm down, calm down.
+Dialogue: 10,0:00:32.85,0:00:35.27,Default,Touya,0,0,0,,It's a swimsuit. It's a swimsuit...
+Dialogue: 10,0:00:37.98,0:00:39.19,Default,Touya,0,0,0,,They're panties!
+Dialogue: 10,0:00:39.19,0:00:40.69,Default,Touya,0,0,0,,They're absolutely panties!
+Dialogue: 10,0:00:40.69,0:00:42.77,Default,Cesca,0,0,0,,You glanced at them, didn't you?
+Dialogue: 10,0:00:42.77,0:00:43.82,Default,Touya,0,0,0,,Sorry!
+Dialogue: 10,0:00:45.07,0:00:47.57,Default,Cesca,0,0,0,,Well, if you insist, then I'll put something on.
+Dialogue: 10,0:00:47.57,0:00:49.49,Default,Touya,0,0,0,,Why weren't you wearing it from the start?!
+Dialogue: 10,0:00:52.16,0:00:53.87,Default,Cesca,0,0,0,,You won't do anything?
+Dialogue: 10,0:00:53.87,0:00:56.83,Default,Touya,0,0,0,,I won't. I won't, so hurry up and put it on.
+Dialogue: 10,0:00:56.83,0:00:59.16,Default,Cesca,0,0,0,,I wouldn't mind you touching a little bit.
+Dialogue: 10,0:00:59.16,0:01:01.04,Default,Touya,0,0,0,,Just hurry up and put it on!
+Dialogue: 10,0:02:39.68,0:02:44.60,Default,Touya,0,0,0,,Uh, there's a lot I'd like to ask... Do you mind?
+Dialogue: 10,0:02:44.60,0:02:46.10,Default,Cesca,0,0,0,,No, go ahead.
+Dialogue: 10,0:02:46.10,0:02:48.52,Default,Touya,0,0,0,,First of all, where on earth are we?
+Dialogue: 10,0:02:48.52,0:02:51.36,Default,Cesca,0,0,0,,The Garden of Babylon, floating in the sky.
+Dialogue: 10,0:02:51.36,0:02:53.07,Default,Touya,0,0,0,,An aerial garden?
+Dialogue: 10,0:02:55.91,0:02:57.45,Default,Cesca,0,0,0,,Please follow me.
+Dialogue: 10,0:03:02.50,0:03:03.71,Default,Touya,0,0,0,,I see.
+Dialogue: 10,0:03:03.71,0:03:06.50,Default,Touya,0,0,0,,So what's the purpose of this facility?
+Dialogue: 10,0:03:06.50,0:03:09.75,Default,Cesca,0,0,0,,It's a garden the professor built as a hobby.
+Dialogue: 10,0:03:09.75,0:03:11.17,Default,Touya,0,0,0,,The professor?
+Dialogue: 10,0:03:11.17,0:03:13.46,Default,Cesca,0,0,0,,Professor Regina Babylon.
+Dialogue: 10,0:03:13.46,0:03:15.59,Default,Cesca,0,0,0,,Our creator.
+Dialogue: 10,0:03:15.59,0:03:16.97,Default,Touya,0,0,0,,Creator?
+Dialogue: 10,0:03:16.97,0:03:19.68,Default,Sango,0,0,0,,Master, this person isn't human.
+Dialogue: 10,0:03:19.68,0:03:22.85,Default,Sango,0,0,0,,I can't sense the flow of life within her.
+Dialogue: 10,0:03:22.85,0:03:27.81,Default,Cesca,0,0,0,,I was built by the professor \Nto serve as this garden's control terminal.
+Dialogue: 10,0:03:27.81,0:03:30.77,Default,Cesca,0,0,0,,That was 5,092 years ago.
+Dialogue: 10,0:03:30.77,0:03:31.82,Default,Touya,0,0,0,,Five—
+Dialogue: 10,0:03:31.82,0:03:34.57,Default,Touya,0,0,0,,Then you're a machine, Cesca?
+Dialogue: 10,0:03:34.57,0:03:36.90,Default,Cesca,0,0,0,,Not all of me is mechanical.
+Dialogue: 10,0:03:36.90,0:03:40.99,Default,Cesca,0,0,0,,I have some biological parts \Nthat were created with magic, as well,
+Dialogue: 10,0:03:40.99,0:03:46.41,Default,Cesca,0,0,0,,so "an amalgam of machine and magical life form" \Nwould be a proper description.
+Dialogue: 10,0:03:46.41,0:03:50.59,Default,Touya,0,0,0,,Wow. You look just like a normal girl.
+Dialogue: 10,0:03:50.59,0:03:54.01,Default,Cesca,0,0,0,,I cannot produce children, but I am capable of intercourse.
+Dialogue: 10,0:03:54.01,0:03:55.34,Default,Touya,0,0,0,,I didn't ask about that!
+Dialogue: 10,0:03:55.34,0:03:57.84,Default,Touya,0,0,0,,Whoa! Don't lift your skirt!
+Dialogue: 10,0:03:57.84,0:03:59.09,Default,Cesca,0,0,0,,It's still in mint condition.
+Dialogue: 10,0:03:59.09,0:04:00.64,Default,Touya,0,0,0,,I didn't ask about that!
+Dialogue: 10,0:04:01.43,0:04:04.18,Default,Cesca,0,0,0,,If you have need, please ask at any time.
+Dialogue: 10,0:04:04.18,0:04:06.52,Default,Kokuyou,0,0,0,,I don't really understand her.
+Dialogue: 10,0:04:06.52,0:04:08.10,Default,Touya,0,0,0,,Neither do I.
+Dialogue: 10,0:04:09.60,0:04:12.69,Default,Touya,0,0,0,,Still, over 5,000 years...
+Dialogue: 10,0:04:12.69,0:04:14.36,Default,Touya,0,0,0,,This goes for you, too,
+Dialogue: 10,0:04:14.36,0:04:19.03,Default,Touya,0,0,0,,but after all that time, hasn't this aerial \Ngarden ever deteriorated or malfunctioned?
+Dialogue: 10,0:04:19.03,0:04:22.37,Default,Cesca,0,0,0,,All parts of it have been reinforced with magic.
+Dialogue: 10,0:04:22.37,0:04:28.12,Default,Cesca,0,0,0,,I remain on standby, except in emergencies, \Nso maintenance of this garden has been left on auto.
+Dialogue: 10,0:04:28.12,0:04:29.96,Default,Touya,0,0,0,,Huh? Then what about now?
+Dialogue: 10,0:04:29.96,0:04:32.29,Default,Cesca,0,0,0,,One could say this is an emergency.
+Dialogue: 10,0:04:32.29,0:04:34.92,Default,Cesca,0,0,0,,We finally have a guest.
+Dialogue: 10,0:04:34.92,0:04:36.63,Default,Cesca,0,0,0,,Speaking of which, what is your name?
+Dialogue: 10,0:04:36.63,0:04:39.55,Default,Touya,0,0,0,,Oh, it's Touya. Mochizuki Touya.
+Dialogue: 10,0:04:39.55,0:04:44.22,Default,Cesca,0,0,0,,{Master}Touya. I have recognized you as suitably compatible.
+Dialogue: 10,0:04:44.22,0:04:50.14,Default,Cesca,0,0,0,,As of this moment, Unit #23, code name "Francesca," \Nwill be transferred to your command.
+Dialogue: 10,0:04:50.14,0:04:53.06,Default,Cesca,0,0,0,,Please take good care of her for many years.
+Dialogue: 10,0:04:53.06,0:04:54.52,Default,Touya,0,0,0,,Compatible?
+Dialogue: 10,0:04:55.82,0:04:58.97,Default,Cesca,0,0,0,,Only someone possessing all affinities,
+Dialogue: 10,0:04:58.97,0:05:02.74,Default,Cesca,0,0,0,,like the professor, could have activated that magic circle.
+Dialogue: 10,0:05:02.74,0:05:06.74,Default,Touya,0,0,0,,So there was someone who possessed \Nall affinities over 5,000 years ago?
+Dialogue: 10,0:05:06.74,0:05:12.75,Default,Cesca,0,0,0,,The professor decided to pass us on to someone compatible \Nand capable of passing through that magic circle.
+Dialogue: 10,0:05:12.75,0:05:16.09,Default,Cesca,0,0,0,,That was over 5,070 years ago.
+Dialogue: 10,0:05:16.09,0:05:19.72,Default,Touya,0,0,0,,So someone compatible \Nis someone who possesses all affinities?
+Dialogue: 10,0:05:21.09,0:05:22.39,Default,Cesca,0,0,0,,No, it's not.
+Dialogue: 10,0:05:22.39,0:05:23.55,Default,Touya,0,0,0,,Huh?
+Dialogue: 10,0:05:23.55,0:05:29.89,Default,Cesca,0,0,0,,I recognized you as compatible because you told me \Nto cover myself when you saw me in my panties.
+Dialogue: 10,0:05:29.89,0:05:33.23,Default,Touya,0,0,0,,That's why?! What does \Nthat make me compatible with? I don't get it!
+Dialogue: 10,0:05:33.23,0:05:34.90,Default,Cesca,0,0,0,,It's important.
+Dialogue: 10,0:05:34.90,0:05:41.86,Default,Cesca,0,0,0,,If you had given in to your lust and assaulted me, \NI would've thrown you down to the surface.
+Dialogue: 10,0:05:41.86,0:05:45.95,Default,Cesca,0,0,0,,Furthermore, if you had done nothing \Nand let me remain in my panties,
+Dialogue: 10,0:05:45.95,0:05:50.79,Default,Cesca,0,0,0,,I would've deemed you incompatible and \Npolitely asked you to return to the surface.
+Dialogue: 10,0:05:50.79,0:05:52.54,Default,Touya,0,0,0,,Seriously?
+Dialogue: 10,0:05:52.54,0:05:55.96,Default,Touya,0,0,0,,Your reason for exposing your panties was that deep?
+Dialogue: 10,0:05:55.96,0:06:02.13,Default,Cesca,0,0,0,,To determine whether someone had the kindness \Nand consideration to be put in charge of us,
+Dialogue: 10,0:06:02.13,0:06:05.68,Default,Cesca,0,0,0,,the professor decided on this method.
+Dialogue: 10,0:06:05.68,0:06:08.93,Default,Touya,0,0,0,,I mean, I get it, but still...
+Dialogue: 10,0:06:08.93,0:06:11.39,Default,Touya,0,0,0,,That professor's crazy.
+Dialogue: 10,0:06:11.39,0:06:12.85,Default,Cesca,0,0,0,,I don't deny that.
+Dialogue: 10,0:06:12.85,0:06:14.52,Default,Touya,0,0,0,,You don't?
+Dialogue: 10,0:06:14.52,0:06:18.94,Default,Cesca,0,0,0,,The professor said she would leave \Nthe final decision in our hands.
+Dialogue: 10,0:06:18.94,0:06:21.53,Default,Cesca,0,0,0,,If I'm to have someone as my master,
+Dialogue: 10,0:06:21.53,0:06:26.92,Default,Cesca,0,0,0,,I believe a closet pervert who steals glances, \Ncontrols himself, and feigns disinterest,
+Dialogue: 10,0:06:26.91,0:06:31.04,Default,Cesca,0,0,0,,would be safer than someone who's a bit too kind \Nand familiar with women, and acts like a feminist.
+Dialogue: 10,0:06:31.04,0:06:33.21,Default,Touya,0,0,0,,What do you mean, "closet pervert?" That's rude!
+Dialogue: 10,0:06:33.21,0:06:36.04,Default,Touya,0,0,0,,And "safer" somehow irritates me, too!
+Dialogue: 10,0:06:36.75,0:06:40.76,Default,Cesca,0,0,0,,With that, I am now your possession.
+Dialogue: 10,0:06:40.76,0:06:43.38,Default,Cesca,0,0,0,,Please treat me well from now on, Master.
+Dialogue: 10,0:06:44.84,0:06:49.64,Default,Touya,0,0,0,,Why do I have a feeling I just got \Ncaught up in something really messy?
+Dialogue: 10,0:06:49.64,0:06:51.81,Default,Cesca,0,0,0,,Okay, everyone, say it with me:
+Dialogue: 10,0:06:51.81,0:06:54.56,Default,Cesca,0,0,0,,Pan-ties... zero... huh?
+Dialogue: 10,0:06:59.90,0:07:00.98,Default,Linze,0,0,0,,Oh, a crab!
+Dialogue: 10,0:07:00.98,0:07:02.78,Default,Yae,0,0,0,,I'll catch it!
+Dialogue: 10,0:07:11.54,0:07:12.95,Default,Linze,0,0,0,,Are you all right?
+Dialogue: 10,0:07:12.95,0:07:14.21,Default,Yae,0,0,0,,Sorry.
+Dialogue: 10,0:07:14.21,0:07:16.12,Default,Charlotte,0,0,0,,It's cold.
+Dialogue: 10,0:07:17.54,0:07:20.13,Default,Yae,0,0,0,,So that's where it went!
+Dialogue: 10,0:07:21.59,0:07:23.34,Default,Elze,0,0,0,,Why would it crawl in there?
+Dialogue: 10,0:07:23.34,0:07:25.26,Default,Yumina,0,0,0,,That's not normal, is it?
+Dialogue: 10,0:07:25.26,0:07:29.72,Default,Yae,0,0,0,,My chest was packed full of sand this afternoon, too.
+Dialogue: 10,0:07:29.72,0:07:32.43,Default,Linze,0,0,0,,I found shrimp and small fish in mine, too.
+Dialogue: 10,0:07:32.43,0:07:36.85,Default,Yae,0,0,0,,I guess you need to squeeze them \Ncloser together to get rid of any gaps.
+Dialogue: 10,0:07:36.85,0:07:39.31,Default,Yumina,0,0,0,,What are they talking about?
+Dialogue: 10,0:07:39.31,0:07:41.90,Default,Elze,0,0,0,,Things we'll never have to worry about.
+Dialogue: 10,0:07:41.90,0:07:44.78,Default,Leen,0,0,0,,I don't understand this at all.
+Dialogue: 10,0:07:44.78,0:07:50.16,Default,Leen,0,0,0,,Charlotte, didn't you say you had work \Nthat needed to be finished?
+Dialogue: 10,0:07:50.16,0:07:51.28,Default,Charlotte,0,0,0,,Oh, you're right!
+Dialogue: 10,0:07:51.28,0:07:55.00,Default,Charlotte,0,0,0,,Sorry, I'll be leaving early!
+Dialogue: 10,0:07:56.21,0:07:57.54,Default,Leen,0,0,0,,Good grief.
+Dialogue: 10,0:07:58.96,0:08:03.84,Default,Linze,0,0,0,,It's been a while since he dove into the sea. \NDo you think Touya's okay?
+Dialogue: 10,0:08:03.84,0:08:07.26,Default,Leen,0,0,0,,Seeing as he hasn't come up, \NI imagine things are going well.
+Dialogue: 10,0:08:07.26,0:08:10.30,Default,Yumina,0,0,0,,Um, what's in these ruins?
+Dialogue: 10,0:08:10.30,0:08:13.22,Default,Leen,0,0,0,,Who knows? Maybe there's nothing.
+Dialogue: 10,0:08:13.22,0:08:16.39,Default,Yae,0,0,0,,Was your information on it that vague?
+Dialogue: 10,0:08:16.39,0:08:19.15,Default,Elze,0,0,0,,I'm surprised you brought us out here on that.
+Dialogue: 10,0:08:19.15,0:08:21.69,Default,Leen,0,0,0,,Well, it sounds interesting, doesn't it?
+Dialogue: 10,0:08:25.20,0:08:26.15,Default,Touya,0,0,0,,Sorry for the wait!
+Dialogue: 10,0:08:27.11,0:08:28.95,Default,Leen,0,0,0,,Now, let's go.
+Dialogue: 10,0:08:28.95,0:08:31.07,Default,All,0,0,0,,There!
+Dialogue: 10,0:08:34.41,0:08:35.66,Default,Elze,0,0,0,,What is this place?
+Dialogue: 10,0:08:35.66,0:08:37.66,Default,Linze,0,0,0,,Are we in the sky?
+Dialogue: 10,0:08:37.66,0:08:40.75,Default,Yae,0,0,0,,You've found another incredible place.
+Dialogue: 10,0:08:40.75,0:08:42.33,Default,Yumina,0,0,0,,What a lovely garden.
+Dialogue: 10,0:08:42.33,0:08:44.09,Default,Leen,0,0,0,,Wow.
+Dialogue: 10,0:08:44.09,0:08:47.76,Default,Leen,0,0,0,,These look like ruins of the ancient Partheno civilization.
+Dialogue: 10,0:08:47.76,0:08:49.93,Default,Touya,0,0,0,,Ancient Partheno civilization?
+Dialogue: 10,0:08:49.93,0:08:56.68,Default,Leen,0,0,0,,It was an advanced civilization that created many spells, \Nand many magical devices, or artifacts, that use those spells.
+Dialogue: 10,0:08:56.68,0:09:00.10,Default,Leen,0,0,0,,This garden is one such artifact.
+Dialogue: 10,0:09:00.10,0:09:03.69,Default,Leen,0,0,0,,By the way, who is that there?
+Dialogue: 10,0:09:03.69,0:09:05.57,Default,Leen,0,0,0,,Your new woman?
+Dialogue: 10,0:09:05.57,0:09:07.49,Default,Touya,0,0,0,,Hey, what led you to that?!
+Dialogue: 10,0:09:08.78,0:09:10.78,Default,Linze,0,0,0,,Touya.
+Dialogue: 10,0:09:10.78,0:09:11.74,Default,Touya,0,0,0,,That's not it!
+Dialogue: 10,0:09:11.74,0:09:13.82,Default,Leen,0,0,0,,Your desperation makes you suspicious.
+Dialogue: 10,0:09:13.82,0:09:15.58,Default,Touya,0,0,0,,I told you, she's not.
+Dialogue: 10,0:09:15.58,0:09:17.24,Default,Touya,0,0,0,,She's Francesca.
+Dialogue: 10,0:09:17.24,0:09:19.21,Default,Touya,0,0,0,,She's in charge of this garden.
+Dialogue: 10,0:09:19.21,0:09:21.58,Default,Leen,0,0,0,,So she owns this garden?
+Dialogue: 10,0:09:21.58,0:09:24.13,Default,Cesca,0,0,0,,No, ownership of this Garden of Babylon
+Dialogue: 10,0:09:24.13,0:09:28.05,Default,Cesca,0,0,0,,has already been transferred to my master, Touya.
+Dialogue: 10,0:09:28.05,0:09:30.22,Default,Yumina,0,0,0,,What do you mean by "master?"
+Dialogue: 10,0:09:30.22,0:09:33.18,Default,Cesca,0,0,0,,I mean "beloved husband."
+Dialogue: 10,0:09:33.18,0:09:34.64,Default,Touya,0,0,0,,Don't lie.
+Dialogue: 10,0:09:34.64,0:09:37.14,Default,Touya,0,0,0,,You mean "proprietor" or "boss."
+Dialogue: 10,0:09:37.14,0:09:39.14,Default,Linze,0,0,0,,Proprietor?
+Dialogue: 10,0:09:39.14,0:09:43.60,Default,Linze,0,0,0,,What do you mean, Touya?
+Dialogue: 10,0:09:43.60,0:09:46.40,Default,Touya,0,0,0,,Huh? Why am I being accused here?
+Dialogue: 10,0:09:46.40,0:09:51.03,Default,Cesca,0,0,0,,I showed Master Touya my panties \Nand offered him my body and soul.
+Dialogue: 10,0:09:51.03,0:09:54.37,Default,Cesca,0,0,0,,Therefore, he is my master.
+Dialogue: 10,0:09:55.53,0:09:58.45,Default,Touya,0,0,0,,Hey! You're not giving enough of an explanation!
+Dialogue: 10,0:09:58.45,0:10:02.58,Default,Elze,0,0,0,,Panties? What were you two doing before we got here?
+Dialogue: 10,0:10:02.58,0:10:04.29,Default,Touya,0,0,0,,Nothing! I did nothing!
+Dialogue: 10,0:10:04.29,0:10:05.42,Default,Touya,0,0,0,,You're mistaken!
+Dialogue: 10,0:10:07.63,0:10:08.84,Default,Linze,0,0,0,,Touya.
+Dialogue: 10,0:10:08.84,0:10:10.13,Default,Touya,0,0,0,,Y-Yes?
+Dialogue: 10,0:10:11.22,0:10:11.97,Default,Linze,0,0,0,,On your knees.
+Dialogue: 10,0:10:11.97,0:10:13.26,Default,Touya,0,0,0,,Yes!
+Dialogue: 10,0:10:13.26,0:10:16.47,Default,Linze,0,0,0,,You looked at ours before, and now you're doing it again?
+Dialogue: 10,0:10:16.47,0:10:18.68,Default,Linze,0,0,0,,Do you love panties that much?
+Dialogue: 10,0:10:18.68,0:10:22.48,Default,Touya,0,0,0,,No, I saw them by accident that time.
+Dialogue: 10,0:10:22.48,0:10:25.65,Default,Linze,0,0,0,,So today you looked at them by choice?
+Dialogue: 10,0:10:25.65,0:10:28.15,Default,Touya,0,0,0,,No, no, there was no choice. I couldn't prevent it.
+Dialogue: 10,0:10:28.15,0:10:29.44,Default,Linze,0,0,0,,What is it?
+Dialogue: 10,0:10:29.44,0:10:32.32,Default,Linze,0,0,0,,Seeing us in swimsuits on the beach wasn't enough for you?
+Dialogue: 10,0:10:32.32,0:10:34.99,Default,Linze,0,0,0,,You looked at ours quite a bit, didn't you?
+Dialogue: 10,0:10:34.99,0:10:38.08,Default,Touya,0,0,0,,Well, that was, um...
+Dialogue: 10,0:10:38.08,0:10:42.83,Default,Linze,0,0,0,,I pushed myself to get a matching bikini \Nwith my sister. Was that not enough?
+Dialogue: 10,0:10:42.83,0:10:45.04,Default,Linze,0,0,0,,Are swimsuits and panties not the same?
+Dialogue: 10,0:10:45.04,0:10:46.50,Default,Linze,0,0,0,,I see.
+Dialogue: 10,0:10:46.50,0:10:48.34,Default,Touya,0,0,0,,Uh...
+Dialogue: 10,0:10:48.34,0:10:52.09,Default,Leen,0,0,0,,Given the way this is going, \Nperhaps I should show you my panties, too?
+Dialogue: 10,0:10:52.09,0:10:53.88,Default,Touya,0,0,0,,Sorry. Just be quiet for a moment.
+Dialogue: 10,0:10:55.18,0:10:58.30,Default,Linze,0,0,0,,Touya, I'm talking to you right now.
+Dialogue: 10,0:10:58.30,0:10:59.64,Default,Touya,0,0,0,,R-Right!
+Dialogue: 10,0:11:01.47,0:11:05.48,Default,Leen,0,0,0,,You look like you don't even understand why she's so mad.
+Dialogue: 10,0:11:05.48,0:11:06.31,Default,Touya,0,0,0,,Huh?
+Dialogue: 10,0:11:06.31,0:11:08.65,Default,Leen,0,0,0,,Oh, just let him off the hook.
+Dialogue: 10,0:11:08.65,0:11:10.23,Default,Leen,0,0,0,,If you want to accuse him further,
+Dialogue: 10,0:11:10.23,0:11:13.99,Default,Leen,0,0,0,,you'll need to make it clear where you stand with him, too.
+Dialogue: 10,0:11:15.28,0:11:19.95,Default,Leen,0,0,0,,At the very least, you'll need to be on equal footing \Nwith that princess there.
+Dialogue: 10,0:11:21.70,0:11:22.62,Default,Linze,0,0,0,,Yes.
+Dialogue: 10,0:11:22.62,0:11:24.25,Default,Leen,0,0,0,,You all, as well.
+Dialogue: 10,0:11:25.04,0:11:27.54,Default,Yae,0,0,0,,W-We don't really...
+Dialogue: 10,0:11:27.54,0:11:28.67,Default,Elze,0,0,0,,Y-Yeah.
+Dialogue: 10,0:11:29.54,0:11:33.13,Default,Yumina,0,0,0,,Everyone, let's leave this to Touya and Leen
+Dialogue: 10,0:11:33.13,0:11:37.01,Default,Yumina,0,0,0,,while we take a walk through the garden for a bit.
+Dialogue: 10,0:11:37.84,0:11:39.22,Default,All,0,0,0,,A walk?
+Dialogue: 10,0:11:46.39,0:11:50.81,Default,Linze,0,0,0,,Shouldn't we have stayed to hear the story with them?
+Dialogue: 10,0:11:50.81,0:11:53.94,Default,Yumina,0,0,0,,Don't worry. Just leave that to Leen.
+Dialogue: 10,0:11:53.94,0:11:56.32,Default,Elze,0,0,0,,That actually worries me more.
+Dialogue: 10,0:11:56.32,0:12:00.95,Default,Yae,0,0,0,,Indeed. Master Touya is too good-natured.
+Dialogue: 10,0:12:00.95,0:12:03.95,Default,Linze,0,0,0,,Touya's always nice to everyone, after all.
+Dialogue: 10,0:12:06.29,0:12:09.29,Default,Yumina,0,0,0,,Well, everyone, shall we chat for a bit?
+Dialogue: 10,0:12:10.96,0:12:15.63,Default,Yumina,0,0,0,,You all remember what I proposed \Non the day we moved into the mansion, right?
+Dialogue: 10,0:12:18.93,0:12:21.60,Default,Yumina,0,0,0,,I'll get right to the point.
+Dialogue: 10,0:12:21.60,0:12:24.18,Default,Yumina,0,0,0,,You all love Touya, don't you?
+Dialogue: 10,0:12:25.98,0:12:29.31,Default,Elze,0,0,0,,I-I don't exactly love him!
+Dialogue: 10,0:12:29.31,0:12:33.82,Default,Elze,0,0,0,,Y-You know, Touya's unreliable and soft-hearted, right?
+Dialogue: 10,0:12:33.82,0:12:39.66,Default,Elze,0,0,0,,W-Well, he is kind, and I do think that's \Na good thing, but... Wait, no!
+Dialogue: 10,0:12:39.66,0:12:44.99,Default,Yumina,0,0,0,,But you're always happily gazing \Nat the clothes he bought you, aren't you?
+Dialogue: 10,0:12:46.04,0:12:50.79,Default,Yumina,0,0,0,,And Linze, you followed him around \Nthe other day, didn't you?
+Dialogue: 10,0:12:50.79,0:12:55.38,Default,Linze,0,0,0,,Th-That was, um... I was just wondering \Nwhere he was going.
+Dialogue: 10,0:12:55.38,0:12:59.76,Default,Linze,0,0,0,,I thought he might be going to some naughty shops, so I...
+Dialogue: 10,0:12:59.76,0:13:00.80,Default,Yumina,0,0,0,,You too, Yae.
+Dialogue: 10,0:13:00.80,0:13:02.43,Default,Yae,0,0,0,,I-I've done nothing.
+Dialogue: 10,0:13:02.43,0:13:04.01,Default,Yumina,0,0,0,,Is that so?
+Dialogue: 10,0:13:04.01,0:13:07.60,Default,Yumina,0,0,0,,When you're injured, \Nyou always have Touya heal you, don't you?
+Dialogue: 10,0:13:07.60,0:13:10.31,Default,Yumina,0,0,0,,Even though Linze can use healing magic, too.
+Dialogue: 10,0:13:10.31,0:13:12.52,Default,Yae,0,0,0,,W-Well, that's...
+Dialogue: 10,0:13:12.52,0:13:16.11,Default,Yumina,0,0,0,,None of this displeases me.
+Dialogue: 10,0:13:16.11,0:13:18.44,Default,Yumina,0,0,0,,In fact, I'm delighted by it.
+Dialogue: 10,0:13:18.44,0:13:23.74,Default,Yumina,0,0,0,,It means Touya has three friends who support and trust him with all their hearts.
+Dialogue: 10,0:13:24.83,0:13:26.49,Default,Elze,0,0,0,,You're a weird one, then.
+Dialogue: 10,0:13:26.49,0:13:28.33,Default,Elze,0,0,0,,Shouldn't that bother you?
+Dialogue: 10,0:13:28.33,0:13:29.91,Default,Yumina,0,0,0,,Should it?
+Dialogue: 10,0:13:29.91,0:13:31.25,Default,Yumina,0,0,0,,I can say with certainty
+Dialogue: 10,0:13:31.25,0:13:35.25,Default,Yumina,0,0,0,,that Touya will accomplish \Nsomething great in the near future.
+Dialogue: 10,0:13:35.25,0:13:39.30,Default,Yumina,0,0,0,,I think it's unnatural for me to monopolize him.
+Dialogue: 10,0:13:39.30,0:13:43.05,Default,Yumina,0,0,0,,There are plenty of things I can't support him in alone.
+Dialogue: 10,0:13:43.05,0:13:48.18,Default,Yumina,0,0,0,,I don't want to tie him down \Nfor such a trifling reason as wanting him to myself.
+Dialogue: 10,0:13:50.10,0:13:54.69,Default,Yumina,0,0,0,,So, would you all like to become Touya's brides?
+Dialogue: 10,0:13:56.27,0:13:57.15,Default,All,0,0,0,,Huh?
+Dialogue: 10,0:13:58.28,0:14:01.53,Default,Elze,0,0,0,,Y-You can't just ask us \Nthat out of the blue and expect us to...
+Dialogue: 10,0:14:01.53,0:14:03.53,Default,Linze,0,0,0,,Uh, um...
+Dialogue: 10,0:14:08.70,0:14:14.25,Default,Yumina,0,0,0,,{\fad(0,439)}Well then, let's shelve this discussion \Nuntil your feelings have settled.
+Dialogue: 10,0:14:16.00,0:14:19.30,Default,Linze,0,0,0,,Uh, um, well...
+Dialogue: 10,0:14:20.71,0:14:24.64,Default,Yae,0,0,0,,I haven't forgotten it, but...
+Dialogue: 10,0:14:24.64,0:14:25.97,Default,Yumina,0,0,0,,How about it?
+Dialogue: 10,0:14:25.97,0:14:28.14,Default,Yumina,0,0,0,,Have your feelings settled on the matter?
+Dialogue: 10,0:14:29.89,0:14:33.94,Default,Yumina,0,0,0,,You've all been more conscious of Touya \Nsince that day, haven't you?
+Dialogue: 10,0:14:33.94,0:14:34.98,Default,Yumina,0,0,0,,Linze.
+Dialogue: 10,0:14:34.98,0:14:36.02,Default,Linze,0,0,0,,Y-Yes!
+Dialogue: 10,0:14:36.02,0:14:39.61,Default,Yumina,0,0,0,,Your heart is always racing \Nwhen you're with Touya, isn't it?
+Dialogue: 10,0:14:42.44,0:14:43.90,Default,Linze,0,0,0,,Yes.
+Dialogue: 10,0:14:43.90,0:14:48.08,Default,Yumina,0,0,0,,Your eyes are always following him too, Elze.
+Dialogue: 10,0:14:48.08,0:14:52.37,Default,Elze,0,0,0,,That... may be true... but....
+Dialogue: 10,0:14:52.37,0:14:55.92,Default,Yumina,0,0,0,,And Yae, you're always nervous around him, aren't you?
+Dialogue: 10,0:14:55.92,0:14:57.84,Default,Yae,0,0,0,,H-How did you know?!
+Dialogue: 10,0:14:57.84,0:15:00.84,Default,Yumina,0,0,0,,Touya's the only one who hasn't noticed.
+Dialogue: 10,0:15:02.05,0:15:06.55,Default,Yumina,0,0,0,,I would like to support Touya along with all of you.
+Dialogue: 10,0:15:06.55,0:15:08.51,Default,Yumina,0,0,0,,So I'll make my proposal once more.
+Dialogue: 10,0:15:08.51,0:15:11.56,Default,Yumina,0,0,0,,Why don't we all become Touya's brides?
+Dialogue: 10,0:15:14.48,0:15:18.86,Default,Linze,0,0,0,,B-By "bride," you mean m-marriage, right?
+Dialogue: 10,0:15:19.77,0:15:23.40,Default,Linze,0,0,0,,I'm happy. I'm happy, but...
+Dialogue: 10,0:15:20.69,0:15:22.40,Default,Linze,0,0,0,,{\an8}You look great, Linze.
+Dialogue: 10,0:15:23.40,0:15:27.70,Default,Elze,0,0,0,,Honestly, it's still too sudden \Nfor me to decide to be his bride.
+Dialogue: 10,0:15:27.70,0:15:29.91,Default,Elze,0,0,0,,My heart isn't ready...
+Dialogue: 10,0:15:29.91,0:15:32.66,Default,Elze,0,0,0,,I mean, wh-what should I even do?
+Dialogue: 10,0:15:32.66,0:15:34.58,Default,Elze,0,0,0,,Oh, gosh!
+Dialogue: 10,0:15:34.58,0:15:40.42,Default,Yae,0,0,0,,That would mean me becoming Master Touya's w-w-wife...
+Dialogue: 10,0:15:40.42,0:15:43.95,Default,Yae,0,0,0,,and Master Touya my husband. My husband!
+Dialogue: 10,0:15:42.19,0:15:43.44,Default,Yae,0,0,0,,{\an8}You look beautiful.
+Dialogue: 10,0:15:47.09,0:15:50.68,Default,Yumina,0,0,0,,It looks like you still need a bit more time.
+Dialogue: 10,0:15:52.51,0:15:55.60,Default,All,0,0,0,,I love you, darling!
+Dialogue: 10,0:16:00.06,0:16:03.73,Default,Touya,0,0,0,,So, did you find what you were hoping to obtain, Leen?
+Dialogue: 10,0:16:03.73,0:16:11.28,Default,Leen,0,0,0,,Well, I was hoping I might find \Na few ancient spells, but this is even better.
+Dialogue: 10,0:16:11.28,0:16:12.95,Default,Touya,0,0,0,,Yeah, it is.
+Dialogue: 10,0:16:13.83,0:16:18.62,Default,Leen,0,0,0,,A garden that's withstood 5,000 years, \Nwith flowers that have never wilted.
+Dialogue: 10,0:16:18.62,0:16:21.88,Default,Leen,0,0,0,,It's an array of ancient magic.
+Dialogue: 10,0:16:21.88,0:16:27.55,Default,Touya,0,0,0,,The woman who built this, \NRegina Babylon, must have been a genius.
+Dialogue: 10,0:16:27.55,0:16:32.55,Default,Touya,0,0,0,,Though she was also a pervert \Nwho made her creation expose her panties...
+Dialogue: 10,0:16:33.26,0:16:36.73,Default,Touya,0,0,0,,Cesca, is there anything here, aside from this garden?
+Dialogue: 10,0:16:36.73,0:16:38.06,Default,Cesca,0,0,0,,No, nothing.
+Dialogue: 10,0:16:38.06,0:16:41.65,Default,Cesca,0,0,0,,Unlike the others, this is just a lovely garden.
+Dialogue: 10,0:16:41.65,0:16:45.32,Default,Cesca,0,0,0,,There is no treasure, and nothing I would call a weapon.
+Dialogue: 10,0:16:45.32,0:16:50.20,Default,Touya,0,0,0,,Well, this garden is a treasure in itself, really.
+Dialogue: 10,0:16:50.20,0:16:52.99,Default,Cesca,0,0,0,,I'm grateful that you like it.
+Dialogue: 10,0:16:52.99,0:16:58.87,Default,Cesca,0,0,0,,I hope you will accept me, \Nand this Garden of Babylon, as my dowry to you.
+Dialogue: 10,0:16:58.87,0:17:01.42,Default,Touya,0,0,0,,I don't need a dowry from you.
+Dialogue: 10,0:17:01.42,0:17:03.00,Default,Leen,0,0,0,,Hey, Cesca.
+Dialogue: 10,0:17:03.00,0:17:07.34,Default,Leen,0,0,0,,You said that "unlike the others," \Nthis was just a garden, right?
+Dialogue: 10,0:17:07.34,0:17:08.17,Default,Cesca,0,0,0,,Yes.
+Dialogue: 10,0:17:08.17,0:17:10.18,Default,Cesca,0,0,0,,In addition to this location,
+Dialogue: 10,0:17:10.18,0:17:14.51,Default,Cesca,0,0,0,,there are several areas drifting in the sky, \Ncontrolled and managed by my sisters.
+Dialogue: 10,0:17:14.51,0:17:17.18,Default,Cesca,0,0,0,,Altogether, they complete Babylon.
+Dialogue: 10,0:17:17.18,0:17:18.35,Default,Touya,0,0,0,,What?!
+Dialogue: 10,0:17:18.35,0:17:25.71,Default,Leen,0,0,0,,In other words, your creator, Professor Regina Babylon, \Nmade the floating island over 5,000 years ago,
+Dialogue: 10,0:17:25.71,0:17:30.32,Default,Leen,0,0,0,,and it has now split into pieces \Nthat are drifting above the world below?
+Dialogue: 10,0:17:30.32,0:17:32.07,Default,Cesca,0,0,0,,That is correct.
+Dialogue: 10,0:17:32.07,0:17:36.08,Default,Touya,0,0,0,,This is on such a huge scale that I can't make sense of it.
+Dialogue: 10,0:17:36.08,0:17:41.04,Default,Yumina,0,0,0,,If things like that were floating in the sky, \Nit would cause a commotion.
+Dialogue: 10,0:17:43.13,0:17:45.46,Default,Touya,0,0,0,,Elze, Linze, Yae, what's wrong?
+Dialogue: 10,0:17:45.46,0:17:46.46,Default,Touya,0,0,0,,You're all red.
+Dialogue: 10,0:17:46.46,0:17:48.01,Default,Elze,0,0,0,,W-We're fine.
+Dialogue: 10,0:17:48.01,0:17:49.63,Default,Linze,0,0,0,,It's nothing.
+Dialogue: 10,0:17:49.63,0:17:51.59,Default,Yae,0,0,0,,You're imagining it.
+Dialogue: 10,0:17:51.59,0:17:52.84,Default,Touya,0,0,0,,Really?
+Dialogue: 10,0:17:54.55,0:17:59.81,Default,Cesca,0,0,0,,Babylon is protected by magic barriers \Nthat prevent recognition from outside.
+Dialogue: 10,0:17:59.81,0:18:02.73,Default,Cesca,0,0,0,,It's nearly impossible to perceive it from the surface.
+Dialogue: 10,0:18:02.73,0:18:05.65,Default,Touya,0,0,0,,Just how many of these floating islands are there?
+Dialogue: 10,0:18:05.65,0:18:10.30,Default,Cesca,0,0,0,,In addition to my garden, there's also the library, \Nthe laboratory, the storage facility,
+Dialogue: 10,0:18:10.30,0:18:14.16,Default,Cesca,0,0,0,,the tower, the castle walls, the workshop, \Nthe alchemy ward, and the granary.
+Dialogue: 10,0:18:14.16,0:18:18.95,Default,Cesca,0,0,0,,There were nine originally, \Nbut I don't know how many remain at present.
+Dialogue: 10,0:18:20.04,0:18:22.91,Default,Leen,0,0,0,,I'm drawn to this library you speak of, personally.
+Dialogue: 10,0:18:22.91,0:18:26.59,Default,Leen,0,0,0,,It sounds like it must be packed \Nwith the ancient civilization's wisdom.
+Dialogue: 10,0:18:26.59,0:18:28.84,Default,Touya,0,0,0,,It's the library of the professor who made this.
+Dialogue: 10,0:18:28.84,0:18:32.01,Default,Touya,0,0,0,,It might be a mountainous collection of porn.
+Dialogue: 10,0:18:32.01,0:18:33.88,Default,Yae,0,0,0,,Collection of porn?
+Dialogue: 10,0:18:33.88,0:18:34.93,Default,Touya,0,0,0,,Don't worry about it!
+Dialogue: 10,0:18:34.93,0:18:37.05,Default,Touya,0,0,0,,You don't need to know those words! Okay?
+Dialogue: 10,0:18:37.05,0:18:39.72,Default,Yae,0,0,0,,A-All right.
+Dialogue: 10,0:18:39.72,0:18:42.85,Default,Leen,0,0,0,,Can you make contact with the other floating islands?
+Dialogue: 10,0:18:42.85,0:18:47.98,Default,Cesca,0,0,0,,My connection with the other sisters \Nhas been severed, so I can't contact them.
+Dialogue: 10,0:18:47.98,0:18:52.44,Default,Leen,0,0,0,,So there's no way to find the other facilities \Nat the moment, then.
+Dialogue: 10,0:18:52.44,0:18:56.57,Default,Linze,0,0,0,,Could we find them with Touya's smartphone?
+Dialogue: 10,0:18:56.57,0:18:58.58,Default,Touya,0,0,0,,Oh, we could try that.
+Dialogue: 10,0:18:58.58,0:19:00.12,Default,Touya,0,0,0,,Nice idea, Linze.
+Dialogue: 10,0:19:00.12,0:19:03.79,Default,Linze,0,0,0,,Oh, uh... y-yes.
+Dialogue: 10,0:19:03.79,0:19:05.37,Default,Touya,0,0,0,,Search: Babylon.
+Dialogue: 10,0:19:07.67,0:19:09.46,Default,Touya,0,0,0,,Guess it won't work...
+Dialogue: 10,0:19:09.46,0:19:15.43,Default,Yumina,0,0,0,,Has no one else ever found these islands, \Nin all this time they've been drifting in the sky?
+Dialogue: 10,0:19:15.43,0:19:17.09,Default,Cesca,0,0,0,,There was contact twice.
+Dialogue: 10,0:19:17.09,0:19:20.93,Default,Cesca,0,0,0,,Once 3,208 years ago, and again 985 years ago.
+Dialogue: 10,0:19:20.93,0:19:25.23,Default,Cesca,0,0,0,,The first was at the library, the second at the granary.
+Dialogue: 10,0:19:26.44,0:19:31.86,Default,Leen,0,0,0,,So in the end, the only way to find the other Babylons \Nis to search for each of their teleportation circles.
+Dialogue: 10,0:19:31.86,0:19:35.36,Default,Touya,0,0,0,,By the way, do you know \Nwhere the other teleportation circles are?
+Dialogue: 10,0:19:35.36,0:19:37.28,Default,Cesca,0,0,0,,I do not.
+Dialogue: 10,0:19:37.28,0:19:41.20,Default,Elze,0,0,0,,Wh-Why did they scatter like this in the first place?
+Dialogue: 10,0:19:41.20,0:19:44.45,Default,Cesca,0,0,0,,Who knows? The professor never told us.
+Dialogue: 10,0:19:44.45,0:19:46.58,Default,Touya,0,0,0,,Maybe it was just to aggravate people.
+Dialogue: 10,0:19:46.58,0:19:48.67,Default,Elze,0,0,0,,N-No way.
+Dialogue: 10,0:19:48.67,0:19:52.50,Default,Touya,0,0,0,,Elze, your face is red. Are you sure you don't have a cold?
+Dialogue: 10,0:19:52.50,0:19:54.34,Default,Elze,0,0,0,,I-It's nothing.
+Dialogue: 10,0:19:54.34,0:19:55.84,Default,Touya,0,0,0,,Okay, then.
+Dialogue: 10,0:19:55.84,0:19:58.76,Default,Leen,0,0,0,,So, what do we do with her now?
+Dialogue: 10,0:19:58.76,0:20:01.32,Default,Touya,0,0,0,,What do we do?
+Dialogue: 10,0:20:02.15,0:20:03.89,Default,Touya,0,0,0,,What do you want to do, Cesca?
+Dialogue: 10,0:20:03.89,0:20:06.94,Default,Cesca,0,0,0,,I would like to stay with you, Master.
+Dialogue: 10,0:20:06.94,0:20:11.36,Default,Cesca,0,0,0,,From morning to night. Even into the bath and bed.
+Dialogue: 10,0:20:11.36,0:20:14.48,Default,Linze,0,0,0,,Into the bath and bed?!
+Dialogue: 10,0:20:14.48,0:20:17.90,Default,Touya,0,0,0,,No, I told you, she's just saying that.
+Dialogue: 10,0:20:19.28,0:20:24.24,Default,Touya,0,0,0,,Maybe the right answer is to just walk away \Nand pretend this never happened.
+Dialogue: 10,0:20:25.83,0:20:29.46,Default,Touya,0,0,0,,Actually, isn't it a problem if you leave this place?
+Dialogue: 10,0:20:29.46,0:20:32.42,Default,Touya,0,0,0,,Won't there be trouble if you're absent \Nwhen something happens?
+Dialogue: 10,0:20:32.42,0:20:34.88,Default,Cesca,0,0,0,,I'll know right away if anything happens.
+Dialogue: 10,0:20:34.88,0:20:37.51,Default,Cesca,0,0,0,,Plus, I have the power to teleport here.
+Dialogue: 10,0:20:37.51,0:20:41.14,Default,Cesca,0,0,0,,Management can be left on auto, so that's not a problem.
+Dialogue: 10,0:20:41.14,0:20:43.14,Default,Touya,0,0,0,,Oh, really?
+Dialogue: 10,0:20:43.14,0:20:46.22,Default,Touya,0,0,0,,Guess I'll have to accept this, then.
+Dialogue: 10,0:20:46.22,0:20:50.52,Default,Cesca,0,0,0,,For that reason, I would like you \Nto complete your registration with the garden, Master.
+Dialogue: 10,0:20:50.52,0:20:52.98,Default,Touya,0,0,0,,Registration? What do I need to do?
+Dialogue: 10,0:20:52.98,0:20:54.69,Default,Cesca,0,0,0,,Pardon me for a moment.
+Dialogue: 10,0:21:15.71,0:21:17.34,Default,Cesca,0,0,0,,Registration complete.
+Dialogue: 10,0:21:17.34,0:21:19.84,Default,Cesca,0,0,0,,I've recorded your genetic information.
+Dialogue: 10,0:21:19.84,0:21:23.97,Default,Cesca,0,0,0,,Ownership of the garden \Nis now transferred to Mochizuki Touya.
+Dialogue: 10,0:21:23.97,0:21:26.39,Default,Yumina,0,0,0,,Hey! What are you doing?!
+Dialogue: 10,0:21:26.39,0:21:29.56,Default,Yumina,0,0,0,,How could you suddenly k-k-kiss him?!
+Dialogue: 10,0:21:29.56,0:21:31.19,Default,Yumina,0,0,0,,I haven't even done that yet!
+Dialogue: 10,0:21:31.19,0:21:33.06,Default,Yumina,0,0,0,,{\i1}I{\i0} haven't even done that yet!
+Dialogue: 10,0:21:33.06,0:21:37.44,Default,Cesca,0,0,0,,This is the most effective \Nmeans of taking a genetic sample.
+Dialogue: 10,0:21:37.44,0:21:43.07,Default,Cesca,0,0,0,,I cannot produce children, but I imagine \Nthe other method would still cause various problems.
+Dialogue: 10,0:21:43.07,0:21:46.03,Default,Yumina,0,0,0,,Ch-Children?!
+Dialogue: 10,0:21:46.87,0:21:48.16,Default,Touya,0,0,0,,Oh, boy.
+Dialogue: 10,0:21:49.58,0:21:50.58,Default,Linze,0,0,0,,Touya.
+Dialogue: 10,0:21:50.58,0:21:52.50,Default,Touya,0,0,0,,Yes!
+Dialogue: 10,0:21:54.29,0:21:58.96,Default,Linze,0,0,0,,I love you, Touya.
+Dialogue: 10,0:21:58.96,0:22:00.22,Default,Touya,0,0,0,,Huh?
+Dialogue: 0,0:02:31.01,0:02:36.01,Signs,Title,0,0,0,,{\pos(960,300)\fnBPreplay\fs95\bord9\3c&H8A58F9&\blur12}Chapter 11
+Dialogue: 1,0:02:31.01,0:02:36.01,Signs,Title,0,0,0,,{\pos(960,300)\fnBPreplay\fs95\bord6.75\c&H8A58F9&\3c&H8A58F9&\blur0.6}Chapter 11
+Dialogue: 2,0:02:31.01,0:02:36.01,Signs,Title,0,0,0,,{\pos(960,300)\fnBPreplay\fs95\3c&H8A58F9&\blur0.6}Chapter 11
+Dialogue: 0,0:02:31.01,0:02:36.01,Signs,Title,0,0,0,,{\pos(960,780)\fnBPreplay\fs95\bord9\3c&H8A58F9&\blur12}Panties, and an Aerial Garden
+Dialogue: 1,0:02:31.01,0:02:36.01,Signs,Title,0,0,0,,{\pos(960,780)\fnBPreplay\fs95\bord6.75\c&H8A58F9&\3c&H8A58F9&\blur0.6}Panties, and an Aerial Garden
+Dialogue: 2,0:02:31.01,0:02:36.01,Signs,Title,0,0,0,,{\pos(960,780)\fnBPreplay\fs95\3c&H8A58F9&\blur0.6}Panties, and an Aerial Garden
+Dialogue: 0,0:22:27.41,0:22:30.75,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}harisakesou kikoechau
+Dialogue: 0,0:22:30.75,0:22:33.16,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}kodo no oto ga
+Dialogue: 0,0:22:33.16,0:22:36.59,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}dare yori mo dare yori mo
+Dialogue: 0,0:22:36.59,0:22:40.09,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}kimi no mae ja kawaiku itai kara
+Dialogue: 0,0:22:40.09,0:22:42.09,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}masa ni Dangerous
+Dialogue: 0,0:22:41.30,0:22:43.05,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,300)}Dangerous
+Dialogue: 0,0:22:42.09,0:22:46.14,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}sono egao mujaki sugiru ne
+Dialogue: 0,0:22:43.05,0:22:46.14,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,0)}sono egao
+Dialogue: 0,0:22:46.14,0:22:49.51,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}kakusenai yo mitame yori
+Dialogue: 0,0:22:49.51,0:22:52.85,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,300)}uso ga heta na no
+Dialogue: 0,0:22:54.23,0:22:57.06,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}sowasowa
+Dialogue: 0,0:22:55.73,0:22:58.48,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,300)}fuwafuwa
+Dialogue: 0,0:22:57.06,0:23:00.73,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}chotto matte junbi undouchuu
+Dialogue: 0,0:23:00.73,0:23:02.99,EDRomaji1,,0,0,0,,{\blur0.75\fade(0,150)}hajimete wa donna aji
+Dialogue: 0,0:23:02.99,0:23:06.07,EDRomaji1,,0,0,0,,{\blur0.75\fade(150,0)}tashikamete hoshii yo
+Dialogue: 0,0:23:05.24,0:23:07.53,EDRomaji2,,0,0,0,,{\blur0.75\fade(150,300)}Kiss Me!
+Dialogue: 0,0:23:06.07,0:23:09.49,EDRomaji1,,0,0,0,,{\blur0.75\fade(100,100)}moshi kamisama ga iru no nara
+Dialogue: 0,0:23:09.49,0:23:12.87,EDRomaji1,,0,0,0,,{\blur0.75\fade(100,150)}kono kimochi ga todoku no nara
+Dialogue: 0,0:23:12.87,0:23:15.87,EDRomaji1,,0,0,0,,{\blur0.75}kirakira no mahou wo kakeru yo
+Dialogue: 0,0:23:15.87,0:23:18.92,EDRomaji1,,0,0,0,,{\blur0.75}kotaete junjou Emotions aru
+Dialogue: 0,0:23:18.92,0:23:22.26,EDRomaji1,,0,0,0,,{\blur0.75}daitan na koe ga tsuyogaru no
+Dialogue: 0,0:23:22.26,0:23:26.01,EDRomaji1,,0,0,0,,{\blur0.75}me no mae no kimi ni todokechaun da
+Dialogue: 0,0:23:27.59,0:23:29.68,EDRomaji1,,0,0,0,,{\blur0.75}gikochinai mama de
+Dialogue: 0,0:23:30.51,0:23:33.35,EDRomaji1,,0,0,0,,{\blur0.75}sugu ni tsutaetai yo
+Dialogue: 0,0:22:27.41,0:22:30.75,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}My pounding heart is ready to burst.
+Dialogue: 0,0:22:30.75,0:22:33.16,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}As I listen to it,
+Dialogue: 0,0:22:33.16,0:22:36.59,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}More than anyone, more than anyone,
+Dialogue: 0,0:22:36.59,0:22:40.09,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}I want to be attractive in front of you.
+Dialogue: 0,0:22:40.09,0:22:42.09,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}Just dangerous.
+Dialogue: 0,0:22:41.30,0:22:43.05,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,300)}Dangerous
+Dialogue: 0,0:22:42.09,0:22:46.14,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}That smile is just too innocent.
+Dialogue: 0,0:22:43.05,0:22:46.14,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,0)}That smile
+Dialogue: 0,0:22:46.14,0:22:49.51,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}Your appearance can't hide it.
+Dialogue: 0,0:22:49.51,0:22:52.85,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,300)}Are you a bad liar?
+Dialogue: 0,0:22:54.23,0:22:57.06,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}I am anxious...
+Dialogue: 0,0:22:55.73,0:22:58.48,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,300)}and light-headed.
+Dialogue: 0,0:22:57.06,0:23:00.73,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}Just a moment. I am warming up.
+Dialogue: 0,0:23:00.73,0:23:02.99,EDTranslation1,,0,0,0,,{\blur0.75\fade(0,150)}What is the first time like?
+Dialogue: 0,0:23:02.99,0:23:06.07,EDTranslation1,,0,0,0,,{\blur0.75\fade(150,0)}I want to know!
+Dialogue: 0,0:23:05.24,0:23:07.53,EDTranslation2,,0,0,0,,{\blur0.75\fade(150,300)}Kiss Me!
+Dialogue: 0,0:23:06.07,0:23:09.49,EDTranslation1,,0,0,0,,{\blur0.75\fade(100,100)}If God exists,
+Dialogue: 0,0:23:09.49,0:23:12.87,EDTranslation1,,0,0,0,,{\blur0.75\fade(100,150)}If these feelings reach you,
+Dialogue: 0,0:23:12.87,0:23:15.87,EDTranslation1,,0,0,0,,{\blur0.75}I will cast a sparkling spell that
+Dialogue: 0,0:23:15.87,0:23:18.92,EDTranslation1,,0,0,0,,{\blur0.75}Responds to my pure emotions.{answer?;glimpse?}
+Dialogue: 0,0:23:18.92,0:23:22.26,EDTranslation1,,0,0,0,,{\blur0.75}Acting tough with a daring voice,
+Dialogue: 0,0:23:22.26,0:23:26.01,EDTranslation1,,0,0,0,,{\blur0.75}I want to confess in front of you.{tell?,send?}
+Dialogue: 0,0:23:27.59,0:23:29.68,EDTranslation1,,0,0,0,,{\blur0.75}Stay awkward.
+Dialogue: 0,0:23:30.51,0:23:33.35,EDTranslation1,,0,0,0,,{\blur0.75}I will tell you soon.{want?;give it?,confess?}
+Dialogue: 0,0:01:07.21,0:01:08.67,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k28}ko{\k16}no {\k18}te {\k10}de {\k34}tsu{\k16}ka{\k34}me{\k3}
+Dialogue: 0,0:01:08.67,0:01:10.38,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k33}ko{\k12}no {\k18}te {\k14}de {\k28}tsu{\k22}na{\k30}ge{\k5}
+Dialogue: 0,0:01:10.38,0:01:15.05,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k41}ko{\k14}no {\k18}mi{\k14}ra{\k26}i {\k22}wo {\k32}u{\k28}ke{\k22}tsu{\k30}i{\k34}de{\k22}i{\k32}kun {\k108}da{\k33}
+Dialogue: 0,0:01:15.05,0:01:18.10,OP_Romaji,,0,0,0,,{\fade(150,150)\blur0.9}{\k30}i{\k22}ma {\k22}wo {\k26}hi{\k30}ki{\k24}ka{\k38}e {\k38}ni {\k46}shi{\k20}te{\k3}
+Dialogue: 0,0:01:18.10,0:01:19.43,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k41}Ca{\k18}rry {\k22}on {\k18}Ca{\k22}rry {\k19}on
+Dialogue: 0,0:01:19.43,0:01:23.86,OP_Romaji,,0,0,0,,{\blur0.9\fade(0,400)}{\k25}i{\k22}i {\k61}ka {\k11}i{\k12}ku {\k42}zo {\k40}Fly {\k160}High{\k6}
+Dialogue: 0,0:01:31.15,0:01:34.57,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k86}Stop{\k20} {\k20}te {\k32}wo {\k30}ka{\k12}za{\k40}shi{\k28}ta {\k14}da{\k14}ke {\k44}ja{\k2}
+Dialogue: 0,0:01:34.57,0:01:37.74,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k64}Life{\k18} {\k20}na{\k30}ni{\k38}mo {\k18}ka{\k36}wa{\k22}ra{\k30}na{\k30}i{\k3}
+Dialogue: 0,0:01:37.74,0:01:41.12,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k95}Shine{\k10} {\k26}hi{\k30}ka{\k28}ri {\k14}no {\k20}sa{\k38}su {\k14}ba{\k16}sho {\k32}he{\k5}
+Dialogue: 0,0:01:41.12,0:01:44.83,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k55}ma{\k26}na{\k16}za{\k42}shi {\k26}wo {\k16}u{\k36}chi{\k56}kon{\k68}de{\k2}
+Dialogue: 0,0:01:44.83,0:01:48.00,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k15}hi{\k18}to {\k16}wa {\k30}da{\k20}re{\k22}mo {\k30}ga {\k60}mi{\k62}nna{\k4}
+Dialogue: 0,0:01:48.00,0:01:51.17,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k42}ta{\k12}bi{\k18}bi{\k30}to {\k20}no {\k24}you {\k22}ni {\k42}i{\k38}ki{\k62}ru{\k5}
+Dialogue: 0,0:01:51.17,0:01:52.38,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k40}chi{\k23}ka{\k11}i {\k20}wo{\k2}
+Dialogue: 0,0:01:52.38,0:01:53.09,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k10}(chi{\k16}ka{\k18}i {\k19}wo){\k0}
+Dialogue: 0,0:01:53.09,0:01:54.05,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k15}ki{\k31}zan{\k28}de
+Dialogue: 0,0:01:54.05,0:01:54.80,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k15}(ki{\k32}zan{\k18}de)
+Dialogue: 0,0:01:54.80,0:02:00.02,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,0)}{\k30}ha{\k22}te {\k10}na{\k24}i {\k32}so{\k18}ra {\k20}he {\k124}to{\k12} {\k14}ha{\k16}na{\k170}te{\k33}
+Dialogue: 0,0:02:00.02,0:02:01.64,OP_Romaji,,0,0,0,,{\blur0.9\fade(0,150)}{\k33}so{\k12}no {\k18}te {\k14}de {\k34}tsu{\k20}ka{\k18}me{\k5}
+Dialogue: 0,0:02:01.64,0:02:03.19,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k43}so{\k12}no {\k16}te {\k12}de {\k28}tsu{\k28}na{\k22}ge{\k2}
+Dialogue: 0,0:02:03.19,0:02:06.56,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k46}so{\k10}no {\k22}se{\k14}ka{\k32}i {\k18}wa {\k30}se{\k24}ma{\k32}su{\k22}gi{\k42}ru {\k18}ka{\k22}ra{\k2}
+Dialogue: 0,0:02:06.56,0:02:08.07,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k40}so{\k20}no {\k14}a{\k18}shi {\k20}de {\k30}yu{\k12}ke
+Dialogue: 0,0:02:08.07,0:02:10.03,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k52}so{\k16}no {\k16}mi{\k18}mi {\k24}de {\k22}ki{\k32}ke
+Dialogue: 0,0:02:10.03,0:02:13.15,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k24}so{\k12}no {\k18}ri{\k22}a{\k22}ru {\k20}wa {\k30}tsu{\k26}ku{\k28}ri{\k32}mo{\k22}no {\k14}de{\k23}shou?
+Dialogue: 0,0:02:13.15,0:02:14.82,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k49}ko{\k14}no {\k12}te {\k18}de {\k26}tsu{\k24}ka{\k19}me
+Dialogue: 0,0:02:14.82,0:02:16.37,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k51}ko{\k14}no {\k16}te {\k10}de {\k34}tsu{\k18}na{\k20}ge
+Dialogue: 0,0:02:16.37,0:02:21.33,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k54}ko{\k10}no {\k24}mi{\k14}ra{\k26}i {\k18}wo {\k34}u{\k28}ke{\k26}tsu{\k32}i{\k28}de{\k20}i{\k32}kun {\k94}da{\k6}
+Dialogue: 0,0:02:21.33,0:02:24.37,OP_Romaji,,0,0,0,,{\blur0.9\fade(0,150,))\k26}i{\k20}ma {\k20}wo {\k38}hi{\k28}ki{\k22}ka{\k36}e {\k32}ni {\k52}shi{\k26}te{\k5}
+Dialogue: 0,0:02:24.37,0:02:25.63,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,150)}{\k18}Ca{\k14}rry {\k38}on {\k18}Ca{\k16}rry {\k16}on{\k0}
+Dialogue: 0,0:02:25.63,0:02:29.75,OP_Romaji,,0,0,0,,{\blur0.9\fade(150,300)}{\k24}i{\k22}i {\k44}ka{\k16} {\k14}i{\k14}ku {\k34}zo {\k44}Fly {\k180}High{\k0}
+Dialogue: 0,0:01:07.21,0:01:08.67,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Grasp it with these hands!
+Dialogue: 0,0:01:08.67,0:01:10.38,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Connect it with these hands!
+Dialogue: 0,0:01:10.38,0:01:15.05,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}We will go on to inherit this future!
+Dialogue: 0,0:01:15.05,0:01:18.10,OP_Translation,,0,0,0,,{\fade(150,150)\blur0.9}Giving our present time in exchange,
+Dialogue: 0,0:01:18.10,0:01:19.43,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Carry on, carry on.
+Dialogue: 0,0:01:19.43,0:01:23.86,OP_Translation,,0,0,0,,{\blur0.9\fade(0,400)}Are you ready? Let's go, fly high!
+Dialogue: 0,0:01:31.15,0:01:34.57,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Stop! Merely raising your hands
+Dialogue: 0,0:01:34.57,0:01:37.74,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}to the sky will not change your Life.
+Dialogue: 0,0:01:37.74,0:01:41.12,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Shine! Cast your gaze toward
+Dialogue: 0,0:01:41.12,0:01:44.83,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}where the light shines.
+Dialogue: 0,0:01:44.83,0:01:48.00,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Everybody lives
+Dialogue: 0,0:01:48.00,0:01:51.17,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}as a traveler,
+Dialogue: 0,0:01:51.17,0:01:52.38,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Carve out
+Dialogue: 0,0:01:52.38,0:01:53.09,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}(carve out)
+Dialogue: 0,0:01:53.09,0:01:54.05,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}new vows
+Dialogue: 0,0:01:54.05,0:01:54.80,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}(new vows)
+Dialogue: 0,0:01:54.80,0:02:00.02,OP_Translation,,0,0,0,,{\blur0.9\fade(150,0)}And release them to the limitless sky!
+Dialogue: 0,0:02:00.02,0:02:01.64,OP_Translation,,0,0,0,,{\blur0.9\fade(0,150)}Grasp it with those hands!
+Dialogue: 0,0:02:01.64,0:02:03.19,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Connect it with those hands!
+Dialogue: 0,0:02:03.19,0:02:06.56,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}That world is too small as is.
+Dialogue: 0,0:02:06.56,0:02:08.07,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Keep going with those legs!
+Dialogue: 0,0:02:08.07,0:02:10.03,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Listen with those ears!
+Dialogue: 0,0:02:10.03,0:02:13.15,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}That reality is just an imitation, right?
+Dialogue: 0,0:02:13.15,0:02:14.82,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Grasp it with these hands!
+Dialogue: 0,0:02:14.82,0:02:16.37,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Connect it with these hands!
+Dialogue: 0,0:02:16.37,0:02:21.33,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}We will go on to inherit this future!
+Dialogue: 0,0:02:21.33,0:02:24.37,OP_Translation,,0,0,0,,{\blur0.9\fade(0,150)}Giving our present time in exchange,
+Dialogue: 0,0:02:24.37,0:02:25.63,OP_Translation,,0,0,0,,{\blur0.9\fade(150,150)}Carry on, carry on.
+Dialogue: 0,0:02:25.63,0:02:29.75,OP_Translation,,0,0,0,,{\blur0.9\fade(150,300)}Are you ready? Let's go, fly high!
+Dialogue: 1,0:01:07.21,0:01:07.71,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 1 - line fx: 1] \an5\pos(738.075,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ko
+Dialogue: 1,0:01:07.46,0:01:07.92,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 1 - line fx: 2] \an5\pos(796.695,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:01:07.59,0:01:08.01,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 1 - line fx: 3] \an5\pos(872.91,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:01:07.71,0:01:08.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 1 - line fx: 4] \an5\pos(949.11,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:01:07.84,0:01:08.46,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 1 - line fx: 5] \an5\pos(1040.145,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:01:08.21,0:01:08.67,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 1 - line fx: 6] \an5\pos(1110.165,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:08.34,0:01:08.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 1 - line fx: 7] \an5\pos(1175.025,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}me
+Dialogue: 1,0:01:08.67,0:01:09.38,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 2 - line fx: 8] \an5\pos(743.64,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ko
+Dialogue: 1,0:01:09.05,0:01:09.42,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 2 - line fx: 9] \an5\pos(802.26,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:01:09.17,0:01:09.67,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 2 - line fx: 10] \an5\pos(878.475,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:01:09.38,0:01:09.80,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 2 - line fx: 11] \an5\pos(954.675,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:01:09.47,0:01:10.13,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 2 - line fx: 12] \an5\pos(1045.71,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:01:09.72,0:01:10.30,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 2 - line fx: 13] \an5\pos(1116.405,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:01:09.97,0:01:10.63,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 2 - line fx: 14] \an5\pos(1175.7,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ge
+Dialogue: 1,0:01:10.38,0:01:11.09,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 15] \an5\pos(584.79,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ko
+Dialogue: 1,0:01:10.76,0:01:11.13,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 16] \an5\pos(643.425,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:01:10.88,0:01:11.38,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 17] \an5\pos(722.565,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mi
+Dialogue: 1,0:01:11.13,0:01:11.51,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 18] \an5\pos(779.325,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ra
+Dialogue: 1,0:01:11.18,0:01:11.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 19] \an5\pos(815.01,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:11.43,0:01:12.01,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 20] \an5\pos(879.345,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo
+Dialogue: 1,0:01:11.63,0:01:12.34,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 21] \an5\pos(950.385,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}u
+Dialogue: 1,0:01:12.01,0:01:12.59,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 22] \an5\pos(994.2,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ke
+Dialogue: 1,0:01:12.34,0:01:12.84,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 23] \an5\pos(1064.22,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:01:12.55,0:01:13.09,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 24] \an5\pos(1113.345,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:12.84,0:01:13.47,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 25] \an5\pos(1151.1,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:01:13.09,0:01:13.68,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 26] \an5\pos(1188.84,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:13.34,0:01:14.05,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 27] \an5\pos(1240.74,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}kun
+Dialogue: 1,0:01:13.68,0:01:15.05,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 3 - line fx: 28] \an5\pos(1334.55,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}da
+Dialogue: 1,0:01:15.05,0:01:15.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 29] \an5\pos(671.685,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:15.39,0:01:15.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 30] \an5\pos(715.665,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ma
+Dialogue: 1,0:01:15.64,0:01:16.14,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 31] \an5\pos(807.78,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo
+Dialogue: 1,0:01:15.81,0:01:16.39,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 32] \an5\pos(886.92,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}hi
+Dialogue: 1,0:01:16.06,0:01:16.72,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 33] \an5\pos(932.1,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ki
+Dialogue: 1,0:01:16.39,0:01:16.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 34] \an5\pos(983.325,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:16.64,0:01:17.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 35] \an5\pos(1027.14,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}e
+Dialogue: 1,0:01:16.97,0:01:17.72,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 36] \an5\pos(1085.22,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ni
+Dialogue: 1,0:01:17.43,0:01:18.18,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 37] \an5\pos(1166.235,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}shi
+Dialogue: 1,0:01:17.85,0:01:18.35,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 4 - line fx: 38] \an5\pos(1230.195,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:01:18.10,0:01:18.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 5 - line fx: 39] \an5\pos(759.105,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Ca
+Dialogue: 1,0:01:18.47,0:01:18.93,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 5 - line fx: 40] \an5\pos(829.815,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}rry
+Dialogue: 1,0:01:18.68,0:01:19.18,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 5 - line fx: 41] \an5\pos(920.175,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}on
+Dialogue: 1,0:01:18.93,0:01:19.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 5 - line fx: 42] \an5\pos(1000.515,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Ca
+Dialogue: 1,0:01:19.14,0:01:19.64,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 5 - line fx: 43] \an5\pos(1071.225,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}rry
+Dialogue: 1,0:01:19.31,0:01:19.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 5 - line fx: 44] \an5\pos(1161.585,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}on
+Dialogue: 1,0:01:19.43,0:01:19.98,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 45] \an5\pos(718.095,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:19.68,0:01:20.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 46] \an5\pos(734.295,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:19.93,0:01:20.89,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 47] \an5\pos(791.715,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:20.64,0:01:20.94,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 48] \an5\pos(849.135,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:20.64,0:01:21.14,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 49] \an5\pos(886.215,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ku
+Dialogue: 1,0:01:20.85,0:01:21.52,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 50] \an5\pos(962.835,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}zo
+Dialogue: 1,0:01:21.19,0:01:21.85,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 51] \an5\pos(1046.73,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Fly
+Dialogue: 1,0:01:21.60,0:01:23.56,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 6 - line fx: 52] \an5\pos(1156.665,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}High
+Dialogue: 1,0:01:31.15,0:01:32.32,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 53] \an5\pos(645.075,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Stop
+Dialogue: 1,0:01:32.11,0:01:32.61,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 54] \an5\pos(748.2,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:01:32.36,0:01:32.99,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 55] \an5\pos(830.64,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo
+Dialogue: 1,0:01:32.66,0:01:33.32,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 56] \an5\pos(915.84,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:32.99,0:01:33.36,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 57] \an5\pos(972.12,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}za
+Dialogue: 1,0:01:33.11,0:01:33.82,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 58] \an5\pos(1037.16,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}shi
+Dialogue: 1,0:01:33.57,0:01:34.07,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 59] \an5\pos(1101.12,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ta
+Dialogue: 1,0:01:33.82,0:01:34.28,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 60] \an5\pos(1177.32,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}da
+Dialogue: 1,0:01:33.95,0:01:34.32,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 61] \an5\pos(1235.955,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ke
+Dialogue: 1,0:01:34.07,0:01:34.82,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 7 - line fx: 62] \an5\pos(1308.375,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ja
+Dialogue: 1,0:01:34.57,0:01:35.53,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 63] \an5\pos(720.99,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Life
+Dialogue: 1,0:01:35.33,0:01:35.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 64] \an5\pos(819.225,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:01:35.53,0:01:36.16,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 65] \an5\pos(871.8,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ni
+Dialogue: 1,0:01:35.83,0:01:36.53,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 66] \an5\pos(930.6,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mo
+Dialogue: 1,0:01:36.28,0:01:36.74,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 67] \an5\pos(1015.8,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:36.41,0:01:37.04,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 68] \an5\pos(1080.675,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wa
+Dialogue: 1,0:01:36.78,0:01:37.24,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 69] \an5\pos(1144.155,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ra
+Dialogue: 1,0:01:36.99,0:01:37.54,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 70] \an5\pos(1201.395,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:01:37.24,0:01:37.95,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 8 - line fx: 71] \an5\pos(1239.135,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:37.74,0:01:38.95,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 72] \an5\pos(643.65,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Shine
+Dialogue: 1,0:01:38.70,0:01:39.33,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 73] \an5\pos(755.01,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}hi
+Dialogue: 1,0:01:38.95,0:01:39.66,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 74] \an5\pos(806.91,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:39.33,0:01:39.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 75] \an5\pos(856.755,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ri
+Dialogue: 1,0:01:39.58,0:01:40.00,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 76] \an5\pos(927.615,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:01:39.70,0:01:40.20,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 77] \an5\pos(1007.265,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}sa
+Dialogue: 1,0:01:39.95,0:01:40.66,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 78] \an5\pos(1066.56,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}su
+Dialogue: 1,0:01:40.33,0:01:40.71,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 79] \an5\pos(1146.195,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ba
+Dialogue: 1,0:01:40.41,0:01:40.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 80] \an5\pos(1220.325,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}sho
+Dialogue: 1,0:01:40.66,0:01:41.21,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 9 - line fx: 81] \an5\pos(1314.78,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}he
+Dialogue: 1,0:01:41.12,0:01:41.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 82] \an5\pos(683.385,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ma
+Dialogue: 1,0:01:41.62,0:01:42.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 83] \an5\pos(748.905,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:01:41.87,0:01:42.37,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 84] \an5\pos(805.845,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}za
+Dialogue: 1,0:01:42.04,0:01:42.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 85] \an5\pos(870.885,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}shi
+Dialogue: 1,0:01:42.42,0:01:43.08,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 86] \an5\pos(964.86,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo
+Dialogue: 1,0:01:42.75,0:01:43.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 87] \an5\pos(1035.915,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}u
+Dialogue: 1,0:01:42.87,0:01:43.58,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 88] \an5\pos(1088.175,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}chi
+Dialogue: 1,0:01:43.25,0:01:44.08,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 89] \an5\pos(1169.4,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}kon
+Dialogue: 1,0:01:43.83,0:01:44.79,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 10 - line fx: 90] \an5\pos(1242.855,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:01:44.83,0:01:45.29,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 91] \an5\pos(660.81,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}hi
+Dialogue: 1,0:01:45.04,0:01:45.54,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 92] \an5\pos(709.95,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}to
+Dialogue: 1,0:01:45.21,0:01:45.67,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 93] \an5\pos(792.39,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wa
+Dialogue: 1,0:01:45.34,0:01:46.00,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 94] \an5\pos(878.265,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}da
+Dialogue: 1,0:01:45.67,0:01:46.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 95] \an5\pos(935.505,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}re
+Dialogue: 1,0:01:45.84,0:01:46.34,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 96] \an5\pos(998.985,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mo
+Dialogue: 1,0:01:46.04,0:01:46.75,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 97] \an5\pos(1084.86,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ga
+Dialogue: 1,0:01:46.34,0:01:47.25,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 98] \an5\pos(1164.015,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mi
+Dialogue: 1,0:01:47.00,0:01:47.96,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 11 - line fx: 99] \an5\pos(1237.635,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}nna
+Dialogue: 1,0:01:48.00,0:01:48.71,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 100] \an5\pos(692.265,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ta
+Dialogue: 1,0:01:48.46,0:01:48.96,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 101] \an5\pos(741.405,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}bi
+Dialogue: 1,0:01:48.50,0:01:49.01,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 102] \an5\pos(787.245,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}bi
+Dialogue: 1,0:01:48.71,0:01:49.34,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 103] \an5\pos(836.385,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}to
+Dialogue: 1,0:01:49.01,0:01:49.51,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 104] \an5\pos(912.585,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:01:49.21,0:01:49.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 105] \an5\pos(1007.055,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}you
+Dialogue: 1,0:01:49.46,0:01:49.96,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 106] \an5\pos(1094.79,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ni
+Dialogue: 1,0:01:49.71,0:01:50.42,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 107] \an5\pos(1146.15,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:50.17,0:01:50.80,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 108] \an5\pos(1176.51,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ki
+Dialogue: 1,0:01:50.47,0:01:51.42,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 12 - line fx: 109] \an5\pos(1226.355,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ru
+Dialogue: 1,0:01:51.17,0:01:51.88,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 13 - line fx: 110] \an5\pos(876.87,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}chi
+Dialogue: 1,0:01:51.63,0:01:52.13,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 13 - line fx: 111] \an5\pos(943.275,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:51.88,0:01:52.26,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 13 - line fx: 112] \an5\pos(980.355,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:51.92,0:01:52.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 13 - line fx: 113] \an5\pos(1044.675,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo
+Dialogue: 1,0:01:52.38,0:01:52.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 14 - line fx: 114] \an5\pos(865.41,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}(chi
+Dialogue: 1,0:01:52.38,0:01:52.88,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 14 - line fx: 115] \an5\pos(943.275,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:01:52.63,0:01:53.09,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 14 - line fx: 116] \an5\pos(980.355,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:52.84,0:01:53.26,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 14 - line fx: 117] \an5\pos(1056.135,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo)
+Dialogue: 1,0:01:53.09,0:01:53.51,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 15 - line fx: 118] \an5\pos(888.24,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ki
+Dialogue: 1,0:01:53.18,0:01:53.84,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 15 - line fx: 119] \an5\pos(952.605,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}zan
+Dialogue: 1,0:01:53.51,0:01:54.09,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 15 - line fx: 120] \an5\pos(1024.365,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:01:54.05,0:01:54.47,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 16 - line fx: 121] \an5\pos(876.78,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}(ki
+Dialogue: 1,0:01:54.14,0:01:54.80,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 16 - line fx: 122] \an5\pos(952.605,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}zan
+Dialogue: 1,0:01:54.47,0:01:54.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 16 - line fx: 123] \an5\pos(1035.825,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de)
+Dialogue: 1,0:01:54.80,0:01:55.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 124] \an5\pos(646.56,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ha
+Dialogue: 1,0:01:55.09,0:01:55.60,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 125] \an5\pos(702.42,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:01:55.30,0:01:55.76,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 126] \an5\pos(778.635,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:01:55.43,0:01:56.01,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 127] \an5\pos(816.375,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:01:55.68,0:01:56.30,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 128] \an5\pos(874.47,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}so
+Dialogue: 1,0:01:56.05,0:01:56.51,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 129] \an5\pos(931.71,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ra
+Dialogue: 1,0:01:56.18,0:01:56.68,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 130] \an5\pos(1009.305,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}he
+Dialogue: 1,0:01:56.35,0:01:57.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 131] \an5\pos(1085.505,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}to
+Dialogue: 1,0:01:57.76,0:01:58.22,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 132] \an5\pos(1161.72,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ha
+Dialogue: 1,0:01:57.89,0:01:58.31,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 133] \an5\pos(1221.015,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:01:58.01,0:01:59.97,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 17 - line fx: 134] \an5\pos(1276.875,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:02:00.02,0:02:00.68,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 18 - line fx: 135] \an5\pos(738.075,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}so
+Dialogue: 1,0:02:00.43,0:02:00.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 18 - line fx: 136] \an5\pos(797.37,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:00.48,0:02:00.93,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 18 - line fx: 137] \an5\pos(873.57,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:02:00.68,0:02:01.18,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 18 - line fx: 138] \an5\pos(949.785,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:00.89,0:02:01.43,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 18 - line fx: 139] \an5\pos(1040.82,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:02:01.18,0:02:01.68,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 18 - line fx: 140] \an5\pos(1110.825,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:02:01.39,0:02:01.89,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 18 - line fx: 141] \an5\pos(1175.7,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}me
+Dialogue: 1,0:02:01.64,0:02:02.39,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 19 - line fx: 142] \an5\pos(743.64,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}so
+Dialogue: 1,0:02:02.02,0:02:02.39,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 19 - line fx: 143] \an5\pos(802.935,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:02.14,0:02:02.64,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 19 - line fx: 144] \an5\pos(879.135,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:02:02.35,0:02:02.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 19 - line fx: 145] \an5\pos(955.35,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:02.39,0:02:03.02,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 19 - line fx: 146] \an5\pos(1046.385,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:02:02.69,0:02:03.35,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 19 - line fx: 147] \an5\pos(1117.065,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:02:02.94,0:02:03.52,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 19 - line fx: 148] \an5\pos(1176.36,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ge
+Dialogue: 1,0:02:03.19,0:02:03.98,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 149] \an5\pos(584.775,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}so
+Dialogue: 1,0:02:03.65,0:02:04.10,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 150] \an5\pos(644.07,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:03.85,0:02:04.35,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 151] \an5\pos(723.72,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}se
+Dialogue: 1,0:02:04.06,0:02:04.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 152] \an5\pos(782.34,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:02:04.10,0:02:04.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 153] \an5\pos(819.42,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:04.48,0:02:04.90,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 154] \an5\pos(883.74,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wa
+Dialogue: 1,0:02:04.60,0:02:05.31,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 155] \an5\pos(969.615,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}se
+Dialogue: 1,0:02:04.90,0:02:05.56,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 156] \an5\pos(1035.15,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ma
+Dialogue: 1,0:02:05.19,0:02:05.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 157] \an5\pos(1100.685,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}su
+Dialogue: 1,0:02:05.56,0:02:06.06,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 158] \an5\pos(1153.26,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}gi
+Dialogue: 1,0:02:05.77,0:02:06.44,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 159] \an5\pos(1203.78,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ru
+Dialogue: 1,0:02:06.11,0:02:06.61,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 160] \an5\pos(1280.7,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:02:06.31,0:02:06.81,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 20 - line fx: 161] \an5\pos(1337.28,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ra
+Dialogue: 1,0:02:06.56,0:02:07.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 21 - line fx: 162] \an5\pos(758.985,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}so
+Dialogue: 1,0:02:07.02,0:02:07.52,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 21 - line fx: 163] \an5\pos(818.28,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:07.27,0:02:07.57,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 21 - line fx: 164] \an5\pos(883.095,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}a
+Dialogue: 1,0:02:07.27,0:02:07.77,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 21 - line fx: 165] \an5\pos(935.67,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}shi
+Dialogue: 1,0:02:07.52,0:02:08.02,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 21 - line fx: 166] \an5\pos(1023.405,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:07.73,0:02:08.27,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 21 - line fx: 167] \an5\pos(1103.055,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}yu
+Dialogue: 1,0:02:08.02,0:02:08.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 21 - line fx: 168] \an5\pos(1161.675,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ke
+Dialogue: 1,0:02:08.07,0:02:08.98,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 22 - line fx: 169] \an5\pos(760.635,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}so
+Dialogue: 1,0:02:08.65,0:02:09.11,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 22 - line fx: 170] \an5\pos(819.945,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:08.73,0:02:09.23,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 22 - line fx: 171] \an5\pos(899.085,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mi
+Dialogue: 1,0:02:08.98,0:02:09.48,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 22 - line fx: 172] \an5\pos(957.405,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mi
+Dialogue: 1,0:02:09.19,0:02:09.73,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 22 - line fx: 173] \an5\pos(1036.545,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:09.36,0:02:09.94,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 22 - line fx: 174] \an5\pos(1108.8,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ki
+Dialogue: 1,0:02:09.61,0:02:10.19,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 22 - line fx: 175] \an5\pos(1160.025,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ke
+Dialogue: 1,0:02:10.03,0:02:10.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 176] \an5\pos(530.13,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}so
+Dialogue: 1,0:02:10.32,0:02:10.69,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 177] \an5\pos(589.425,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:10.44,0:02:10.94,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 178] \an5\pos(660.3,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ri
+Dialogue: 1,0:02:10.69,0:02:11.19,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 179] \an5\pos(695.985,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}a
+Dialogue: 1,0:02:10.82,0:02:11.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 180] \an5\pos(738.405,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ru
+Dialogue: 1,0:02:11.07,0:02:11.57,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 181] \an5\pos(822.24,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wa
+Dialogue: 1,0:02:11.19,0:02:11.90,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 182] \an5\pos(919.5,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:02:11.57,0:02:12.15,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 183] \an5\pos(989.52,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ku
+Dialogue: 1,0:02:11.82,0:02:12.40,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 184] \an5\pos(1039.365,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ri
+Dialogue: 1,0:02:12.15,0:02:12.65,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 185] \an5\pos(1096.125,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mo
+Dialogue: 1,0:02:12.40,0:02:12.90,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 186] \an5\pos(1161.66,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:12.65,0:02:13.11,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 187] \an5\pos(1241.295,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:12.78,0:02:13.36,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 23 - line fx: 188] \an5\pos(1345.23,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}shou?
+Dialogue: 1,0:02:13.15,0:02:13.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 24 - line fx: 189] \an5\pos(738.075,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ko
+Dialogue: 1,0:02:13.61,0:02:14.11,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 24 - line fx: 190] \an5\pos(796.695,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:13.78,0:02:14.16,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 24 - line fx: 191] \an5\pos(872.91,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:02:13.86,0:02:14.36,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 24 - line fx: 192] \an5\pos(949.11,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:14.11,0:02:14.61,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 24 - line fx: 193] \an5\pos(1040.145,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:02:14.36,0:02:14.86,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 24 - line fx: 194] \an5\pos(1110.165,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:02:14.61,0:02:15.07,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 24 - line fx: 195] \an5\pos(1175.025,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}me
+Dialogue: 1,0:02:14.82,0:02:15.57,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 25 - line fx: 196] \an5\pos(743.64,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ko
+Dialogue: 1,0:02:15.32,0:02:15.78,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 25 - line fx: 197] \an5\pos(802.26,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:15.45,0:02:15.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 25 - line fx: 198] \an5\pos(878.475,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:02:15.57,0:02:16.03,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 25 - line fx: 199] \an5\pos(954.675,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:15.70,0:02:16.32,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 25 - line fx: 200] \an5\pos(1045.71,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:02:16.07,0:02:16.53,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 25 - line fx: 201] \an5\pos(1116.405,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}na
+Dialogue: 1,0:02:16.20,0:02:16.70,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 25 - line fx: 202] \an5\pos(1175.7,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ge
+Dialogue: 1,0:02:16.37,0:02:17.28,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 203] \an5\pos(584.79,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ko
+Dialogue: 1,0:02:16.95,0:02:17.33,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 204] \an5\pos(643.425,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}no
+Dialogue: 1,0:02:17.03,0:02:17.53,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 205] \an5\pos(722.565,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}mi
+Dialogue: 1,0:02:17.28,0:02:17.78,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 206] \an5\pos(779.325,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ra
+Dialogue: 1,0:02:17.49,0:02:18.03,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 207] \an5\pos(815.01,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:17.74,0:02:18.16,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 208] \an5\pos(879.345,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo
+Dialogue: 1,0:02:17.83,0:02:18.49,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 209] \an5\pos(950.385,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}u
+Dialogue: 1,0:02:18.24,0:02:18.74,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 210] \an5\pos(994.2,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ke
+Dialogue: 1,0:02:18.49,0:02:18.99,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 211] \an5\pos(1064.22,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}tsu
+Dialogue: 1,0:02:18.74,0:02:19.37,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 212] \an5\pos(1113.345,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:19.04,0:02:19.70,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 213] \an5\pos(1151.1,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}de
+Dialogue: 1,0:02:19.37,0:02:19.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 214] \an5\pos(1188.84,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:19.49,0:02:20.20,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 215] \an5\pos(1240.74,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}kun
+Dialogue: 1,0:02:19.87,0:02:21.16,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 26 - line fx: 216] \an5\pos(1334.55,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}da
+Dialogue: 1,0:02:21.33,0:02:21.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 217] \an5\pos(671.685,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:21.58,0:02:22.08,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 218] \an5\pos(715.665,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ma
+Dialogue: 1,0:02:21.75,0:02:22.29,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 219] \an5\pos(807.78,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}wo
+Dialogue: 1,0:02:21.95,0:02:22.66,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 220] \an5\pos(886.92,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}hi
+Dialogue: 1,0:02:22.41,0:02:22.91,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 221] \an5\pos(932.1,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ki
+Dialogue: 1,0:02:22.66,0:02:23.16,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 222] \an5\pos(983.325,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:02:22.91,0:02:23.54,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 223] \an5\pos(1027.14,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}e
+Dialogue: 1,0:02:23.21,0:02:23.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 224] \an5\pos(1085.22,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ni
+Dialogue: 1,0:02:23.54,0:02:24.37,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 225] \an5\pos(1166.235,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}shi
+Dialogue: 1,0:02:24.12,0:02:24.62,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 27 - line fx: 226] \an5\pos(1230.195,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}te
+Dialogue: 1,0:02:24.37,0:02:24.87,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 28 - line fx: 227] \an5\pos(759.105,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Ca
+Dialogue: 1,0:02:24.62,0:02:25.00,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 28 - line fx: 228] \an5\pos(829.815,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}rry
+Dialogue: 1,0:02:24.67,0:02:25.33,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 28 - line fx: 229] \an5\pos(920.175,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}on
+Dialogue: 1,0:02:25.08,0:02:25.58,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 28 - line fx: 230] \an5\pos(1000.515,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Ca
+Dialogue: 1,0:02:25.25,0:02:25.71,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 28 - line fx: 231] \an5\pos(1071.225,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}rry
+Dialogue: 1,0:02:25.38,0:02:25.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 28 - line fx: 232] \an5\pos(1161.585,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}on
+Dialogue: 1,0:02:25.63,0:02:26.21,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 233] \an5\pos(718.095,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:25.88,0:02:26.38,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 234] \an5\pos(734.295,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:26.08,0:02:26.83,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 235] \an5\pos(791.715,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ka
+Dialogue: 1,0:02:26.79,0:02:27.17,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 236] \an5\pos(849.135,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}i
+Dialogue: 1,0:02:26.83,0:02:27.29,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 237] \an5\pos(886.215,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}ku
+Dialogue: 1,0:02:27.04,0:02:27.67,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 238] \an5\pos(962.835,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}zo
+Dialogue: 1,0:02:27.29,0:02:28.04,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 239] \an5\pos(1046.73,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}Fly
+Dialogue: 1,0:02:27.79,0:02:29.88,OP_Romaji,hi-light,0,0,0,Effector [fx],{Kara Effector[fx] 3.4: Simple Shine [line origin: 29 - line fx: 240] \an5\pos(1156.665,55.5)\4c&HE1A6E2&\4a&H00&\fscx110\fscy110\1c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\t(\1c&HFFFFFF&\3c&H8345D0&\fscx100\fscy100\blur1.05)\fad(0,300)}High
+
