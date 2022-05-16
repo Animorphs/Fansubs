@@ -23,8 +23,7 @@ Video Position: 78306
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,3,1.5,2,150,150,53,1
-Style: Default - Alt,Gandhi Sans,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000040,-1,0,0,0,100,100,0,0,1,3,1.5,8,135,135,53,1
-Style: Default - Italics,Gandhi Sans,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,-1,0,0,100,100,0,0,1,3,1.5,2,150,150,53,1
+Style: Default - Alt,Gandhi Sans,75,&H00FFFFFF,&H00FFFFFF,&H00000077,&H96000040,-1,0,0,0,100,100,0,0,1,3,1.5,2,135,135,53,1
 Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Signs - Logo,LaCumpaFruitsBasket,150,&H00FFFFFF,&HFF0000FF,&H00000000,&H85000000,0,0,0,0,100,100,0,0,1,0,0,8,75,75,57,1
 Style: Signs - Preview,Volkswagen-Medium,75,&H00F9FFF8,&H64F9FFF8,&H00DA86F0,&HA0000000,0,0,0,0,100,100,2,0,1,0,0,5,30,30,20,1
@@ -36,41 +35,41 @@ Style: ED English,Cloud Light,56,&H00050405,&H000000FF,&H00FFFFFF,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.98,0:33:29.36,Default,,0,0,0,Reeecap,
-Comment: 0,0:32:29.72,0:32:29.76,Default,,0,0,0,Middle?,
-Comment: 0,0:33:24.40,0:33:29.36,Default,,0,0,0,Interlude,
+Comment: 0,0:00:00.98,0:33:32.24,Default,,0,0,0,Reeecap,
+Comment: 0,0:32:29.72,0:32:29.72,Default,,0,0,0,Middle?,
+Comment: 0,0:33:24.40,0:33:32.24,Default,,0,0,0,Interlude,
 Comment: 0,0:33:24.40,1:22:15.62,Default,,0,0,0,End,
-Comment: 0,1:22:15.62,1:27:55.67,Default,,0,0,0,ED,
+Comment: 0,1:22:15.62,1:27:55.96,Default,,0,0,0,ED,
 Comment: 0,0:00:00.98,0:00:00.98,ED Japanese,,0,0,0,template,!retime("start2syl",-1000+syl.i*50,-50)!{\an5\blur2\pos($center,$middle)\fad(300,0)}
 Comment: 0,0:00:00.98,0:00:00.98,ED Japanese,,0,0,0,template,!retime("syl",-50,200)!{\an5\blur2\be2\pos($scenter,$smiddle)\fscx100\fscy100\t(0,!syl.duration/2!,\fscx120\fscy120)\t(!syl.duration/2!,!syl.duration!,\fscx100\fscy100)\fad(0,200)}
-Comment: 0,1:22:42.06,1:22:48.32,ED Japanese,,0,0,0,karaoke,{\k28}Mo{\k19}shi{\k25}mo {\k32}ko{\k27}no {\k50}ho{\k39}shi {\k110}de {\k14}ki{\k16}mi {\k22}ni {\k44}de{\k68}au {\k23}ko{\k36}to {\k26}na{\k46}ku
-Comment: 0,1:22:48.78,1:22:54.16,ED Japanese,,0,0,0,karaoke,{\k20}Ta{\k29}da {\k34}no {\k50}bo{\k26}ku {\k118}de {\k10}ky{\k28}ou {\k19}i{\k71}ki{\k40}te{\k16}ta{\k77}ra
-Comment: 0,1:22:54.82,1:23:00.96,ED Japanese,,0,0,0,karaoke,{\k26}Ko{\k34}nna {\k36}se{\k52}kai {\k139}wo {\k19}i{\k29}too{\k44}shi{\k24}ku {\k61}kan{\k36}ji{\k113}ru
-Comment: 0,1:23:01.12,1:23:06.75,ED Japanese,,0,0,0,karaoke,{\k23}Ko{\k24}to {\k82}nan {\k32}ka {\k24}ki{\k132}tto {\k15}de{\k80}ki{\k59}na{\k19}ka{\k38}tta {\k35}ne
-Comment: 0,1:23:07.42,1:23:14.43,ED Japanese,,0,0,0,karaoke,{\k8}Mi{\k82}zu{\k27}ta{\k11}ma{\k160}ri {\k20}to{\k16}bi{\k77}koe{\k25}ta {\k63}so{\k27}ra {\k184}ni
-Comment: 0,1:23:14.89,1:23:18.39,ED Japanese,,0,0,0,karaoke,{\k21}Fu{\k23}wa{\k69}ri {\k75}u{\k30}ka{\k45}bu {\k29}ka{\k59}ito
-Comment: 0,1:23:19.35,1:23:25.44,ED Japanese,,0,0,0,karaoke,{\k14}mo{\k19}shi{\k28}mo {\k32}ko{\k16}no {\k63}mu{\k23}ne {\k127}ni {\k29}ka{\k10}ku{\k43}shi{\k29}te{\k44}ta {\k29}yo{\k29}wa{\k27}sa {\k46}wo
-Comment: 0,1:23:25.73,1:23:31.61,ED Japanese,,0,0,0,karaoke,{\k34}Ki{\k40}mi {\k19}wo {\k60}ma{\k30}mo{\k90}re{\k76}ru {\k74}you {\k60}na {\k25}tsu{\k6}yo{\k21}sa {\k53}ni
-Comment: 0,1:23:31.95,1:23:39.16,ED Japanese,,0,0,0,karaoke,{\k41}Kae{\k58}ru {\k17}ma{\k29}hou {\k165}ga {\k20}a{\k20}ru {\k46}to {\k67}shi{\k25}tte{\k20}ru {\k34}na{\k180}ra
-Comment: 0,1:23:39.62,1:23:42.96,ED Japanese,,0,0,0,karaoke,{\k30}So{\k46}re {\k45}wa {\k61}sou {\k45}sa {\k30}ki{\k46}mi {\k30}no
-Comment: 0,1:23:42.96,1:23:49.21,ED Japanese,,0,0,0,karaoke,{\k140}Eyes {\k14}and {\k131}Smile {\k26}and {\k134}love {\k23}na{\k47}ka{\k82}nai{\k29}de
-Comment: 0,1:23:49.21,1:23:55.30,ED Japanese,,0,0,0,karaoke,{\k128}Rain {\k19}yu{\k134}ra{\k21}yu{\k104}ra {\k59}afu{\k32}re{\k37}nai {\k51}you {\k24}ni
-Comment: 0,1:23:55.30,1:24:04.06,ED Japanese,,0,0,0,karaoke,{\k130}Nee {\k25}ho{\k137}ra {\k158}mia{\k17}ge{\k58}re{\k27}ba {\k47}ni{\k56}jii{\k41}ro {\k18}no {\k21}so{\k141}ra
-Comment: 0,1:24:04.23,1:24:11.73,ED Japanese,,0,0,0,karaoke,{\k36}Ki{\k60}tto {\k44}ii {\k29}ko{\k119}to {\k106}aru {\k357}sa
-Comment: 0,1:24:18.41,1:24:24.41,ED Japanese,,0,0,0,karaoke,{\k12}mo{\k22}shi{\k33}mo {\k31}se{\k54}kai {\k156}de {\k18}ta{\k57}tta {\k24}hi{\k48}to{\k32}tsu {\k35}da{\k79}ke
-Comment: 0,1:24:24.79,1:24:30.42,ED Japanese,,0,0,0,karaoke,{\k61}Ne{\k78}gai{\k16}go{\k38}to {\k121}ga {\k17}ka{\k78}na{\k78}u {\k9}no {\k24}na{\k43}ra
-Comment: 0,1:24:30.75,1:24:38.39,ED Japanese,,0,0,0,karaoke,{\k22}Ki{\k22}mi {\k56}no {\k19}ka{\k14}na{\k27}shi{\k145}mi {\k26}ko{\k24}no {\k39}so{\k34}ra {\k42}ni {\k20}to{\k26}ba{\k247}sou
-Comment: 0,1:24:38.55,1:24:42.52,ED Japanese,,0,0,0,karaoke,{\k31}Ano {\k147}kai{\k48}to {\k36}ni {\k32}no{\k31}se{\k71}te
-Comment: 0,1:24:43.14,1:24:52.07,ED Japanese,,0,0,0,karaoke,{\k18}Yu{\k128}ra{\k27}yu{\k117}ra {\k87}afu{\k49}re{\k38}ru {\k17}o{\k137}moi {\k26}to{\k128}ma{\k20}ra{\k100}nai
-Comment: 0,1:24:52.28,1:25:01.03,ED Japanese,,0,0,0,karaoke,{\k14}I{\k22}tsu{\k35}da{\k41}tte {\k44}ki{\k27}mi {\k136}wa {\k163}mou {\k17}hi{\k131}to{\k19}ri{\k54}bo{\k25}cchi {\k54}ja{\k94}nai
-Comment: 0,1:25:01.03,1:25:02.83,ED Japanese,,0,0,0,karaoke,{\k16}Yo {\k43}zu{\k120}tto
-Comment: 0,1:25:03.08,1:25:12.17,ED Japanese,,0,0,0,karaoke,{\k16}Bo{\k28}ku {\k49}ga {\k17}to{\k37}na{\k24}ri {\k121}ni {\k38}i{\k66}ru {\k514}yo
-Comment: 0,1:25:54.34,1:25:55.38,ED Japanese,,0,0,0,karaoke,{\k30}ki{\k45}mi {\k30}no
-Comment: 0,1:25:55.38,1:26:01.51,ED Japanese,,0,0,0,karaoke,{\k135}Eyes {\k14}and {\k129}Smile {\k36}and {\k131}love {\k11}na{\k52}ka{\k85}nai{\k20}de
-Comment: 0,1:26:01.51,1:26:07.73,ED Japanese,,0,0,0,karaoke,{\k129}Rain {\k25}yu{\k128}ra{\k45}yu{\k86}ra {\k41}afu{\k44}re{\k53}nai {\k52}you {\k18}ni
-Comment: 0,1:26:07.73,1:26:16.61,ED Japanese,,0,0,0,karaoke,{\k130}Nee {\k25}ho{\k137}ra {\k158}mia{\k17}ge{\k58}re{\k27}ba {\k47}ni{\k56}jii{\k41}ro {\k18}no {\k21}so{\k141}ra
-Comment: 0,1:26:16.61,1:26:26.99,ED Japanese,,0,0,0,karaoke,{\k36}Ki{\k60}tto {\k44}ii {\k29}ko{\k119}to {\k106}aru {\k357}sa
-Comment: 0,0:00:01.86,0:00:01.90,Default,,0,0,0,,<LostYears> S03E07 00:01
+Comment: 0,1:22:41.10,1:22:51.20,ED Japanese,,0,0,0,karaoke,{\k28}Mo{\k19}shi{\k25}mo {\k32}ko{\k27}no {\k50}ho{\k39}shi {\k110}de {\k14}ki{\k16}mi {\k22}ni {\k44}de{\k68}au {\k23}ko{\k36}to {\k26}na{\k46}ku
+Comment: 0,1:22:47.82,1:22:55.66,ED Japanese,,0,0,0,karaoke,{\k20}Ta{\k29}da {\k34}no {\k50}bo{\k26}ku {\k118}de {\k10}ky{\k28}ou {\k19}i{\k71}ki{\k40}te{\k16}ta{\k77}ra
+Comment: 0,1:22:53.86,1:23:03.84,ED Japanese,,0,0,0,karaoke,{\k26}Ko{\k34}nna {\k36}se{\k52}kai {\k139}wo {\k19}i{\k29}too{\k44}shi{\k24}ku {\k61}kan{\k36}ji{\k113}ru
+Comment: 0,1:23:00.16,1:23:09.63,ED Japanese,,0,0,0,karaoke,{\k23}Ko{\k24}to {\k82}nan {\k32}ka {\k24}ki{\k132}tto {\k15}de{\k80}ki{\k59}na{\k19}ka{\k38}tta {\k35}ne
+Comment: 0,1:23:06.46,1:23:15.68,ED Japanese,,0,0,0,karaoke,{\k8}Mi{\k82}zu{\k27}ta{\k11}ma{\k160}ri {\k20}to{\k16}bi{\k77}koe{\k25}ta {\k63}so{\k27}ra {\k184}ni
+Comment: 0,1:23:13.93,1:23:21.27,ED Japanese,,0,0,0,karaoke,{\k21}Fu{\k23}wa{\k69}ri {\k75}u{\k30}ka{\k45}bu {\k29}ka{\k59}ito
+Comment: 0,1:23:18.39,1:23:25.69,ED Japanese,,0,0,0,karaoke,{\k14}mo{\k19}shi{\k28}mo {\k32}ko{\k16}no {\k63}mu{\k23}ne {\k127}ni {\k29}ka{\k10}ku{\k43}shi{\k29}te{\k44}ta {\k29}yo{\k29}wa{\k27}sa {\k46}wo
+Comment: 0,1:23:25.69,1:23:34.49,ED Japanese,,0,0,0,karaoke,{\k34}Ki{\k40}mi {\k19}wo {\k60}ma{\k30}mo{\k90}re{\k76}ru {\k74}you {\k60}na {\k25}tsu{\k6}yo{\k21}sa {\k53}ni
+Comment: 0,1:23:30.99,1:23:42.04,ED Japanese,,0,0,0,karaoke,{\k41}Kae{\k58}ru {\k17}ma{\k29}hou {\k165}ga {\k20}a{\k20}ru {\k46}to {\k67}shi{\k25}tte{\k20}ru {\k34}na{\k180}ra
+Comment: 0,1:23:38.66,1:23:45.71,ED Japanese,,0,0,0,karaoke,{\k30}So{\k46}re {\k45}wa {\k61}sou {\k45}sa {\k30}ki{\k46}mi {\k30}no
+Comment: 0,1:23:42.00,1:23:52.09,ED Japanese,,0,0,0,karaoke,{\k140}Eyes {\k14}and {\k131}Smile {\k26}and {\k134}love {\k23}na{\k47}ka{\k82}nai{\k29}de
+Comment: 0,1:23:48.25,1:23:55.72,ED Japanese,,0,0,0,karaoke,{\k128}Rain {\k19}yu{\k134}ra{\k21}yu{\k104}ra {\k59}afu{\k32}re{\k37}nai {\k51}you {\k24}ni
+Comment: 0,1:23:54.34,1:24:05.73,ED Japanese,,0,0,0,karaoke,{\k130}Nee {\k25}ho{\k137}ra {\k158}mia{\k17}ge{\k58}re{\k27}ba {\k47}ni{\k56}jii{\k41}ro {\k18}no {\k21}so{\k141}ra
+Comment: 0,1:24:03.27,1:24:14.61,ED Japanese,,0,0,0,karaoke,{\k36}Ki{\k60}tto {\k44}ii {\k29}ko{\k119}to {\k106}aru {\k357}sa
+Comment: 0,1:24:17.45,1:24:25.75,ED Japanese,,0,0,0,karaoke,{\k12}mo{\k22}shi{\k33}mo {\k31}se{\k54}kai {\k156}de {\k18}ta{\k57}tta {\k24}hi{\k48}to{\k32}tsu {\k35}da{\k79}ke
+Comment: 0,1:24:23.83,1:24:33.30,ED Japanese,,0,0,0,karaoke,{\k61}Ne{\k78}gai{\k16}go{\k38}to {\k121}ga {\k17}ka{\k78}na{\k78}u {\k9}no {\k24}na{\k43}ra
+Comment: 0,1:24:29.79,1:24:41.27,ED Japanese,,0,0,0,karaoke,{\k22}Ki{\k22}mi {\k56}no {\k19}ka{\k14}na{\k27}shi{\k145}mi {\k26}ko{\k24}no {\k39}so{\k34}ra {\k42}ni {\k20}to{\k26}ba{\k247}sou
+Comment: 0,1:24:37.59,1:24:45.40,ED Japanese,,0,0,0,karaoke,{\k31}Ano {\k147}kai{\k48}to {\k36}ni {\k32}no{\k31}se{\k71}te
+Comment: 0,1:24:42.18,1:24:54.95,ED Japanese,,0,0,0,karaoke,{\k18}Yu{\k128}ra{\k27}yu{\k117}ra {\k87}afu{\k49}re{\k38}ru {\k17}o{\k137}moi {\k26}to{\k128}ma{\k20}ra{\k100}nai
+Comment: 0,1:24:51.32,1:25:03.91,ED Japanese,,0,0,0,karaoke,{\k14}I{\k22}tsu{\k35}da{\k41}tte {\k44}ki{\k27}mi {\k136}wa {\k163}mou {\k17}hi{\k131}to{\k19}ri{\k54}bo{\k25}cchi {\k54}ja{\k94}nai
+Comment: 0,1:25:00.07,1:25:05.79,ED Japanese,,0,0,0,karaoke,{\k16}Yo {\k43}zu{\k120}tto
+Comment: 0,1:25:02.12,1:25:15.05,ED Japanese,,0,0,0,karaoke,{\k16}Bo{\k28}ku {\k49}ga {\k17}to{\k37}na{\k24}ri {\k121}ni {\k38}i{\k66}ru {\k514}yo
+Comment: 0,1:25:53.38,1:25:55.84,ED Japanese,,0,0,0,karaoke,{\k30}ki{\k45}mi {\k30}no
+Comment: 0,1:25:54.42,1:26:04.39,ED Japanese,,0,0,0,karaoke,{\k135}Eyes {\k14}and {\k129}Smile {\k36}and {\k131}love {\k11}na{\k52}ka{\k85}nai{\k20}de
+Comment: 0,1:26:00.55,1:26:10.61,ED Japanese,,0,0,0,karaoke,{\k129}Rain {\k25}yu{\k128}ra{\k45}yu{\k86}ra {\k41}afu{\k44}re{\k53}nai {\k52}you {\k18}ni
+Comment: 0,1:26:06.77,1:26:19.49,ED Japanese,,0,0,0,karaoke,{\k130}Nee {\k25}ho{\k137}ra {\k158}mia{\k17}ge{\k58}re{\k27}ba {\k47}ni{\k56}jii{\k41}ro {\k18}no {\k21}so{\k141}ra
+Comment: 0,1:26:15.86,1:26:29.87,ED Japanese,,0,0,0,karaoke,{\k36}Ki{\k60}tto {\k44}ii {\k29}ko{\k119}to {\k106}aru {\k357}sa
+Comment: 0,0:00:01.86,0:00:01.90,Default,,0,0,0,,<LostYears> S03E07 00:00
 Dialogue: 0,0:00:01.86,0:00:04.23,Default,,0,0,0,,Even if the world doesn't need me,
 Dialogue: 0,0:00:05.15,0:00:08.15,Default,,0,0,0,,I'll keep living for someone who does.
 Dialogue: 0,0:00:08.95,0:00:10.24,Default,,0,0,0,,That's all I need.
@@ -83,12 +82,12 @@ Dialogue: 0,0:00:27.13,0:00:28.17,Default,,0,0,0,,Uh-huh...
 Dialogue: 0,0:00:28.17,0:00:33.51,Default,,0,0,0,,Seriously, Tohru is so cute! \NLike, the cutest in the world—no, the universe!
 Dialogue: 0,0:00:33.93,0:00:35.22,Default,,0,0,0,,But Katsuya Honda...
 Dialogue: 0,0:00:36.52,0:00:38.18,Default,,0,0,0,,You don't want to go see him anymore?
-Dialogue: 0,0:00:41.48,0:00:48.24,Default,,0,0,0,,I wonder how much time and effort it'll take
+Dialogue: 0,0:00:41.36,0:00:48.60,Default,,0,0,0,,I wonder how much time and effort it'll take
 Dialogue: 0,0:00:48.78,0:00:51.70,Default,,0,0,0,,for you kids to find your own answers...
 Dialogue: 0,0:00:52.53,0:00:55.24,Default,,0,0,0,,{\i1}Her words sounded ridiculous\N to me back then.
 Dialogue: 0,0:00:56.83,0:01:03.84,Default,,0,0,0,,{\i1}Because I'd always felt like I was\N born to be an object of contempt,
 Dialogue: 0,0:01:03.84,0:01:06.13,Default,,0,0,0,,{\i1}and that I continued living\N only to hurt other people.
-Comment: 0,0:00:01.86,0:00:01.90,Default,,0,0,0,,<LostYears> S02E09 12:07
+Comment: 0,0:00:01.86,0:00:01.90,Default,,0,0,0,,<LostYears> S02E09 12:06
 Dialogue: 0,0:01:06.80,0:01:08.34,Default,,0,0,0,,{\i1}Kyo-kun.
 Dialogue: 0,0:01:12.30,0:01:13.55,Default,,0,0,0,,{\i1}Kyo-kun!
 Dialogue: 0,0:01:16.81,0:01:17.77,Default,,0,0,0,,Are you crying?
@@ -98,7 +97,7 @@ Comment: 0,0:01:28.53,0:01:28.57,Default,,0,0,0,,</LostYears>
 Dialogue: 0,0:01:29.15,0:01:30.15,Default,,0,0,0,???,{\i1}You're wrong.
 Dialogue: 0,0:01:32.16,0:01:34.62,Default,,0,0,0,???,{\i1}I can't afford to love her.
 Dialogue: 0,0:01:35.74,0:01:36.78,Default,,0,0,0,???,{\i1}Never.
-Comment: 0,0:01:37.79,0:01:37.83,Default,,0,0,0,,<LostYears> S03E08 18:51
+Comment: 0,0:01:37.79,0:01:37.83,Default,,0,0,0,,<LostYears> S03E08 18:55
 Dialogue: 0,0:01:37.79,0:01:42.54,Default,,0,0,0,,Kyo-kun, this is Tohru Honda.
 Dialogue: 0,0:01:43.54,0:01:47.42,Default,,0,0,0,,{\i1}What is she doing here?
 Comment: 0,0:01:37.79,0:01:37.83,Default,,0,0,0,,</LostYears>
@@ -109,7 +108,7 @@ Dialogue: 0,0:01:55.26,0:01:57.39,Default,,0,0,0,???,{\i1}Who you were.
 Dialogue: 0,0:01:57.39,0:01:59.56,Default,,0,0,0,???,{\i1}And who your mom was.
 Dialogue: 0,0:02:01.27,0:02:02.23,Default,,0,0,0,???,{\i1}A long time ago.
 Dialogue: 0,0:02:03.44,0:02:06.44,Default,,0,0,0,???,{\i1}When my master had just taken me in.
-Comment: 0,0:02:08.73,0:02:08.78,Default,,0,0,0,,<Lostyears> S03E08 4:30
+Comment: 0,0:02:08.73,0:02:08.78,Default,,0,0,0,,<Lostyears> S03E08 4:32
 Dialogue: 0,0:02:08.73,0:02:10.03,Default,,0,0,0,,What's your deal?
 Dialogue: 100,0:02:11.24,0:02:16.12,Default,,0,0,0,,You're too young to dye your hair orange!\N Is that natural or what?
 Dialogue: 100,0:02:16.41,0:02:19.33,Default,,0,0,0,,Wh-What's {\i1}your{\i0} deal?!\N Mind your own business!
@@ -142,7 +141,7 @@ Dialogue: 0,0:03:43.24,0:03:44.33,Default,,0,0,0,,{\i1}But I didn't say a thing.
 Dialogue: 0,0:03:45.12,0:03:47.42,Default,,0,0,0,,{\i1}I acted as if I didn't know anything.
 Dialogue: 0,0:03:48.08,0:03:49.67,Default,,0,0,0,,{\i1}I couldn't tell you about it.
 Dialogue: 0,0:03:51.54,0:03:52.13,Default,,0,0,0,,{\i1}Because...
-Comment: 0,0:03:58.30,0:03:58.34,Default,,0,0,0,,<Lostyears> S03E07 1:30
+Comment: 0,0:03:58.30,0:03:58.34,Default,,0,0,0,,<Lostyears> S03E07 1:27
 Dialogue: 0,0:03:58.30,0:04:01.05,Default,,0,0,0,,It's not your fault, Kyo.
 Dialogue: 0,0:04:01.89,0:04:03.93,Default,,0,0,0,,You did nothing wrong.
 Dialogue: 0,0:04:04.52,0:04:06.93,Default,,0,0,0,,But you can't go outside.
@@ -154,7 +153,7 @@ Dialogue: 0,0:04:25.62,0:04:26.91,Default,,0,0,0,,I'll never forgive you.
 Dialogue: 0,0:04:27.58,0:04:30.67,Default,,0,0,0,,I'll go in the house and wait for you.
 Dialogue: 0,0:04:31.21,0:04:33.46,Default,,0,0,0,,You'd better get inside now,
 Dialogue: 0,0:04:34.59,0:04:38.42,Default,,0,0,0,,or else something even scarier will happen.
-Comment: 0,0:04:52.48,0:04:52.52,Default,,0,0,0,,<Lostyears> S01E10 9:10
+Comment: 0,0:04:52.48,0:04:52.52,Default,,0,0,0,,<Lostyears> S01E10 9:12
 Dialogue: 0,0:04:52.48,0:04:53.40,Default,,0,0,0,,Kyo-kun—
 Comment: 0,0:04:53.36,0:04:53.40,Default,,0,0,0,,</Lostyears>
 Dialogue: 0,0:04:56.03,0:04:57.03,Default,,0,0,0,???,{\i1}I don't want to see it.
@@ -163,7 +162,7 @@ Dialogue: 0,0:05:01.82,0:05:02.37,Default,,0,0,0,???,{\i1}Not yet...
 Dialogue: 0,0:05:03.82,0:05:05.41,Default,,0,0,0,???,{\i1}And since then...
 Dialogue: 0,0:05:06.16,0:05:09.16,Default,,0,0,0,???,{\i1}This memory of when I saw your mother dying.
 Dialogue: 0,0:05:11.62,0:05:13.08,Default,,0,0,0,???,{\i1}I chose to hide it inside of my heart.
-Comment: 0,0:05:17.55,0:05:17.59,Default,,0,0,0,,<Lostyears> S01E14 16:38
+Comment: 0,0:05:17.55,0:05:17.59,Default,,0,0,0,,<Lostyears> S01E14 16:35
 Dialogue: 0,0:05:17.55,0:05:18.38,Default,,0,0,0,,Hanajima.
 Dialogue: 0,0:05:20.80,0:05:27.72,Default,,0,0,0,,Can you... uh... see ghosts and stuff?
 Comment: 0,0:05:29.10,0:05:29.14,Default,,0,0,0,,<Lostyears> S01E14 17:05
@@ -189,10 +188,10 @@ Comment: 0,0:06:38.63,0:06:38.67,Default,,0,0,0,,<Lostyears> S02E09 20:03
 Dialogue: 0,0:06:38.63,0:06:39.59,Default,,0,0,0,,{\an8}Tohru!
 Dialogue: 0,0:06:40.92,0:06:43.67,Default,,0,0,0,,{\an8}Huh? K-Kyo-kun?
 Dialogue: 0,0:06:44.13,0:06:47.18,Default,,0,0,0,,{\an8}What happened? You're back so soon.
-Comment: 0,0:06:38.63,0:06:38.67,Default,,0,0,0,,<Lostyears> S02E10 10:51
-Dialogue: 0,0:06:45.59,0:06:49.97,Default,,0,0,0,,After high school, you'll be locked away.
-Dialogue: 0,0:06:51.14,0:06:53.39,Default,,0,0,0,,Just like the previous Cat before you,
-Dialogue: 0,0:06:55.52,0:06:56.56,Default,,0,0,0,,until {the day}you die{s}.
+Comment: 0,0:06:38.63,0:06:38.67,Default,,0,0,0,,<Lostyears> S02E10 10:52
+Dialogue: 0,0:06:45.57,0:06:50.13,Default,,0,0,0,,After high school, you'll be locked away. {slightly different}
+Dialogue: 0,0:06:51.06,0:06:53.55,Default,,0,0,0,,Just like the previous Cat before you, {slightly different}
+Dialogue: 0,0:06:55.40,0:06:56.92,Default,,0,0,0,,{\fad(0,300)}until the day you die. {slightly different}
 Comment: 0,0:06:38.63,0:06:38.67,Default,,0,0,0,,</Lostyears>
 Dialogue: 0,0:06:59.27,0:07:00.61,Default,,0,0,0,???,{\i1}I won't wish
 Dialogue: 0,0:07:01.73,0:07:03.94,Default,,0,0,0,???,{\i1}for her to be mine anymore.
@@ -204,7 +203,7 @@ Dialogue: 0,0:07:12.12,0:07:14.58,Default,,0,0,0,???,{\i1}let me be by her side
 Dialogue: 0,0:07:16.37,0:07:17.63,Default,,0,0,0,???,{\i1}for the time that's left.
 Dialogue: 0,0:07:18.83,0:07:21.09,Default,,0,0,0,???,{\i1}Until the very last day,
 Dialogue: 0,0:07:21.92,0:07:23.63,Default,,0,0,0,???,{\i1}the very last moment.
-Comment: 0,0:07:24.76,0:07:24.80,Default,,0,0,0,,<LostYears> S02E23 9:48
+Comment: 0,0:07:24.76,0:07:24.80,Default,,0,0,0,,<LostYears> S02E23 9:51
 Dialogue: 0,0:07:24.76,0:07:27.39,Default,,0,0,0,,Well then, what do you want?
 Dialogue: 0,0:07:29.30,0:07:32.47,Default,,0,0,0,Merge?,Will you ever admit the truth?
 Dialogue: 0,0:07:32.85,0:07:35.73,Default,,0,0,0,Merge?,Or do you intend to keep deceiving yourself \Nfor the rest of your life?
@@ -214,7 +213,7 @@ Dialogue: 0,0:07:43.82,0:07:47.28,Default,,0,0,0,,I... I don't want that!
 Dialogue: 0,0:07:48.49,0:07:51.37,Default,,0,0,0,,I... don't...
 Dialogue: 0,0:07:53.12,0:07:58.79,Default,,0,0,0,,{\i1}She... doesn't... want that?
 Comment: 0,0:07:59.21,0:07:59.25,Default,,0,0,0,,<LostYears> S03E06 21:56
-Dialogue: 0,0:07:59.21,0:08:00.92,Default,,0,0,0,,I won't forgive you.
+Dialogue: 0,0:07:59.21,0:08:00.92,Default,,0,0,0,,I'll never forgive you.
 Comment: 0,0:08:07.68,0:08:07.72,Default,,0,0,0,,<LostYears> S03E07 2:20
 Dialogue: 0,0:08:07.68,0:08:10.68,Default,,0,0,0,,Ta-da! This is... Tohru!
 Dialogue: 0,0:08:11.89,0:08:13.31,Default,,0,0,0,,Thank you!
@@ -233,7 +232,7 @@ Dialogue: 0,0:08:49.43,0:08:51.93,Default,,0,0,0,,{\i1}Tohru loved me back.
 Dialogue: 0,0:08:53.05,0:08:56.47,Default,,0,0,0,,{\i1}Who the hell was I kidding?
 Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,<LostYears> S03E08 00:01
 Dialogue: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,Kyo-kun!
-Dialogue: 0,0:09:03.86,0:09:08.32,Default,,0,0,0,,Please, there's...\N something I'd like to tell you.
+Dialogue: 0,0:09:03.86,0:09:08.32,Default,,0,0,0,,Please, there's... \Nsomething I'd like to tell you.
 Dialogue: 0,0:09:19.37,0:09:19.87,Default,,0,0,0,,Kyo-ku—
 Dialogue: 0,0:09:19.87,0:09:20.75,Default,,0,0,0,,Me too.
 Dialogue: 0,0:09:21.75,0:09:25.09,Default,,0,0,0,,There's something I've been\N wanting to ask you for a while.
@@ -269,18 +268,18 @@ Dialogue: 0,0:11:19.58,0:11:21.08,Default,,0,0,0,,The day of the accident,
 Dialogue: 0,0:11:21.91,0:11:25.58,Default,,0,0,0,,I was standing right there,\N and I recognized her right away.
 Dialogue: 0,0:11:26.62,0:11:29.17,Default,,0,0,0,,Her profile... the color of her hair...
 Dialogue: 0,0:11:29.50,0:11:31.50,Default,,0,0,0,,They were the same as when we first met.
-Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E09 9:38
+Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E08 9:38
 Dialogue: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,I was trying to decide whether to speak to her,
-Dialogue: 0,0:11:35.34,0:11:40.64,Default,,0,0,0,,hen I saw a car speeding toward us...
+Dialogue: 0,0:11:35.34,0:11:40.64,Default,,0,0,0,,when I saw a car speeding toward us...
 Dialogue: 0,0:11:41.60,0:11:43.43,Default,,0,0,0,,I thought, "Oh, shit, I have to help her."
 Dialogue: 0,0:11:44.18,0:11:46.14,Default,,0,0,0,,If I grabbed her arm\N and pulled her back against me...
 Dialogue: 0,0:11:47.81,0:11:51.48,Default,,0,0,0,,But... But I'm not human.
 Dialogue: 0,0:11:53.11,0:11:56.24,Default,,0,0,0,,If I caught her in my arms, I'd turn into a cat...
 Dialogue: 0,0:11:56.90,0:12:00.20,Default,,0,0,0,,and everyone would find out what I am.
 Dialogue: 0,0:12:04.87,0:12:07.87,Default,,0,0,0,,So I let her die.
-Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E09 12:26
+Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E08 12:27
 Dialogue: 0,0:12:11.25,0:12:14.76,Default,,0,0,0,,Everything is my fault.
-Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E09 15:07
+Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E08 15:07
 Dialogue: 0,0:12:16.51,0:12:19.47,Default,,0,0,0,,She said she'd never forgive me.
 Dialogue: 0,0:12:20.22,0:12:23.68,Default,,0,0,0,,She was lying in a pool of blood,
 Dialogue: 0,0:12:24.47,0:12:27.39,Default,,0,0,0,, and she noticed me standing there and said,
@@ -305,19 +304,19 @@ Dialogue: 0,0:13:42.26,0:13:45.35,Default,,0,0,0,,no matter what?
 Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E09 00:38
 Dialogue: 0,0:13:46.68,0:13:48.52,Default,,0,0,0,,{\i1}Half-hidden behind his orange hair,
 Dialogue: 0,0:13:49.31,0:13:51.27,Default,,0,0,0,,{\i1}his eyes were screaming.
-Comment: 0,0:13:55.52,0:13:55.56,Default,,0,0,0,,<LostYears> S03E09 21:05
+Comment: 0,0:13:55.52,0:13:55.56,Default,,0,0,0,,<LostYears> S03E08 21:05
 Dialogue: 0,0:13:55.52,0:13:59.03,Default,,0,0,0,,I'm... disappointed in you.
 Comment: 0,0:11:32.63,0:11:34.67,Default,,0,0,0,,<LostYears> S03E09 00:44
 Dialogue: 0,0:14:01.99,0:14:07.24,Default,,0,0,0,,{\i1}"I'm sad. I'm sad. I'm sad."
-Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,<LostYears> S03E08 00:01
-Dialogue: 0,0:14:09.50,0:14:10.25,Default,,0,0,0,,Kyo!
+Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,<LostYears> S03E08 21:15
+Comment: 0,0:14:09.50,0:14:10.25,Default,,0,0,0,,Kyo!
 Dialogue: 0,0:14:11.41,0:14:13.25,Default,,0,0,0,,Kyo?! Stop!
 Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,</LostYears>
 Dialogue: 0,0:14:14.25,0:14:16.59,Default,,0,0,0,???,{\i1}Seeing you like this
 Dialogue: 0,0:14:18.30,0:14:19.84,Default,,0,0,0,???,{\i1}hurts me much more
 Dialogue: 0,0:14:21.63,0:14:23.55,Default,,0,0,0,???,{\i1}than being separated from my mom.
 Dialogue: 0,0:14:26.35,0:14:27.14,Default,,0,0,0,???,{\i1}That's why...
-Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,<LostYears> S03E09 13:06
+Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,<LostYears> S03E09 13:05
 Dialogue: 0,0:14:40.32,0:14:41.44,Default,,0,0,0,,Tohru?
 Dialogue: 0,0:14:50.70,0:14:52.83,Default,,0,0,0,,{Wa-}Wait.
 Dialogue: 0,0:14:53.41,0:14:56.63,Default,,0,0,0,,Wait. This is wrong.
@@ -325,7 +324,7 @@ Dialogue: 0,0:14:57.38,0:14:59.25,Default,,0,0,0,,No, this isn't what I wanted!
 Dialogue: 0,0:15:00.21,0:15:02.42,Default,,0,0,0,,Tohru... wait!
 Dialogue: 0,0:15:02.84,0:15:04.22,Default,,0,0,0,,This is...
 Dialogue: 0,0:15:09.72,0:15:11.01,Default,,0,0,0,,Don't cry.
-Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,<LostYears> S03E09 16:07
+Comment: 0,0:08:58.89,0:08:59.69,Default,,0,0,0,,<LostYears> S03E09 16:04
 Dialogue: 0,0:15:12.60,0:15:13.27,Default,,0,0,0,,Tohru?
 Dialogue: 0,0:15:14.73,0:15:16.65,Default,,0,0,0,,It's okay.
 Dialogue: 0,0:15:17.69,0:15:18.77,Default,,0,0,0,,Don't worry.
@@ -460,7 +459,7 @@ Dialogue: 0,0:24:24.36,0:24:26.15,Default,,0,0,0,,I see.
 Dialogue: 0,0:24:26.78,0:24:30.37,Default,,0,0,0,,Then... I guess that makes me invincible too.
 Dialogue: 0,0:24:31.62,0:24:34.79,Default,,0,0,0,,Nothing to be afraid of now, huh?
 Dialogue: 0,0:24:36.08,0:24:37.79,Default,,0,0,0,,Not as long as I have you!
-Comment: 0,0:25:06.82,0:25:06.86,Default,,0,0,0,,<Lostyears> S03E08 05:34
+Comment: 0,0:25:06.82,0:25:06.86,Default,,0,0,0,,<Lostyears> S03E08 05:31
 Dialogue: 0,0:25:06.82,0:25:09.07,Default,,0,0,0,,Hey, you! Is your hair real?
 Dialogue: 0,0:25:09.07,0:25:11.61,Default,,0,0,0,,"Hey, you" is pretty rude.
 Dialogue: 0,0:25:12.03,0:25:15.45,Default,,0,0,0,,Call me Kyoko. I'm Kyoko Honda.
@@ -470,13 +469,13 @@ Dialogue: 0,0:25:19.66,0:25:20.67,Default,,0,0,0,,Not telling.
 Dialogue: 0,0:25:21.00,0:25:23.92,Default,,0,0,0,,Aha. Guess I'll call you "squirt," then.
 Dialogue: 0,0:25:23.92,0:25:26.34,Default,,0,0,0,,Squirt? What's a squirt?
 Dialogue: 0,0:25:26.67,0:25:28.05,Default,,0,0,0,,A squirt's a squirt.
-Comment: 0,0:25:28.72,0:25:28.76,Default,,0,0,0,,<LostYears> S03E07 00:01
+Comment: 0,0:25:28.72,0:25:28.76,Default,,0,0,0,,<LostYears> S03E07 00:32
 Dialogue: 0,0:25:28.72,0:25:30.30,Default,,0,0,0,,But Katsuya Honda...
 Dialogue: 0,0:25:31.22,0:25:32.84,Default,,0,0,0,,You don't want to go see him anymore?
 Dialogue: 0,0:25:36.93,0:25:43.69,Default,,0,0,0,,I wonder how much time and effort it'll take
 Dialogue: 0,0:25:44.02,0:25:46.98,Default,,0,0,0,,for you kids to find your own answers...
 Dialogue: 0,0:25:53.11,0:25:55.45,Default,,0,0,0,,Come by again sometime, squirt.
-Comment: 0,0:25:58.50,0:25:58.54,Default,,0,0,0,,<LostYears> S03E12 15:16
+Comment: 0,0:25:58.50,0:25:58.54,Default,,0,0,0,,<LostYears> S03E12 15:10
 Dialogue: 0,0:25:58.50,0:26:03.58,Default,,0,0,0,,I've decided that when I graduate,\N I want to get away from here.
 Dialogue: 0,0:26:05.21,0:26:09.34,Default,,0,0,0,,No, I don't mean that in a weird way.\N I'm not trying to run away again.
 Dialogue: 0,0:26:10.34,0:26:16.76,Default,,0,0,0,,My whole life, I've avoided people\N and tried not to engage with the world.
@@ -525,7 +524,7 @@ Dialogue: 0,0:29:20.03,0:29:23.53,Default,,0,0,0,,I want to be with you—\N by 
 Dialogue: 0,0:29:24.28,0:29:26.04,Default,,0,0,0,,I never want us to be separated,
 Dialogue: 0,0:29:27.04,0:29:28.79,Default,,0,0,0,,and I don't want to wait.
 Dialogue: 0,0:29:30.00,0:29:31.62,Default,,0,0,0,,So please take me with you.
-Comment: 0,0:29:33.42,0:29:33.46,Default,,0,0,0,,<LostYears> S03E08 06:29
+Comment: 0,0:29:33.42,0:29:33.46,Default,,0,0,0,,<LostYears> S03E08 06:28
 Dialogue: 0,0:29:33.42,0:29:34.21,Default,,0,0,0,,Squirt...
 Dialogue: 0,0:29:35.67,0:29:38.88,Default,,0,0,0,,What should I do? Tohru hasn't come home.
 Dialogue: 0,0:29:39.55,0:29:42.18,Default,,0,0,0,,I looked for her, but I can't find her.
@@ -540,10 +539,10 @@ Comment: 0,0:30:18.38,0:30:19.13,Default,,0,0,0,,<LostYears> S03E12 19:13
 Dialogue: 0,0:30:18.38,0:30:19.13,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:30:23.59,0:30:26.39,Default,,0,0,0,,I'm taking her with me.\N You good with that?
 Dialogue: 0,0:30:27.81,0:30:29.85,Default,,0,0,0,,I'll keep my promise.
-Comment: 0,0:30:31.27,0:30:31.31,Default,,0,0,0,,<LostYears> S03E08 06:29
+Comment: 0,0:30:31.27,0:30:31.31,Default,,0,0,0,,<LostYears> S03E08 09:08
 Dialogue: 0,0:30:31.27,0:30:32.14,Default,,0,0,0,,Hey, squirt!
 Dialogue: 0,0:30:32.85,0:30:36.15,Default,,0,0,0,,I'll take a rain check on that promise!
-Comment: 0,0:30:36.94,0:30:36.98,Default,,0,0,0,,<LostYears> S03E12 19:25
+Comment: 0,0:30:36.94,0:30:36.98,Default,,0,0,0,,<LostYears> S03E12 19:27
 Dialogue: 0,0:30:36.94,0:30:39.15,Default,,0,0,0,,I know I'm really late, but...
 Dialogue: 0,0:30:40.86,0:30:43.86,Default,,0,0,0,,I'll protect her for the rest of my life.
 Dialogue: 0,0:30:46.20,0:30:47.12,Default,,0,0,0,,So we're good, right?
@@ -605,7 +604,7 @@ Dialogue: 0,0:34:56.07,0:34:59.12,Default,,0,0,0,,Do you even know what all \Nth
 Dialogue: 0,0:34:59.37,0:35:01.70,Default,,0,0,0,,Please... Tell me why...
 Dialogue: 0,0:35:05.79,0:35:08.46,Default,,0,0,0,,You never should have given birth to me then!
 Dialogue: 0,0:35:09.17,0:35:10.17,Default,,0,0,0,,Who...
-Dialogue: 0,0:35:10.63,0:35:13.42,Default,,0,0,0,,Who asked you to give birth to me!?
+Dialogue: 0,0:35:10.63,0:35:13.42,Default,,0,0,0,,Who asked you to give birth to me?!
 Dialogue: 0,0:35:14.55,0:35:18.39,Default,,0,0,0,,{\i1}She couldn't trust her parents, \Nor her friends.
 Dialogue: 0,0:35:18.39,0:35:19.18,Default,,0,0,0,,{\i1}It hurt her.
 Dialogue: 0,0:35:21.35,0:35:24.56,Default,,0,0,0,,{\i1}At night, when she rode her bike,
@@ -624,7 +623,7 @@ Dialogue: 0,0:35:58.93,0:36:03.93,Default,,0,0,0,,{\i1}So meeting him this very 
 Dialogue: 0,0:36:05.68,0:36:06.85,Default,,0,0,0,,Sensei!
 Dialogue: 0,0:36:06.85,0:36:10.06,Default,,0,0,0,,Aren't you ashamed of yourself?
 Dialogue: 0,0:36:10.06,0:36:11.69,Default,,0,0,0,,The trouble you cause everyone?
-Dialogue: 0,0:36:11.98,0:36:15.19,Default,,0,0,0,,You're even dragging down \Nour good students too!
+Dialogue: 0,0:36:11.98,0:36:15.19,Default,,0,0,0,,You're even dragging down \Nour good students with you!
 Dialogue: 0,0:36:17.41,0:36:20.49,Default,,0,0,0,,Just shut the hell up!
 Dialogue: 0,0:36:20.49,0:36:22.74,Default,,0,0,0,,Did'ya think I'd be afraid of ya?
 Dialogue: 0,0:36:22.74,0:36:23.37,Default,,0,0,0,,Huh?
@@ -773,7 +772,7 @@ Dialogue: 0,0:43:44.18,0:43:46.52,Default,,0,0,0,,Getting people to like me is m
 Dialogue: 0,0:43:46.52,0:43:48.90,Default,,0,0,0,??? TLC,What a load of crap!
 Dialogue: 0,0:43:48.90,0:43:50.61,Default,,0,0,0,,You're great at deceiving people!
 Dialogue: 0,0:43:50.61,0:43:51.19,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:43:51.19,0:43:53.03,Default,,0,0,0,,It's {\i1}not{\i0} a compliment!
+Dialogue: 0,0:43:51.19,0:43:53.03,Default,,0,0,0,,That's {\i1}not{\i0} a compliment!
 Dialogue: 0,0:43:53.57,0:43:56.24,Default,,0,0,0,,No more fights with your classmates, \Nokay No-Eyebrows-san?
 Dialogue: 0,0:43:56.24,0:43:57.49,Default,,0,0,0,,I know!
 Dialogue: 0,0:43:58.20,0:44:01.08,Default,,0,0,0,,{\i1}She would wait eagerly for lunch.
@@ -812,7 +811,7 @@ Dialogue: 0,0:46:13.50,0:46:15.46,Default,,0,0,0,,People were kind to me.
 Dialogue: 0,0:46:16.42,0:46:18.92,Default,,0,0,0,,Do you hate... your dad?
 Dialogue: 0,0:46:20.84,0:46:23.18,Default,,0,0,0,??? TLC,I'd rather say that he was like a wall.
 Dialogue: 0,0:46:24.26,0:46:24.85,Default,,0,0,0,,But...
-Dialogue: 0,0:46:26.10,0:46:31.35,Default,,0,0,0,??? TLC died recently?,my mother died soon after, \Nand the wall got smaller.
+Dialogue: 0,0:46:26.10,0:46:31.35,Default,,0,0,0,??? TLC,my mother passed away recently, \Nand the wall seems to have shrunk. {died recently, or soon after?}
 Dialogue: 0,0:46:32.44,0:46:33.98,Default,,0,0,0,,Things changed between us.
 Dialogue: 0,0:46:34.69,0:46:38.11,Default,,0,0,0,,{\i1}This man... is lonely.
 Dialogue: 0,0:46:38.90,0:46:44.87,Default,,0,0,0,,{\i1}His current self is lonely.
@@ -842,7 +841,7 @@ Dialogue: 0,0:48:05.78,0:48:08.99,Default,,0,0,0,,I'm gonna take you wherever yo
 Dialogue: 0,0:48:09.66,0:48:10.20,Default,,0,0,0,,Huh?
 Dialogue: 0,0:48:15.33,0:48:18.00,Default,,0,0,0,,The sea! It's the sea! The sea!
 Dialogue: 0,0:48:18.00,0:48:20.13,Default,,0,0,0,,The sea!
-Dialogue: 0,0:48:19.25,0:48:21.71,Default,,0,0,0,,{\3c&H000077&}You look like a puppy, No-Eyebrows-san.
+Dialogue: 0,0:48:19.25,0:48:21.71,Default - Alt,,0,0,0,,You look like a puppy, No-Eyebrows-san.
 Dialogue: 0,0:48:21.71,0:48:27.59,Default,,0,0,0,,But it's the sea! The stupid sea!
 Dialogue: 0,0:48:27.59,0:48:29.89,Default,,0,0,0,,Haven't heard it called that before.
 Dialogue: 0,0:48:31.47,0:48:32.68,Default,,0,0,0,,Sensei.
@@ -940,463 +939,443 @@ Dialogue: 0,0:53:54.96,0:53:55.75,Default,,0,0,0,,Let's go.
 Dialogue: 0,0:54:01.93,0:54:04.72,Default,,0,0,0,,I didn't know where you were, \Nso I was starting to worry.
 Dialogue: 0,0:54:04.72,0:54:05.31,Default,,0,0,0,,Sensei...
 Dialogue: 0,0:54:05.31,0:54:10.23,Default,,0,0,0,,I called your mother who told me you \Nwere getting discharged today.
-Dialogue: 0,0:54:09.43,0:54:10.23,Default,,0,0,0,,{\3c&H000077&}Sensei!
+Dialogue: 0,0:54:09.43,0:54:10.23,Default - Alt,,0,0,0,,Sensei!
 Dialogue: 0,0:54:10.60,0:54:12.94,Default,,0,0,0,,I had no idea what'd happened to you.
 Dialogue: 0,0:54:13.98,0:54:16.44,Default,,0,0,0,,K-Katsuya!
 Dialogue: 0,0:54:19.15,0:54:21.99,Default,,0,0,0,,What you just said...
 Dialogue: 0,0:54:22.91,0:54:24.99,Default,,0,0,0,,You're not... serious, right?
 Dialogue: 0,0:54:25.99,0:54:26.99,Default,,0,0,0,,I'm serious.
-Comment: 0,0:54:27.99,0:54:31.16,Default,,0,0,0,,########## UP TO HERE ##########
-Dialogue: 0,0:54:27.99,0:54:31.16,Default,,0,0,0,,I apologize for this uncommon proposal.
-Dialogue: 0,0:54:33.25,0:54:35.21,Default,,0,0,0,,I'm fine!
-Dialogue: 0,0:54:35.21,0:54:37.50,Default,,0,0,0,,You don't need to do so much for me!
-Dialogue: 0,0:54:37.80,0:54:40.51,Default,,0,0,0,,I don't want to be a burden for you...
-Dialogue: 0,0:54:40.51,0:54:42.51,Default,,0,0,0,,You can just leave me here...
-Dialogue: 0,0:54:42.93,0:54:45.09,Default,,0,0,0,,It's okay...
-Dialogue: 0,0:54:45.09,0:54:47.72,Default,,0,0,0,,Do you understand?\NI'll be okay!
-Dialogue: 0,0:54:48.72,0:54:49.31,Default,,0,0,0,,So...
-Dialogue: 0,0:54:49.97,0:54:53.85,Default,,0,0,0,,Please...\NYou don't have to do so much...
+Dialogue: 0,0:54:27.99,0:54:31.16,Default,,0,0,0,,I apologize for the irregular proposal.
+Dialogue: 0,0:54:33.25,0:54:35.21,Default,,0,0,0,,I-I'm fine!
+Dialogue: 0,0:54:35.21,0:54:37.50,Default,,0,0,0,,Why are you doing so much for me?!
+Dialogue: 0,0:54:37.80,0:54:40.51,Default,,0,0,0,,I don't want to be a burden on you!
+Dialogue: 0,0:54:40.51,0:54:42.76,Default,,0,0,0,,You can just leave me here...
+Dialogue: 0,0:54:42.76,0:54:45.09,Default,,0,0,0,,I'm okay...
+Dialogue: 0,0:54:45.09,0:54:47.72,Default,,0,0,0,,Really... I'll be okay!
+Dialogue: 0,0:54:48.55,0:54:49.31,Default,,0,0,0,,So...
+Dialogue: 0,0:54:50.21,0:54:53.85,Default,,0,0,0,,You don't have to go so far for me!
 Dialogue: 0,0:54:53.85,0:54:55.15,Default,,0,0,0,,This is unexpected.
-Dialogue: 0,0:54:56.27,0:54:58.86,Default,,0,0,0,,Do you think I said that out of pity?
+Dialogue: 0,0:54:56.27,0:54:58.86,Default,,0,0,0,,Do you think I said all of that out of pity?
 Dialogue: 0,0:54:59.78,0:55:01.32,Default,,0,0,0,,You don't believe me?
-Dialogue: 0,0:55:01.32,0:55:02.07,Default,,0,0,0,,But...
-Dialogue: 0,0:55:02.32,0:55:03.36,Default,,0,0,0,,I don't...
-Dialogue: 0,0:55:03.36,0:55:07.83,Default,,0,0,0,,I don't understand at all!
-Dialogue: 0,0:55:07.83,0:55:09.79,Default,,0,0,0,,I don't understand why you chose me...
-Dialogue: 0,0:55:09.79,0:55:10.62,Default,,0,0,0,,Because you cried...
-Dialogue: 0,0:55:12.33,0:55:14.54,Default,,0,0,0,,You cried when\Nyou said you were lonely...
+Dialogue: 0,0:55:01.32,0:55:03.36,Default,,0,0,0,,But... But...
+Dialogue: 0,0:55:05.21,0:55:07.83,Default,,0,0,0,,I just don't understand at all!
+Dialogue: 0,0:55:07.83,0:55:09.79,Default,,0,0,0,,I don't understand why you chose me!
+Dialogue: 0,0:55:09.79,0:55:10.62,Default,,0,0,0,,You cried...
+Dialogue: 0,0:55:12.33,0:55:14.54,Default,,0,0,0,,You cried when you said you were lonely...
 Dialogue: 0,0:55:14.92,0:55:16.58,Default,,0,0,0,,You were so human
-Dialogue: 0,0:55:17.96,0:55:18.71,Default,,0,0,0,,that
-Dialogue: 0,0:55:19.71,0:55:20.96,Default,,0,0,0,,I fell in love with you.
-Dialogue: 0,0:55:22.80,0:55:27.47,Default,,0,0,0,,I was like you once when I thought\Nothers were just scumbags.
-Dialogue: 0,0:55:28.35,0:55:31.22,Default,,0,0,0,,But I've never been able\Nto cry so honestly
-Dialogue: 0,0:55:31.93,0:55:32.98,Default,,0,0,0,,like you did.
-Dialogue: 0,0:55:34.98,0:55:38.65,Default,,0,0,0,,Actually, when you were a high school girl
-Dialogue: 0,0:55:38.65,0:55:40.53,Default,,0,0,0,,I had to be careful.
-Dialogue: 0,0:55:42.11,0:55:44.24,Default,,0,0,0,,But I've never planned to let you go.
+Dialogue: 0,0:55:17.98,0:55:20.96,Default,,0,0,0,,that... I fell in love with you.
+Dialogue: 0,0:55:22.80,0:55:27.72,Default,,0,0,0,,I used to be like you, where I thought \Neveryone else were just scumbags.
+Dialogue: 0,0:55:28.53,0:55:32.98,Default,,0,0,0,,But I've never been able to \Ncry so honestly, like you did.
+Dialogue: 0,0:55:34.98,0:55:40.53,Default,,0,0,0,,Actually, when you were \Na high school girl I had to be careful.
+Dialogue: 0,0:55:42.08,0:55:44.24,Default,,0,0,0,,But I've never planned on letting you go.
 Dialogue: 0,0:55:46.28,0:55:47.53,Default,,0,0,0,,Choose me.
-Dialogue: 0,0:55:49.20,0:55:51.41,Default,,0,0,0,,If you still don't trust me,
-Dialogue: 0,0:55:51.41,0:55:53.12,Default,,0,0,0,,and if words can make\Nyou feel more secure,
-Dialogue: 0,0:55:54.00,0:55:56.96,Default,,0,0,0,,I'll repeat it for you\Nas much as you want.
-Dialogue: 0,0:55:58.08,0:55:59.75,Default,,0,0,0,,But if do it,\Nyou'll willing to have me.
-Dialogue: 0,0:56:01.38,0:56:02.51,Default,,0,0,0,,Choose me.
-Dialogue: 0,0:56:03.26,0:56:04.22,Default,,0,0,0,,Kyoko.
-Dialogue: 0,0:56:09.14,0:56:10.64,Default,,0,0,0,,Katsuya,
-Dialogue: 0,0:56:10.64,0:56:12.14,Default,,0,0,0,,are you a lolicon?
-Dialogue: 0,0:56:13.47,0:56:15.81,Default,,0,0,0,,Where did you learn this word?
-Dialogue: 0,0:56:17.60,0:56:20.73,Default,,0,0,0,,This is your fault\Nfor not being born earlier.
-Dialogue: 0,0:56:28.62,0:56:29.70,Default,,0,0,0,,Indeed,
-Dialogue: 0,0:56:31.12,0:56:34.12,Default,,0,0,0,,you're clearly not\Nsuitable as a teacher.
+Dialogue: 0,0:55:49.20,0:55:53.12,Default,,0,0,0,,If you still don't trust me, \Nand if words can make you feel more secure,
+Dialogue: 0,0:55:54.00,0:55:56.96,Default,,0,0,0,,I'll repeat it for you as much as you want.
+Dialogue: 0,0:55:58.08,0:55:59.75,Default,,0,0,0,,But you have to want me.
+Dialogue: 0,0:56:01.38,0:56:04.22,Default,,0,0,0,,Choose me, Kyoko.
+Dialogue: 0,0:56:09.14,0:56:12.14,Default,,0,0,0,??? lolicon,Katsuya, are you a pedo? {lolicon? pedo? into younger girls?}
+Dialogue: 0,0:56:13.47,0:56:15.81,Default,,0,0,0,,Where did you learn that word?
+Dialogue: 0,0:56:17.60,0:56:20.73,Default,,0,0,0,,It's your fault for not being born earlier.
+Dialogue: 0,0:56:28.62,0:56:29.70,Default,,0,0,0,,You're right,
+Dialogue: 0,0:56:31.16,0:56:34.33,Default,,0,0,0,,you're definitely not suited \Nto be a teacher.
 Dialogue: 0,0:56:35.16,0:56:35.83,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:56:38.12,0:56:39.67,Default,,0,0,0,,It's not a compliment.
-Dialogue: 0,0:56:45.17,0:56:46.84,Default,,0,0,0,,No! No way!
-Dialogue: 0,0:56:46.84,0:56:48.26,Default,,0,0,0,,There's no way I can to it!
-Dialogue: 0,0:56:48.26,0:56:50.05,Default,,0,0,0,,I refuse!\NNot in the world!
-Dialogue: 0,0:56:50.35,0:56:53.97,Default,,0,0,0,,I also don't really care but...
-Dialogue: 0,0:56:54.27,0:56:57.56,Default,,0,0,0,,But it is uncommon to see a woman\Nnot wanting a wedding ceremony to this point...
-Dialogue: 0,0:56:57.56,0:57:00.73,Default,,0,0,0,,Who'd like\Nto wear something like this!
-Dialogue: 0,0:57:00.73,0:57:04.86,Default,,0,0,0,,I don't need this\Nlame ceremony to be with you!
-Dialogue: 0,0:57:04.86,0:57:06.03,Default,,0,0,0,,Indeed...
+Dialogue: 0,0:56:38.09,0:56:39.67,Default,,0,0,0,,That's not a compliment.
+Dialogue: 0,0:56:45.17,0:56:46.91,Default,,0,0,0,,No! No way!
+Dialogue: 0,0:56:46.91,0:56:48.26,Default,,0,0,0,,It's not happening!
+Dialogue: 0,0:56:48.26,0:56:50.05,Default,,0,0,0,,Never, ever, ever!
+Dialogue: 0,0:56:50.52,0:56:53.97,Default,,0,0,0,,I also don't really care...
+Dialogue: 0,0:56:54.41,0:56:57.65,Default,,0,0,0,,But it is uncommon for a woman to hate weddings this much.
+Dialogue: 0,0:56:57.65,0:57:00.56,Default,,0,0,0,,Who'd want to wear something like that!
+Dialogue: 0,0:57:00.56,0:57:04.86,Default,,0,0,0,,I don't need this lame ceremony \Nto be with you!
+Dialogue: 0,0:57:04.86,0:57:06.03,Default,,0,0,0,,I get it, I get it.
 Dialogue: 0,0:57:06.57,0:57:08.32,Default,,0,0,0,,{\i1}We got married.
 Dialogue: 0,0:57:09.36,0:57:11.53,Default,,0,0,0,,{\i1}No one congratulated us.
-Dialogue: 0,0:57:12.33,0:57:15.70,Default,,0,0,0,,{\i1}All the Honda family\Nwas against this marriage.
-Dialogue: 0,0:57:16.95,0:57:20.96,Default,,0,0,0,,{\i1}Except this man,\NKatsuya's father.
-Dialogue: 0,0:57:22.25,0:57:25.63,Default,,0,0,0,,There is nothing over\Nthe happiness we can feel
-Dialogue: 0,0:57:25.63,0:57:28.80,Default,,0,0,0,,when we live with\Nthe person we love the most.
-Dialogue: 0,0:57:29.55,0:57:33.30,Default,,0,0,0,,However, you are both still young.
-Dialogue: 0,0:57:33.81,0:57:37.85,Default,,0,0,0,,You have to accept people\Nwho don't agree with this marriage.
-Dialogue: 0,0:57:38.27,0:57:39.60,Default,,0,0,0,,It is only after all this,
-Dialogue: 0,0:57:39.60,0:57:41.98,Default,,0,0,0,,little by little,\Nthat you will show
-Dialogue: 0,0:57:41.98,0:57:44.36,Default,,0,0,0,,the authenticity\Nof your relationship.
-Dialogue: 0,0:57:45.11,0:57:47.82,Default,,0,0,0,,This way, you'll prove people
-Dialogue: 0,0:57:47.82,0:57:49.65,Default,,0,0,0,,you are happy together.
-Dialogue: 0,0:57:50.78,0:57:52.74,Default,,0,0,0,,There's no way he's strict!
-Dialogue: 0,0:57:52.74,0:57:56.87,Default,,0,0,0,,I was ready to have\Na fight with him!
-Dialogue: 0,0:57:57.08,0:57:59.12,Default,,0,0,0,,I told you it'd go smooth.
-Dialogue: 0,0:57:59.62,0:58:02.71,Default,,0,0,0,,Do you want to eat with me?\NWe can have sushi.
-Dialogue: 0,0:58:04.25,0:58:07.51,Default,,0,0,0,,{\i1}We decided\Nwe wanted to live by the sea.
-Dialogue: 0,0:58:08.63,0:58:11.59,Default,,0,0,0,,How odd, since when\Ndo you read this kind of magazines?
-Dialogue: 0,0:58:12.09,0:58:13.64,Default,,0,0,0,,Do you want a ring?
-Dialogue: 0,0:58:14.14,0:58:15.51,Default,,0,0,0,,No way.
-Dialogue: 0,0:58:15.97,0:58:18.14,Default,,0,0,0,,I'd rather have this!
-Dialogue: 0,0:58:18.81,0:58:21.02,Default,,0,0,0,,When you come home\Ntired from working,
-Dialogue: 0,0:58:21.02,0:58:23.15,Default,,0,0,0,,I'll make you a nutricious juice!
-Dialogue: 0,0:58:23.15,0:58:24.27,Default,,0,0,0,,Well well...
+Dialogue: 0,0:57:12.33,0:57:15.95,Default,,0,0,0,,{\i1}The entire Honda family \Nopposed this marriage.
+Dialogue: 0,0:57:16.95,0:57:20.96,Default,,0,0,0,,{\i1}Except one man, Katsuya's father.
+Dialogue: 0,0:57:22.25,0:57:29.09,Default,,0,0,0,,There is nothing greater than the happiness we feel \Nwhen we're with the person we love the most.
+Dialogue: 0,0:57:29.69,0:57:33.60,Default,,0,0,0,,However, you are both still young.
+Dialogue: 0,0:57:33.60,0:57:37.73,Default,,0,0,0,end frame weird?,You have to accept that people \Nwon't agree with this marriage.
+Dialogue: 0,0:57:38.35,0:57:42.03,Default,,0,0,0,,After a while, bit by bit, little by little,
+Dialogue: 0,0:57:42.03,0:57:44.23,Default,,0,0,0,,they'll see your relationship's authenticity.{show attitude}
+Dialogue: 0,0:57:44.96,0:57:49.72,Default,,0,0,0,,This way, you can prove to people \Nthat you are happy together.
+Dialogue: 0,0:57:50.73,0:57:52.90,Default,,0,0,0,,There's no way he's strict!
+Dialogue: 0,0:57:52.90,0:57:56.96,Default,,0,0,0,,I was ready to have a fight with him!
+Dialogue: 0,0:57:56.96,0:57:59.23,Default,,0,0,0,,I told you it'd go smooth.
+Dialogue: 0,0:57:59.56,0:58:03.25,Default,,0,0,0,,Do you want to eat with me? \NWe can have sushi.
+Dialogue: 0,0:58:04.25,0:58:07.51,Default,,0,0,0,,{\i1}We decided we wanted to live by the sea.
+Dialogue: 0,0:58:08.63,0:58:11.66,Default,,0,0,0,,This is unusual, you reading magazines.
+Dialogue: 0,0:58:12.15,0:58:13.64,Default,,0,0,0,,Do you want a ring?
+Dialogue: 0,0:58:14.14,0:58:15.35,Default,,0,0,0,,No way.
+Dialogue: 0,0:58:15.91,0:58:18.14,Default,,0,0,0,,I'd rather have this!
+Dialogue: 0,0:58:18.81,0:58:21.02,Default,,0,0,0,,When you come home tired from working,
+Dialogue: 0,0:58:21.02,0:58:23.15,Default,,0,0,0,,I'll make you a nutritious juice!
+Dialogue: 0,0:58:23.15,0:58:24.27,Default,,0,0,0,,Well, well...
 Dialogue: 0,0:58:25.48,0:58:27.44,Default,,0,0,0,,I'll have to get used to weird flavors!
-Dialogue: 0,0:58:27.44,0:58:30.24,Default,,0,0,0,,Don't even think of talking\Nuntil you taste it, you jerk!
-Dialogue: 0,0:58:32.07,0:58:35.58,Default,,0,0,0,,{\i1}On holiday,\Nthey'd always travel around.
-Dialogue: 0,0:58:36.45,0:58:39.04,Default,,0,0,0,,{\i1}It didn't really matter\Nwhere they went,
-Dialogue: 0,0:58:39.37,0:58:41.21,Default,,0,0,0,,{\i1}as long as they were together.
-Dialogue: 0,0:58:45.13,0:58:47.38,Default,,0,0,0,,What? Is he already home?
-Dialogue: 0,0:58:51.59,0:58:52.59,Default,,0,0,0,,Hello,
+Dialogue: 0,0:58:27.44,0:58:30.53,Default,,0,0,0,,Don't even think o' talkin' \Nuntil ya taste it, you jerk!
+Dialogue: 0,0:58:32.07,0:58:35.28,Default,,0,0,0,,{\i1}They would go on lots of holidays together.
+Dialogue: 0,0:58:36.45,0:58:39.04,Default,,0,0,0,,{\i1}It didn't really matter where they went,
+Dialogue: 0,0:58:39.57,0:58:41.33,Default,,0,0,0,,{\i1}as long as they were together.
+Dialogue: 0,0:58:45.13,0:58:47.53,Default,,0,0,0,,Huh? Is he already home?
+Dialogue: 0,0:58:51.59,0:58:52.38,Default,,0,0,0,,Welcome home,
 Dialogue: 0,0:58:53.68,0:58:54.59,Default,,0,0,0,,No-Eyebrows-san.
 Dialogue: 0,0:58:57.47,0:58:58.35,Default,,0,0,0,,I'm back!
-Dialogue: 0,0:58:58.93,0:59:00.73,Default,,0,0,0,,It's usually\Nthe other way around, isn't it?
-Dialogue: 0,0:59:01.31,0:59:02.60,Default,,0,0,0,,It's not bad to change.
-Dialogue: 0,0:59:03.10,0:59:05.73,Default,,0,0,0,,{\i1}We treasured each other's life.
+Dialogue: 0,0:58:58.93,0:59:00.73,Default,,0,0,0,,It's usually the other way around, isn't it?
+Dialogue: 0,0:59:01.31,0:59:03.07,Default,,0,0,0,,It's not a bad change.
+Dialogue: 0,0:59:03.07,0:59:05.73,Default,,0,0,0,,{\i1}We treasured each other's life.
 Dialogue: 0,0:59:10.40,0:59:11.65,Default,,0,0,0,,You're pregnant?
 Dialogue: 0,0:59:12.28,0:59:14.45,Default,,0,0,0,,You went alone to the hospital?
-Dialogue: 0,0:59:15.32,0:59:16.12,Default,,0,0,0,,Why?
-Dialogue: 0,0:59:18.33,0:59:19.20,Default,,0,0,0,,What is it?
-Dialogue: 0,0:59:20.24,0:59:21.37,Default,,0,0,0,,I
-Dialogue: 0,0:59:22.00,0:59:23.25,Default,,0,0,0,,don't
+Dialogue: 0,0:59:15.32,0:59:16.12,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:59:18.29,0:59:19.38,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:59:20.21,0:59:23.25,Default,,0,0,0,,I... don't...
 Dialogue: 0,0:59:25.00,0:59:26.71,Default,,0,0,0,,have the confidence to have...
 Dialogue: 0,0:59:27.46,0:59:28.29,Default,,0,0,0,,a baby.
-Dialogue: 0,0:59:29.84,0:59:33.30,Default,,0,0,0,,I'd be happy to have your child.
+Dialogue: 0,0:59:29.79,0:59:33.63,Default,,0,0,0,,I'd be happy to have your child.
 Dialogue: 0,0:59:33.63,0:59:34.68,Default,,0,0,0,,But...
-Dialogue: 0,0:59:35.64,0:59:36.76,Default,,0,0,0,,A child...
-Dialogue: 0,0:59:37.14,0:59:39.01,Default,,0,0,0,,Is a human being, right?
-Dialogue: 0,0:59:39.97,0:59:41.02,Default,,0,0,0,,Do I...
-Dialogue: 0,0:59:41.52,0:59:45.06,Default,,0,0,0,,Do I have the capacity\Nto give birth to a human?
-Dialogue: 0,0:59:46.19,0:59:50.57,Default,,0,0,0,,I can't say\NI've lived a good life until now.
-Dialogue: 0,0:59:50.57,0:59:52.57,Default,,0,0,0,,So, giving birth
-Dialogue: 0,0:59:52.57,0:59:56.07,Default,,0,0,0,,and raise a baby, can I do it?
-Dialogue: 0,0:59:57.70,0:59:59.16,Default,,0,0,0,,What if because of me
-Dialogue: 0,0:59:59.16,1:00:01.66,Default,,0,0,0,,our child is unhappy?
-Dialogue: 0,1:00:02.37,1:00:03.91,Default,,0,0,0,,What if because of me
-Dialogue: 0,1:00:03.91,1:00:06.54,Default,,0,0,0,,he is bullied, or hurt?
-Dialogue: 0,1:00:06.92,1:00:09.25,Default,,0,0,0,,If he cried, I...
-Dialogue: 0,1:00:09.71,1:00:13.59,Default,,0,0,0,,What if he tells me he never\Nwanted me for a mother...
-Dialogue: 0,1:00:14.76,1:00:15.93,Default,,0,0,0,,{\i1}Who...
-Dialogue: 0,1:00:16.38,1:00:19.51,Default,,0,0,0,,{\i1}Who asked you\Nto give birth to me?
+Dialogue: 0,0:59:35.64,0:59:36.76,Default,,0,0,0,,a child...
+Dialogue: 0,0:59:37.14,0:59:39.10,Default,,0,0,0,,is a human being, right?
+Dialogue: 0,0:59:39.97,0:59:41.02,Default,,0,0,0,,Am I...
+Dialogue: 0,0:59:41.52,0:59:45.06,Default,,0,0,0,,Am I even capable \Nof giving birth to a human?
+Dialogue: 0,0:59:46.19,0:59:50.57,Default,,0,0,0,,I can't say I've lived \Na good life until now.
+Dialogue: 0,0:59:50.57,0:59:56.07,Default,,0,0,0,,So, giving birth... \Nand raising a baby, can I even do it?
+Dialogue: 0,0:59:57.70,1:00:01.99,Default,,0,0,0,,What if... our child is unhappy, because of me?
+Dialogue: 0,1:00:02.37,1:00:06.61,Default,,0,0,0,,What if they're bullied, or hurt, because of me?
+Dialogue: 0,1:00:06.97,1:00:09.13,Default,,0,0,0,??? TLC,If he cried, I...
+Dialogue: 0,1:00:09.71,1:00:13.59,Default,,0,0,0,,What if he tells me he never \Nwanted me for a mother...
+Dialogue: 0,1:00:14.76,1:00:15.80,Default,,0,0,0,,{\i1}Who...
+Dialogue: 0,1:00:16.59,1:00:20.70,Default,,0,0,0,,{\fad(0,2000)\i1}Who asked you to give birth to me?! {35:10}
 Dialogue: 0,1:00:22.64,1:00:25.89,Default,,0,0,0,,{\i1}Why did I say those things?
-Dialogue: 0,1:00:26.98,1:00:29.02,Default,,0,0,0,,{\i1}I didn't know back then
-Dialogue: 0,1:00:29.02,1:00:32.02,Default,,0,0,0,,{\i1}what kind of feelings\Nmy mother felt when she heard that, but...
+Dialogue: 0,1:00:26.97,1:00:32.02,Default,,0,0,0,,{\i1}Back then, I didn't understand the pain my mother would have felt hearing that.
 Dialogue: 0,1:00:33.19,1:00:35.40,Default,,0,0,0,,{\i1}If my own child said that to me,
-Dialogue: 0,1:00:36.40,1:00:38.11,Default,,0,0,0,,{\i1}I'd want to die.
-Dialogue: 0,1:00:39.57,1:00:42.95,Default,,0,0,0,,{\i1}I had said horrible things.
-Dialogue: 0,1:00:44.33,1:00:47.16,Default,,0,0,0,,{\i1}I've been fine saying to others
+Dialogue: 0,1:00:36.40,1:00:38.41,Default,,0,0,0,,{\i1}I'd want to die.
+Dialogue: 0,1:00:39.70,1:00:43.16,Default,,0,0,0,,{\i1}I said... horrible things.
+Dialogue: 0,1:00:44.36,1:00:47.15,Default,,0,0,0,,{\i1\fad(0,350)}I've been fine saying to others
 Dialogue: 0,1:00:48.00,1:00:50.92,Default,,0,0,0,,{\i1}things that would hurt myself.
-Dialogue: 0,1:00:53.92,1:00:59.01,Default,,0,0,0,,Since you know\Nthis child will be a human being,
-Dialogue: 0,1:01:00.14,1:01:01.43,Default,,0,0,0,,everything'll be alright.
-Dialogue: 0,1:01:03.10,1:01:05.31,Default,,0,0,0,,Because we're both human too.
-Dialogue: 0,1:01:05.31,1:01:07.56,Default,,0,0,0,,Let's remember\Nwhat made us happy,
-Dialogue: 0,1:01:08.44,1:01:10.19,Default,,0,0,0,,and also what made us sad.
-Dialogue: 0,1:01:11.23,1:01:12.69,Default,,0,0,0,,Let's raise him\Nremember all of that.
-Dialogue: 0,1:01:14.44,1:01:16.49,Default,,0,0,0,,We'll embrace him.
-Dialogue: 0,1:01:17.24,1:01:18.70,Default,,0,0,0,,We'll listen to him.
-Dialogue: 0,1:01:19.61,1:01:21.53,Default,,0,0,0,,If he does something wrong,
-Dialogue: 0,1:01:21.53,1:01:25.83,Default,,0,0,0,,we'll teach him why\Nthose thing are bad.
-Dialogue: 0,1:01:27.00,1:01:28.71,Default,,0,0,0,,And if we ever
-Dialogue: 0,1:01:28.71,1:01:31.00,Default,,0,0,0,,lost control of ourselves
-Dialogue: 0,1:01:31.38,1:01:33.00,Default,,0,0,0,,and end up wronging that child,
-Dialogue: 0,1:01:34.17,1:01:35.46,Default,,0,0,0,,we'll apologize for that
-Dialogue: 0,1:01:36.80,1:01:39.97,Default,,0,0,0,,and hug him again.
-Dialogue: 0,1:01:41.97,1:01:43.35,Default,,0,0,0,,Together.
-Dialogue: 0,1:01:44.10,1:01:45.72,Default,,0,0,0,,We'll raise our child like that.
-Dialogue: 0,1:01:48.39,1:01:50.06,Default,,0,0,0,,{\i1}I wasn't alone anymore.
-Dialogue: 0,1:01:51.56,1:01:52.86,Default,,0,0,0,,{\i1}We were together.
-Dialogue: 0,1:01:55.11,1:01:56.48,Default,,0,0,0,,I want to have our child,
-Dialogue: 0,1:01:57.19,1:01:58.24,Default,,0,0,0,,No-Eyebrows-san.
-Dialogue: 0,1:02:01.28,1:02:01.70,Default,,0,0,0,,Yes.
-Dialogue: 0,1:02:03.87,1:02:05.66,Default,,0,0,0,,{\i1}And then, she was born.
-Dialogue: 0,1:02:07.16,1:02:09.58,Default,,0,0,0,,{\i1}The most precious human\Nin the entire world.
-Dialogue: 0,1:02:11.08,1:02:11.87,Default,,0,0,0,,Tohru.
-Dialogue: 0,1:02:13.33,1:02:15.38,Default,,0,0,0,,Let's have a walk, Tohru.
-Dialogue: 0,1:02:17.55,1:02:23.34,Default,,0,0,0,,You gave her a masculine name,\Ndidn't you?
-Dialogue: 0,1:02:23.34,1:02:25.97,Default,,0,0,0,,Katsuya says it's "hidden flavor".
-Dialogue: 0,1:02:26.18,1:02:27.72,Default,,0,0,0,,"Hidden flavor"?
-Dialogue: 0,1:02:27.97,1:02:31.98,Default,,0,0,0,,Like when you add salt to\Na sweet thing and a nice taste comes out.
-Dialogue: 0,1:02:31.98,1:02:34.98,Default,,0,0,0,,That's the kind of girl that\Nhe wants her to be.
-Dialogue: 0,1:02:35.69,1:02:40.61,Default,,0,0,0,,It's both logical and nonsense.
+Dialogue: 0,1:00:53.92,1:00:59.43,Default,,0,0,0,,Since you know this child will be \Na human being,
+Dialogue: 0,1:01:00.14,1:01:01.43,Default,,0,0,0,,it'll be alright.
+Dialogue: 0,1:01:03.10,1:01:07.67,Default,,0,0,0,,Because we're human too, \Nlet's remember what made us happy,
+Dialogue: 0,1:01:08.43,1:01:10.19,Default,,0,0,0,,and also what made us sad.
+Dialogue: 0,1:01:11.33,1:01:12.69,Default,,0,0,0,,We can't forget that.
+Dialogue: 0,1:01:14.55,1:01:16.49,Default,,0,0,0,,We'll embrace them.
+Dialogue: 0,1:01:17.24,1:01:18.70,Default,,0,0,0,,We'll listen to them.
+Dialogue: 0,1:01:19.61,1:01:21.32,Default,,0,0,0,,If they do something wrong,
+Dialogue: 0,1:01:21.64,1:01:26.19,Default,,0,0,0,,we'll properly teach them \Nwhy those things are bad.
+Dialogue: 0,1:01:27.06,1:01:31.11,Default,,0,0,0,,And if... we ever lose control of ourselves
+Dialogue: 0,1:01:31.48,1:01:33.19,Default,,0,0,0,,and end up wronging that child,
+Dialogue: 0,1:01:34.17,1:01:39.97,Default,,0,0,0,,we'll apologize for that, \Nand hug them again.
+Dialogue: 0,1:01:42.04,1:01:43.05,Default,,0,0,0,,Together.
+Dialogue: 0,1:01:44.26,1:01:45.69,Default,,0,0,0,,That's how we'll raise them.
+Dialogue: 0,1:01:48.43,1:01:50.10,Default,,0,0,0,,{\i1}I wasn't alone anymore.
+Dialogue: 0,1:01:51.67,1:01:52.75,Default,,0,0,0,,{\i1}We were together.
+Dialogue: 0,1:01:55.17,1:01:56.36,Default,,0,0,0,,I want to have our child,
+Dialogue: 0,1:01:57.21,1:01:58.23,Default,,0,0,0,,No-Eyebrows-san.
+Dialogue: 0,1:02:01.23,1:02:01.80,Default,,0,0,0,,Me too.
+Dialogue: 0,1:02:03.87,1:02:05.66,Default,,0,0,0,,{\i1}So she was born.
+Dialogue: 0,1:02:07.09,1:02:09.61,Default,,0,0,0,,{\i1}The most precious human in the entire world.
+Dialogue: 0,1:02:11.19,1:02:12.03,Default,,0,0,0,,Tohru.
+Dialogue: 0,1:02:13.08,1:02:15.38,Default,,0,0,0,,Let's go for a walk, Tohru.
+Dialogue: 0,1:02:17.61,1:02:23.37,Default,,0,0,0,,You gave her a bit \Nof a masculine name, didn't you?
+Dialogue: 0,1:02:23.37,1:02:25.97,Default,,0,0,0,,Katsuya says it's "hidden flavor."
+Dialogue: 0,1:02:26.39,1:02:27.95,Default,,0,0,0,,"Hidden flavor?"
+Dialogue: 0,1:02:27.95,1:02:31.98,Default,,0,0,0,,Like when you add salt to a sweet food, \Nand a really good taste comes out.
+Dialogue: 0,1:02:31.98,1:02:35.11,Default,,0,0,0,,That's the kind of girl \Nthat he wants her to be.
+Dialogue: 0,1:02:35.62,1:02:40.83,Default,,0,0,0,,That's another unique one, \Nboth logical and nonsensical. {difficult to understand}
 Dialogue: 0,1:02:42.36,1:02:43.66,Default,,0,0,0,,But it's Katsuya.
 Dialogue: 0,1:02:44.95,1:02:47.62,Default,,0,0,0,,But I can understand what he means.
 Dialogue: 0,1:02:47.99,1:02:49.00,Default,,0,0,0,,In a way.
-Dialogue: 0,1:02:53.25,1:02:57.00,Default,,0,0,0,,Does he help you out with the baby?
-Dialogue: 0,1:02:57.00,1:02:57.84,Default,,0,0,0,,Yes!
-Dialogue: 0,1:02:57.84,1:03:00.26,Default,,0,0,0,,He's very talented at getting\Nher into the bath.
-Dialogue: 0,1:03:00.67,1:03:03.01,Default,,0,0,0,,You'd be surprised\Nif you saw him, Father!
-Dialogue: 0,1:03:03.01,1:03:04.47,Default,,0,0,0,,Katsuya...
-Dialogue: 0,1:03:06.05,1:03:09.56,Default,,0,0,0,,When he told me\Nhe was getting married,
-Dialogue: 0,1:03:09.56,1:03:11.93,Default,,0,0,0,,I was very happy.
-Dialogue: 0,1:03:12.64,1:03:14.40,Default,,0,0,0,,He'd never been able
-Dialogue: 0,1:03:14.40,1:03:17.94,Default,,0,0,0,, to show any affection\Nor interest in anything.
-Dialogue: 0,1:03:19.40,1:03:22.90,Default,,0,0,0,,He wanted to show me\Nhe could actually love someone.
+Dialogue: 0,1:02:53.25,1:02:57.00,Default,,0,0,0,,So does he help you out with the baby?
+Dialogue: 0,1:02:57.00,1:02:57.88,Default,,0,0,0,,Of course!
+Dialogue: 0,1:02:57.88,1:03:00.26,Default,,0,0,0,,He's very talented \Nat getting her into the bath.
+Dialogue: 0,1:03:00.73,1:03:03.07,Default,,0,0,0,,You'd be surprised if you saw him!
+Dialogue: 0,1:03:03.07,1:03:04.69,Default,,0,0,0,,Katsuya, huh?
+Dialogue: 0,1:03:06.09,1:03:09.43,Default,,0,0,0,,When he told me he was getting married,
+Dialogue: 0,1:03:09.73,1:03:11.93,Default,,0,0,0,,I was very happy.
+Dialogue: 0,1:03:12.64,1:03:17.94,Default,,0,0,0,,He'd never been able to show any affection \Nor interest in anything.
+Dialogue: 0,1:03:19.40,1:03:22.90,Default,,0,0,0,,He wanted to show me he \Ncould actually love someone.
 Dialogue: 0,1:03:23.74,1:03:27.45,Default,,0,0,0,,People are mysterious...
-Dialogue: 0,1:03:28.45,1:03:32.29,Default,,0,0,0,,As people meet other people,
-Dialogue: 0,1:03:32.29,1:03:34.75,Default,,0,0,0,,all sort of possibilities are born,
-Dialogue: 0,1:03:35.46,1:03:38.21,Default,,0,0,0,,good ones and bad ones.
-Dialogue: 0,1:03:39.00,1:03:41.84,Default,,0,0,0,,I was not a good father.
-Dialogue: 0,1:03:42.26,1:03:44.88,Default,,0,0,0,,I suffocated him for so many years.
-Dialogue: 0,1:03:45.93,1:03:48.80,Default,,0,0,0,,It can't be helped\Nthat he ressents me.
-Dialogue: 0,1:03:48.80,1:03:49.93,Default,,0,0,0,,However...
-Dialogue: 0,1:03:49.93,1:03:53.10,Default,,0,0,0,,He was finally able to be happy
-Dialogue: 0,1:03:53.39,1:03:55.52,Default,,0,0,0,,by meeting you, Kyoko.
-Dialogue: 0,1:03:56.65,1:03:59.65,Default,,0,0,0,,Thank you, Kyoko.
-Dialogue: 0,1:04:01.19,1:04:04.82,Default,,0,0,0,,You're wrong, Father.
-Dialogue: 0,1:04:05.24,1:04:07.07,Default,,0,0,0,,Katsuya doesn't hate you!
-Dialogue: 0,1:04:07.53,1:04:11.70,Default,,0,0,0,,If he did,\Nhe wouldn't visit you like this.
-Dialogue: 0,1:04:13.00,1:04:14.04,Default,,0,0,0,,Kyoko.
-Dialogue: 0,1:04:14.04,1:04:15.00,Default,,0,0,0,,Yes?
-Dialogue: 0,1:04:15.66,1:04:17.63,Default,,0,0,0,,It's getting a bit cold,
-Dialogue: 0,1:04:18.08,1:04:20.25,Default,,0,0,0,,did you bring her coat?
-Dialogue: 0,1:04:20.59,1:04:22.00,Default,,0,0,0,,Yeah, it's in my bag.
-Dialogue: 0,1:04:22.21,1:04:23.55,Default,,0,0,0,,I'll...
-Dialogue: 0,1:04:22.96,1:04:25.84,Default,,0,0,0,,{\an8}That's okay, I'll get it.
-Dialogue: 0,1:04:39.65,1:04:44.40,Default,,0,0,0,,{\i1}Calmy, quietly, time slipped by.
-Dialogue: 0,1:04:46.28,1:04:50.07,Default,,0,0,0,,{\i1}From a very young age,\None could easily recognize Tohru.
-Dialogue: 0,1:04:58.83,1:05:02.17,Default,,0,0,0,,Ah! Tohru!
-Dialogue: 0,1:05:01.38,1:05:02.50,Default,,0,0,0,,{\an8}What happened?
-Dialogue: 0,1:05:02.50,1:05:05.13,Default,,0,0,0,,Toh... Tohru,\NI bumped Tohru's face into...
-Dialogue: 0,1:05:05.13,1:05:06.63,Default,,0,0,0,,I'm so sorry, Tohru!
-Dialogue: 0,1:05:06.63,1:05:09.47,Default,,0,0,0,,Does it hurt? I'm so sorry, honey!
-Dialogue: 0,1:05:15.39,1:05:18.10,Default,,0,0,0,,Blood...
-Dialogue: 0,1:05:18.10,1:05:21.69,Default,,0,0,0,,You made the scary woman\Ncalled the "Red Butterfly" faint.
-Dialogue: 0,1:05:21.69,1:05:23.69,Default,,0,0,0,,You're really something, Tohru.
-Dialogue: 0,1:05:26.28,1:05:30.28,Default,,0,0,0,,{\i1}After Tohru was born,\Nthe three of them went out often.
-Dialogue: 0,1:05:37.20,1:05:40.29,Default,,0,0,0,,{\i1}And when\NKatsuya held Tohru in his arms,
-Dialogue: 0,1:05:40.79,1:05:44.59,Default,,0,0,0,,{\i1}he had such a gentle face\Nit almost made me cry.
-Dialogue: 0,1:05:47.09,1:05:49.80,Default,,0,0,0,,{\i1}I wanted this happiness\Nwhich made me happy to tears
-Dialogue: 0,1:05:50.84,1:05:53.01,Default,,0,0,0,,{\i1}to go on forever.
-Dialogue: 0,1:05:55.85,1:05:58.60,Default,,0,0,0,,Your business trip is\Nalmost over, isn't it?
-Dialogue: 0,1:05:58.93,1:06:00.27,Default,,0,0,0,,Yes.
-Dialogue: 0,1:06:01.94,1:06:04.52,Default,,0,0,0,,Ah, you still have a cold?
-Dialogue: 0,1:06:04.52,1:06:06.53,Default,,0,0,0,,I told you to go the hospital!
-Dialogue: 0,1:06:06.53,1:06:08.24,Default,,0,0,0,,I couldn't find the time to go.
-Dialogue: 0,1:06:08.24,1:06:11.36,Default,,0,0,0,,That's not good! I'm worried!
-Dialogue: 0,1:06:11.36,1:06:13.45,Default,,0,0,0,,I'm going to come see you.
-Dialogue: 0,1:06:13.74,1:06:14.99,Default,,0,0,0,,It's okay.
-Dialogue: 0,1:06:15.24,1:06:19.00,Default,,0,0,0,,If you catch my cold too,\Nit'll be trouble.
+Dialogue: 0,1:03:28.45,1:03:32.21,Default,,0,0,0,,As people meet other people,
+Dialogue: 0,1:03:32.21,1:03:34.75,Default,,0,0,0,,all sort of possibilities are born,
+Dialogue: 0,1:03:35.46,1:03:38.42,Default,,0,0,0,,good ones and bad ones.
+Dialogue: 0,1:03:39.06,1:03:41.84,Default,,0,0,0,,I was not a good father.
+Dialogue: 0,1:03:42.31,1:03:45.03,Default,,0,0,0,,I suffocated him for so many years.
+Dialogue: 0,1:03:45.94,1:03:48.11,Default,,0,0,0,,It can't be helped that he resents me.
+Dialogue: 0,1:03:48.89,1:03:49.73,Default,,0,0,0,,However...
+Dialogue: 0,1:03:50.13,1:03:55.55,Default,,0,0,0,,He was finally able to be happy, \Nby meeting you, Kyoko-san.
+Dialogue: 0,1:03:56.65,1:03:59.65,Default,,0,0,0,,Thank you, Kyoko-san.
+Dialogue: 0,1:04:01.19,1:04:05.29,Default,,0,0,0,,Father, Katsuya doesn't...
+Dialogue: 0,1:04:05.29,1:04:07.07,Default,,0,0,0,,Katsuya doesn't hate you!
+Dialogue: 0,1:04:07.61,1:04:11.20,Default,,0,0,0,,If he did, he wouldn't visit you like this!
+Dialogue: 0,1:04:13.19,1:04:14.04,Default,,0,0,0,,Kyoko.
+Dialogue: 0,1:04:14.04,1:04:15.00,Default,,0,0,0,,Ah, yes?
+Dialogue: 0,1:04:15.66,1:04:20.53,Default,,0,0,0,,It's getting a bit cold, \Ndid you bring Tohru's coat?
+Dialogue: 0,1:04:20.53,1:04:23.21,Default,,0,0,0,,Yeah, it's in my bag. Hold on, I'll—
+Dialogue: 0,1:04:23.21,1:04:25.99,Default,,0,0,0,,That's okay, I'll get it.
+Dialogue: 0,1:04:39.72,1:04:44.61,Default,,0,0,0,,{\i1}Calmly, quietly, time slipped by.
+Dialogue: 0,1:04:46.11,1:04:50.32,Default,,0,0,0,??? TLC,{\i1}From a very young age, \None could easily recognize Tohru.
+Dialogue: 0,1:04:58.83,1:05:02.42,Default,,0,0,0,,{\fad(0,1000)}Ah! Tohru!
+Dialogue: 0,1:05:01.38,1:05:02.42,Default - Alt,,0,0,0,,What happened?
+Dialogue: 0,1:05:02.42,1:05:05.13,Default,,0,0,0,,T-T-Tohru's face, her face!
+Dialogue: 0,1:05:05.13,1:05:06.47,Default,,0,0,0,,I'm so, so sorry, Tohru!
+Dialogue: 0,1:05:06.83,1:05:09.45,Default,,0,0,0,,Does it hurt? It hurts, right? \NI'm so sorry!
+Dialogue: 0,1:05:15.46,1:05:18.14,Default,,0,0,0,,B-Blood...
+Dialogue: 0,1:05:18.14,1:05:21.74,Default,,0,0,0,,You made the terrifying woman\Nknown as "Crimson Butterfly" faint.{Crimson Butterfly from LostYears}
+Dialogue: 0,1:05:21.74,1:05:23.77,Default,,0,0,0,,You're really something, Tohru.
+Dialogue: 0,1:05:26.56,1:05:30.28,Default,,0,0,0,,{\i1}After Tohru was born,\Nthe three of them often went out.
+Dialogue: 0,1:05:37.29,1:05:44.83,Default,,0,0,0,,{\i1}When Katsuya held Tohru in his arms, \Nhis face was so gentle, it almost made me cry.
+Dialogue: 0,1:05:47.24,1:05:52.46,Default,,0,0,0,,{\i1}I wanted this overwhelming \Nhappiness... to go on forever. {happiness that makes you want to cry}
+Dialogue: 0,1:05:55.75,1:05:58.60,Default,,0,0,0,,Your business trip is almost over, isn't it?
+Dialogue: 0,1:05:58.99,1:06:00.27,Default,,0,0,0,,Thankfully.
+Dialogue: 0,1:06:01.82,1:06:04.57,Default,,0,0,0,,Jeez, you still have a cold?
+Dialogue: 0,1:06:04.57,1:06:06.53,Default,,0,0,0,,I told you to go the hospital!
+Dialogue: 0,1:06:06.53,1:06:08.24,Default,,0,0,0,,I don't have the time to go.
+Dialogue: 0,1:06:08.24,1:06:11.69,Default,,0,0,0,,That's not good! I'm worried!
+Dialogue: 0,1:06:11.69,1:06:13.80,Default,,0,0,0,,I'm going to come see you.
+Dialogue: 0,1:06:13.80,1:06:14.99,Default,,0,0,0,,It's okay.
+Dialogue: 0,1:06:15.49,1:06:19.00,Default,,0,0,0,,If you catch my cold too, it'll be trouble.
 Dialogue: 0,1:06:19.33,1:06:21.37,Default,,0,0,0,,I'll go tomorrow.
-Dialogue: 0,1:06:23.75,1:06:26.09,Default,,0,0,0,,Is Tohru doing well?
-Dialogue: 0,1:06:26.09,1:06:29.72,Default,,0,0,0,,She's good.\NShe's sound asleep right now.
-Dialogue: 0,1:06:29.92,1:06:30.88,Default,,0,0,0,,I see.
-Dialogue: 0,1:06:33.84,1:06:38.10,Default,,0,0,0,,Someday, how about\Nwe make a sibling for Tohru?
-Dialogue: 0,1:06:41.02,1:06:43.02,Default,,0,0,0,,– Are you sure?\N– Yes.
-Dialogue: 0,1:06:46.15,1:06:49.03,Default,,0,0,0,,I'll give you another call\Nwhen I'm on my way home.
-Dialogue: 0,1:06:49.53,1:06:52.61,Default,,0,0,0,,We'll be waiting.\NGet to sleep so you feel better.
-Dialogue: 0,1:06:52.61,1:06:54.24,Default,,0,0,0,,And go to the hospital.
-Dialogue: 0,1:06:54.53,1:06:57.24,Default,,0,0,0,,Okay.\NDon't push yourself too hard either.
-Dialogue: 0,1:06:58.04,1:07:01.16,Default,,0,0,0,,Good night, No-Eyebrows-san.
-Dialogue: 0,1:07:08.34,1:07:09.21,Default,,0,0,0,,Ah!
-Dialogue: 0,1:07:09.88,1:07:11.97,Default,,0,0,0,,This must be Katsuya, Tohru!
-Dialogue: 0,1:07:11.97,1:07:13.22,Default,,0,0,0,,{\an8}Daddy!
+Dialogue: 0,1:06:23.97,1:06:26.12,Default,,0,0,0,,Is Tohru doing well?
+Dialogue: 0,1:06:26.12,1:06:29.86,Default,,0,0,0,,She's good. She's sound asleep right now.
+Dialogue: 0,1:06:29.86,1:06:31.02,Default,,0,0,0,,That's good to hear.
+Dialogue: 0,1:06:33.99,1:06:38.12,Default,,0,0,0,,Someday, why don't we make \Na sibling for Tohru?
+Dialogue: 0,1:06:41.02,1:06:42.10,Default,,0,0,0,,Are you sure?
+Dialogue: 0,1:06:42.10,1:06:43.30,Default,,0,0,0,,I'm sure.
+Dialogue: 0,1:06:46.16,1:06:49.17,Default,,0,0,0,,Alright, I'll give you another call \Nwhen I'm on my way home.
+Dialogue: 0,1:06:49.67,1:06:52.77,Default,,0,0,0,,We'll be waiting. \NGet to sleep so you feel better.
+Dialogue: 0,1:06:52.77,1:06:54.24,Default,,0,0,0,,And go to the hospital.
+Dialogue: 0,1:06:54.67,1:06:57.53,Default,,0,0,0,,Okay. Don't push yourself too hard either.
+Dialogue: 0,1:06:58.29,1:07:01.07,Default,,0,0,0,,Sleep well, No-Eyebrows-san.
+Dialogue: 0,1:07:09.90,1:07:12.02,Default,,0,0,0,,This must be Daddy, Tohru!
+Dialogue: 0,1:07:12.02,1:07:13.05,Default,,0,0,0,,Daddy!
 Dialogue: 0,1:07:14.22,1:07:15.47,Default,,0,0,0,,Hello?
-Dialogue: 0,1:07:16.55,1:07:17.43,Default,,0,0,0,,Yes.
-Dialogue: 0,1:07:19.97,1:07:20.43,Default,,0,0,0,,Yes?
-Dialogue: 0,1:07:31.82,1:07:36.12,Default,,0,0,0,,In the morning, by the time\Nhis coworkers found him, he was already...
-Dialogue: 0,1:07:36.41,1:07:38.62,Default,,0,0,0,,His cold had worsened...
-Dialogue: 0,1:07:38.87,1:07:40.83,Default,,0,0,0,,He dies too soon.
-Dialogue: 0,1:07:41.12,1:07:43.16,Default,,0,0,0,,There was still so much for him to see.
-Dialogue: 0,1:07:43.41,1:07:45.83,Default,,0,0,0,,What was her wife doing to him?
-Dialogue: 0,1:07:45.83,1:07:48.00,Default,,0,0,0,,Neglecting him\Nwhen he caught cold.
-Dialogue: 0,1:07:48.42,1:07:50.05,Default,,0,0,0,,Who knows, plating around for sure.
-Dialogue: 0,1:07:50.34,1:07:53.72,Default,,0,0,0,,That's why\Nwe were against this marriage.
-Dialogue: 0,1:07:53.72,1:07:55.80,Default,,0,0,0,,She must have cheated on him.
-Dialogue: 0,1:07:56.26,1:07:58.64,Default,,0,0,0,,What will happened to his child?
-Dialogue: 0,1:07:58.64,1:08:01.22,Default,,0,0,0,,Poor Katsuya.
-Dialogue: 0,1:08:02.35,1:08:05.81,Default,,0,0,0,,He never should have got married.
-Dialogue: 0,1:08:08.52,1:08:09.52,Default,,0,0,0,,{\i1}Go on.
-Dialogue: 0,1:08:10.77,1:08:12.03,Default,,0,0,0,,{\i1}Once more.
-Dialogue: 0,1:08:12.78,1:08:15.03,Default,,0,0,0,,{\i1}Blame me.
-Dialogue: 0,1:08:15.61,1:08:19.95,Default,,0,0,0,,{\i1}Just finish me off.
-Dialogue: 0,1:08:20.78,1:08:21.79,Default,,0,0,0,,{\i1}More...
-Dialogue: 0,1:08:22.49,1:08:23.95,Default,,0,0,0,,{\i1}and more...
-Dialogue: 0,1:08:23.95,1:08:30.79,Default,,0,0,0,,{\i1}Blame me till I just\Ncan't stand up anymore...
-Dialogue: 0,1:08:35.05,1:08:36.43,Default,,0,0,0,,{\i1}It was so fast.
-Dialogue: 0,1:08:37.80,1:08:42.06,Default,,0,0,0,,{\i1}Katsuya was incinerated\Nand turned into smoke
-Dialogue: 0,1:08:42.06,1:08:44.02,Default,,0,0,0,,{\i1}and into white bones.
-Dialogue: 0,1:08:46.14,1:08:47.94,Default,,0,0,0,,{\i1}It was so fast.
-Dialogue: 0,1:08:49.90,1:08:53.07,Default,,0,0,0,,I'm very sorry to disturb you,\Nmaking come all the way out here.
-Dialogue: 0,1:08:53.53,1:08:56.78,Default,,0,0,0,,He'd been thinking that we'd put everyting\Nin order and send his belongings to you, but...
-Dialogue: 0,1:08:57.03,1:08:59.87,Default,,0,0,0,,we thought\NKatsuya would be happier
-Dialogue: 0,1:08:59.87,1:09:02.33,Default,,0,0,0,,to have his own family do that.
-Dialogue: 0,1:09:03.16,1:09:06.54,Default,,0,0,0,,This is the last office\Nthat Mr. Honda used.
-Dialogue: 0,1:09:08.87,1:09:11.59,Default,,0,0,0,,Everything's just as\Nit was before he passed away.
-Dialogue: 0,1:09:12.04,1:09:16.55,Default,,0,0,0,,If you need anything,\Nplease call, I'll be in the other room.
-Dialogue: 0,1:09:49.96,1:09:52.71,Default,,0,0,0,,He's not here,\Nhe's not here anymore...
-Dialogue: 0,1:09:53.71,1:09:55.63,Default,,0,0,0,,He isn't anywhere.
-Dialogue: 0,1:09:55.63,1:09:57.13,Default,,0,0,0,,Not here anymore!
-Dialogue: 0,1:09:57.88,1:09:59.34,Default,,0,0,0,,Katsuya...
-Dialogue: 0,1:10:03.18,1:10:05.81,Default,,0,0,0,,Don't leave me!
-Dialogue: 0,1:10:07.18,1:10:11.90,Default,,0,0,0,,Don't leave me alone!
-Dialogue: 0,1:10:13.61,1:10:14.90,Default,,0,0,0,,Katsuya.
-Dialogue: 0,1:10:16.65,1:10:19.90,Default,,0,0,0,,He isn't here anymore.
-Dialogue: 0,1:10:21.53,1:10:24.91,Default,,0,0,0,,I can't see him ever again.
-Dialogue: 0,1:10:31.87,1:10:35.88,Default,,0,0,0,,{\i1}Why did the sky turn bright?
-Dialogue: 0,1:10:38.26,1:10:43.89,Default,,0,0,0,,{\i1}Why can those people\Nlaugh so happily?
-Dialogue: 0,1:10:45.89,1:10:50.31,Default,,0,0,0,,{\i1}Why did the TV broadcast\Nweather forecast programs?
+Dialogue: 0,1:07:16.54,1:07:17.28,Default,,0,0,0,,Yes.
+Dialogue: 0,1:07:19.94,1:07:20.59,Default,,0,0,0,,What?
+Dialogue: 0,1:07:31.84,1:07:36.12,Default,,0,0,0,,In the morning, by the time\Nhis coworkers found him, he was already...
+Dialogue: 0,1:07:36.52,1:07:38.57,Default,,0,0,0,,His cold had worsened.
+Dialogue: 0,1:07:38.93,1:07:40.83,Default,,0,0,0,,He died too soon.
+Dialogue: 0,1:07:41.19,1:07:43.00,Default,,0,0,0,,There was so much he hadn't seen.
+Dialogue: 0,1:07:43.44,1:07:45.92,Default,,0,0,0,,What was his wife doing?
+Dialogue: 0,1:07:45.92,1:07:48.00,Default,,0,0,0,,Neglecting him when he caught a cold.
+Dialogue: 0,1:07:48.37,1:07:50.39,Default,,0,0,0,,Probably having fun somewhere.
+Dialogue: 0,1:07:50.39,1:07:53.91,Default,,0,0,0,,This is why we were against this marriage.
+Dialogue: 0,1:07:53.91,1:07:55.80,Default,,0,0,0,,I bet she was cheating on him.
+Dialogue: 0,1:07:56.26,1:07:58.78,Default,,0,0,0,,What will happened to the child?
+Dialogue: 0,1:07:58.78,1:08:01.22,Default,,0,0,0,,Poor Katsuya-kun.
+Dialogue: 0,1:08:02.35,1:08:05.81,Default,,0,0,0,,He never should have married that girl.
+Dialogue: 0,1:08:08.57,1:08:09.62,Default,,0,0,0,,{\i1}Go on.
+Dialogue: 0,1:08:10.77,1:08:12.28,Default,,0,0,0,,{\i1}Once more.
+Dialogue: 0,1:08:13.01,1:08:15.03,Default,,0,0,0,,{\i1}Blame me.
+Dialogue: 0,1:08:15.71,1:08:19.94,Default,,0,0,0,TLC ???,{\i1}Just finish me off.
+Dialogue: 0,1:08:20.86,1:08:21.83,Default,,0,0,0,,{\i1}Again...
+Dialogue: 0,1:08:22.58,1:08:23.79,Default,,0,0,0,,{\i1}and again...
+Dialogue: 0,1:08:23.79,1:08:30.79,Default,,0,0,0,,{\i1}Blame me... until I just \Ncan't stand up anymore...
+Dialogue: 0,1:08:34.99,1:08:36.50,Default,,0,0,0,,{\i1}It was so fast.
+Dialogue: 0,1:08:37.84,1:08:40.25,Default,,0,0,0,,{\i1}Katsuya was incinerated,
+Dialogue: 0,1:08:40.25,1:08:43.83,Default,,0,0,0,,{\i1}and turned into smoke and white bones.
+Dialogue: 0,1:08:46.22,1:08:47.76,Default,,0,0,0,,{\i1}It was so fast.
+Dialogue: 0,1:08:49.90,1:08:52.73,Default,,0,0,0,,I'm very sorry to disturb you \Nand make you come out here.
+Dialogue: 0,1:08:53.53,1:08:56.78,Default,,0,0,0,,We were going to gather all his belongings \Nand send them to you,
+Dialogue: 0,1:08:57.23,1:09:02.53,Default,,0,0,0,,but we thought Honda-kun would be happier \Nif it was his own family getting them.
+Dialogue: 0,1:09:03.28,1:09:06.81,Default,,0,0,0,,This is the room that Honda-kun was using.
+Dialogue: 0,1:09:09.01,1:09:11.59,Default,,0,0,0,,Everything's just as it was before he passed away.
+Dialogue: 0,1:09:12.16,1:09:16.39,Default,,0,0,0,,If you need anything, \NI'll be in the other room, so please reach out.
+Dialogue: 0,1:09:49.96,1:09:52.71,Default,,0,0,0,,He's not here, he's not here anymore...
+Dialogue: 0,1:09:53.85,1:09:55.25,Default,,0,0,0,,He isn't anywhere!
+Dialogue: 0,1:09:55.77,1:09:57.34,Default,,0,0,0,,He's not here!
+Dialogue: 0,1:09:57.92,1:09:59.35,Default,,0,0,0,,Katsuya...
+Dialogue: 0,1:10:03.32,1:10:05.97,Default,,0,0,0,,Don't leave me!
+Dialogue: 0,1:10:07.26,1:10:12.26,Default,,0,0,0,,Don't leave me alone!
+Dialogue: 0,1:10:13.83,1:10:14.96,Default,,0,0,0,,Katsuya.
+Dialogue: 0,1:10:16.65,1:10:19.90,Default,,0,0,0,,{\i1}He isn't here anymore.
+Dialogue: 0,1:10:21.53,1:10:24.91,Default,,0,0,0,,{\i1}I can't see him ever again.
+Dialogue: 0,1:10:29.71,1:10:33.42,Default,,0,0,0,??? background,{\an8}???
+Dialogue: 0,1:10:33.42,1:10:36.02,Default,,0,0,0,??? background,{\an8}??? Zehi ???
+Dialogue: 0,1:10:36.02,1:10:38.43,Default,,0,0,0,??? background,{\an8}??? Couple ???
+Dialogue: 0,1:10:38.43,1:10:43.89,Default,,0,0,0,??? background,{\an8}??? Hai ??? san ???
+Dialogue: 0,1:10:43.89,1:10:48.31,Default,,0,0,0,??? background,{\an8}??? Haiiii ???
+Dialogue: 0,1:10:48.31,1:10:50.89,Default,,0,0,0,??? background,{\an8}??? Nihon ???
+Dialogue: 0,1:10:50.89,1:10:53.22,Default,,0,0,0,??? background,{\an8}??? Sawa ???
+Dialogue: 0,1:10:53.22,1:11:00.90,Default,,0,0,0,??? background,{\fad(0,5000)\an8}??? Sore ??? dont have to properly translate this one, can just make shit up and fade away
+Dialogue: 0,1:10:31.87,1:10:36.02,Default,,0,0,0,,{\i1}Why does the sky turn bright?
+Dialogue: 0,1:10:38.29,1:10:43.89,Default,,0,0,0,,{\i1}Why can those people laugh so happily?
+Dialogue: 0,1:10:45.83,1:10:50.37,Default,,0,0,0,,{\i1}Why does the TV give weather forecasts?
 Dialogue: 0,1:10:51.89,1:10:52.98,Default,,0,0,0,,{\i1}Why?
-Dialogue: 0,1:10:54.61,1:11:00.49,Default,,0,0,0,,{\i1}Why didn't the world end\Nwith Katsuya when he died?
-Dialogue: 0,1:11:03.20,1:11:04.91,Default,,0,0,0,,{\i1}I don't remember well.
-Dialogue: 0,1:11:05.45,1:11:08.37,Default,,0,0,0,,{\i1}After Katsuya died,
-Dialogue: 0,1:11:08.37,1:11:09.50,Default,,0,0,0,,{\i1}I felt empty.
-Dialogue: 0,1:11:10.62,1:11:14.58,Default,,0,0,0,,{\i1}Hopelessness was just like the sun,\Ncovering me with from head to toes.
-Dialogue: 0,1:11:16.34,1:11:18.30,Default,,0,0,0,,{\i1}I'll just say this clearly.
-Dialogue: 0,1:11:18.75,1:11:21.88,Default,,0,0,0,,{\i1}Don't you dare think of coming back\Nto our house with Tohru.
-Dialogue: 0,1:11:22.55,1:11:24.59,Default,,0,0,0,,{\i1}We won't accept you.
-Dialogue: 0,1:11:26.43,1:11:29.60,Default,,0,0,0,,Did you call just to tell me that?
-Dialogue: 0,1:11:29.60,1:11:30.35,Default,,0,0,0,,{\i1}Yes.
-Dialogue: 0,1:11:32.35,1:11:34.52,Default,,0,0,0,,Dad, I remember you said before
-Dialogue: 0,1:11:34.52,1:11:39.23,Default,,0,0,0,,"There are people in this world who have a purpose and people who do not.", right?
-Dialogue: 0,1:11:40.82,1:11:43.24,Default,,0,0,0,,That's a lie.
-Dialogue: 0,1:11:46.07,1:11:47.07,Default,,0,0,0,,Yeah...
-Dialogue: 0,1:11:47.82,1:11:50.24,Default,,0,0,0,,This world
-Dialogue: 0,1:11:50.66,1:11:51.58,Default,,0,0,0,,needs
-Dialogue: 0,1:11:53.08,1:11:54.37,Default,,0,0,0,,no one.
-Dialogue: 0,1:11:56.21,1:11:57.83,Default,,0,0,0,,No matter who, parents,
-Dialogue: 0,1:11:57.83,1:11:59.04,Default,,0,0,0,,teachers,
-Dialogue: 0,1:11:59.42,1:12:00.71,Default,,0,0,0,,important people,
-Dialogue: 0,1:12:01.30,1:12:03.38,Default,,0,0,0,,adults, and even children,
-Dialogue: 0,1:12:03.59,1:12:04.80,Default,,0,0,0,,me...
-Dialogue: 0,1:12:05.18,1:12:07.05,Default,,0,0,0,,And Katsuya...
-Dialogue: 0,1:12:07.43,1:12:09.93,Default,,0,0,0,,No one is needed
-Dialogue: 0,1:12:10.39,1:12:12.02,Default,,0,0,0,,for this world to spin.
-Dialogue: 0,1:12:13.48,1:12:17.73,Default,,0,0,0,,No matter who dies,\Nthe world won't actually worry about it...
-Dialogue: 0,1:12:19.15,1:12:22.78,Default,,0,0,0,,It stills continue like normal,\Ndawn and dusk...
-Dialogue: 0,1:12:24.03,1:12:28.41,Default,,0,0,0,,This world doesn't need\Nanyone's existence...
-Dialogue: 0,1:12:29.49,1:12:32.41,Default,,0,0,0,,But it's very sad
-Dialogue: 0,1:12:33.12,1:12:35.91,Default,,0,0,0,,that we feel lonely.
-Dialogue: 0,1:12:36.75,1:12:40.17,Default,,0,0,0,,That's why\Nwe need other human beings
-Dialogue: 0,1:12:40.38,1:12:41.38,Default,,0,0,0,,for sure.
-Dialogue: 0,1:12:42.09,1:12:44.67,Default,,0,0,0,,Someone who needs us
-Dialogue: 0,1:12:44.67,1:12:47.01,Default,,0,0,0,,and someone who I need
-Dialogue: 0,1:12:47.59,1:12:49.80,Default,,0,0,0,,and whom I want to meet.
-Dialogue: 0,1:12:51.35,1:12:52.60,Default,,0,0,0,,Katsuya...
-Dialogue: 0,1:12:53.97,1:12:58.23,Default,,0,0,0,,To me, you were this special person.
-Dialogue: 0,1:12:58.98,1:13:01.11,Default,,0,0,0,,I needed you...
-Dialogue: 0,1:13:02.07,1:13:03.65,Default,,0,0,0,,I loved you...
-Dialogue: 0,1:13:05.32,1:13:07.90,Default,,0,0,0,,Although I had finally met\Nthe person I wanted to...
-Dialogue: 0,1:13:11.70,1:13:12.99,Default,,0,0,0,,{\i1}Welcome back!
-Dialogue: 0,1:13:16.41,1:13:18.67,Default,,0,0,0,,No matter where I go...
-Dialogue: 0,1:13:18.67,1:13:21.54,Default,,0,0,0,,No one will wait for me...
-Dialogue: 0,1:13:23.09,1:13:25.34,Default,,0,0,0,,{\i1}Then, let me ask you a question...
-Dialogue: 0,1:13:25.34,1:13:26.84,Default,,0,0,0,,{\i1}the world's third greatest...
-Dialogue: 0,1:13:26.84,1:13:29.80,Default,,0,0,0,,{\i1}Capital held the annual...
-Dialogue: 0,1:13:29.80,1:13:31.51,Default,,0,0,0,,{\i1}You're really silly...
-Dialogue: 0,1:13:31.51,1:13:35.93,Default,,0,0,0,,{\i1}Because it's good for the body,\Nso let it stay at the surface!
-Dialogue: 0,1:13:35.93,1:13:41.48,Default,,0,0,0,,{\i1}As I've said, you'll find\Nan enormous strength behind you...
-Dialogue: 0,1:13:41.73,1:13:44.94,Default,,0,0,0,,{\i1}Please don't worry!\NThere's nothing to be scared of!
-Dialogue: 0,1:13:45.48,1:13:48.95,Default,,0,0,0,,{\i1}That looks like your husband\Nwho's passed away!
-Dialogue: 0,1:13:48.95,1:13:51.41,Default,,0,0,0,,{\i1}This person is here?
-Dialogue: 0,1:13:51.41,1:13:54.99,Default,,0,0,0,,{\i1}Yes, I think he's here too see you...
-Dialogue: 0,1:13:58.71,1:14:00.75,Default,,0,0,0,,{\i1}Your husband is dead?
-Dialogue: 0,1:14:00.75,1:14:03.09,Default,,0,0,0,,{\i1}Yes, he was very ill...
-Dialogue: 0,1:14:05.13,1:14:08.72,Default,,0,0,0,,Your husband is\Nalways worried about you.
-Dialogue: 0,1:14:08.72,1:14:11.05,Default,,0,0,0,,You can't keep\Non crying on forever!
-Dialogue: 0,1:14:11.05,1:14:15.68,Default,,0,0,0,,He will stay by your side to protect you,\Nencourage you, so you must brace up yourself, okay?
-Dialogue: 0,1:14:16.85,1:14:19.77,Default,,0,0,0,,I want to see you, too...
-Dialogue: 0,1:14:20.64,1:14:22.06,Default,,0,0,0,,I want to meet you.
-Dialogue: 0,1:14:24.15,1:14:25.36,Default,,0,0,0,,Where are you?
+Dialogue: 0,1:10:54.64,1:11:00.24,Default,,0,0,0,,{\i1}Why didn't the world end \Nwith Katsuya when he died?
+Dialogue: 0,1:11:03.18,1:11:05.04,Default,,0,0,0,,{\i1}I don't really remember it.
+Dialogue: 0,1:11:05.90,1:11:08.43,Default,,0,0,0,,{\i1}After Katsuya died,
+Dialogue: 0,1:11:08.43,1:11:09.33,Default,,0,0,0,,{\i1}I was empty.
+Dialogue: 0,1:11:10.62,1:11:14.58,Default,,0,0,0,,{\i1}Despair was shining overhead like the sun.
+Dialogue: 0,1:11:16.41,1:11:18.55,Default,,0,0,0,,{\i1}I'll just say this clearly.
+Dialogue: 0,1:11:18.55,1:11:22.14,Default,,0,0,0,,{\i1}Don't you dare think of coming back \Nto our house with Tohru.
+Dialogue: 0,1:11:22.51,1:11:24.61,Default,,0,0,0,,{\i1}We will not hesitate to turn you away.
+Dialogue: 0,1:11:26.63,1:11:29.62,Default,,0,0,0,,Did you call just to tell me that?
+Dialogue: 0,1:11:29.62,1:11:30.43,Default,,0,0,0,,{\i1}Yes.
+Dialogue: 0,1:11:32.35,1:11:34.52,Default,,0,0,0,,Dad, you once said
+Dialogue: 0,1:11:34.52,1:11:39.23,Default,,0,0,0,,"There are people in this world who have a purpose, \Nand people who do not," right? {34:32}
+Dialogue: 0,1:11:40.82,1:11:42.90,Default,,0,0,0,,Well, that's a lie.
+Dialogue: 0,1:11:46.09,1:11:47.14,Default,,0,0,0,,It's a lie.
+Dialogue: 0,1:11:47.93,1:11:50.24,Default,,0,0,0,,This world
+Dialogue: 0,1:11:50.81,1:11:51.67,Default,,0,0,0,,needs
+Dialogue: 0,1:11:53.07,1:11:54.56,Default,,0,0,0,,no one.
+Dialogue: 0,1:11:56.25,1:11:57.31,Default,,0,0,0,,Parents,
+Dialogue: 0,1:11:57.93,1:11:59.16,Default,,0,0,0,,teachers,
+Dialogue: 0,1:11:59.53,1:12:00.91,Default,,0,0,0,,important people,
+Dialogue: 0,1:12:01.29,1:12:03.53,Default,,0,0,0,,adults, and children,
+Dialogue: 0,1:12:03.53,1:12:04.80,Default,,0,0,0,,me,
+Dialogue: 0,1:12:05.42,1:12:06.66,Default,,0,0,0,,and even Katsuya.
+Dialogue: 0,1:12:07.44,1:12:12.02,Default,,0,0,0,,No one is needed for this world to spin.
+Dialogue: 0,1:12:13.48,1:12:17.73,Default,,0,0,0,,No matter who dies, \Nthe world won't actually care.
+Dialogue: 0,1:12:19.15,1:12:22.78,Default,,0,0,0,,It still continues unabated. \NThe sun rises and sets.
+Dialogue: 0,1:12:24.10,1:12:28.11,Default,,0,0,0,,This world doesn't need anyone's existence.
+Dialogue: 0,1:12:29.49,1:12:32.62,Default,,0,0,0,,But, it's very sad
+Dialogue: 0,1:12:33.27,1:12:35.79,Default,,0,0,0,,that we feel lonely.
+Dialogue: 0,1:12:36.75,1:12:41.38,Default,,0,0,0,,That's why we need other humans... \Nwithout a doubt.
+Dialogue: 0,1:12:42.33,1:12:44.36,Default,,0,0,0,,Someone who needs us,
+Dialogue: 0,1:12:44.73,1:12:49.91,Default,,0,0,0,,and someone that I need, \Nthat I want to meet.
+Dialogue: 0,1:12:51.36,1:12:52.64,Default,,0,0,0,,Katsuya.
+Dialogue: 0,1:12:54.02,1:12:58.52,Default,,0,0,0,,To me, you were such a special person.
+Dialogue: 0,1:12:59.18,1:13:01.02,Default,,0,0,0,,I needed you.
+Dialogue: 0,1:13:02.15,1:13:03.60,Default,,0,0,0,,I loved you.
+Dialogue: 0,1:13:05.44,1:13:07.81,Default,,0,0,0,,I had finally met the one.
+Dialogue: 0,1:13:11.79,1:13:13.50,Default,,0,0,0,,{\fad(0,500)\i1}Welcome home.
+Dialogue: 0,1:13:16.41,1:13:18.24,Default,,0,0,0,,No matter where I go,
+Dialogue: 0,1:13:18.74,1:13:21.78,Default,,0,0,0,,no one will be waiting for me.
+Dialogue: 0,1:13:23.09,1:13:25.17,Default,,0,0,0,,{\an8\i1}Then, let me ask you a question!
+Dialogue: 0,1:13:25.17,1:13:26.55,Default,,0,0,0,,{\an8\i1}The world's third greatest—
+Dialogue: 0,1:13:26.84,1:13:29.74,Default,,0,0,0,,{\an8\i1}...capital held the annual—
+Dialogue: 0,1:13:29.74,1:13:31.51,Default,,0,0,0,,{\an8\i1}You're such a fool—
+Dialogue: 0,1:13:31.51,1:13:35.47,Default,,0,0,0,,{\an8\i1}As we can see from the table, \Nit's very good for the body!
+Dialogue: 0,1:13:35.72,1:13:41.48,Default,,0,0,0,,{\an8\i1}I can feel it, there's \Nso much power behind you.
+Dialogue: 0,1:13:41.48,1:13:45.21,Default,,0,0,0,,{\an8\i1}But don't worry! There's nothing to be scared of!
+Dialogue: 0,1:13:45.59,1:13:48.90,Default,,0,0,0,,{\an8\i1}It seems to be your husband, who passed away!
+Dialogue: 0,1:13:48.90,1:13:51.41,Default,,0,0,0,,{\an8\i1}Huh, my husband's here?
+Dialogue: 0,1:13:51.41,1:13:54.67,Default,,0,0,0,,{\an8\i1}Yes, I think he's here to see you.
+Dialogue: 0,1:13:58.67,1:14:00.80,Default,,0,0,0,,{\an8\i1}Your husband has passed?
+Dialogue: 0,1:14:00.80,1:14:03.27,Default,,0,0,0,,{\an8\i1}Yes, he was very ill.
+Dialogue: 0,1:14:05.13,1:14:08.64,Default,,0,0,0,,{\an8\i1}Your husband is always worried about you.
+Dialogue: 0,1:14:08.64,1:14:11.20,Default,,0,0,0,,{\an8\i1}You can't keep on crying on forever!
+Dialogue: 0,1:14:11.20,1:14:15.68,Default,,0,0,0,,{\an8\i1}He will stay by your side to protect you, \Nand encourage you, so you must stay strong, okay?
+Dialogue: 0,1:14:16.79,1:14:19.77,Default,,0,0,0,,I want to see you, too...
+Dialogue: 0,1:14:20.64,1:14:22.12,Default,,0,0,0,,I want to meet you.
+Dialogue: 0,1:14:24.22,1:14:25.53,Default,,0,0,0,,Where are you?
 Dialogue: 0,1:14:27.98,1:14:29.99,Default,,0,0,0,,Where should I go to see you?
-Dialogue: 0,1:14:33.24,1:14:36.12,Default,,0,0,0,,How can I follow your footsteps?
-Dialogue: 0,1:15:13.16,1:15:14.66,Default,,0,0,0,,{\i1}No-Eyebrows-san...
-Dialogue: 0,1:15:16.28,1:15:18.08,Default,,0,0,0,,Mommy!
-Dialogue: 0,1:15:18.74,1:15:21.25,Default,,0,0,0,,Mommy, hurry up!
-Dialogue: 0,1:15:21.46,1:15:23.75,Default,,0,0,0,,Wait a second,\NI'm looking for the train tickets...
-Dialogue: 0,1:15:24.12,1:15:27.29,Default,,0,0,0,,Found them! Great!
-Dialogue: 0,1:15:27.29,1:15:30.13,Default,,0,0,0,,We'll be late for the train!
-Dialogue: 0,1:15:30.88,1:15:33.26,Default,,0,0,0,,It's okay, relax!
-Dialogue: 0,1:15:33.26,1:15:35.14,Default,,0,0,0,,Hurry up, hurry up!
-Dialogue: 0,1:15:35.55,1:15:40.14,Default,,0,0,0,,There's no need to rush!
-Dialogue: 0,1:15:36.76,1:15:38.39,Default,,0,0,0,,{\an8}Tohru...
-Dialogue: 0,1:15:40.77,1:15:44.10,Default,,0,0,0,,{\i1}How long ago did I talk to her?
-Dialogue: 0,1:15:44.94,1:15:49.44,Default,,0,0,0,,{\i1}I don't even remember talking\Nto her or listen to her voice recently.
-Dialogue: 0,1:15:49.90,1:15:52.07,Default,,0,0,0,,How did she settle her meals?
-Dialogue: 0,1:15:53.07,1:15:55.11,Default,,0,0,0,,{\i1}No, I've been dazing off,\NI can't recall it!
-Dialogue: 0,1:15:55.78,1:15:59.33,Default,,0,0,0,,{\i1}I remember Katsuya's father\Ncame by a few times...
-Dialogue: 0,1:15:59.62,1:16:00.45,Default,,0,0,0,,{\i1}Tohru!
-Dialogue: 0,1:16:00.87,1:16:01.66,Default,,0,0,0,,{\i1}Tohru!
-Dialogue: 0,1:16:02.83,1:16:03.83,Default,,0,0,0,,{\i1}Tohru!
-Dialogue: 0,1:16:12.21,1:16:15.01,Default,,0,0,0,,You're back...
-Dialogue: 0,1:16:16.05,1:16:16.89,Default,,0,0,0,,Yeah...
-Dialogue: 0,1:16:16.89,1:16:18.89,Default,,0,0,0,,I am...
-Dialogue: 0,1:16:23.43,1:16:25.14,Default,,0,0,0,,Sorry...
-Dialogue: 0,1:16:27.40,1:16:28.56,Default,,0,0,0,,I'm sorry...
-Dialogue: 0,1:16:28.94,1:16:30.52,Default,,0,0,0,,It is me!
-Dialogue: 0,1:16:32.19,1:16:33.61,Default,,0,0,0,,Sorry!
-Dialogue: 0,1:16:34.69,1:16:35.70,Default,,0,0,0,,I'm so sorry!
-Dialogue: 0,1:16:35.90,1:16:37.16,Default,,0,0,0,,I'm back!
-Dialogue: 0,1:16:38.37,1:16:41.12,Default,,0,0,0,,I'm sorry
-Dialogue: 0,1:16:41.87,1:16:43.75,Default,,0,0,0,,for making you wait!
-Dialogue: 0,1:16:43.75,1:16:45.08,Default,,0,0,0,,Thank you!
-Dialogue: 0,1:16:45.75,1:16:46.75,Default,,0,0,0,,Thank you!
-Dialogue: 0,1:16:47.29,1:16:50.09,Default,,0,0,0,,Thank you for waiting for me!
-Dialogue: 0,1:16:51.29,1:16:52.38,Default,,0,0,0,,{\i1}I have always,
-Dialogue: 0,1:16:53.63,1:16:55.13,Default,,0,0,0,,{\i1}always,
-Dialogue: 0,1:16:56.01,1:16:57.59,Default,,0,0,0,,{\i1}been stupid.
-Dialogue: 0,1:16:58.68,1:17:02.56,Default,,0,0,0,,{\i1}If we don't get lost at least once,
-Dialogue: 0,1:17:03.27,1:17:05.73,Default,,0,0,0,,{\i1}we won't find anwers\Nto our questions.
-Dialogue: 0,1:17:08.19,1:17:11.98,Default,,0,0,0,,{\i1}Even though\Nthe world doesn't need us,
-Dialogue: 0,1:17:13.36,1:17:19.36,Default,,0,0,0,,{\i1}we live for those who do need us.
-Dialogue: 0,1:17:20.37,1:17:23.45,Default,,0,0,0,,{\i1}At least, this will be my way of living.
-Dialogue: 0,1:17:26.87,1:17:30.88,Default,,0,0,0,,{\i1}I wonder how\Nyou'll be living from now on.
-Dialogue: 0,1:17:31.67,1:17:32.63,Default,,0,0,0,,{\i1}And what about Tohru?
-Dialogue: 0,1:17:33.59,1:17:35.38,Default,,0,0,0,,{\i1}I wonder
-Dialogue: 0,1:17:36.34,1:17:38.80,Default,,0,0,0,,{\i1}how many times will you get lost,
-Dialogue: 0,1:17:39.63,1:17:41.64,Default,,0,0,0,,{\i1}how much time will you need
-Dialogue: 0,1:17:42.64,1:17:45.64,Default,,0,0,0,,{\i1}until you find answers\Nto your questions?
-Dialogue: 0,1:17:50.06,1:17:52.02,Default,,0,0,0,,{\i1}Please, be happy.
-Dialogue: 0,1:17:53.73,1:17:54.86,Default,,0,0,0,,{\i1}Please, someone...
-Dialogue: 0,1:17:55.65,1:17:56.74,Default,,0,0,0,,{\i1}Somebody...
-Dialogue: 0,1:17:58.11,1:17:59.20,Default,,0,0,0,,{\i1}Somebody...
-Dialogue: 0,1:18:01.07,1:18:05.20,Default,,0,0,0,,{\i1}Help Tohru be happy...
-Dialogue: 0,1:18:06.83,1:18:12.00,Default,,0,0,0,,{\i1}Help her be loved\Nby a lot of people.
-Dialogue: 0,1:18:13.75,1:18:17.38,Default,,0,0,0,,{\i1}Even though\Nyou make mistakes or get lost,
-Dialogue: 0,1:18:18.01,1:18:23.60,Default,,0,0,0,,{\i1}live so you can be proud of yourself,
-Dialogue: 0,1:18:24.97,1:18:27.35,Default,,0,0,0,,{\i1}proud of being strong.
-Dialogue: 0,1:18:27.35,1:18:32.60,Default,,0,0,0,,{\i1}Lead your life without\Nany apologies until the end.
-Dialogue: 0,1:18:42.53,1:18:44.07,Default,,0,0,0,,{\i1}Your life will be full of joy,
-Dialogue: 0,1:18:45.20,1:18:47.24,Default,,0,0,0,,{\i1}full of sadness.
-Dialogue: 0,1:18:49.25,1:18:50.50,Default,,0,0,0,,{\i1}This is how you'll live.
-Dialogue: 0,1:18:59.76,1:19:01.42,Default,,0,0,0,,{\i1}Because life is like this...
-Dialogue: 0,1:19:28.79,1:19:33.33,Default,,0,0,0,,Tomatoes, a cabbage,\Neggplants and green peppers!
-Dialogue: 0,1:19:36.00,1:19:39.25,Default,,0,0,0,,I took a lot of summer vegetables!
-Dialogue: 0,1:19:39.84,1:19:42.59,Default,,0,0,0,,I could cook it for tonight's dinner!
-Dialogue: 0,1:19:45.76,1:19:46.93,Default,,0,0,0,,Kyo!
-Dialogue: 0,1:19:49.64,1:19:50.64,Default,,0,0,0,,Hi!
-Dialogue: 0,1:19:51.14,1:19:53.02,Default,,0,0,0,,You're finally back, Kyo!
-Dialogue: 0,1:19:53.02,1:19:54.27,Default,,0,0,0,,Yeah, I'm back.
-Dialogue: 0,1:19:54.48,1:19:56.10,Default,,0,0,0,,Are you going home too?
-Dialogue: 0,1:19:56.10,1:19:56.94,Default,,0,0,0,,Welcome back!
-Dialogue: 0,1:19:57.36,1:20:00.57,Default,,0,0,0,,Yes! You're back early today!
-Dialogue: 0,1:20:00.57,1:20:01.82,Default,,0,0,0,,You're right.
-Dialogue: 0,1:20:02.99,1:20:04.65,Default,,0,0,0,,Stop spinning around.
-Dialogue: 0,1:20:04.90,1:20:07.87,Default,,0,0,0,,– I'm back!\N– Indeed.
-Dialogue: 0,1:20:08.87,1:20:10.91,Default,,0,0,0,,What's in this bag?\NI'll carry it for you.
-Dialogue: 0,1:20:10.91,1:20:13.50,Default,,0,0,0,,It's okay,\Nit's not heavy!
-Dialogue: 0,1:20:13.50,1:20:19.67,Default,,0,0,0,,A woman at my work\Ngave me this before I left.
-Dialogue: 0,1:20:20.50,1:20:22.21,Default,,0,0,0,,Me too.
-Dialogue: 0,1:20:22.96,1:20:23.76,Default,,0,0,0,,Fish.
-Dialogue: 0,1:20:24.09,1:20:25.13,Default,,0,0,0,,Fish!
-Dialogue: 0,1:20:25.51,1:20:30.39,Default,,0,0,0,,They gave me that,\Ntelling me I worked hard.
-Dialogue: 0,1:20:30.39,1:20:34.31,Default,,0,0,0,,To them, we're still kids.
-Dialogue: 0,1:20:34.89,1:20:36.56,Default,,0,0,0,,No, it's not the case!
-Dialogue: 0,1:20:36.56,1:20:40.15,Default,,0,0,0,,It's because we work hard!
-Dialogue: 0,1:20:41.32,1:20:43.07,Default,,0,0,0,,I mean it!
-Dialogue: 0,1:20:43.07,1:20:46.15,Default,,0,0,0,,You're doing your best!
-Dialogue: 0,1:20:46.86,1:20:48.57,Default,,0,0,0,,Okay, thank you...
-Dialogue: 0,1:20:48.99,1:20:53.29,Default,,0,0,0,,– Hey, are you sure...\N– Trust me!
-Dialogue: 0,1:20:53.29,1:20:56.41,Default,,0,0,0,,I already told you I won't give up!
-Dialogue: 0,1:20:56.87,1:20:57.92,Default,,0,0,0,,You're stubborn as always.
-Dialogue: 0,1:20:59.21,1:20:59.88,Default,,0,0,0,,But...
-Dialogue: 0,1:21:04.13,1:21:06.30,Default,,0,0,0,,You're doing your best too.
-Dialogue: 0,1:21:07.76,1:21:08.59,Default,,0,0,0,,I know it.
-Dialogue: 0,1:21:47.42,1:21:48.63,Default,,0,0,0,,By the way,
-Dialogue: 0,1:21:48.63,1:21:52.22,Default,,0,0,0,,we'll soon spend our first summer\Ntogether since we came here, right?
-Dialogue: 0,1:21:52.80,1:21:53.60,Default,,0,0,0,,Yes.
-Dialogue: 0,1:21:53.85,1:21:55.01,Default,,0,0,0,,Times goes by fast.
-Dialogue: 0,1:21:55.31,1:21:57.89,Default,,0,0,0,,We'll visit them someday.
-Dialogue: 0,1:21:57.89,1:22:01.94,Default,,0,0,0,,That's a great idea!\NYour master will be very happy!
-Dialogue: 0,1:22:01.94,1:22:06.57,Default,,0,0,0,,You can say that, even though\NI call him frequently, even yesterday...
-Dialogue: 0,1:22:08.95,1:22:11.66,Default,,0,0,0,,And most of all,\Nyours parents' grave too.
-Dialogue: 0,1:22:13.62,1:22:14.49,Default,,0,0,0,,Of course!
-Dialogue: 0,0:33:24.40,0:33:29.36,Title,,0,0,0,,{\an7\pos(0,0)\c&HFFFFFE&\blur1\p1}m 133 349 l 1789 349 1789 701 133 701
-Dialogue: 0,0:33:24.40,0:33:29.36,Title,,0,0,0,,{\pos(960,543)\blur1\fscx115\fscy128}Fruits Basket
+Dialogue: 0,1:14:33.42,1:14:35.93,Default,,0,0,0,??? TLC,How can I follow your footsteps?
+Dialogue: 0,1:15:13.18,1:15:14.39,Default,,0,0,0,,{\i1}No-Eyebrows-san...
+Dialogue: 0,1:15:16.41,1:15:18.08,Default,,0,0,0,,Mommy!
+Dialogue: 0,1:15:18.73,1:15:21.26,Default,,0,0,0,,Mommy, hurry up!
+Dialogue: 0,1:15:21.59,1:15:23.75,Default,,0,0,0,,Hang on, I'm trying to find the tickets.
+Dialogue: 0,1:15:24.17,1:15:27.29,Default,,0,0,0,,Ah, here they are! Thank goodness!
+Dialogue: 0,1:15:27.29,1:15:30.42,Default,,0,0,0,,Come one, we'll be late for the train!
+Dialogue: 0,1:15:31.15,1:15:33.14,Default,,0,0,0,,It's okay, relax!
+Dialogue: 0,1:15:33.14,1:15:35.14,Default,,0,0,0,,Hurry up, hurry up!
+Dialogue: 0,1:15:35.55,1:15:40.14,Default,,0,0,0,,Now, now, there's no need to rush!
+Dialogue: 0,1:15:36.76,1:15:38.39,Default - Alt,,0,0,0,,{\i1}Tohru...
+Dialogue: 0,1:15:40.77,1:15:43.56,Default,,0,0,0,,{\i1}When did I last talk to her?
+Dialogue: 0,1:15:44.94,1:15:49.44,Default,,0,0,0,,{\i1}I can't even remember talking to her \Nor hearing her voice recently!
+Dialogue: 0,1:15:49.82,1:15:51.75,Default,,0,0,0,,{\i1}What's she been eating?
+Dialogue: 0,1:15:53.04,1:15:55.28,Default,,0,0,0,??? Shorten?,{\i1}I've been so consumed \Nwith grief that I forgot about her!
+Dialogue: 0,1:15:55.73,1:15:59.33,Default,,0,0,0,,{\i1}I remember Katsuya's dad \Ncame by a few times.
+Dialogue: 0,1:15:59.68,1:16:00.58,Default,,0,0,0,,{\i1}Tohru!
+Dialogue: 0,1:16:00.93,1:16:01.78,Default,,0,0,0,,{\i1}Tohru!
+Dialogue: 0,1:16:02.77,1:16:03.64,Default,,0,0,0,,{\i1}Tohru!
+Dialogue: 0,1:16:12.18,1:16:15.17,Default,,0,0,0,,You're home...
+Dialogue: 0,1:16:16.25,1:16:18.00,Default,,0,0,0,,I-I'm...
+Dialogue: 0,1:16:23.43,1:16:24.98,Default,,0,0,0,,Sorry.
+Dialogue: 0,1:16:27.28,1:16:28.82,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:16:28.82,1:16:30.64,Default,,0,0,0,,I'm home.
+Dialogue: 0,1:16:32.42,1:16:33.61,Default,,0,0,0,,Sorry!
+Dialogue: 0,1:16:34.63,1:16:35.70,Default,,0,0,0,,I'm so sorry!
+Dialogue: 0,1:16:36.09,1:16:37.33,Default,,0,0,0,,I'm home!
+Dialogue: 0,1:16:38.34,1:16:40.61,Default,,0,0,0,,I'm so sorry
+Dialogue: 0,1:16:41.62,1:16:43.82,Default,,0,0,0,,for making you wait!
+Dialogue: 0,1:16:43.82,1:16:45.30,Default,,0,0,0,,Thank you!
+Dialogue: 0,1:16:45.81,1:16:46.62,Default,,0,0,0,,Thank you!
+Dialogue: 0,1:16:47.43,1:16:50.02,Default,,0,0,0,,Thank you, Tohru!
+Dialogue: 0,1:16:51.46,1:16:52.69,Default,,0,0,0,,{\i1}I have always,
+Dialogue: 0,1:16:53.73,1:16:55.13,Default,,0,0,0,,{\i1}always,
+Dialogue: 0,1:16:55.98,1:16:57.59,Default,,0,0,0,,{\i1}been stupid.
+Dialogue: 0,1:16:58.67,1:17:02.73,Default,,0,0,0,,{\i1}If we don't get lost at least once,
+Dialogue: 0,1:17:03.32,1:17:05.74,Default,,0,0,0,??? TLC,{\i1}how can we ever find \Nthe answers to our questions.
+Dialogue: 0,1:17:08.27,1:17:12.15,Default,,0,0,0,,{\i1}Even if the world doesn't need me,{0:01}
+Dialogue: 0,1:17:13.31,1:17:19.36,Default,,0,0,0,,{\i1}I'll keep living... \NI'll keep living for someone who does.{0:01}
+Dialogue: 0,1:17:20.37,1:17:23.63,Default,,0,0,0,??? TLC,{\i1}At least, that's all I need.{slightly different to line at 0:08}
+Dialogue: 0,1:17:26.78,1:17:30.34,Default,,0,0,0,,{\i1}I wonder how you'll live from now on.
+Dialogue: 0,1:17:31.66,1:17:32.72,Default,,0,0,0,,{\i1}And Tohru...
+Dialogue: 0,1:17:33.65,1:17:41.64,Default,,0,0,0,,{\i1}I wonder how much time and effort it'll take{0:41}
+Dialogue: 0,1:17:42.73,1:17:45.67,Default,,0,0,0,,{\i1}for you kids to find your own answers...{0:46}
+Dialogue: 0,1:17:50.20,1:17:51.98,Default,,0,0,0,,{\i1}Please, be happy.
+Dialogue: 0,1:17:53.74,1:17:54.72,Default,,0,0,0,,{\i1}Please, someone...
+Dialogue: 0,1:17:55.64,1:17:56.65,Default,,0,0,0,,{\i1}Someone...
+Comment: 0,1:17:58.10,1:18:05.35,Default,,0,0,0,,<LostYears> S03E12 22:21
+Dialogue: 0,1:17:58.10,1:18:05.35,Default,,0,0,0,,{\i1}I pray you'll be happy.
+Dialogue: 0,1:18:06.93,1:18:12.00,Default,,0,0,0,,{\i1}I pray you'll be loved by many people.
+Dialogue: 0,1:18:13.83,1:18:16.50,Default,,0,0,0,,{\i1}Live the kind of life you \Ncan be proud of in the end,
+Dialogue: 0,1:18:18.26,1:18:23.37,Default,,0,0,0,,{\i1}even if you get lost \Nor make mistakes along the way.
+Dialogue: 0,1:18:25.03,1:18:32.60,Default,,0,0,0,,{\i1}Live so that when it's your time to go,\N people will say "you fought well."
+Dialogue: 0,1:18:42.48,1:18:47.64,Default,,0,0,0,,{\i1}Have lots of happy times and sad times,\N and everything in between.
+Dialogue: 0,1:18:49.28,1:18:50.64,Default,,0,0,0,,{\i1}That's how...{different}
+Dialogue: 0,1:18:59.79,1:19:01.82,Default,,0,0,0,,{\i1\fad(0,800)}I want you to grow old.{different}
+Comment: 0,1:19:01.76,1:19:01.80,Default,,0,0,0,,</LostYears>
+Dialogue: 0,1:19:28.81,1:19:33.45,Default,,0,0,0,,Tomatoes, cabbage, \Neggplants and green peppers!
+Dialogue: 0,1:19:35.90,1:19:39.25,Default,,0,0,0,,I got so many summer vegetables!
+Dialogue: 0,1:19:39.89,1:19:42.43,Default,,0,0,0,,I could cook them for tonight's dinner!
+Dialogue: 0,1:19:45.79,1:19:46.93,Default,,0,0,0,,Kyo-kun!
+Dialogue: 0,1:19:49.65,1:19:50.64,Default,,0,0,0,,Hey.
+Dialogue: 0,1:19:51.15,1:19:53.20,Default,,0,0,0,,You're finally home, Kyo-kun!
+Dialogue: 0,1:19:53.20,1:19:54.27,Default,,0,0,0,,Yep, I'm back.
+Dialogue: 0,1:19:54.64,1:19:56.94,Default,,0,0,0,,Are you heading home too? Let's go together.
+Dialogue: 0,1:19:57.24,1:20:00.49,Default,,0,0,0,,Sure! You're back early today!
+Dialogue: 0,1:20:00.49,1:20:01.61,Default,,0,0,0,,That's true.
+Dialogue: 0,1:20:02.65,1:20:04.80,Default,,0,0,0,,Heya, stop spinning around.
+Dialogue: 0,1:20:04.80,1:20:06.00,Default,,0,0,0,,Welcome back!
+Dialogue: 0,1:20:06.00,1:20:07.87,Default,,0,0,0,,Yup, I'm here.
+Dialogue: 0,1:20:08.85,1:20:10.88,Default,,0,0,0,,What's in the bag? I'll carry it for you.
+Dialogue: 0,1:20:10.88,1:20:13.54,Default,,0,0,0,,It's okay, it's not heavy!
+Dialogue: 0,1:20:13.54,1:20:19.96,Default,,0,0,0,,A woman at my work gave me \Nthis before I left.
+Dialogue: 0,1:20:14.96,1:20:19.96,Default,,0,0,0,??? Background,{\an8}??? oishii tomato ???
+Dialogue: 0,1:20:20.44,1:20:22.40,Default,,0,0,0,,The same happened to me too.
+Dialogue: 0,1:20:22.97,1:20:24.03,Default,,0,0,0,,Fish.
+Dialogue: 0,1:20:24.03,1:20:25.30,Default,,0,0,0,,Fish!
+Dialogue: 0,1:20:25.30,1:20:30.06,Default,,0,0,0,,They gave me that, telling me I worked hard.
+Dialogue: 0,1:20:25.30,1:20:30.06,Default,,0,0,0,??? background,{\an8}???
+Dialogue: 0,1:20:30.42,1:20:34.41,Default,,0,0,0,,To them, we're still kids.
+Dialogue: 0,1:20:34.94,1:20:36.56,Default,,0,0,0,,No, I don't think that's the case!
+Dialogue: 0,1:20:36.90,1:20:39.98,Default,,0,0,0,,It's because we work hard!
+Dialogue: 0,1:20:41.22,1:20:43.05,Default,,0,0,0,,I mean it, Kyo-kun!
+Dialogue: 0,1:20:43.05,1:20:46.23,Default,,0,0,0,,You're doing your best!
+Dialogue: 0,1:20:46.89,1:20:48.45,Default,,0,0,0,,Oh, thank you...
+Dialogue: 0,1:20:48.95,1:20:52.13,Default,,0,0,0,,Hey, are you sure—
+Dialogue: 0,1:20:51.22,1:20:53.29,Default - Alt,,0,0,0,,Trust me!
+Dialogue: 0,1:20:53.29,1:20:56.55,Default,,0,0,0,,I already told you I won't give up!
+Dialogue: 0,1:20:56.85,1:20:57.92,Default,,0,0,0,,Stubborn as always.
+Dialogue: 0,1:20:59.20,1:21:00.08,Default,,0,0,0,,But...
+Dialogue: 0,1:21:04.37,1:21:06.59,Default,,0,0,0,,You're doing your best too.
+Dialogue: 0,1:21:07.77,1:21:08.76,Default,,0,0,0,,I know it.
+Dialogue: 0,1:21:43.95,1:21:44.89,Default,,0,0,0,,Ready to go home?
+Dialogue: 0,1:21:44.89,1:21:45.62,Default,,0,0,0,,Yep!
+Dialogue: 0,1:21:47.36,1:21:52.22,Default,,0,0,0,,By the way, this is going to be our first summer \Ntogether since we moved here, right?
+Dialogue: 0,1:21:52.70,1:21:54.85,Default,,0,0,0,,Sure is, time flies.
+Dialogue: 0,1:21:55.34,1:21:58.00,Default,,0,0,0,??? TLC,We'll go back and visit everyone soon. {something about summer and invalid?}
+Dialogue: 0,1:21:58.00,1:22:01.96,Default,,0,0,0,,That's a great idea!\NMaster-san will be very happy! {I hate Master-san but that's what Lostyears did >:(}
+Dialogue: 0,1:22:01.96,1:22:06.66,Default,,0,0,0,,You say that, but I call him all the time, \Nlike just yesterday.
+Dialogue: 0,1:22:08.95,1:22:11.51,Default,,0,0,0,,We'll also visit your family grave too.
+Dialogue: 0,1:22:13.83,1:22:14.55,Default,,0,0,0,,Of course!
+Dialogue: 0,0:33:24.27,0:33:29.32,Title,,0,0,0,,{\an7\pos(0,0)\c&HFFFFFE&\blur1\p1}m 133 349 l 1789 349 1789 701 133 701
+Dialogue: 0,0:33:24.27,0:33:29.32,Title,,0,0,0,,{\pos(960,543)\blur1\fscx115\fscy128}Fruits Basket
 Dialogue: 0,0:25:56.91,0:25:58.95,Signs,,0,0,0,,{\an7\pos(873.22,60.07)\fnPolo\fs55\c&H77604F&\alpha&H20&\blur2}Honda
 Dialogue: 1,0:25:56.91,0:25:58.95,Signs,,0,0,0,,{\an7\pos(875.22,64.57)\fnPolo\fs50\c&H746050&\4c&H727483&\alpha&HB0&\blur1}H{\fs50.4\fsp1}o{\fs50.8\fsp2}n{\fs51.2\fsp3}d{\fs51.6\fsp4}a{\fs52\fsp5}
 Dialogue: 0,0:25:56.91,0:25:58.95,Signs,,0,0,0,,{\an7\pos(873.22,114.07)\fnPolo\fs55\c&H77604F&\alpha&H20&\blur2}Family
 Dialogue: 1,0:25:56.91,0:25:58.95,Signs,,0,0,0,,{\an7\pos(876.22,112.57)\fnPolo\fs50\c&H746050&\4c&H727483&\alpha&HB0&\blur1}F{\fs50.4\fsp0.6}a{\fs50.8\fsp1.2}m{\fs51.2\fsp1.8}i{\fs51.6\fsp2.4}l{\fs52\fsp3}y
-Dialogue: 0,0:26:27.27,0:26:31.24,Signs,,0,0,0,,{\an7\pos(68.42,389.67)\fnPolo\fs55\c&H453C36&\alpha&H20&\blur2}Honda
-Dialogue: 1,0:26:27.27,0:26:31.24,Signs,,0,0,0,,{\an7\pos(70.42,394.17)\fnPolo\fs50\c&H837266&\4c&H727483&\alpha&HB0&\blur1}H{\fs50.4\fsp1}o{\fs50.8\fsp2}n{\fs51.2\fsp3}d{\fs51.6\fsp4}a{\fs52\fsp5}
-Dialogue: 0,0:26:27.27,0:26:31.24,Signs,,0,0,0,,{\an7\pos(68.42,443.67)\fnPolo\fs55\c&H453C36&\alpha&H20&\blur2}Family
-Dialogue: 1,0:26:27.27,0:26:31.24,Signs,,0,0,0,,{\an7\pos(71.42,442.17)\fnPolo\fs50\c&H837266&\4c&H727483&\alpha&HB0&\blur1}F{\fs50.4\fsp0.6}a{\fs50.8\fsp1.2}m{\fs51.2\fsp1.8}i{\fs51.6\fsp2.4}l{\fs52\fsp3}y
+Dialogue: 0,0:26:27.27,0:26:31.11,Signs,,0,0,0,,{\an7\pos(68.42,389.67)\fnPolo\fs55\c&H453C36&\alpha&H20&\blur2}Honda
+Dialogue: 1,0:26:27.27,0:26:31.11,Signs,,0,0,0,,{\an7\pos(70.42,394.17)\fnPolo\fs50\c&H837266&\4c&H727483&\alpha&HB0&\blur1}H{\fs50.4\fsp1}o{\fs50.8\fsp2}n{\fs51.2\fsp3}d{\fs51.6\fsp4}a{\fs52\fsp5}
+Dialogue: 0,0:26:27.27,0:26:31.11,Signs,,0,0,0,,{\an7\pos(68.42,443.67)\fnPolo\fs55\c&H453C36&\alpha&H20&\blur2}Family
+Dialogue: 1,0:26:27.27,0:26:31.11,Signs,,0,0,0,,{\an7\pos(71.42,442.17)\fnPolo\fs50\c&H837266&\4c&H727483&\alpha&HB0&\blur1}F{\fs50.4\fsp0.6}a{\fs50.8\fsp1.2}m{\fs51.2\fsp1.8}i{\fs51.6\fsp2.4}l{\fs52\fsp3}y
 Dialogue: 0,0:28:56.30,0:28:58.55,Signs,,0,0,0,,{\an7\pos(899.72,106.81)\fnPolo\fs25\c&H453C36&\alpha&H20&\blur1.2}Honda
 Dialogue: 1,0:28:56.30,0:28:58.55,Signs,,0,0,0,,{\an7\pos(901.72,111.31)\fnPolo\fs20\c&H837266&\4c&H727483&\alpha&HB0&\blur1.2}H{\fs20.4\fsp1}o{\fs20.8\fsp2}n{\fs21.2\fsp3}d{\fs21.6\fsp4}a{\fs22\fsp5}
 Dialogue: 0,0:28:56.30,0:28:58.55,Signs,,0,0,0,,{\an7\pos(898.72,132.81)\fnPolo\fs25\c&H453C36&\alpha&H20&\blur1.2}Family
 Dialogue: 1,0:28:56.30,0:28:58.55,Signs,,0,0,0,,{\an7\pos(901.72,131.31)\fnPolo\fs20\c&H837266&\4c&H727483&\alpha&HB0&\blur1.2}F{\fs20.4\fsp0.6}a{\fs20.8\fsp1.2}m{\fs21.2\fsp1.8}i{\fs21.6\fsp2.4}l{\fs22\fsp3}y
 Dialogue: 1,0:36:01.43,0:36:03.93,Signs,,0,0,0,??? (to finish),{\bord1\blur0.8\fs60\fnTanuki Permanent Marker-CP\fry-1.74\frx-0.01\frz8.25\fax-0.15\clip(m 415.29 326.41 l 1402.34 152.38 1402.09 528.01 415.29 667.57)\3c&H727471&\c&H727471&\fnKozukaGothicProH-Madoka\pos(911.77,568.79)}STUDENT COUNSELOR'S OFFICE
-Dialogue: 2,0:36:01.43,0:36:03.93,Signs,,0,0,0,??? (to finish),{\bord0\blur0.8\fs60\fnTanuki Permanent Marker-CP\fry-1.74\frx-0.01\frz8.25\fax-0.15\clip(m 415.29 326.41 l 1402.34 152.38 1402.09 528.01 415.29 667.57)\c&H5B5E5A&\fnKozukaGothicProH-Madoka\4a&HFF&\pos(911.77,568.79)}STUDENT COUNSELOR'S OFFICE
+Comment: 2,0:36:01.43,0:36:03.93,Signs,,0,0,0,??? (to finish),{\bord0\blur0.8\fs60\fnTanuki Permanent Marker-CP\fry-1.74\frx-0.01\frz8.25\fax-0.15\clip(m 415.29 326.41 l 1402.34 152.38 1402.09 528.01 415.29 667.57)\c&H5A5B57&\fnKozukaGothicProH-Madoka\4a&HFF&\pos(911.77,568.79)}STUDENT COUNSELOR'S OFFICE
+Comment: 2,0:36:01.43,0:36:03.93,Signs,,0,0,0,??? (to finish),{\bord0\blur0.8\fs60\fnTanuki Permanent Marker-CP\fry-1.74\frx-0.01\frz8.25\fax-0.15\clip(m 415.29 326.41 l 1402.34 152.38 1402.09 528.01 415.29 667.57)\c&H636663&\fnKozukaGothicProH-Madoka\4a&HFF&\pos(911.77,568.79)}STUDENT COUNSELOR'S OFFICE
+Comment: 2,0:36:01.43,0:36:03.93,Signs,,0,0,0,??? (to finish),{\bord0\blur0.8\fs60\fnTanuki Permanent Marker-CP\fry-1.74\frx-0.01\frz8.25\fax-0.15\clip(m 415.29 326.41 l 1402.34 152.38 1402.09 528.01 415.29 667.57)\c&H5B5E5A&\fnKozukaGothicProH-Madoka\4a&HFF&\pos(911.77,568.79)}STUDENT COUNSELOR'S OFFICE
 Dialogue: 0,1:22:41.06,1:22:42.02,ED Japanese,,0,0,0,fx,{\an5\blur2\pos(50,53)\fad(300,0)}
 Dialogue: 0,1:22:42.02,1:22:42.27,ED Japanese,,0,0,0,fx,{\an5\blur2\be2\pos(50,53)\fscx100\fscy100\t(0,0,\fscx120\fscy120)\t(0,0,\fscx100\fscy100)\fad(0,200)}
 Dialogue: 0,1:22:41.10,1:22:42.02,ED Japanese,,0,0,0,fx,{\an5\blur2\pos(79,53)\fad(300,0)}Mo
