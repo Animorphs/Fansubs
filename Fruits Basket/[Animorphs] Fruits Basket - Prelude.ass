@@ -16,9 +16,9 @@ Video File: ../../projects/Fruits Basket Prelude/[Beatrice-Raws] Fruits Basket P
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 368
-Active Line: 406
-Video Position: 876
+Scroll Position: 337
+Active Line: 375
+Video Position: 33728
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,10 +32,10 @@ Style: Insert English,Volkswagen-Medium,50,&H0AF9FFF8,&H64F9FFF8,&H00DA86F0,&HA0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:32:29.72,Default,,0,0,0,Part A,
-Comment: 0,0:32:29.72,0:33:24.40,Default,,0,0,0,Part B,
-Comment: 0,0:33:24.40,1:22:15.62,Default,,0,0,0,Part C,
-Comment: 0,1:22:15.62,1:27:55.96,Default,,0,0,0,ED,
+Comment: 0,0:00:00.00,0:32:29.72,Default,,0,0,0,chptr,{Part A}
+Comment: 0,0:32:29.72,0:33:24.40,Default,,0,0,0,chptr,{Part B}
+Comment: 0,0:33:24.40,1:22:15.62,Default,,0,0,0,chptr,{Part C}
+Comment: 0,1:22:15.62,1:27:55.96,Default,,0,0,0,chptr,{ED}
 Comment: 10,0:00:01.81,0:01:06.13,Default,,0,0,0,,<LostYears> S03E07 00:00
 Dialogue: 10,0:00:01.81,0:00:04.23,Default,,0,0,0,,Even if the world doesn't need me,
 Dialogue: 10,0:00:05.15,0:00:08.36,Default,,0,0,0,,I'll keep living for someone who does.
@@ -76,14 +76,14 @@ Dialogue: 10,0:02:01.23,0:02:02.44,Default,,0,0,0,,{\i1}From long ago,
 Dialogue: 10,0:02:03.52,0:02:06.44,Default,,0,0,0,,{\i1}when Master had just taken me in.
 Comment: 10,0:02:08.73,0:03:00.20,Default,,0,0,0,,<Lostyears> S03E08 4:32
 Dialogue: 10,0:02:08.73,0:02:10.03,Default,,0,0,0,,What's your deal?
-Dialogue: 10,0:02:11.28,0:02:16.12,Default,,0,0,0,,You're too young to dye your hair orange!\N Is that natural or what?
-Dialogue: 10,0:02:16.41,0:02:19.24,Default,,0,0,0,,Wh-What's {\i1}your{\i0} deal?!\N Mind your own business!
+Dialogue: 10,0:02:11.28,0:02:16.12,Default,,0,0,0,,You're too young to dye your hair orange! \NIs that natural or what?
+Dialogue: 10,0:02:16.41,0:02:19.24,Default,,0,0,0,,Wh-What's {\i1}your{\i0} deal?! \NMind your own business!
 Dialogue: 10,0:02:19.24,0:02:21.12,Default,,0,0,0,,Don't even talk to me! I'll kill you!
 Dialogue: 10,0:02:21.12,0:02:25.42,Default,,0,0,0,,Whoa, what a little punk you are! How cute!
 Dialogue: 10,0:02:25.42,0:02:27.88,Default,,0,0,0,,Who are you callin' cute, you old hag?!
 Dialogue: 10,0:02:27.88,0:02:33.42,Default,,0,0,0,,Man, the mouth on this kid! Adorable!
 Dialogue: 10,0:02:34.38,0:02:37.01,Default,,0,0,0,,You're gonna get kidnapped \Nif you don't stop bein' so cute.
-Dialogue: 10,0:02:37.01,0:02:39.64,Default,,0,0,0,,Better go home.\N Your mom will be worried—
+Dialogue: 10,0:02:37.01,0:02:39.64,Default,,0,0,0,,Better go home. Your mom will be worried—
 Dialogue: 10,0:02:39.64,0:02:41.97,Default,,0,0,0,,I don't have one! She died!
 Dialogue: 10,0:02:43.98,0:02:44.98,Default,,0,0,0,,And your dad?
 Dialogue: 10,0:02:44.98,0:02:47.36,Default,,0,0,0,,I don't need him! Wish he'd die!
@@ -136,7 +136,7 @@ Dialogue: 10,0:05:32.85,0:05:36.23,Default,,0,0,0,,No reason, just wondering.
 Dialogue: 10,0:05:36.82,0:05:40.61,Default,,0,0,0,,Ultimately, living humans are the strongest.
 Dialogue: 10,0:05:41.61,0:05:43.28,Default,,0,0,0,,That goes for waves, as well.
 Dialogue: 10,0:05:43.28,0:05:47.41,Default,,0,0,0,,The waves of the dead are most likely very weak,
-Dialogue: 10,0:05:47.41,0:05:53.00,Default,,0,0,0,,so those waves are drowned out by the stronger\Nthoughts of living humans around them.
+Dialogue: 10,0:05:47.41,0:05:53.00,Default,,0,0,0,,so those waves are drowned out \Nby the stronger thoughts of living humans around them.
 Dialogue: 10,0:05:54.29,0:05:55.46,Default,,0,0,0,,As they are now.
 Dialogue: 10,0:05:57.75,0:06:01.72,Default,,0,0,0,,Right now, your waves are screaming.
 Dialogue: 10,0:06:02.68,0:06:06.85,Default,,0,0,0,,Why do you feel such regret in this graveyard?
@@ -200,7 +200,7 @@ Dialogue: 10,0:08:58.81,0:09:00.06,Default,,0,0,0,,Kyo-kun!
 Dialogue: 10,0:09:03.94,0:09:08.40,Default,,0,0,0,,Please, there's... \Nsomething I'd like to tell you.
 Dialogue: 10,0:09:19.37,0:09:20.66,Default,,0,0,0,,Kyo-ku—
 Dialogue: 10,0:09:19.79,0:09:20.66,Default - Alt,,0,0,0,,Me too.
-Dialogue: 10,0:09:21.71,0:09:25.21,Default,,0,0,0,,There's something I've been\N wanting to ask you for a while.
+Dialogue: 10,0:09:21.71,0:09:25.21,Default,,0,0,0,,There's something I've been wanting \Nto ask you for a while.
 Dialogue: 10,0:09:26.96,0:09:29.51,Default,,0,0,0,,If I've got the wrong idea, \Ngo ahead and laugh.
 Dialogue: 10,0:09:30.13,0:09:31.88,Default,,0,0,0,,Make fun of me as much as you want.
 Dialogue: 10,0:09:34.30,0:09:35.22,Default,,0,0,0,,Do you...
@@ -215,7 +215,7 @@ Dialogue: 10,0:10:12.01,0:10:14.51,Default,,0,0,0,,{\i1}Why did I ever wish for 
 Dialogue: 10,0:10:15.30,0:10:17.26,Default,,0,0,0,,{\i1}Being close to her in the time I had left...
 Dialogue: 10,0:10:18.10,0:10:21.98,Default,,0,0,0,,{\i1}If only I'd known it \Nwould turn out like this.
 Dialogue: 10,0:10:23.31,0:10:24.19,Default,,0,0,0,,Kyo-kun!
-Dialogue: 10,0:10:25.10,0:10:28.40,Default,,0,0,0,,{\i1}I don't want to say it.\N I don't want her to know.
+Dialogue: 10,0:10:25.10,0:10:28.40,Default,,0,0,0,,{\i1}I don't want to say it. \NI don't want her to know.
 Dialogue: 10,0:10:29.02,0:10:30.28,Default,,0,0,0,,{\i1}I don't want to admit it.
 Dialogue: 10,0:10:30.99,0:10:33.70,Default,,0,0,0,,{\i1}But... this just isn't fair.
 Dialogue: 10,0:10:34.11,0:10:36.03,Default,,0,0,0,,Please listen! I—
@@ -230,7 +230,7 @@ Dialogue: 10,0:11:06.19,0:11:09.11,Default,,0,0,0,,Your mom didn't have to die.
 Dialogue: 10,0:11:10.98,0:11:15.53,Default,,0,0,0,,I... knew your mom.
 Dialogue: 10,0:11:16.95,0:11:18.37,Default,,0,0,0,,That day...
 Dialogue: 10,0:11:19.62,0:11:21.08,Default,,0,0,0,,The day of the accident,
-Dialogue: 10,0:11:21.95,0:11:25.54,Default,,0,0,0,,I was standing right there,\N and I recognized her right away.
+Dialogue: 10,0:11:21.95,0:11:25.54,Default,,0,0,0,,I was standing right there, \Nand I recognized her right away.
 Dialogue: 10,0:11:26.67,0:11:29.67,Default,,0,0,0,,Her profile... the color of her hair...
 Dialogue: 10,0:11:29.67,0:11:31.50,Default,,0,0,0,,They were the same as when we first met.
 Comment: 10,0:11:32.59,0:12:07.67,Default,,0,0,0,,<LostYears> S03E08 9:38
@@ -265,7 +265,7 @@ Dialogue: 10,0:13:15.77,0:13:18.24,Default,,0,0,0,,I can't believe it, but...
 Dialogue: 10,0:13:19.36,0:13:27.33,Default,,0,0,0,,But if she truly did say that, then... I...
 Dialogue: 10,0:13:28.62,0:13:30.12,Default,,0,0,0,,I...
 Dialogue: 10,0:13:30.12,0:13:32.71,Default,,0,0,0,,have to go against Mom!
-Dialogue: 10,0:13:34.25,0:13:42.34,Default,,0,0,0,,Kyo-kun, isn't there any way\N you can accept that I love you, {I don't love the editing with the complete disconnect from the audio, but eh}
+Dialogue: 10,0:13:34.25,0:13:42.34,Default,,0,0,0,,Kyo-kun, isn't there any way \Nyou can accept that I love you, {I don't love the editing with the complete disconnect from the audio, but eh}
 Dialogue: 10,0:13:42.34,0:13:44.64,Default,,0,0,0,,no matter what?
 Comment: 10,0:13:46.68,0:13:51.48,Default,,0,0,0,,<LostYears> S03E09 00:38
 Dialogue: 10,0:13:46.68,0:13:48.64,Default,,0,0,0,,{\i1}Half-hidden behind his orange hair,
@@ -311,17 +311,17 @@ Dialogue: 10,0:16:51.41,0:16:54.83,Default,,0,0,0,,This is why I didn't want boy
 Dialogue: 10,0:16:54.83,0:16:56.75,Default,,0,0,0,,Hey, can I order pizza?
 Dialogue: 10,0:16:57.41,0:16:58.79,Default,,0,0,0,,You {\i1}can't protect her?!
 Dialogue: 10,0:16:59.62,0:17:01.00,Default,,0,0,0,,What does that even mean?
-Dialogue: 10,0:17:01.79,0:17:04.67,Default,,0,0,0,,Should you be able to catch her\N before she falls off a cliff?
-Dialogue: 10,0:17:04.67,0:17:08.80,Default,,0,0,0,,Or brilliantly save her from getting\N hit by a car—would that satisfy you?
+Dialogue: 10,0:17:01.79,0:17:04.67,Default,,0,0,0,,Should you be able to catch her \Nbefore she falls off a cliff?
+Dialogue: 10,0:17:04.67,0:17:08.80,Default,,0,0,0,,Or brilliantly save her from getting hit \Nby a car—would that satisfy you?
 Dialogue: 10,0:17:08.80,0:17:11.05,Default,,0,0,0,,That'd sure be impressive.
-Dialogue: 10,0:17:11.05,0:17:15.01,Default,,0,0,0,,Who do you think you are,\N some kind of superhero?
+Dialogue: 10,0:17:11.05,0:17:15.01,Default,,0,0,0,,Who do you think you are, \Nsome kind of superhero?
 Dialogue: 10,0:17:15.35,0:17:17.68,Default,,0,0,0,,You're just a stupid cat!
 Dialogue: 10,0:17:17.68,0:17:21.44,Default,,0,0,0,,Shut up! When did I ever say any of that?!
-Dialogue: 10,0:17:21.77,0:17:24.40,Default,,0,0,0,,I'm sure someone as perfect\N as you could pull that off,
-Dialogue: 10,0:17:24.98,0:17:27.86,Default,,0,0,0,,but if I could be like you,\N I already would be!
+Dialogue: 10,0:17:21.77,0:17:24.40,Default,,0,0,0,,I'm sure someone as perfect \Nas you could pull that off,
+Dialogue: 10,0:17:24.98,0:17:27.86,Default,,0,0,0,,but if I could be like you, \NI already would be!
 Dialogue: 10,0:17:27.90,0:17:30.11,Default,,0,0,0,,{\fad(353,0)}I wanted to be like you!
 Dialogue: 10,0:17:30.65,0:17:34.16,Default,,0,0,0,,I wanted to {\i1}be{\i0} you!
-Dialogue: 10,0:17:35.83,0:17:39.54,Default,,0,0,0,,Fine, fight all you want.\NI don't care anymore.
+Dialogue: 10,0:17:35.83,0:17:39.54,Default,,0,0,0,,Fine, fight all you want. \NI don't care anymore.
 Dialogue: 10,0:17:39.54,0:17:41.12,Default,,0,0,0,,Can I get nuggets, too?
 Dialogue: 10,0:17:42.33,0:17:44.17,Default,,0,0,0,,Screw you.
 Dialogue: 10,0:17:44.17,0:17:47.34,Default,,0,0,0,,Screw you, screw you, screw you!
@@ -330,23 +330,23 @@ Dialogue: 10,0:17:49.05,0:17:50.22,Default,,0,0,0,,So did I!
 Dialogue: 10,0:17:50.97,0:17:54.47,Default,,0,0,0,,I wanted to be like you!
 Dialogue: 10,0:17:55.10,0:17:58.85,Default,,0,0,0,,I admired you so, so much. {changed}
 Dialogue: 10,0:17:58.85,0:18:00.23,Default,,0,0,0,,And you...
-Dialogue: 10,0:18:00.23,0:18:04.56,Default,,0,0,0,,And you just had to go and say it first!\N Easily, like it's nothing!
+Dialogue: 10,0:18:00.23,0:18:04.56,Default,,0,0,0,,And you just had to go and say it first! \NEasily, like it's nothing!
 Dialogue: 10,0:18:05.06,0:18:06.52,Default,,0,0,0,,Screw you!
 Dialogue: 10,0:18:06.52,0:18:08.03,Default,,0,0,0,,Screw you!
 Dialogue: 10,0:18:11.36,0:18:11.99,Default,,0,0,0,,But,
 Dialogue: 10,0:18:13.41,0:18:17.91,Default,,0,0,0,,you're only you, and I'm only me.
 Dialogue: 10,0:18:19.75,0:18:22.04,Default,,0,0,0,,We can only be ourselves.
-Dialogue: 10,0:18:22.96,0:18:28.09,Default,,0,0,0,,We have to accept ourselves,\N and... face who we are.
+Dialogue: 10,0:18:22.96,0:18:28.09,Default,,0,0,0,,We have to accept ourselves, \Nand... face who we are.
 Dialogue: 10,0:18:29.05,0:18:30.71,Default,,0,0,0,,You {\i1}were{\i0} protecting her!
 Dialogue: 10,0:18:31.42,0:18:33.80,Default,,0,0,0,,You were doing just fine, dumbass!
 Dialogue: 10,0:18:34.55,0:18:37.10,Default,,0,0,0,,You made her happy!
 Dialogue: 10,0:18:37.10,0:18:39.31,Default,,0,0,0,,Maybe it was just the little things,
-Dialogue: 10,0:18:39.89,0:18:43.73,Default,,0,0,0,,and maybe it's not like a hero's super powers,
+Dialogue: 10,0:18:39.89,0:18:43.73,Default,,0,0,0,,and maybe it's not like a hero's superpowers,
 Dialogue: 10,0:18:44.23,0:18:49.15,Default,,0,0,0,,but you made Honda-san smile \Nwhen you were with her!
-Dialogue: 10,0:18:50.40,0:18:55.07,Default,,0,0,0,,Do you seriously think I could\N do the same thing?
+Dialogue: 10,0:18:50.40,0:18:55.07,Default,,0,0,0,,Do you seriously think I could do \Nthe same thing?
 Dialogue: 10,0:18:55.07,0:18:56.66,Default,,0,0,0,,Cut the crap!
-Dialogue: 10,0:18:56.99,0:19:00.70,Default,,0,0,0,,Open your eyes and realize\N there are things only you can do!
-Dialogue: 10,0:19:01.33,0:19:04.62,Default,,0,0,0,,So quit making her cry!\N Get your damn act together!
+Dialogue: 10,0:18:56.99,0:19:00.70,Default,,0,0,0,,Open your eyes and realize \Nthere are things only you can do!
+Dialogue: 10,0:19:01.33,0:19:04.62,Default,,0,0,0,,So quit making her cry! \NGet your damn act together!
 Dialogue: 10,0:19:09.50,0:19:11.46,Default,,0,0,0,,Why are you still sitting there?
 Dialogue: 10,0:19:12.96,0:19:17.05,Default,,0,0,0,,The great Yuki you admire so much \Njust gave you a pep talk.
 Dialogue: 10,0:19:18.30,0:19:19.43,Default,,0,0,0,,Dumb cat.
@@ -382,10 +382,10 @@ Dialogue: 10,0:21:09.79,0:21:11.50,Default,,0,0,0,,I don't want him to hate me.
 Dialogue: 10,0:21:12.38,0:21:13.38,Default,,0,0,0,,{\i1}I don't want him to be...
 Dialogue: 10,0:21:17.84,0:21:20.43,Default,,0,0,0,,{\i1}even more disappointed in me.
 Dialogue: 10,0:21:21.38,0:21:25.60,Default,,0,0,0,,I was only thinking about myself.
-Dialogue: 10,0:21:26.85,0:21:31.69,Default,,0,0,0,,I just confessed my own sins,\N said everything I wanted to say,
+Dialogue: 10,0:21:26.85,0:21:31.69,Default,,0,0,0,,I just confessed my own sins, \Nsaid everything I wanted to say,
 Dialogue: 10,0:21:32.48,0:21:35.57,Default,,0,0,0,,and I completely ignored your feelings.
-Dialogue: 10,0:21:37.15,0:21:41.57,Default,,0,0,0,,And then I ran even though I know\N that sometimes in this world,
-Dialogue: 10,0:21:42.32,0:21:47.58,Default,,0,0,0,,you never get the chance to see\N someone again to apologize.
+Dialogue: 10,0:21:37.15,0:21:41.57,Default,,0,0,0,,And then I ran even though I know \Nthat sometimes in this world,
+Dialogue: 10,0:21:42.32,0:21:47.58,Default,,0,0,0,,you never get the chance \Nto see someone again to apologize.
 Dialogue: 10,0:21:48.12,0:21:51.37,Default,,0,0,0,,{\fad(0,525)}I... know that, {changed}
 Dialogue: 10,0:21:51.75,0:21:54.17,Default,,0,0,0,,I'm sorry I made you cry.
 Dialogue: 10,0:21:55.34,0:21:58.17,Default,,0,0,0,,I'm sorry I hurt you so much.
@@ -402,12 +402,12 @@ Dialogue: 10,0:22:31.41,0:22:34.08,Default,,0,0,0,,D-Does that mean...
 Dialogue: 10,0:22:35.58,0:22:41.17,Default,,0,0,0,,you'll let me stay by your side?
 Dialogue: 10,0:22:42.47,0:22:48.51,Default,,0,0,0,,I-I can hold your hand, and be with you?
 Dialogue: 10,0:22:51.81,0:22:54.35,Default,,0,0,0,,You're already holding it.
-Dialogue: 10,0:22:58.11,0:23:03.11,Default,,0,0,0,,{\i1}Even if it's been said dozens,\N hundreds, thousands of times...
+Dialogue: 10,0:22:58.11,0:23:03.11,Default,,0,0,0,,{\i1}Even if it's been said dozens, \Nhundreds, thousands of times...
 Dialogue: 10,0:23:03.61,0:23:05.91,Default,,0,0,0,,{\i1}Even if the words are a worn-out cliché...
 Dialogue: 10,0:23:07.20,0:23:10.70,Default,,0,0,0,,{\i1}They're still true. This really is...
 Dialogue: 10,0:23:12.75,0:23:14.58,Default,,0,0,0,,{\i1}like a dream.
 Dialogue: 10,0:23:20.34,0:23:21.46,Default,,0,0,0,,{\i1}Kyo-kun.
-Dialogue: 10,0:23:26.72,0:23:30.26,Default,,0,0,0,,Just so you know,\N that was our second kiss.
+Dialogue: 10,0:23:26.72,0:23:30.26,Default,,0,0,0,,Just so you know, that was our second kiss.
 Dialogue: 10,0:23:30.81,0:23:32.60,Default,,0,0,0,,Huh?! Wha... Wh-When did...?!
 Dialogue: 10,0:23:33.52,0:23:35.02,Default,,0,0,0,,{\i1}Figures she doesn't remember.
 Dialogue: 10,0:23:35.69,0:23:37.98,Default,,0,0,0,,You gotta remember it on your own, okay?
@@ -474,7 +474,7 @@ Dialogue: 10,0:28:06.75,0:28:10.75,Default,,0,0,0,,So of course I'll go with you
 Dialogue: 10,0:28:12.75,0:28:16.13,Default,,0,0,0,,What? Are you sure?! It's {\i1}really{\i0} far away!
 Dialogue: 10,0:28:16.13,0:28:19.09,Default,,0,0,0,,You won't be able to see your friends\N all the time like you can now!
 Dialogue: 10,0:28:19.09,0:28:22.85,Default,,0,0,0,,If you need time to think, \Nand if you don't like the idea, you can say so—
-Dialogue: 10,0:28:22.85,0:28:27.23,Default,,0,0,0,,Believe it or not, I'm no pushover when it\N comes to what's really important to me.
+Dialogue: 10,0:28:22.85,0:28:27.23,Default,,0,0,0,,Believe it or not, I'm no pushover when it\N comes to what's important to me.
 Dialogue: 10,0:28:27.48,0:28:29.06,Default,,0,0,0,,I'm actually quite stubborn.
 Dialogue: 10,0:28:29.06,0:28:33.32,Default,,0,0,0,,Well, I guess maybe you are, but...
 Dialogue: 10,0:28:33.32,0:28:36.86,Default,,0,0,0,,That's right. I decide things for myself.
@@ -516,12 +516,12 @@ Dialogue: 10,0:30:36.94,0:30:39.61,Default,,0,0,0,,I know I'm really late, but..
 Dialogue: 10,0:30:40.94,0:30:43.86,Default,,0,0,0,,I'll protect her for the rest of my life.
 Dialogue: 10,0:30:46.28,0:30:47.28,Default,,0,0,0,,So we're good, right?
 Comment: 10,0:30:51.41,0:31:49.14,Default,,0,0,0,,<LostYears> S01E24 19:49
-Dialogue: 10,0:30:51.41,0:30:57.25,Default,,0,0,0,,Right now, even though I hear your voice,\Nit doesn't sound like you.
+Dialogue: 10,0:30:51.41,0:30:57.25,Default,,0,0,0,,Right now, even though I hear your voice, \Nit doesn't sound like you.
 Dialogue: 10,0:30:58.25,0:31:02.09,Default,,0,0,0,,You're in a form I've never seen, \Nand it scares me.
 Dialogue: 10,0:31:03.63,0:31:09.72,Default,,0,0,0,,But... But from now on, \NI want to understand.
 Dialogue: 10,0:31:10.18,0:31:16.27,Default,,0,0,0,,Just like you listen to me when I'm discouraged,
 Dialogue: 10,0:31:17.31,0:31:20.73,Default,,0,0,0,,{\fad(0,513)}from now on I want you to share \Nwith me when you are!
-Dialogue: 10,0:31:21.23,0:31:27.53,Default,,0,0,0,,I want you to tell me when you're hurting,\Nor scared, or feeling weak,
+Dialogue: 10,0:31:21.23,0:31:27.53,Default,,0,0,0,,I want you to tell me when you're hurting, \Nor scared, or feeling weak,
 Dialogue: 10,0:31:27.53,0:31:29.37,Default,,0,0,0,,and let me worry about you!
 Dialogue: 10,0:31:30.83,0:31:35.75,Default,,0,0,0,,Because... Because I want to \Nkeep living together.
 Dialogue: 10,0:31:36.50,0:31:40.00,Default,,0,0,0,,To eat, study, and worry...
@@ -548,7 +548,7 @@ Dialogue: 10,0:33:33.45,0:33:34.70,Default,,0,0,0,,Ew, that's gross.{liberal}
 Dialogue: 10,0:33:35.49,0:33:38.25,Default,,0,0,0,,Maybe we should call the police.
 Dialogue: 10,0:33:38.25,0:33:39.58,Default,,0,0,0,,Let's not get involved.
 Dialogue: 10,0:33:39.91,0:33:41.33,Default,,0,0,0,,Come on, let's go.
-Dialogue: 10,0:33:43.08,0:33:45.92,Default,,0,0,0,,What d'ya think you're starin' at, you old hags?
+Dialogue: 10,0:33:43.08,0:33:45.92,Default,,0,0,0,,Whaddya think you're starin' at, you old hags?
 Dialogue: 10,0:33:46.67,0:33:48.88,Default,,0,0,0,,Want a broken nose, huh?
 Dialogue: 10,0:33:49.51,0:33:50.72,Default,,0,0,0,,How scary.
 Dialogue: 10,0:33:50.72,0:33:53.09,Default,,0,0,0,,What are her parents teaching her?
@@ -567,7 +567,7 @@ Dialogue: 10,0:34:41.18,0:34:43.69,Default,,0,0,0,,Never step foot in this house
 Dialogue: 10,0:34:44.35,0:34:45.77,Default,,0,0,0,,Kyoko.
 Dialogue: 10,0:34:46.36,0:34:48.15,Default,,0,0,0,,Kyoko-chan, why?
 Dialogue: 10,0:34:48.57,0:34:50.94,Default,,0,0,0,,Why did you turn out like this?
-Dialogue: 10,0:34:50.94,0:34:55.66,Default,,0,0,0,??? TLC,Do you know how many times your father\Nhas taken his anger out on me, because of you?{TLC: Has taken anger out in the past, or will take anger out in the future (because of this?)}
+Dialogue: 10,0:34:50.94,0:34:55.66,Default,,0,0,0,??? TLC,Do you know how many times your father \Nhas taken his anger out on me, because of you?{TLC: Has taken anger out in the past, or will take anger out in the future (because of this?)}
 Dialogue: 10,0:34:56.12,0:34:59.12,Default,,0,0,0,,Do you even know what all \Nthe neighbors say about us?
 Dialogue: 10,0:34:59.12,0:35:01.79,Default,,0,0,0,,Why? Just why?
 Dialogue: 10,0:35:06.08,0:35:08.46,Default,,0,0,0,,You never shoulda given birth to me then.
@@ -592,8 +592,8 @@ Dialogue: 10,0:36:05.73,0:36:06.89,Default,,0,0,0,,Sensei!
 Dialogue: 10,0:36:06.89,0:36:10.15,Default,,0,0,0,,Aren't you ashamed of yourself?
 Dialogue: 10,0:36:10.15,0:36:11.69,Default,,0,0,0,,You cause everyone trouble!
 Dialogue: 10,0:36:12.02,0:36:15.32,Default,,0,0,0,,You're even dragging down \Nour good students with you!
-Dialogue: 10,0:36:17.74,0:36:20.57,Default,,0,0,0,,Blah blah blah, shut the hell up!
-Dialogue: 10,0:36:20.57,0:36:22.70,Default,,0,0,0,,Did'ya think yelling would scare me?
+Dialogue: 10,0:36:17.74,0:36:20.57,Default,,0,0,0,,"Blah blah blah," shut the hell up!
+Dialogue: 10,0:36:20.57,0:36:22.70,Default,,0,0,0,,Did ya think yelling would scare me?
 Dialogue: 10,0:36:22.70,0:36:23.45,Default,,0,0,0,,Huh?!
 Dialogue: 10,0:36:25.04,0:36:26.71,Default,,0,0,0,,Idiot, cut it out!
 Dialogue: 10,0:36:26.71,0:36:27.83,Default,,0,0,0,,L-Listen!
@@ -651,7 +651,7 @@ Dialogue: 10,0:39:06.07,0:39:08.16,Default,,0,0,0,,How did I...
 Dialogue: 10,0:39:09.37,0:39:11.20,Default,,0,0,0,,{\i1}When did I make a wrong turn?
 Dialogue: 10,0:39:12.37,0:39:14.67,Default,,0,0,0,,{\i1}What was my mistake?
 Dialogue: 10,0:39:16.21,0:39:20.38,Default,,0,0,0,,I'm so sad... so lonely...
-Dialogue: 10,0:39:25.01,0:39:29.39,Default,,0,0,0,,{\i1}I just wanted to be someone\Nwho could love, and be loved.
+Dialogue: 10,0:39:25.01,0:39:29.39,Default,,0,0,0,,{\i1}I just wanted to be someone \Nwho could love, and be loved.
 Dialogue: 10,0:39:31.14,0:39:31.81,Default,,0,0,0,,{\i1}And yet,
 Dialogue: 10,0:39:33.52,0:39:36.98,Default,,0,0,0,,{\i1}I was only capable of becoming this.
 Dialogue: 10,0:39:37.77,0:39:39.23,Default,,0,0,0,??? TLC,You're feeling lonely? {TLC: Kashi and Pikari said sad, but he says sabishii which is lonely right?}
@@ -703,7 +703,7 @@ Dialogue: 10,0:42:07.55,0:42:10.59,Default,,0,0,0,,I don't like when people do t
 Dialogue: 10,0:42:11.34,0:42:12.80,Default,,0,0,0,,It's not great.
 Dialogue: 10,0:42:13.51,0:42:16.31,Default,,0,0,0,,But, it does have its advantages sometimes.
 Dialogue: 10,0:42:17.14,0:42:21.56,Default,,0,0,0,,If you know how to use it, \Nthe prestige comes in very useful.
-Dialogue: 10,0:42:22.44,0:42:26.23,Default,,0,0,0,,If I bend the rules now and then,\NI can probably get away with it.
+Dialogue: 10,0:42:22.44,0:42:26.23,Default,,0,0,0,,If I bend the rules now and then, \NI can probably get away with it.
 Dialogue: 10,0:42:27.73,0:42:30.36,Default,,0,0,0,,You might be the worst person I know.
 Dialogue: 10,0:42:30.36,0:42:30.94,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:42:30.94,0:42:32.70,Default,,0,0,0,,That's not a compliment!
@@ -741,9 +741,9 @@ Dialogue: 10,0:43:58.28,0:44:01.20,Default,,0,0,0,,{\i1}I always eagerly \Nawait
 Dialogue: 10,0:44:02.33,0:44:03.95,Default,,0,0,0,,Katsunuma!
 Dialogue: 10,0:44:03.95,0:44:06.79,Default,,0,0,0,,Why didn't ya show up yesterday?
 Dialogue: 10,0:44:06.79,0:44:09.08,Default,,0,0,0,,Don't ya wanna fight anymore, huh?
-Dialogue: 10,0:44:13.76,0:44:16.97,Default,,0,0,0,,Next time ya don't show up,\Nthe bosses won't just let it slide.
+Dialogue: 10,0:44:13.76,0:44:16.97,Default,,0,0,0,,Next time ya don't show up, \Nthe bosses won't just let it slide.
 Dialogue: 10,0:44:20.93,0:44:24.02,Default,,0,0,0,,{\i1}I wonder if Sensei's already asleep.
-Dialogue: 10,0:44:25.77,0:44:29.02,Default,,0,0,0,,{\i1}I come in everyday \Nwith my drawn on eyebrows...
+Dialogue: 10,0:44:25.77,0:44:29.02,Default,,0,0,0,,{\i1}I come in everyday \Nwith my drawn-on eyebrows...
 Dialogue: 10,0:44:29.73,0:44:31.27,Default,,0,0,0,,{\i1}what must he think of me?
 Dialogue: 10,0:44:31.94,0:44:33.82,Default,,0,0,0,,{\i1}Why does he hang out with me?
 Dialogue: 10,0:44:35.03,0:44:39.16,Default,,0,0,0,,Does he... have a girlfriend?
@@ -825,7 +825,7 @@ Dialogue: 10,0:49:31.28,0:49:32.45,Default,,0,0,0,,{\i1}but at least...
 Dialogue: 10,0:49:33.95,0:49:36.37,Default,,0,0,0,,{\i1}I want to be a normal human being,
 Dialogue: 10,0:49:37.00,0:49:39.71,Default,,0,0,0,??? TLC,{\i1}and live as a normal girl. {TLC: live like a normal girl, or be more ladylike?}
 Dialogue: 10,0:49:41.88,0:49:44.46,Default,,0,0,0,,{\i1}Without being ashamed,
-Dialogue: 10,0:49:44.46,0:49:47.17,Default,,0,0,0,,{\i1}could I say "I love you?"
+Dialogue: 10,0:49:44.46,0:49:47.17,Default,,0,0,0,,{\i1}could I say, "I love you?"
 Dialogue: 10,0:49:49.38,0:49:50.55,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:49:52.51,0:49:56.81,Default,,0,0,0,,You make it sound like this \Nis goodbye forever.
 Dialogue: 10,0:49:56.81,0:49:58.18,Default,,0,0,0,,Am I wrong?
@@ -837,7 +837,7 @@ Dialogue: 10,0:50:14.24,0:50:15.83,Default,,0,0,0,,then you really are a kid.
 Dialogue: 10,0:50:17.66,0:50:18.70,Default,,0,0,0,,Besides,
 Dialogue: 10,0:50:19.33,0:50:23.75,Default,,0,0,0,,it can be difficult... to study alone.
 Dialogue: 10,0:50:25.63,0:50:26.75,Default,,0,0,0,,{\i1}At the time,
-Dialogue: 10,0:50:27.34,0:50:30.72,Default,,0,0,0,,{\i1}I didn't understand\Nwhy I would see him again.
+Dialogue: 10,0:50:27.34,0:50:30.72,Default,,0,0,0,,{\i1}I didn't understand \Nwhy I would see him again.
 Dialogue: 10,0:50:32.05,0:50:35.55,Default,,0,0,0,,{\i1}I was very happy, but also confused.
 Dialogue: 10,0:50:40.77,0:50:45.94,Default,,0,0,0,,{\i1}Sometime later, Katsuya started working \Nat a pharmaceutical company.
 Dialogue: 10,0:50:46.48,0:50:49.82,Default,,0,0,0,,I enjoy things that require \Ncritical thinking, such as research.
@@ -1034,7 +1034,7 @@ Dialogue: 10,1:02:13.33,1:02:15.46,Default,,0,0,0,,Let's go for a walk, Tohru.
 Dialogue: 10,1:02:17.59,1:02:23.39,Default,,0,0,0,,You gave her a bit \Nof a masculine name, didn't you?
 Dialogue: 10,1:02:23.39,1:02:25.97,Default,,0,0,0,,Katsuya says it adds some spice.
 Dialogue: 10,1:02:26.39,1:02:27.97,Default,,0,0,0,,Spice?
-Dialogue: 10,1:02:27.97,1:02:32.06,Default,,0,0,0,,Like like how sweet food tastes better \Nwhen you add salt.
+Dialogue: 10,1:02:27.97,1:02:32.06,Default,,0,0,0,,Like how sweet food tastes better \Nwhen you add salt.
 Dialogue: 10,1:02:32.06,1:02:35.15,Default,,0,0,0,,That's the kind of girl \Nthat he wants Tohru to be.
 Dialogue: 10,1:02:35.61,1:02:40.82,Default,,0,0,0,,That's a unique one, \Nboth logical and nonsensical. {difficult to understand}
 Dialogue: 10,1:02:42.28,1:02:43.66,Default,,0,0,0,,That's Katsuya for you!
@@ -1074,9 +1074,9 @@ Dialogue: 10,1:05:02.42,1:05:05.01,Default,,0,0,0,,T-T-Tohru's face, her face!
 Dialogue: 10,1:05:05.01,1:05:06.47,Default,,0,0,0,,Sorry! I'm sorry, Tohru!
 Dialogue: 10,1:05:06.84,1:05:09.47,Default,,0,0,0,,Does it hurt? It hurts, right? \NI'm so sorry!
 Dialogue: 10,1:05:15.47,1:05:18.19,Default,,0,0,0,,B-Blood...
-Dialogue: 10,1:05:18.19,1:05:21.77,Default,,0,0,0,??? TLC,You made the terrifying woman\Nknown as "Crimson Butterfly" faint.{Crimson Butterfly from LostYears}{TLC: not TLed by Kashi}
+Dialogue: 10,1:05:18.19,1:05:21.77,Default,,0,0,0,??? TLC,You made the terrifying woman \Nknown as "Crimson Butterfly" faint.{Crimson Butterfly from LostYears}{TLC: not TLed by Kashi}
 Dialogue: 10,1:05:21.77,1:05:23.86,Default,,0,0,0,??? TLC,You're really something, Tohru.{TLC: not TLed by Kashi}
-Dialogue: 10,1:05:26.57,1:05:30.28,Default,,0,0,0,,{\i1}After Tohru was born,\Nthe three of us went out often.
+Dialogue: 10,1:05:26.57,1:05:30.28,Default,,0,0,0,,{\i1}After Tohru was born, \Nthe three of us went out often.
 Dialogue: 10,1:05:37.33,1:05:40.29,Default,,0,0,0,,{\i1}When Katsuya held Tohru in his arms,
 Dialogue: 10,1:05:40.83,1:05:44.84,Default,,0,0,0,,{\i1}his expression was so gentle, \Nit almost made me cry.
 Dialogue: 10,1:05:47.26,1:05:49.84,Default,,0,0,0,??? TLC,{\i1}I hoped that this overwhelming happiness{happiness that makes you want to cry}{TLC: not TLed by Kashi}
@@ -1107,7 +1107,7 @@ Dialogue: 10,1:07:12.05,1:07:13.05,Default,,0,0,0,,Daddy!
 Dialogue: 10,1:07:14.18,1:07:15.64,Default,,0,0,0,,Hello?
 Dialogue: 10,1:07:16.55,1:07:17.26,Default,,0,0,0,,Yes.
 Dialogue: 10,1:07:19.93,1:07:20.64,Default,,0,0,0,,What?
-Dialogue: 10,1:07:31.74,1:07:36.12,Default,,0,0,0,,In the morning, by the time\Nhis coworkers found him, he was already...
+Dialogue: 10,1:07:31.74,1:07:36.12,Default,,0,0,0,,In the morning, by the time \Nhis coworkers found him, he was already...
 Dialogue: 10,1:07:36.49,1:07:38.91,Default,,0,0,0,,His cold had worsened.
 Dialogue: 10,1:07:38.91,1:07:40.83,Default,,0,0,0,,He was too young.
 Dialogue: 10,1:07:41.20,1:07:43.00,Default,,0,0,0,,His life was only just beginning.
@@ -1173,7 +1173,7 @@ Dialogue: 10,1:11:32.39,1:11:34.02,Default,,0,0,0,,Dad, you once said
 Dialogue: 10,1:11:34.56,1:11:39.19,Default,,0,0,0,,"There are people in this world who are necessary, \Nand people who are not," right? {34:32}
 Dialogue: 10,1:11:40.73,1:11:43.03,Default,,0,0,0,,Well, that's a lie.
 Dialogue: 10,1:11:46.11,1:11:47.16,Default,,0,0,0,,A complete lie.
-Dialogue: 10,1:11:47.95,1:11:50.20,Default,,0,0,0,,People who are neccesary?
+Dialogue: 10,1:11:47.95,1:11:50.20,Default,,0,0,0,,People who are necessary?
 Dialogue: 10,1:11:50.83,1:11:51.83,Default,,0,0,0,,There's...
 Dialogue: 10,1:11:53.04,1:11:54.54,Default,,0,0,0,,no such thing.
 Dialogue: 10,1:11:56.29,1:11:57.92,Default,,0,0,0,,{\i1}Parents,
@@ -1315,7 +1315,7 @@ Dialogue: 10,1:21:44.92,1:21:45.67,Default,,0,0,0,,Yep!
 Dialogue: 10,1:21:47.34,1:21:52.22,Default,,0,0,0,,By the way, this is going to be our first summer \Ntogether since we moved here, right?
 Dialogue: 10,1:21:52.76,1:21:55.31,Default,,0,0,0,,Sure is, time flies.
 Dialogue: 10,1:21:55.31,1:21:58.06,Default,,0,0,0,??? TLC,Maybe we can go back over summer \Nand show our faces sometime. {TLC: not TLed by Kashi}
-Dialogue: 10,1:21:58.06,1:22:01.94,Default,,0,0,0,??? TLC,That's a great idea!\NMaster-san would love that! {TLC: not TLed by Kashi}{Also I hate 'Master-san' but that's what Lostyears did >:(}
+Dialogue: 10,1:21:58.06,1:22:01.94,Default,,0,0,0,??? TLC,That's a great idea! \NMaster-san would love that! {TLC: not TLed by Kashi}{Also I hate 'Master-san' but that's what Lostyears did >:(}
 Dialogue: 10,1:22:01.94,1:22:06.57,Default,,0,0,0,??? TLC,You say that, but I call him all the time, \Nwe even talked just yesterday. {TLC: not TLed by Kashi}
 Dialogue: 10,1:22:09.15,1:22:11.49,Default,,0,0,0,,We'll visit your family grave too.
 Dialogue: 10,1:22:13.78,1:22:14.58,Default,,0,0,0,,Of course!
