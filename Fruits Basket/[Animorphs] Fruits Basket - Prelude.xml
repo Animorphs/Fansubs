@@ -4,7 +4,7 @@
   <EditionEntry>
     <EditionFlagHidden>0</EditionFlagHidden>
     <EditionFlagDefault>0</EditionFlagDefault>
-    <EditionUID>44816</EditionUID>
+    <EditionUID>42795</EditionUID>
     <ChapterAtom>
       <ChapterUID>2028</ChapterUID>
       <ChapterFlagHidden>0</ChapterFlagHidden>
@@ -36,7 +36,17 @@
       <ChapterTimeStart>00:33:24.400</ChapterTimeStart>
     </ChapterAtom>
     <ChapterAtom>
-      <ChapterUID>4937651</ChapterUID>
+      <ChapterUID>4745711</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Part D</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>01:19:03.680</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4937652</ChapterUID>
       <ChapterFlagHidden>0</ChapterFlagHidden>
       <ChapterFlagEnabled>1</ChapterFlagEnabled>
       <ChapterDisplay>
