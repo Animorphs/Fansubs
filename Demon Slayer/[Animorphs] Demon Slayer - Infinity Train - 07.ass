@@ -1,0 +1,563 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,56,1
+Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,200,200,56,1
+Style: ED Movie,Averia Libre,62,&H00F5FAFF,&H000000FF,&H00212A82,&H00212A82,0,0,0,0,100,100,0,0,1,4.5,0,2,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:01.56,0:00:02.94,Default,,0,0,0,,Third Form.
+Dialogue: 10,0:00:02.94,0:00:04.48,Default,,0,0,0,,Inferno Vault!
+Dialogue: 10,0:00:05.86,0:00:07.28,Default,,0,0,0,,Fourth Form.
+Dialogue: 10,0:00:07.28,0:00:08.61,Default,,0,0,0,,Fire Whirl!
+Dialogue: 10,0:00:11.57,0:00:13.62,Default,,0,0,0,,Destructive Death.
+Dialogue: 10,0:00:14.66,0:00:15.83,Default,,0,0,0,,Fifth Form.
+Dialogue: 10,0:00:16.75,0:00:17.91,Default,,0,0,0,,Blazing Tiger!
+Dialogue: 10,0:00:21.21,0:00:22.00,Default,,0,0,0,,Disorder!
+Dialogue: 10,0:00:22.00,0:00:22.04,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\shad0\bord0}Disorder!
+Dialogue: 10,0:00:22.09,0:00:22.17,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\shad0}Disorder!
+Dialogue: 10,0:00:22.17,0:00:23.00,Default,,0,0,0,,Disorder!
+Dialogue: 10,0:00:26.88,0:00:28.63,Default,,0,0,0,,Kyojuro!
+Dialogue: 10,0:00:45.19,0:00:47.74,Default,,0,0,0,,Did he do it? Did he win?
+Dialogue: 10,0:01:28.61,0:01:30.78,Default,,0,0,0,,Don't die on me, Kyojuro.
+Dialogue: 10,0:01:43.92,0:01:45.17,Default,,0,0,0,,{\i1}Rengoku...
+Dialogue: 10,0:01:46.17,0:01:47.50,Default,,0,0,0,,{\i1}Rengoku!
+Dialogue: 10,0:01:49.96,0:01:51.42,Default,,0,0,0,,{\i1}Rengoku!
+Dialogue: 10,0:01:56.22,0:02:02.48,Default,,0,0,0,,You put your life on the line, \Nand yet it was all for nothing, Kyojuro.
+Dialogue: 10,0:02:03.77,0:02:09.69,Default,,0,0,0,,Those impressive slashes you inflicted upon me have healed already.
+Dialogue: 10,0:02:10.23,0:02:12.32,Default,,0,0,0,,But what about you?
+Dialogue: 10,0:02:12.32,0:02:17.45,Default,,0,0,0,,A smashed left eye, shattered ribs, and damaged internal organs.
+Dialogue: 10,0:02:17.45,0:02:19.74,Default,,0,0,0,,All irreparable.
+Dialogue: 10,0:02:19.74,0:02:23.04,Default,,0,0,0,,If you were a demon you'd heal in a blink of an eye.
+Dialogue: 10,0:02:23.04,0:02:26.17,Default,,0,0,0,,And those would be but mere scratches.
+Dialogue: 10,0:02:26.63,0:02:30.84,Default,,0,0,0,,You can struggle all you want, \Nbut a human can never surpass a demon.
+Dialogue: 10,0:02:33.13,0:02:35.26,Default,,0,0,0,,{\i1}I have to go help him!
+Dialogue: 10,0:02:37.80,0:02:40.26,Default,,0,0,0,,{\i1}But I don't have the strength to move.
+Dialogue: 10,0:02:40.81,0:02:42.81,Default,,0,0,0,,{\i1}All because of this injury,
+Dialogue: 10,0:02:42.81,0:02:45.56,Default,,0,0,0,,{\i1}and the backlash from \Nusing the Dance of the Fire God!
+Dialogue: 10,0:02:59.33,0:03:01.45,Default,,0,0,0,,Why, Kyojuro?
+Dialogue: 10,0:03:03.50,0:03:04.29,Default,,0,0,0,,Because...
+Dialogue: 10,0:03:05.92,0:03:08.71,Default,,0,0,0,,I will see my duty fulfilled!
+Dialogue: 10,0:03:08.71,0:03:10.42,Default,,0,0,0,,No one shall die here!
+Dialogue: 10,0:03:10.42,0:03:12.34,Default,,0,0,0,,Not on my watch!
+Dialogue: 10,0:03:13.59,0:03:17.18,Default,,0,0,0,,{\i1}I'll inflict as much damage as quickly as possible!
+Dialogue: 10,0:03:17.18,0:03:18.68,Default,,0,0,0,,{\i1}Flame Breathing.
+Dialogue: 10,0:03:19.18,0:03:20.43,Default,,0,0,0,,{\i1}Esoteric Art!
+Dialogue: 10,0:03:26.27,0:03:28.69,Default,,0,0,0,,Such tremendous fighting spirit!
+Dialogue: 10,0:03:28.69,0:03:33.69,Default,,0,0,0,,Despite all those injuries,\N you're full of spirit and determination!
+Dialogue: 10,0:03:33.69,0:03:36.20,Default,,0,0,0,,And that ironclad stance!
+Dialogue: 10,0:03:38.82,0:03:42.70,Default,,0,0,0,,You {\i1}have{\i0} to become a demon, Kyojuro!
+Dialogue: 10,0:03:42.70,0:03:45.29,Default,,0,0,0,,Let's fight each other for all eternity!
+Dialogue: 10,0:03:46.21,0:03:48.12,Default,,0,0,0,,{\i1}Set your heart ablaze.
+Dialogue: 10,0:03:48.62,0:03:50.50,Default,,0,0,0,,{\i1}Go beyond your limits!
+Dialogue: 10,0:03:51.54,0:03:53.75,Default,,0,0,0,,I am the Flame Hashira,
+Dialogue: 10,0:03:53.75,0:03:55.80,Default,,0,0,0,,Rengoku Kyojuro!
+Dialogue: 10,0:03:56.34,0:03:57.88,Default,,0,0,0,,Ninth Form.
+Dialogue: 12,0:03:58.38,0:04:00.18,Default,,0,0,0,,{\pos(960,949)\fnAlegreya\fs50\fsp6\bord0\shad0\c&HFBF7EE&\blur0.6}rengoku
+Dialogue: 11,0:03:58.38,0:04:00.18,Default,,0,0,0,,{\pos(960,949)\fnAlegreya\fs50\bord3.6\fsp6\shad0\3c&H0614D7&\1a&HFA&\blur3.4}rengoku
+Dialogue: 10,0:03:58.38,0:04:00.18,Default,,0,0,0,,{\pos(960,949)\fnAlegreya\fs50\fsp6\bord12\shad0\3c&H2222FD&\1a&HFA&\3a&HC8&\blur10}rengoku
+Dialogue: 10,0:03:58.38,0:04:00.18,Default,,0,0,0,,Hell Fire!
+Dialogue: 10,0:04:00.18,0:04:01.76,Default,,0,0,0,,Destructive Death.
+Dialogue: 10,0:04:01.76,0:04:03.31,Default,,0,0,0,,Annihilation Type!
+Dialogue: 10,0:04:20.28,0:04:21.70,Default,,0,0,0,,Rengoku!
+Dialogue: 10,0:04:54.86,0:04:56.11,Default,,0,0,0,,{\i1}Rengoku!
+Dialogue: 10,0:05:01.32,0:05:02.78,Default,,0,0,0,,{\i1}Rengoku!
+Dialogue: 10,0:05:05.20,0:05:06.54,Default,,0,0,0,,I can see—
+Dialogue: 10,0:05:06.54,0:05:07.62,Default,,0,0,0,,Ren...
+Dialogue: 10,0:05:07.62,0:05:09.00,Default,,0,0,0,,goku...
+Dialogue: 10,0:05:19.76,0:05:21.09,Default,,0,0,0,,You'll die!
+Dialogue: 10,0:05:21.09,0:05:23.22,Default,,0,0,0,,You know this wound will kill you!
+Dialogue: 10,0:05:23.22,0:05:24.97,Default,,0,0,0,,Become a demon!
+Dialogue: 10,0:05:24.97,0:05:26.97,Default,,0,0,0,,Say that you'll become a demon!
+Dialogue: 10,0:05:26.97,0:05:28.22,Default,,0,0,0,,You're strong.
+Dialogue: 10,0:05:28.22,0:05:31.48,Default,,0,0,0,,You're one of the chosen few!
+Dialogue: 10,0:05:44.53,0:05:45.74,Default,,0,0,0,,Kyojuro.
+Dialogue: 10,0:05:45.74,0:05:47.49,Default,,0,0,0,,Yes, Mother?
+Dialogue: 10,0:05:48.41,0:05:53.50,Default,,0,0,0,,I want you to think well \Nabout what I'm going to ask you.
+Dialogue: 10,0:05:53.50,0:05:59.13,Default,,0,0,0,,Do you know why you were \Nborn stronger than so many others?
+Dialogue: 10,0:06:02.88,0:06:04.39,Default,,0,0,0,,I don't know!
+Dialogue: 10,0:06:05.01,0:06:07.89,Default,,0,0,0,,It is so you can protect the weak.
+Dialogue: 10,0:06:09.18,0:06:14.31,Default,,0,0,0,,Those blessed with more natural talent than others
+Dialogue: 10,0:06:14.31,0:06:19.98,Default,,0,0,0,,must use their strength \Nfor the good of the world—for the people.
+Dialogue: 10,0:06:21.19,0:06:29.16,Default,,0,0,0,,It's unforgivable to use strength granted by \Nthe heavens to hurt others or empower yourself.
+Dialogue: 10,0:06:30.12,0:06:35.37,Default,,0,0,0,,Helping the weak is the duty of those born strong.
+Dialogue: 10,0:06:35.96,0:06:40.21,Default,,0,0,0,,You must take this responsibility seriously and fulfill your duty.
+Dialogue: 10,0:06:40.84,0:06:44.34,Default,,0,0,0,,Make sure you never forget that.
+Dialogue: 10,0:06:44.88,0:06:45.93,Default,,0,0,0,,I won't!
+Dialogue: 10,0:07:02.69,0:07:06.57,Default,,0,0,0,,I don't have much time left.
+Dialogue: 10,0:07:07.87,0:07:12.66,Default,,0,0,0,,Having a child as strong and gentle as you was truly a blessing.
+Dialogue: 10,0:07:14.58,0:07:16.54,Default,,0,0,0,,I'm counting on you.
+Dialogue: 10,0:07:29.55,0:07:30.85,Default,,0,0,0,,{\i1}Mother,
+Dialogue: 10,0:07:30.85,0:07:36.27,Default,,0,0,0,,{\i1}the honor is mine to have been born to you!
+Dialogue: 10,0:07:44.28,0:07:45.40,Default,,0,0,0,,{\i1}He stopped it?!
+Dialogue: 10,0:07:45.86,0:07:48.03,Default,,0,0,0,,{\i1}His strength is unbelievable!
+Dialogue: 10,0:07:48.03,0:07:51.41,Default,,0,0,0,,{\i1}Even after I've skewered his guts with my arm!
+Dialogue: 10,0:07:52.91,0:07:54.54,Default,,0,0,0,,{\i1}Damn it!
+Dialogue: 10,0:07:54.54,0:07:56.25,Default,,0,0,0,,{\i1}It's almost dawn!
+Dialogue: 10,0:07:56.79,0:07:59.71,Default,,0,0,0,,{\i1}I have to kill him and get out of here!
+Dialogue: 10,0:08:00.75,0:08:03.21,Default,,0,0,0,,{\i1}I can't pull my arm out!
+Dialogue: 10,0:08:05.55,0:08:07.26,Default,,0,0,0,,{\i1}I won't let you escape!
+Dialogue: 10,0:08:14.35,0:08:17.81,Default,,0,0,0,,{\i1}No matter what Rengoku says,
+Dialogue: 10,0:08:19.10,0:08:21.86,Default,,0,0,0,,{\i1}I have to do this! Right now!
+Dialogue: 10,0:08:22.82,0:08:26.40,Default,,0,0,0,,{\i1}I have to slice off the demon's head!
+Dialogue: 10,0:08:26.40,0:08:27.65,Default,,0,0,0,,{\i1}Quickly!
+Dialogue: 10,0:08:30.32,0:08:32.32,Default,,0,0,0,,{\i1}The sun is rising!
+Dialogue: 10,0:08:32.32,0:08:34.58,Default,,0,0,0,,{\i1}Its light will fall here!
+Dialogue: 10,0:08:35.08,0:08:36.58,Default,,0,0,0,,{\i1}I have to get away!
+Dialogue: 10,0:08:36.58,0:08:38.58,Default,,0,0,0,,{\i1}I've got to get away!
+Dialogue: 10,0:08:47.80,0:08:50.09,Default,,0,0,0,,{\i1}No way I'm ever letting go!
+Dialogue: 10,0:08:50.09,0:08:53.10,Default,,0,0,0,,{\i1}Not until I slice your head off!
+Dialogue: 10,0:08:55.89,0:08:58.27,Default,,0,0,0,,Out of my way!
+Dialogue: 10,0:09:02.65,0:09:04.61,Default,,0,0,0,,Move, Inosuke!
+Dialogue: 10,0:09:05.19,0:09:07.69,Default,,0,0,0,,We have to fight! For Rengoku!
+Dialogue: 10,0:09:11.61,0:09:13.28,Default,,0,0,0,,{\i1}Beast Breathing.
+Dialogue: 10,0:09:13.28,0:09:14.78,Default,,0,0,0,,{\i1}First Fang!
+Dialogue: 10,0:09:14.78,0:09:16.58,Default,,0,0,0,,{\i1}Pierce and Bore!
+Dialogue: 10,0:09:37.01,0:09:40.31,Default,,0,0,0,,{\i1}I've got to get away from the sunlight!
+Dialogue: 10,0:09:50.28,0:09:52.07,Default,,0,0,0,,{\i1}That took way too long!
+Dialogue: 10,0:09:52.07,0:09:54.16,Default,,0,0,0,,{\i1}I need to get far away from the sun!
+Dialogue: 10,0:10:01.25,0:10:03.54,Default,,0,0,0,,Don't run away!
+Dialogue: 10,0:10:03.54,0:10:05.38,Default,,0,0,0,,Come back here, coward!
+Dialogue: 10,0:10:05.38,0:10:07.50,Default,,0,0,0,,Turn and face me!
+Dialogue: 10,0:10:09.51,0:10:12.97,Default,,0,0,0,,{\i1}What the hell is that brat on about?
+Dialogue: 10,0:10:12.97,0:10:15.76,Default,,0,0,0,,{\i1}Does he not have a brain in his head?
+Dialogue: 10,0:10:15.76,0:10:18.64,Default,,0,0,0,,{\i1}I'm not running away from you guys!
+Dialogue: 10,0:10:18.64,0:10:21.02,Default,,0,0,0,,{\i1}I'm running away from the sun!
+Dialogue: 10,0:10:21.02,0:10:24.27,Default,,0,0,0,,{\i1}Besides, the battle's already been decided!
+Dialogue: 10,0:10:24.27,0:10:27.94,Default,,0,0,0,,{\i1}He'll run out of strength and die before long!
+Dialogue: 10,0:10:30.36,0:10:35.28,Default,,0,0,0,,The Demon Slayers are always fighting you demons in the dead of the night!
+Dialogue: 10,0:10:35.28,0:10:36.74,Default,,0,0,0,,Where you have the advantage!
+Dialogue: 10,0:10:36.74,0:10:38.87,Default,,0,0,0,,Us humans, made of flesh and blood!
+Dialogue: 10,0:10:38.87,0:10:41.29,Default,,0,0,0,,We don't regenerate as fast!
+Dialogue: 10,0:10:41.29,0:10:44.12,Default,,0,0,0,,And if we lose a limb, it's gone forever!
+Dialogue: 10,0:10:44.96,0:10:46.96,Default,,0,0,0,,Don't you dare run away, you bastard!
+Dialogue: 10,0:10:47.33,0:10:48.84,Default,,0,0,0,,You're a coward!
+Dialogue: 10,0:10:48.84,0:10:50.71,Default,,0,0,0,,You hear me, dumbass!
+Dialogue: 10,0:10:50.71,0:10:55.18,Default,,0,0,0,,Rengoku is stronger than you'll ever hope to be!
+Dialogue: 10,0:10:55.18,0:10:57.01,Default,,0,0,0,,He's amazing!
+Dialogue: 10,0:10:57.01,0:10:59.01,Default,,0,0,0,,Rengoku didn't lose!
+Dialogue: 10,0:10:59.01,0:11:01.22,Default,,0,0,0,,He didn't let anyone die!
+Dialogue: 10,0:11:01.22,0:11:02.68,Default,,0,0,0,,He protected everyone!
+Dialogue: 10,0:11:02.68,0:11:04.85,Default,,0,0,0,,He saw the fight through to the end!
+Dialogue: 10,0:11:04.85,0:11:06.85,Default,,0,0,0,,You're the one who lost!
+Dialogue: 10,0:11:06.85,0:11:08.61,Default,,0,0,0,,And victory
+Dialogue: 10,0:11:08.61,0:11:10.77,Default,,0,0,0,,belongs to Rengoku!
+Dialogue: 10,0:11:45.14,0:11:47.56,Default,,0,0,0,,Stop yelling already.
+Dialogue: 10,0:11:53.44,0:11:55.24,Default,,0,0,0,,You'll reopen that wound.
+Dialogue: 10,0:11:55.95,0:11:57.99,Default,,0,0,0,,You're badly injured, remember?
+Dialogue: 10,0:11:59.03,0:12:01.83,Default,,0,0,0,,If you die, Young Kamado,
+Dialogue: 10,0:12:01.83,0:12:04.08,Default,,0,0,0,,I won't have my victory anymore.
+Dialogue: 10,0:12:05.91,0:12:07.41,Default,,0,0,0,,Rengoku...
+Dialogue: 10,0:12:08.75,0:12:10.17,Default,,0,0,0,,Come here, lad.
+Dialogue: 10,0:12:10.67,0:12:12.88,Default,,0,0,0,,Let us speak one last time.
+Dialogue: 10,0:12:40.95,0:12:42.99,Default,,0,0,0,,There's something I recalled...
+Dialogue: 10,0:12:44.49,0:12:46.87,Default,,0,0,0,,while I was dreaming of the past.
+Dialogue: 10,0:12:47.79,0:12:49.54,Default,,0,0,0,,The Rengoku residence,
+Dialogue: 10,0:12:50.25,0:12:52.38,Default,,0,0,0,,you should pay it a visit.
+Dialogue: 10,0:12:53.88,0:12:57.38,Default,,0,0,0,,There are notes left by the previous Flame Hashira.
+Dialogue: 10,0:12:59.05,0:13:01.43,Default,,0,0,0,,My father used to read them often,
+Dialogue: 10,0:13:02.18,0:13:04.05,Default,,0,0,0,,but since I never did,
+Dialogue: 10,0:13:04.05,0:13:05.85,Default,,0,0,0,,I don't know what's in them.
+Dialogue: 10,0:13:07.56,0:13:09.31,Default,,0,0,0,,Within those notes,
+Dialogue: 10,0:13:09.98,0:13:12.60,Default,,0,0,0,,you might find something...
+Dialogue: 10,0:13:13.31,0:13:15.77,Default,,0,0,0,,about that dance you mentioned.
+Dialogue: 10,0:13:17.07,0:13:20.78,Default,,0,0,0,,R-Rengoku, please don't talk any more.
+Dialogue: 10,0:13:20.78,0:13:23.20,Default,,0,0,0,,Just stop the bleeding \Nwith a breathing technique!
+Dialogue: 10,0:13:23.20,0:13:25.58,Default,,0,0,0,,Isn't there a way to close up your wounds?
+Dialogue: 10,0:13:26.20,0:13:27.37,Default,,0,0,0,,None.
+Dialogue: 10,0:13:27.37,0:13:30.21,Default,,0,0,0,,I'll be dead soon.
+Dialogue: 10,0:13:31.87,0:13:35.71,Default,,0,0,0,,I need you to hear me out while I can still talk.
+Dialogue: 10,0:13:37.38,0:13:39.72,Default,,0,0,0,,Tell my little brother Senjuro
+Dialogue: 10,0:13:40.51,0:13:42.38,Default,,0,0,0,,to always follow his heart,
+Dialogue: 10,0:13:42.97,0:13:47.18,Default,,0,0,0,,and walk down the path he feels is right.
+Dialogue: 10,0:13:49.81,0:13:51.23,Default,,0,0,0,,Tell my father
+Dialogue: 10,0:13:51.89,0:13:54.73,Default,,0,0,0,,that I want him to take care of himself better.
+Dialogue: 10,0:13:56.77,0:13:58.11,Default,,0,0,0,,One last thing.
+Dialogue: 10,0:13:59.11,0:14:00.36,Default,,0,0,0,,Young Kamado,
+Dialogue: 10,0:14:02.78,0:14:05.20,Default,,0,0,0,,I believe in your sister.
+Dialogue: 10,0:14:06.03,0:14:08.87,Default,,0,0,0,,I accept her as part of our ranks.
+Dialogue: 10,0:14:11.21,0:14:16.54,Default,,0,0,0,,Your sister shed blood to protect the people inside that train.
+Dialogue: 10,0:14:17.29,0:14:21.59,Default,,0,0,0,,Anyone who risks their lives fighting demons to protect humans
+Dialogue: 10,0:14:21.59,0:14:25.55,Default,,0,0,0,,is a rightful member of the Slayers, no matter what anyone says.
+Dialogue: 10,0:14:26.26,0:14:28.64,Default,,0,0,0,,Stand tall and be proud!
+Dialogue: 10,0:14:33.39,0:14:38.40,Default,,0,0,0,,If you ever feel disheartened\N that you're somehow not enough,
+Dialogue: 10,0:14:40.40,0:14:41.90,Default,,0,0,0,,set your heart ablaze!
+Dialogue: 10,0:14:44.91,0:14:47.66,Default,,0,0,0,,Grit your teeth and look straight ahead.
+Dialogue: 10,0:14:48.95,0:14:54.50,Default,,0,0,0,,If you curl up and hide, time will pass you by.
+Dialogue: 10,0:14:55.17,0:14:58.96,Default,,0,0,0,,It won't comfort you or wait for you to grieve.
+Dialogue: 10,0:15:00.59,0:15:03.38,Default,,0,0,0,,Don't feel bad that I'm going to die here.
+Dialogue: 10,0:15:03.84,0:15:08.18,Default,,0,0,0,,As a Hashira, it's my duty to protect my juniors.
+Dialogue: 10,0:15:09.10,0:15:13.10,Default,,0,0,0,,Any Hashira would've done the same.
+Dialogue: 10,0:15:13.89,0:15:16.19,Default,,0,0,0,,The young buds must be allowed to bloom.
+Dialogue: 10,0:15:17.27,0:15:18.77,Default,,0,0,0,,Young Kamado.
+Dialogue: 10,0:15:20.32,0:15:22.03,Default,,0,0,0,,Boar Head Boy.
+Dialogue: 10,0:15:22.69,0:15:24.40,Default,,0,0,0,,Boy of Yellow.
+Dialogue: 10,0:15:25.82,0:15:27.99,Default,,0,0,0,,Keep learning and keep growing.
+Dialogue: 10,0:15:28.70,0:15:30.62,Default,,0,0,0,,And someday,
+Dialogue: 10,0:15:30.62,0:15:34.12,Default,,0,0,0,,become the next Hashira \Nsupporting the Demon Slayers. {become the pillars which support the Demon Slayers.}
+Dialogue: 10,0:15:35.33,0:15:37.04,Default,,0,0,0,,I believe in you.
+Dialogue: 10,0:15:37.83,0:15:40.54,Default,,0,0,0,,I believe in all of you.
+Dialogue: 10,0:16:06.24,0:16:07.61,Default,,0,0,0,,{\i1}Mother.
+Dialogue: 10,0:16:12.28,0:16:14.37,Default,,0,0,0,,{\i1}Did I do well?
+Dialogue: 10,0:16:16.75,0:16:18.67,Default,,0,0,0,,{\i1}Did I use my blessings wisely?
+Dialogue: 10,0:16:18.67,0:16:20.92,Default,,0,0,0,,{\i1}Was I able to carry out my duties,
+Dialogue: 10,0:16:20.92,0:16:22.79,Default,,0,0,0,,{\i1}and fulfill my responsibilities?
+Dialogue: 10,0:16:32.05,0:16:34.35,Default,,0,0,0,,{\i1}You did perfectly fine.
+Dialogue: 10,0:17:10.76,0:17:13.51,Default,,0,0,0,,When the train went off the rails,
+Dialogue: 10,0:17:13.51,0:17:16.43,Default,,0,0,0,,Rengoku had unleashed all these techniques.
+Dialogue: 10,0:17:17.02,0:17:21.14,Default,,0,0,0,,That must be why we managed to\N avoid suffering any casualties.
+Dialogue: 10,0:17:23.15,0:17:24.69,Default,,0,0,0,,It must be.
+Dialogue: 10,0:17:26.28,0:17:28.36,Default,,0,0,0,,I can't believe he's gone.
+Dialogue: 10,0:17:29.15,0:17:31.45,Default,,0,0,0,,Was it really a Waxing Moon?
+Dialogue: 10,0:17:31.95,0:17:32.86,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:17:33.91,0:17:36.20,Default,,0,0,0,,Why would it come here?
+Dialogue: 10,0:17:36.91,0:17:40.25,Default,,0,0,0,,Something that strong? I mean...
+Dialogue: 10,0:17:40.25,0:17:41.33,Default,,0,0,0,,Yeah...
+Dialogue: 10,0:17:43.92,0:17:45.84,Default,,0,0,0,,This is all so frustrating!
+Dialogue: 10,0:17:47.38,0:17:50.30,Default,,0,0,0,,Just when I managed to break through one wall,
+Dialogue: 10,0:17:51.17,0:17:55.60,Default,,0,0,0,,I find another, taller one, right in front of me.
+Dialogue: 10,0:17:56.97,0:18:02.23,Default,,0,0,0,,All these amazing people are fighting with such skill and power just beyond it.
+Dialogue: 10,0:18:02.94,0:18:05.65,Default,,0,0,0,,And I can't make it over to join them!
+Dialogue: 10,0:18:06.94,0:18:10.40,Default,,0,0,0,,If I'm still stumbling around in a place like this...
+Dialogue: 10,0:18:11.45,0:18:12.86,Default,,0,0,0,,How can I ever...
+Dialogue: 10,0:18:15.49,0:18:19.70,Default,,0,0,0,,Can I ever become anything like Rengoku?
+Dialogue: 10,0:18:30.01,0:18:32.76,Default,,0,0,0,,Quit whining already!
+Dialogue: 10,0:18:34.26,0:18:38.76,Default,,0,0,0,,There's no point in sitting around, wondering about maybes!
+Dialogue: 10,0:18:38.76,0:18:40.64,Default,,0,0,0,,He already said he believed in us,
+Dialogue: 10,0:18:40.64,0:18:44.02,Default,,0,0,0,,so don't worry about anything other than living up to that!
+Dialogue: 10,0:18:44.02,0:18:47.77,Default,,0,0,0,,All living things go back to the earth when they die!
+Dialogue: 10,0:18:47.77,0:18:51.28,Default,,0,0,0,,Sobbing or sniveling won't bring them back!
+Dialogue: 10,0:18:51.28,0:18:54.03,Default,,0,0,0,,Don't cry even if you're down!
+Dialogue: 10,0:18:54.03,0:18:57.53,Default,,0,0,0,,No matter how pathetic or humiliated you feel,
+Dialogue: 10,0:18:57.53,0:19:00.04,Default,,0,0,0,,you have to keep moving forward!
+Dialogue: 10,0:19:00.04,0:19:01.95,Default,,0,0,0,,But you're crying, too.
+Dialogue: 10,0:19:02.41,0:19:05.67,Default,,0,0,0,,I can see the tears flooding out from that headpiece.
+Dialogue: 10,0:19:06.33,0:19:08.04,Default,,0,0,0,,I'm not crying!
+Dialogue: 10,0:19:18.97,0:19:21.93,Default,,0,0,0,,Get over here! We're gonna train!
+Dialogue: 10,0:20:05.81,0:20:07.81,Default,,0,0,0,,Is that so...
+Dialogue: 10,0:20:07.81,0:20:09.98,Default,,0,0,0,,Rengoku has...
+Dialogue: 10,0:20:29.71,0:20:34.42,Default,,0,0,0,,So, even Rengoku couldn't beat a Waxing Moon?
+Dialogue: 10,0:20:39.63,0:20:41.47,Default,,0,0,0,,I don't believe it.
+Dialogue: 10,0:20:48.39,0:20:50.56,Default,,0,0,0,,Praise to Amida Buddha.
+Dialogue: 10,0:20:56.74,0:20:59.15,Default,,0,0,0,,Those repulsive demons,
+Dialogue: 10,0:20:59.15,0:21:01.74,Default,,0,0,0,,I'll exterminate them all!
+Dialogue: 10,0:21:09.33,0:21:10.79,Default,,0,0,0,,I see.
+Dialogue: 10,0:21:20.18,0:21:25.22,Default,,0,0,0,,Not one of the two hundred passengers lost their lives?
+Dialogue: 10,0:21:25.76,0:21:28.48,Default,,0,0,0,,Kyojuro did a splendid job, indeed.
+Dialogue: 10,0:21:28.48,0:21:30.39,Default,,0,0,0,,What an incredible young man.
+Dialogue: 10,0:21:31.73,0:21:34.02,Default,,0,0,0,,I'm not forlorn.
+Dialogue: 10,0:21:34.02,0:21:36.98,Default,,0,0,0,,My life will soon reach its end, as well.
+Dialogue: 10,0:21:39.74,0:21:42.86,Default,,0,0,0,,Soon, I'll be joining Kyojuro and the others
+Dialogue: 10,0:21:43.57,0:21:46.37,Default,,0,0,0,,in the land of the dead.
+Dialogue: 10,0:21:57.96,0:21:59.46,Default,,0,0,0,,Rengoku...
+Dialogue: 10,0:22:00.92,0:22:02.47,Default,,0,0,0,,Rengoku.
+Dialogue: 10,0:22:05.05,0:22:07.26,Default,,0,0,0,,Rengoku!
+Dialogue: 3,0:22:15.23,0:22:21.57,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Screaming "Goodbye" and "Thank you" till my voice breaks
+Dialogue: 2,0:22:15.23,0:22:21.57,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Screaming "Goodbye" and "Thank you" till my voice breaks
+Dialogue: 1,0:22:15.23,0:22:21.57,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Screaming "Goodbye" and "Thank you" till my voice breaks
+Dialogue: 0,0:22:15.23,0:22:21.57,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Screaming "Goodbye" and "Thank you" till my voice breaks
+Dialogue: 3,0:22:21.70,0:22:27.70,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}is far more important than giving in to sorrow
+Dialogue: 2,0:22:21.70,0:22:27.70,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}is far more important than giving in to sorrow
+Dialogue: 1,0:22:21.70,0:22:27.70,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}is far more important than giving in to sorrow
+Dialogue: 0,0:22:21.70,0:22:27.70,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}is far more important than giving in to sorrow
+Dialogue: 3,0:22:27.95,0:22:34.37,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}As I watch you go away, I want to let you know
+Dialogue: 2,0:22:27.95,0:22:34.37,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}As I watch you go away, I want to let you know
+Dialogue: 1,0:22:27.95,0:22:34.37,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}As I watch you go away, I want to let you know
+Dialogue: 0,0:22:27.95,0:22:34.37,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}As I watch you go away, I want to let you know
+Dialogue: 3,0:22:34.37,0:22:39.63,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I'll be ready to face anything, come rain or shine
+Dialogue: 2,0:22:34.37,0:22:39.63,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I'll be ready to face anything, come rain or shine
+Dialogue: 1,0:22:34.37,0:22:39.63,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I'll be ready to face anything, come rain or shine
+Dialogue: 0,0:22:34.37,0:22:39.63,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I'll be ready to face anything, come rain or shine
+Dialogue: 3,0:22:39.63,0:22:45.59,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I always thought what we had would last forever
+Dialogue: 2,0:22:39.63,0:22:45.59,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I always thought what we had would last forever
+Dialogue: 1,0:22:39.63,0:22:45.59,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I always thought what we had would last forever
+Dialogue: 0,0:22:39.63,0:22:45.59,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I always thought what we had would last forever
+Dialogue: 3,0:22:45.59,0:22:52.60,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Within my mind, I painted our days together
+Dialogue: 2,0:22:45.59,0:22:52.60,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Within my mind, I painted our days together
+Dialogue: 1,0:22:45.59,0:22:52.60,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Within my mind, I painted our days together
+Dialogue: 0,0:22:45.59,0:22:52.60,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Within my mind, I painted our days together
+Dialogue: 3,0:22:53.31,0:22:56.40,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Now I'm calling out to you
+Dialogue: 2,0:22:53.31,0:22:56.40,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Now I'm calling out to you
+Dialogue: 1,0:22:53.31,0:22:56.40,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Now I'm calling out to you
+Dialogue: 0,0:22:53.31,0:22:56.40,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Now I'm calling out to you
+Dialogue: 3,0:22:56.40,0:22:59.65,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}to show you the embers
+Dialogue: 2,0:22:56.40,0:22:59.65,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}to show you the embers
+Dialogue: 1,0:22:56.40,0:22:59.65,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}to show you the embers
+Dialogue: 0,0:22:56.40,0:22:59.65,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}to show you the embers
+Dialogue: 3,0:22:59.65,0:23:05.49,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}that still burn bright in my heart
+Dialogue: 2,0:22:59.65,0:23:05.49,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}that still burn bright in my heart
+Dialogue: 1,0:22:59.65,0:23:05.49,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}that still burn bright in my heart
+Dialogue: 0,0:22:59.65,0:23:05.49,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}that still burn bright in my heart
+Dialogue: 3,0:23:05.57,0:23:12.37,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}We met amidst a blazing journey
+Dialogue: 2,0:23:05.57,0:23:12.37,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}We met amidst a blazing journey
+Dialogue: 1,0:23:05.57,0:23:12.37,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}We met amidst a blazing journey
+Dialogue: 0,0:23:05.57,0:23:12.37,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}We met amidst a blazing journey
+Dialogue: 3,0:23:12.37,0:23:18.21,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}We came together; we let go—for the sake of the future
+Dialogue: 2,0:23:12.37,0:23:18.21,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}We came together; we let go—for the sake of the future
+Dialogue: 1,0:23:12.37,0:23:18.21,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}We came together; we let go—for the sake of the future
+Dialogue: 0,0:23:12.37,0:23:18.21,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}We came together; we let go—for the sake of the future
+Dialogue: 3,0:23:18.25,0:23:21.92,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}If any of my dreams were to come true
+Dialogue: 2,0:23:18.25,0:23:21.92,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}If any of my dreams were to come true
+Dialogue: 1,0:23:18.25,0:23:21.92,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}If any of my dreams were to come true
+Dialogue: 0,0:23:18.25,0:23:21.92,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}If any of my dreams were to come true
+Dialogue: 3,0:23:21.92,0:23:25.68,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I'll have you to thank for it
+Dialogue: 2,0:23:21.92,0:23:25.68,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I'll have you to thank for it
+Dialogue: 1,0:23:21.92,0:23:25.68,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I'll have you to thank for it
+Dialogue: 0,0:23:21.92,0:23:25.68,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I'll have you to thank for it
+Dialogue: 3,0:23:25.68,0:23:31.31,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Vowing to get stronger, I let my tears flow
+Dialogue: 2,0:23:25.68,0:23:31.31,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Vowing to get stronger, I let my tears flow
+Dialogue: 1,0:23:25.68,0:23:31.31,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Vowing to get stronger, I let my tears flow
+Dialogue: 0,0:23:25.68,0:23:31.31,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Vowing to get stronger, I let my tears flow
+Dialogue: 3,0:23:31.31,0:23:39.40,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}As we part ways, with this resolve inside me
+Dialogue: 2,0:23:31.31,0:23:39.40,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}As we part ways, with this resolve inside me
+Dialogue: 1,0:23:31.31,0:23:39.40,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}As we part ways, with this resolve inside me
+Dialogue: 0,0:23:31.31,0:23:39.40,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}As we part ways, with this resolve inside me
+Dialogue: 3,0:23:50.20,0:23:56.08,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Held captive by my memories and nostalgia
+Dialogue: 2,0:23:50.20,0:23:56.08,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Held captive by my memories and nostalgia
+Dialogue: 1,0:23:50.20,0:23:56.08,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Held captive by my memories and nostalgia
+Dialogue: 0,0:23:50.20,0:23:56.08,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Held captive by my memories and nostalgia
+Dialogue: 3,0:23:56.41,0:24:02.46,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Wailing at the cruelty of this world
+Dialogue: 2,0:23:56.41,0:24:02.46,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Wailing at the cruelty of this world
+Dialogue: 1,0:23:56.41,0:24:02.46,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Wailing at the cruelty of this world
+Dialogue: 0,0:23:56.41,0:24:02.46,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Wailing at the cruelty of this world
+Dialogue: 3,0:24:02.75,0:24:09.05,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}It will only get worse as time goes on
+Dialogue: 2,0:24:02.75,0:24:09.05,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}It will only get worse as time goes on
+Dialogue: 1,0:24:02.75,0:24:09.05,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}It will only get worse as time goes on
+Dialogue: 0,0:24:02.75,0:24:09.05,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}It will only get worse as time goes on
+Dialogue: 3,0:24:09.05,0:24:14.39,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I don't want to lose anything—never again
+Dialogue: 2,0:24:09.05,0:24:14.39,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I don't want to lose anything—never again
+Dialogue: 1,0:24:09.05,0:24:14.39,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I don't want to lose anything—never again
+Dialogue: 0,0:24:09.05,0:24:14.39,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I don't want to lose anything—never again
+Dialogue: 3,0:24:14.43,0:24:20.11,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}If I stop trying and give in to sadness
+Dialogue: 2,0:24:14.43,0:24:20.11,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}If I stop trying and give in to sadness
+Dialogue: 1,0:24:14.43,0:24:20.11,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}If I stop trying and give in to sadness
+Dialogue: 0,0:24:14.43,0:24:20.11,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}If I stop trying and give in to sadness
+Dialogue: 3,0:24:20.23,0:24:27.57,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I might be able to escape this pain
+Dialogue: 2,0:24:20.23,0:24:27.57,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I might be able to escape this pain
+Dialogue: 1,0:24:20.23,0:24:27.57,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I might be able to escape this pain
+Dialogue: 0,0:24:20.23,0:24:27.57,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I might be able to escape this pain
+Dialogue: 3,0:24:28.07,0:24:31.24,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}But your words echoing
+Dialogue: 2,0:24:28.07,0:24:31.24,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}But your words echoing
+Dialogue: 1,0:24:28.07,0:24:31.24,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}But your words echoing
+Dialogue: 0,0:24:28.07,0:24:31.24,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}But your words echoing
+Dialogue: 3,0:24:31.24,0:24:34.24,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}all your wishes and dreams
+Dialogue: 2,0:24:31.24,0:24:34.24,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}all your wishes and dreams
+Dialogue: 1,0:24:31.24,0:24:34.24,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}all your wishes and dreams
+Dialogue: 0,0:24:31.24,0:24:34.24,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}all your wishes and dreams
+Dialogue: 3,0:24:34.33,0:24:40.50,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I swore to protect them till the end
+Dialogue: 2,0:24:34.33,0:24:40.50,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I swore to protect them till the end
+Dialogue: 1,0:24:34.33,0:24:40.50,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I swore to protect them till the end
+Dialogue: 0,0:24:34.33,0:24:40.50,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I swore to protect them till the end
+Dialogue: 3,0:24:53.39,0:24:59.60,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}With a roar, it's crumbling—crashing around me
+Dialogue: 2,0:24:53.39,0:24:59.60,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}With a roar, it's crumbling—crashing around me
+Dialogue: 1,0:24:53.39,0:24:59.60,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}With a roar, it's crumbling—crashing around me
+Dialogue: 0,0:24:53.39,0:24:59.60,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}With a roar, it's crumbling—crashing around me
+Dialogue: 3,0:24:59.60,0:25:10.28,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Our one and only, irreplaceable world
+Dialogue: 2,0:24:59.60,0:25:10.28,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Our one and only, irreplaceable world
+Dialogue: 1,0:24:59.60,0:25:10.28,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Our one and only, irreplaceable world
+Dialogue: 0,0:24:59.60,0:25:10.28,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Our one and only, irreplaceable world
+Dialogue: 3,0:25:21.37,0:25:28.13,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}The spark I reached my hand out to protect
+Dialogue: 2,0:25:21.37,0:25:28.13,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}The spark I reached my hand out to protect
+Dialogue: 1,0:25:21.37,0:25:28.13,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}The spark I reached my hand out to protect
+Dialogue: 0,0:25:21.37,0:25:28.13,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}The spark I reached my hand out to protect
+Dialogue: 3,0:25:28.13,0:25:33.97,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}It burst into flames; it went out—for the sake of the future
+Dialogue: 2,0:25:28.13,0:25:33.97,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}It burst into flames; it went out—for the sake of the future
+Dialogue: 1,0:25:28.13,0:25:33.97,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}It burst into flames; it went out—for the sake of the future
+Dialogue: 0,0:25:28.13,0:25:33.97,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}It burst into flames; it went out—for the sake of the future
+Dialogue: 3,0:25:34.05,0:25:41.44,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Holding on to the hopes and dreams I've been entrusted with
+Dialogue: 2,0:25:34.05,0:25:41.44,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Holding on to the hopes and dreams I've been entrusted with
+Dialogue: 1,0:25:34.05,0:25:41.44,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Holding on to the hopes and dreams I've been entrusted with
+Dialogue: 0,0:25:34.05,0:25:41.44,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Holding on to the hopes and dreams I've been entrusted with
+Dialogue: 3,0:25:41.48,0:25:47.03,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I will keep pushing on without ever looking back
+Dialogue: 2,0:25:41.48,0:25:47.03,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I will keep pushing on without ever looking back
+Dialogue: 1,0:25:41.48,0:25:47.03,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I will keep pushing on without ever looking back
+Dialogue: 0,0:25:41.48,0:25:47.03,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I will keep pushing on without ever looking back
+Dialogue: 3,0:25:47.65,0:25:53.57,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}I will look straight ahead, no matter if I cry
+Dialogue: 2,0:25:47.65,0:25:53.57,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}I will look straight ahead, no matter if I cry
+Dialogue: 1,0:25:47.65,0:25:53.57,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}I will look straight ahead, no matter if I cry
+Dialogue: 0,0:25:47.65,0:25:53.57,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}I will look straight ahead, no matter if I cry
+Dialogue: 3,0:25:54.07,0:25:59.25,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Setting my heart ablaze, I'll keep moving ahead
+Dialogue: 2,0:25:54.07,0:25:59.25,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Setting my heart ablaze, I'll keep moving ahead
+Dialogue: 1,0:25:54.07,0:25:59.25,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Setting my heart ablaze, I'll keep moving ahead
+Dialogue: 0,0:25:54.07,0:25:59.25,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Setting my heart ablaze, I'll keep moving ahead
+Dialogue: 3,0:25:59.25,0:26:07.88,ED Movie,eng,0,0,0,fx,{\bord0\be1\fad(280,360)}Until I reach that distant future
+Dialogue: 2,0:25:59.25,0:26:07.88,ED Movie,eng,0,0,0,fx,{\bord0\be2\fad(280,360)}Until I reach that distant future
+Dialogue: 1,0:25:59.25,0:26:07.88,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\fad(280,360)}Until I reach that distant future
+Dialogue: 0,0:25:59.25,0:26:07.88,ED Movie,eng,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\fad(280,360)}Until I reach that distant future
+Dialogue: 3,0:22:15.23,0:22:21.57,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}sayonara arigatou koe no kagiri
+Dialogue: 2,0:22:15.23,0:22:21.57,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}sayonara arigatou koe no kagiri
+Dialogue: 1,0:22:15.23,0:22:21.57,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}sayonara arigatou koe no kagiri
+Dialogue: 0,0:22:15.23,0:22:21.57,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}sayonara arigatou koe no kagiri
+Dialogue: 3,0:22:21.70,0:22:27.70,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kanashimi yori motto daiji na koto
+Dialogue: 2,0:22:21.70,0:22:27.70,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kanashimi yori motto daiji na koto
+Dialogue: 1,0:22:21.70,0:22:27.70,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kanashimi yori motto daiji na koto
+Dialogue: 0,0:22:21.70,0:22:27.70,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kanashimi yori motto daiji na koto
+Dialogue: 3,0:22:27.95,0:22:34.37,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}sariyuku senaka ni tsutaetakute
+Dialogue: 2,0:22:27.95,0:22:34.37,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}sariyuku senaka ni tsutaetakute
+Dialogue: 1,0:22:27.95,0:22:34.37,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}sariyuku senaka ni tsutaetakute
+Dialogue: 0,0:22:27.95,0:22:34.37,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}sariyuku senaka ni tsutaetakute
+Dialogue: 3,0:22:34.37,0:22:39.63,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}nukumori to itami ni maniau you ni
+Dialogue: 2,0:22:34.37,0:22:39.63,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}nukumori to itami ni maniau you ni
+Dialogue: 1,0:22:34.37,0:22:39.63,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}nukumori to itami ni maniau you ni
+Dialogue: 0,0:22:34.37,0:22:39.63,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}nukumori to itami ni maniau you ni
+Dialogue: 3,0:22:39.63,0:22:45.59,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kono mama tsuzuku to omotteita
+Dialogue: 2,0:22:39.63,0:22:45.59,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kono mama tsuzuku to omotteita
+Dialogue: 1,0:22:39.63,0:22:45.59,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kono mama tsuzuku to omotteita
+Dialogue: 0,0:22:39.63,0:22:45.59,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kono mama tsuzuku to omotteita
+Dialogue: 3,0:22:45.59,0:22:52.60,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}bokura no ashita wo egaiteita
+Dialogue: 2,0:22:45.59,0:22:52.60,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}bokura no ashita wo egaiteita
+Dialogue: 1,0:22:45.59,0:22:52.60,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}bokura no ashita wo egaiteita
+Dialogue: 0,0:22:45.59,0:22:52.60,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}bokura no ashita wo egaiteita
+Dialogue: 3,0:22:53.31,0:22:56.40,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}yobiatteita
+Dialogue: 2,0:22:53.31,0:22:56.40,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}yobiatteita
+Dialogue: 1,0:22:53.31,0:22:56.40,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}yobiatteita
+Dialogue: 0,0:22:53.31,0:22:56.40,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}yobiatteita
+Dialogue: 3,0:22:55.10,0:22:57.06,ED Movie,alt,0,0,0,fx,{\bord0\be1\pos(960,164)\fs40\fad(280,360)}yobiatteita
+Dialogue: 2,0:22:55.10,0:22:57.06,ED Movie,alt,0,0,0,fx,{\bord0\be2\pos(960,164)\fs40\fad(280,360)}yobiatteita
+Dialogue: 1,0:22:55.10,0:22:57.06,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\pos(960,164)\fs40\fad(280,360)}yobiatteita
+Dialogue: 0,0:22:55.10,0:22:57.06,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\pos(960,164)\fs40\fad(280,360)}yobiatteita
+Dialogue: 3,0:22:56.40,0:22:59.65,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}hikari ga mada
+Dialogue: 2,0:22:56.40,0:22:59.65,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}hikari ga mada
+Dialogue: 1,0:22:56.40,0:22:59.65,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}hikari ga mada
+Dialogue: 0,0:22:56.40,0:22:59.65,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}hikari ga mada
+Dialogue: 3,0:22:58.23,0:23:00.15,ED Movie,alt,0,0,0,fx,{\bord0\be1\pos(960,164)\fs40\fad(280,360)}hikari ga mada
+Dialogue: 2,0:22:58.23,0:23:00.15,ED Movie,alt,0,0,0,fx,{\bord0\be2\pos(960,164)\fs40\fad(280,360)}hikari ga mada
+Dialogue: 1,0:22:58.23,0:23:00.15,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\pos(960,164)\fs40\fad(280,360)}hikari ga mada
+Dialogue: 0,0:22:58.23,0:23:00.15,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\pos(960,164)\fs40\fad(280,360)}hikari ga mada
+Dialogue: 3,0:22:59.65,0:23:05.49,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}mune no oku ni atsui no ni
+Dialogue: 2,0:22:59.65,0:23:05.49,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}mune no oku ni atsui no ni
+Dialogue: 1,0:22:59.65,0:23:05.49,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}mune no oku ni atsui no ni
+Dialogue: 0,0:22:59.65,0:23:05.49,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}mune no oku ni atsui no ni
+Dialogue: 3,0:23:05.57,0:23:12.37,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}bokutachi wa moesakaru tabi no tochuu de deai
+Dialogue: 2,0:23:05.57,0:23:12.37,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}bokutachi wa moesakaru tabi no tochuu de deai
+Dialogue: 1,0:23:05.57,0:23:12.37,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}bokutachi wa moesakaru tabi no tochuu de deai
+Dialogue: 0,0:23:05.57,0:23:12.37,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}bokutachi wa moesakaru tabi no tochuu de deai
+Dialogue: 3,0:23:12.37,0:23:18.21,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}te wo tori soshite hanashita mirai no tame ni
+Dialogue: 2,0:23:12.37,0:23:18.21,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}te wo tori soshite hanashita mirai no tame ni
+Dialogue: 1,0:23:12.37,0:23:18.21,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}te wo tori soshite hanashita mirai no tame ni
+Dialogue: 0,0:23:12.37,0:23:18.21,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}te wo tori soshite hanashita mirai no tame ni
+Dialogue: 3,0:23:18.25,0:23:21.92,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}yume ga hitotsu kanau tabi
+Dialogue: 2,0:23:18.25,0:23:21.92,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}yume ga hitotsu kanau tabi
+Dialogue: 1,0:23:18.25,0:23:21.92,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}yume ga hitotsu kanau tabi
+Dialogue: 0,0:23:18.25,0:23:21.92,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}yume ga hitotsu kanau tabi
+Dialogue: 3,0:23:21.92,0:23:25.68,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}boku wa kimi wo omou darou
+Dialogue: 2,0:23:21.92,0:23:25.68,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}boku wa kimi wo omou darou
+Dialogue: 1,0:23:21.92,0:23:25.68,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}boku wa kimi wo omou darou
+Dialogue: 0,0:23:21.92,0:23:25.68,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}boku wa kimi wo omou darou
+Dialogue: 3,0:23:25.68,0:23:31.31,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}tsuyoku naritai to negai naita
+Dialogue: 2,0:23:25.68,0:23:31.31,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}tsuyoku naritai to negai naita
+Dialogue: 1,0:23:25.68,0:23:31.31,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}tsuyoku naritai to negai naita
+Dialogue: 0,0:23:25.68,0:23:31.31,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}tsuyoku naritai to negai naita
+Dialogue: 3,0:23:31.31,0:23:39.40,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}ketsui wo hanamuke ni
+Dialogue: 2,0:23:31.31,0:23:39.40,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}ketsui wo hanamuke ni
+Dialogue: 1,0:23:31.31,0:23:39.40,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}ketsui wo hanamuke ni
+Dialogue: 0,0:23:31.31,0:23:39.40,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}ketsui wo hanamuke ni
+Dialogue: 3,0:23:50.20,0:23:56.08,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}natsukashii omoi ni torawaretai
+Dialogue: 2,0:23:50.20,0:23:56.08,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}natsukashii omoi ni torawaretai
+Dialogue: 1,0:23:50.20,0:23:56.08,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}natsukashii omoi ni torawaretai
+Dialogue: 0,0:23:50.20,0:23:56.08,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}natsukashii omoi ni torawaretai
+Dialogue: 3,0:23:56.41,0:24:02.46,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}zankoku na sekai ni nakisakende
+Dialogue: 2,0:23:56.41,0:24:02.46,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}zankoku na sekai ni nakisakende
+Dialogue: 1,0:23:56.41,0:24:02.46,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}zankoku na sekai ni nakisakende
+Dialogue: 0,0:23:56.41,0:24:02.46,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}zankoku na sekai ni nakisakende
+Dialogue: 3,0:24:02.75,0:24:09.05,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}otona ni naru hodo fuete yuku
+Dialogue: 2,0:24:02.75,0:24:09.05,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}otona ni naru hodo fuete yuku
+Dialogue: 1,0:24:02.75,0:24:09.05,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}otona ni naru hodo fuete yuku
+Dialogue: 0,0:24:02.75,0:24:09.05,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}otona ni naru hodo fuete yuku
+Dialogue: 3,0:24:09.05,0:24:14.39,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}mou nani hitotsu datte ushinaitakunai
+Dialogue: 2,0:24:09.05,0:24:14.39,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}mou nani hitotsu datte ushinaitakunai
+Dialogue: 1,0:24:09.05,0:24:14.39,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}mou nani hitotsu datte ushinaitakunai
+Dialogue: 0,0:24:09.05,0:24:14.39,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}mou nani hitotsu datte ushinaitakunai
+Dialogue: 3,0:24:14.43,0:24:20.11,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kanashimi ni nomare ochite shimaeba
+Dialogue: 2,0:24:14.43,0:24:20.11,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kanashimi ni nomare ochite shimaeba
+Dialogue: 1,0:24:14.43,0:24:20.11,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kanashimi ni nomare ochite shimaeba
+Dialogue: 0,0:24:14.43,0:24:20.11,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kanashimi ni nomare ochite shimaeba
+Dialogue: 3,0:24:20.23,0:24:27.57,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}itami wo kanjinaku naru keredo
+Dialogue: 2,0:24:20.23,0:24:27.57,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}itami wo kanjinaku naru keredo
+Dialogue: 1,0:24:20.23,0:24:27.57,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}itami wo kanjinaku naru keredo
+Dialogue: 0,0:24:20.23,0:24:27.57,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}itami wo kanjinaku naru keredo
+Dialogue: 3,0:24:28.07,0:24:31.24,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kimi no kotoba
+Dialogue: 2,0:24:28.07,0:24:31.24,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kimi no kotoba
+Dialogue: 1,0:24:28.07,0:24:31.24,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kimi no kotoba
+Dialogue: 0,0:24:28.07,0:24:31.24,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kimi no kotoba
+Dialogue: 3,0:24:29.78,0:24:31.99,ED Movie,alt,0,0,0,fx,{\bord0\be1\pos(960,164)\fs40\fad(280,360)}kimi no kotoba
+Dialogue: 2,0:24:29.78,0:24:31.99,ED Movie,alt,0,0,0,fx,{\bord0\be2\pos(960,164)\fs40\fad(280,360)}kimi no kotoba
+Dialogue: 1,0:24:29.78,0:24:31.99,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\pos(960,164)\fs40\fad(280,360)}kimi no kotoba
+Dialogue: 0,0:24:29.78,0:24:31.99,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\pos(960,164)\fs40\fad(280,360)}kimi no kotoba
+Dialogue: 3,0:24:31.24,0:24:34.24,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kimi no negai
+Dialogue: 2,0:24:31.24,0:24:34.24,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kimi no negai
+Dialogue: 1,0:24:31.24,0:24:34.24,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kimi no negai
+Dialogue: 0,0:24:31.24,0:24:34.24,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kimi no negai
+Dialogue: 3,0:24:32.87,0:24:34.87,ED Movie,alt,0,0,0,fx,{\bord0\be1\pos(960,164)\fs40\fad(280,360)}kimi no koe
+Dialogue: 2,0:24:32.87,0:24:34.87,ED Movie,alt,0,0,0,fx,{\bord0\be2\pos(960,164)\fs40\fad(280,360)}kimi no koe
+Dialogue: 1,0:24:32.87,0:24:34.87,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\pos(960,164)\fs40\fad(280,360)}kimi no koe
+Dialogue: 0,0:24:32.87,0:24:34.87,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\pos(960,164)\fs40\fad(280,360)}kimi no koe
+Dialogue: 3,0:24:34.33,0:24:40.50,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}boku wa mamorinuku to chikattan da
+Dialogue: 2,0:24:34.33,0:24:40.50,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}boku wa mamorinuku to chikattan da
+Dialogue: 1,0:24:34.33,0:24:40.50,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}boku wa mamorinuku to chikattan da
+Dialogue: 0,0:24:34.33,0:24:40.50,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}boku wa mamorinuku to chikattan da
+Dialogue: 3,0:24:53.39,0:24:59.60,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}oto wo tatete kuzure ochite yuku
+Dialogue: 2,0:24:53.39,0:24:59.60,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}oto wo tatete kuzure ochite yuku
+Dialogue: 1,0:24:53.39,0:24:59.60,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}oto wo tatete kuzure ochite yuku
+Dialogue: 0,0:24:53.39,0:24:59.60,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}oto wo tatete kuzure ochite yuku
+Dialogue: 3,0:24:59.60,0:25:02.86,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}hitotsu dake no
+Dialogue: 2,0:24:59.60,0:25:02.86,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}hitotsu dake no
+Dialogue: 1,0:24:59.60,0:25:02.86,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}hitotsu dake no
+Dialogue: 0,0:24:59.60,0:25:02.86,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}hitotsu dake no
+Dialogue: 3,0:25:01.31,0:25:03.77,ED Movie,alt,0,0,0,fx,{\bord0\be1\pos(960,164)\fs40\fad(280,360)}hitotsu dake no
+Dialogue: 2,0:25:01.31,0:25:03.77,ED Movie,alt,0,0,0,fx,{\bord0\be2\pos(960,164)\fs40\fad(280,360)}hitotsu dake no
+Dialogue: 1,0:25:01.31,0:25:03.77,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\pos(960,164)\fs40\fad(280,360)}hitotsu dake no
+Dialogue: 0,0:25:01.31,0:25:03.77,ED Movie,alt,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\pos(960,164)\fs40\fad(280,360)}hitotsu dake no
+Dialogue: 3,0:25:02.86,0:25:10.28,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kakegae no nai sekai
+Dialogue: 2,0:25:02.86,0:25:10.28,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kakegae no nai sekai
+Dialogue: 1,0:25:02.86,0:25:10.28,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kakegae no nai sekai
+Dialogue: 0,0:25:02.86,0:25:10.28,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kakegae no nai sekai
+Dialogue: 3,0:25:21.37,0:25:28.13,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}te wo nobashi dakitometa hageshii hikari no taba
+Dialogue: 2,0:25:21.37,0:25:28.13,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}te wo nobashi dakitometa hageshii hikari no taba
+Dialogue: 1,0:25:21.37,0:25:28.13,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}te wo nobashi dakitometa hageshii hikari no taba
+Dialogue: 0,0:25:21.37,0:25:28.13,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}te wo nobashi dakitometa hageshii hikari no taba
+Dialogue: 3,0:25:28.13,0:25:33.97,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kagayaite kietetta mirai no tame ni
+Dialogue: 2,0:25:28.13,0:25:33.97,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kagayaite kietetta mirai no tame ni
+Dialogue: 1,0:25:28.13,0:25:33.97,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kagayaite kietetta mirai no tame ni
+Dialogue: 0,0:25:28.13,0:25:33.97,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kagayaite kietetta mirai no tame ni
+Dialogue: 3,0:25:34.05,0:25:41.44,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}takusareta shiawase to yakusoku wo koete yuku
+Dialogue: 2,0:25:34.05,0:25:41.44,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}takusareta shiawase to yakusoku wo koete yuku
+Dialogue: 1,0:25:34.05,0:25:41.44,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}takusareta shiawase to yakusoku wo koete yuku
+Dialogue: 0,0:25:34.05,0:25:41.44,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}takusareta shiawase to yakusoku wo koete yuku
+Dialogue: 3,0:25:41.48,0:25:47.03,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}furikaerazu ni susumu kara
+Dialogue: 2,0:25:41.48,0:25:47.03,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}furikaerazu ni susumu kara
+Dialogue: 1,0:25:41.48,0:25:47.03,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}furikaerazu ni susumu kara
+Dialogue: 0,0:25:41.48,0:25:47.03,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}furikaerazu ni susumu kara
+Dialogue: 3,0:25:47.65,0:25:53.57,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}mae dake muite sakebu kara
+Dialogue: 2,0:25:47.65,0:25:53.57,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}mae dake muite sakebu kara
+Dialogue: 1,0:25:47.65,0:25:53.57,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}mae dake muite sakebu kara
+Dialogue: 0,0:25:47.65,0:25:53.57,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}mae dake muite sakebu kara
+Dialogue: 3,0:25:54.07,0:25:59.25,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}kokoro ni homura wo tomoshite
+Dialogue: 2,0:25:54.07,0:25:59.25,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}kokoro ni homura wo tomoshite
+Dialogue: 1,0:25:54.07,0:25:59.25,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}kokoro ni homura wo tomoshite
+Dialogue: 0,0:25:54.07,0:25:59.25,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}kokoro ni homura wo tomoshite
+Dialogue: 3,0:25:59.25,0:26:07.88,ED Movie,rom,0,0,0,fx,{\bord0\be1\an8\fs55\fad(280,360)}tooi mirai made
+Dialogue: 2,0:25:59.25,0:26:07.88,ED Movie,rom,0,0,0,fx,{\bord0\be2\an8\fs55\fad(280,360)}tooi mirai made
+Dialogue: 1,0:25:59.25,0:26:07.88,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.1\blur8\an8\fs55\fad(280,360)}tooi mirai made
+Dialogue: 0,0:25:59.25,0:26:07.88,ED Movie,rom,0,0,0,fx,{\1a&HFE&\3a&HFE&\shad0.5\blur12\an8\fs55\fad(280,360)}tooi mirai made
+Dialogue: 0,0:00:55.08,0:01:00.08,Sign,,0,0,0,,{\fnBrushstroke 35\bord1.2\fs125\1c&H010100&\3c&HFFFFFF&\an8}Demon Slayer
+Dialogue: 1,0:00:55.08,0:01:00.08,Sign,,0,0,0,,{\c&H1000E6&\fnIwata Mincho Old Pro H-Fate\b1\fs\fscx99\an2}Infinity Train
+Dialogue: 2,0:01:01.71,0:01:03.75,Sign,,0,0,0,,{\fad(950,700)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\an8\t(0,1100,\fs120\blur0.9)\fsp-12\move(440,200.5,440,200,0,3000)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}7\N\N\N{\fscx90\fscy90}S{\fsp0}et{\fsp-12}_{\fsp-6}Y{\fsp0}our\N{\fsp-6}H{\fsp0}eart{\fsp-12}_{\fsp-6}A{\fsp0}blaze
+Dialogue: 1,0:01:01.71,0:01:06.09,Sign,,0,0,0,,{\fad(950,0)\c&H000000&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\an8\t(0,1100,\fs120\blur0.9)\fsp-12\move(440,200.5,440,200,0,1150)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}7\N\N\N{\fscx90\fscy90}S{\fsp0}et{\fsp-12}_{\fsp-6}Y{\fsp0}our\N{\fsp-6}H{\fsp0}eart{\fsp-12}_{\fsp-6}A{\fsp0}blaze
+Dialogue: 0,0:01:03.67,0:01:06.09,Sign,,0,0,0,,{\fad(485,0)\1c&H7D8EC1&\shad0.5\blur15\fscx60\fscy60\fs122\blur8\fnRSStyle\move(440,200.5,440,200,0,1150)\an8\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}7\N\N\N{\fscx90\fscy90\c&HC4E0FE&}S{\fsp0}et{\fsp-12}_{\fsp-6}Y{\fsp0}our\N{\fsp-6\c&HCFE1F2&}H{\fsp0}eart{\fsp-12}_{\fsp-6}A{\fsp0}blaze
+Dialogue: 0,0:12:20.09,0:12:25.02,Sign,,0,0,0,,{\an2\fscx100.46\fscy100.46\fnBrushstroke 35\fs43\c&H000000&\blur0.8\pos(1542.277,614.287)}Demon Slayer
+Dialogue: 0,0:12:20.09,0:12:25.02,Sign,,0,0,0,,{\c&H1000E6&\fnIwata Mincho Old Pro H-Fate\b0\fs30\fscx99\pos(1532.77,889.977)}Infinity Train
+Dialogue: 0,0:12:25.02,0:12:25.06,Sign,,0,0,0,,{\an2\fscx100.46\fscy100.46\fnBrushstroke 35\fs43\c&H000000&\blur0.8\pos(1607.344,659.62)}Demon Slayer
+Dialogue: 0,0:12:25.02,0:12:25.06,Sign,,0,0,0,,{\c&H1000E6&\fnIwata Mincho Old Pro H-Fate\b0\fs30\fscx99\pos(1597.837,935.31)}Infinity Train
+

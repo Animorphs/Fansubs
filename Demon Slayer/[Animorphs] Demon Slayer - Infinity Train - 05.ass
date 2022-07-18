@@ -1,0 +1,428 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,56,1
+Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,200,200,56,1
+Style: OP,Self Destruct Button BB,80,&H00000000,&H000000FF,&H0019DAF1,&H00212A82,0,0,0,0,100,100,0,0,1,4.5,0,2,50,50,50,1
+Style: ED,Racing Sans One,80,&H00F5FAFF,&H000000FF,&H00799538,&H00212A82,0,0,0,0,100,100,0,0,1,4.5,0,2,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:06.86,0:00:08.66,Default,,0,0,0,,How dare you
+Dialogue: 10,0:00:09.28,0:00:10.45,Default,,0,0,0,,insult
+Dialogue: 10,0:00:10.78,0:00:12.24,Default,,0,0,0,,their memory!
+Dialogue: 10,0:00:26.46,0:00:28.34,Default,,0,0,0,,{\i1}That was way too easy.
+Dialogue: 10,0:00:29.97,0:00:31.47,Default,,0,0,0,,I think I get it now.
+Dialogue: 10,0:00:32.47,0:00:37.35,Default,,0,0,0,,I see why the Master ordered me \Nto dispose of you along with the Hashira.
+Dialogue: 10,0:00:38.98,0:00:41.69,Default,,0,0,0,,I totally understand now!
+Dialogue: 10,0:00:42.27,0:00:45.19,Default,,0,0,0,,Your very existence is just...
+Dialogue: 10,0:00:45.61,0:00:49.20,Default,,0,0,0,,It just grates on my nerves, you know!
+Dialogue: 10,0:00:50.07,0:00:51.36,Default,,0,0,0,,{\i1}He's still alive?
+Dialogue: 10,0:00:51.74,0:00:56.74,Default,,0,0,0,,You're wondering why I'm not dead \Neven after you decapitated me, aren't you?
+Dialogue: 10,0:00:57.62,0:01:01.62,Default,,0,0,0,,It's because that thing \Nover there was not my main body.
+Dialogue: 10,0:01:01.92,0:01:05.13,Default,,0,0,0,,While you were snoozing away,
+Dialogue: 10,0:01:05.63,0:01:08.80,Default,,0,0,0,,I fused my being with this entire train!
+Dialogue: 10,0:01:09.59,0:01:15.85,Default,,0,0,0,,Every inch of it has become my blood, flesh, and bone!
+Dialogue: 10,0:01:16.85,0:01:20.81,Default,,0,0,0,,Do you think you can protect them by yourself?
+Dialogue: 10,0:01:20.81,0:01:27.15,Default,,0,0,0,,All these humans squirming the train from stem to stern,
+Dialogue: 10,0:01:27.69,0:01:30.99,Default,,0,0,0,,can you alone keep me from devouring them?
+Dialogue: 10,0:01:38.16,0:01:40.46,Default,,0,0,0,,{\i1}What should I do? What can I do?
+Dialogue: 10,0:01:40.83,0:01:44.13,Default,,0,0,0,,{\i1}I can protect only two cars at most!
+Dialogue: 10,0:01:44.13,0:01:46.88,Default,,0,0,0,,{\i1}Any more is just too much for me to handle!
+Dialogue: 10,0:01:47.46,0:01:51.09,Default,,0,0,0,,Rengoku! Zenitsu! Inosuke!
+Dialogue: 10,0:01:51.51,0:01:53.13,Default,,0,0,0,,This is no time to be sleeping!
+Dialogue: 10,0:01:53.13,0:01:55.26,Default,,0,0,0,,Wake up already, will you? Please!
+Dialogue: 10,0:01:56.14,0:01:57.85,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:01:57.85,0:02:00.48,Default,,0,0,0,,Protect the passengers who are asleep!
+Dialogue: 10,0:02:12.45,0:02:14.53,Default,,0,0,0,,Follow me, damn minions!
+Dialogue: 10,0:02:14.53,0:02:16.28,Default,,0,0,0,,All right!
+Dialogue: 10,0:02:16.28,0:02:17.99,Default,,0,0,0,,Explosive Awakening!
+Dialogue: 10,0:02:19.45,0:02:21.29,Default,,0,0,0,,Clear the way!
+Dialogue: 10,0:02:21.54,0:02:25.04,Default,,0,0,0,,Lord Inosuke is comin' through!
+Dialogue: 10,0:04:16.44,0:04:17.86,Default,,0,0,0,,Inosuke!
+Dialogue: 10,0:04:17.86,0:04:20.28,Default,,0,0,0,,No corner of this train is safe anymore!
+Dialogue: 10,0:04:20.28,0:04:22.45,Default,,0,0,0,,We have to protect everyone who's asleep!
+Dialogue: 10,0:04:22.45,0:04:25.20,Default,,0,0,0,,The whole train has been taken over by a demon!
+Dialogue: 10,0:04:25.20,0:04:26.25,Default,,0,0,0,,I repeat!
+Dialogue: 10,0:04:26.25,0:04:28.46,Default,,0,0,0,,This whole train is a demon!
+Dialogue: 10,0:04:30.25,0:04:31.54,Default,,0,0,0,,I knew it!
+Dialogue: 10,0:04:31.54,0:04:33.84,Default,,0,0,0,,I was right on the money!
+Dialogue: 10,0:04:33.84,0:04:38.01,Default,,0,0,0,,That means I was a total stud as the boss!
+Dialogue: 10,0:04:42.51,0:04:43.97,Default,,0,0,0,,Beast Breathing!
+Dialogue: 10,0:04:43.97,0:04:45.26,Default,,0,0,0,,Fifth Fang!
+Dialogue: 10,0:04:46.02,0:04:47.77,Default,,0,0,0,,Rip and Shred!
+Dialogue: 10,0:04:52.44,0:04:55.78,Default,,0,0,0,,I'll save every last one of y'all!
+Dialogue: 10,0:04:55.78,0:04:57.86,Default,,0,0,0,,Then I'll have you fall to your knees!
+Dialogue: 10,0:04:57.86,0:05:00.03,Default,,0,0,0,,And worship me!
+Dialogue: 10,0:05:00.03,0:05:02.03,Default,,0,0,0,,As your savior!
+Dialogue: 10,0:05:02.03,0:05:07.37,Default,,0,0,0,,Lord Hashibira Inosuke is comin' through!
+Dialogue: 10,0:05:07.83,0:05:09.79,Default,,0,0,0,,I have to save the others!
+Dialogue: 10,0:05:10.50,0:05:12.92,Default,,0,0,0,,If Inosuke can hold down the fort here,
+Dialogue: 10,0:05:12.92,0:05:14.21,Default,,0,0,0,,I should go on ahead!
+Dialogue: 10,0:05:39.32,0:05:41.74,Default,,0,0,0,,The situation is this bad already?
+Dialogue: 10,0:05:44.62,0:05:45.99,Default,,0,0,0,,{\i1}Water Breathing.
+Dialogue: 10,0:05:46.37,0:05:47.87,Default,,0,0,0,,{\i1}First Form.
+Dialogue: 10,0:05:47.87,0:05:49.62,Default,,0,0,0,,{\i1}Water Surface Slash!
+Dialogue: 10,0:05:52.71,0:05:54.00,Default,,0,0,0,,{\i1}Not enough.
+Dialogue: 10,0:05:54.00,0:05:55.59,Default,,0,0,0,,{\i1}There's no end to this!
+Dialogue: 10,0:05:56.04,0:05:57.96,Default,,0,0,0,,{\i1}How am I supposed to fend it off?
+Dialogue: 10,0:06:04.76,0:06:09.89,Default,,0,0,0,,{\i1}I can feel them scurrying around inside me.
+Dialogue: 10,0:06:10.73,0:06:14.23,Default,,0,0,0,,{\i1}Thrash around all you want, \Nbut I'll just keep regenerating.
+Dialogue: 10,0:06:14.23,0:06:18.32,Default,,0,0,0,,{\i1}And then, after all your strength is depleted
+Dialogue: 10,0:06:18.69,0:06:24.99,Default,,0,0,0,,{\i1}I'll take my oh-so-sweet time \Nfeasting on those two hundred passengers.
+Dialogue: 10,0:07:46.20,0:07:47.82,Default,,0,0,0,,{\i1}Thunder Breathing.
+Dialogue: 10,0:07:48.70,0:07:50.12,Default,,0,0,0,,{\i1}First Form.
+Dialogue: 10,0:07:50.70,0:07:52.20,Default,,0,0,0,,{\i1}Thunderclap and Flash!
+Dialogue: 10,0:07:56.16,0:07:57.46,Default,,0,0,0,,{\i1}Sixfold.
+Dialogue: 10,0:07:57.87,0:08:01.46,Default,,0,0,0,,I'll protect you, Nezuko!
+Dialogue: 10,0:08:04.17,0:08:05.46,Default,,0,0,0,,Protecc...
+Dialogue: 10,0:08:12.43,0:08:14.01,Default,,0,0,0,,{\i1}That sounded like thunder.
+Dialogue: 10,0:08:14.47,0:08:15.98,Default,,0,0,0,,{\i1}From one of the cars in the back?
+Dialogue: 10,0:08:15.98,0:08:17.94,Default,,0,0,0,,{\i1}What's going on?
+Dialogue: 10,0:08:17.94,0:08:19.60,Default,,0,0,0,,{\i1}Is Zenitsu awake?
+Dialogue: 10,0:08:20.19,0:08:21.77,Default,,0,0,0,,{\i1}What about Rengoku?
+Dialogue: 10,0:08:21.77,0:08:23.07,Default,,0,0,0,,{\i1}And Nezuko?
+Dialogue: 10,0:08:28.57,0:08:31.57,Default,,0,0,0,,{\i1}It's all I can do to protect the ones here!
+Dialogue: 10,0:08:32.28,0:08:33.95,Default,,0,0,0,,{\i1}This is bad! What should I do?
+Dialogue: 10,0:08:33.95,0:08:35.70,Default,,0,0,0,,{\i1}We can't fight in coordination!
+Dialogue: 10,0:08:35.70,0:08:38.96,Default,,0,0,0,,{\i1}Are the passengers in the back all right?
+Dialogue: 10,0:08:39.25,0:08:40.58,Default,,0,0,0,,{\i1}Damn it!
+Dialogue: 10,0:08:40.58,0:08:41.54,Default,,0,0,0,,{\i1}It's too cramped!
+Dialogue: 10,0:08:42.92,0:08:45.05,Default,,0,0,0,,{\i1}I can't swing my sword!
+Dialogue: 10,0:08:51.26,0:08:55.35,Default,,0,0,0,,To think all this happened while I was napping.
+Dialogue: 10,0:08:56.06,0:08:58.14,Default,,0,0,0,,How preposterous!
+Dialogue: 10,0:08:58.60,0:09:00.81,Default,,0,0,0,,Some Hashira I am!
+Dialogue: 10,0:09:02.35,0:09:04.48,Default,,0,0,0,,If only I could
+Dialogue: 10,0:09:05.98,0:09:07.49,Default,,0,0,0,,crawl under a rock!
+Dialogue: 10,0:09:14.53,0:09:15.74,Default,,0,0,0,,What the—
+Dialogue: 10,0:09:21.54,0:09:23.08,Default,,0,0,0,,{\i1}What was that?
+Dialogue: 10,0:09:23.08,0:09:24.92,Default,,0,0,0,,{\i1}A demon attack?
+Dialogue: 10,0:09:27.09,0:09:28.13,Default,,0,0,0,,Young Kamado!
+Dialogue: 10,0:09:30.26,0:09:31.72,Default,,0,0,0,,Rengoku!
+Dialogue: 10,0:09:31.72,0:09:35.26,Default,,0,0,0,,I was quite thorough with \Nmy bladework on my way here,
+Dialogue: 10,0:09:35.26,0:09:38.06,Default,,0,0,0,,so it should take the demon a while to regenerate.
+Dialogue: 10,0:09:38.06,0:09:40.43,Default,,0,0,0,,But there's no time to lose! I'll keep it short!
+Dialogue: 10,0:09:40.43,0:09:41.56,Default,,0,0,0,,Right!
+Dialogue: 10,0:09:41.85,0:09:44.02,Default,,0,0,0,,This train has eight cars in all.
+Dialogue: 10,0:09:44.02,0:09:46.07,Default,,0,0,0,,I'll protect the five in the rear.
+Dialogue: 10,0:09:46.07,0:09:50.53,Default,,0,0,0,,The Boy of Yellow and the Kamado Sister \Nwill defend the remaining three.
+Dialogue: 10,0:09:50.53,0:09:52.20,Default,,0,0,0,,During all of this,
+Dialogue: 10,0:09:52.20,0:09:56.28,Default,,0,0,0,,you and the Boar Head Boy\N will search for the demon's head.
+Dialogue: 10,0:09:56.28,0:09:57.66,Default,,0,0,0,,Head?
+Dialogue: 10,0:09:57.66,0:09:58.87,Default,,0,0,0,,But this demon is—
+Dialogue: 10,0:09:58.87,0:10:02.67,Default,,0,0,0,,No matter what form it assumes,\Nso long as it's a demon, it's got a head! {okay to refer to demons as "it"? cause we always use "he" for this}
+Dialogue: 10,0:10:02.67,0:10:05.08,Default,,0,0,0,,I'll search for it while fighting, as well!
+Dialogue: 10,0:10:05.08,0:10:07.21,Default,,0,0,0,,Show me how fired up you are!
+Dialogue: 10,0:10:10.71,0:10:13.18,Default,,0,0,0,,{\i1}Amazing! It's like he just disappeared!
+Dialogue: 10,0:10:13.18,0:10:16.64,Default,,0,0,0,,{\i1}Did the train shake earlier because he was on the move?
+Dialogue: 10,0:10:17.18,0:10:20.14,Default,,0,0,0,,{\i1}His tactical mind is just as quick, too!
+Dialogue: 10,0:10:20.14,0:10:22.02,Default,,0,0,0,,{\i1}Five cars, all by himself?
+Dialogue: 10,0:10:23.52,0:10:25.77,Default,,0,0,0,,{\i1}This is no time to be dazzled, you idiot!
+Dialogue: 10,0:10:25.77,0:10:27.48,Default,,0,0,0,,{\i1}Do what you have to do!
+Dialogue: 10,0:10:27.48,0:10:30.40,Default,,0,0,0,,{\i1}The demon's scent is getting stronger by the second!
+Dialogue: 10,0:10:30.40,0:10:31.36,Default,,0,0,0,,{\i1}I have to hurry!
+Dialogue: 10,0:10:32.82,0:10:35.61,Default,,0,0,0,,Inosuke! Where are you, Inosuke?
+Dialogue: 10,0:10:35.61,0:10:37.66,Default,,0,0,0,,Shut up or I'll end ya!
+Dialogue: 10,0:10:37.66,0:10:38.70,Default,,0,0,0,,Up there, huh?
+Dialogue: 10,0:10:38.70,0:10:41.79,Default,,0,0,0,,How dare that Goggle-eyes order me around!
+Dialogue: 10,0:10:43.58,0:10:44.87,Default,,0,0,0,,But he was kinda...
+Dialogue: 10,0:10:45.58,0:10:46.67,Default,,0,0,0,,Sorta...
+Dialogue: 10,0:10:47.63,0:10:49.63,Default,,0,0,0,,He was pretty fuckin' cool!
+Dialogue: 10,0:10:49.63,0:10:52.46,Default,,0,0,0,,And it pisses me off!
+Dialogue: 10,0:10:52.46,0:10:56.09,Default,,0,0,0,,Inosuke! Keep an eye on the first three cars!
+Dialogue: 10,0:10:56.09,0:10:58.05,Default,,0,0,0,,You ain't gotta tell me that!
+Dialogue: 10,0:10:58.05,0:11:00.35,Default,,0,0,0,,And by the way, I've found it!
+Dialogue: 10,0:11:00.35,0:11:01.22,Default,,0,0,0,,Already!
+Dialogue: 10,0:11:01.22,0:11:03.35,Default,,0,0,0,,Thanks to my all-out Seventh Form,
+Dialogue: 10,0:11:03.35,0:11:05.48,Default,,0,0,0,,I found the master's weak spot!
+Dialogue: 10,0:11:05.77,0:11:06.69,Default,,0,0,0,,You did?
+Dialogue: 10,0:11:06.69,0:11:08.81,Default,,0,0,0,,So, it {\i1}is{\i0} up front!
+Dialogue: 10,0:11:08.81,0:11:10.27,Default,,0,0,0,,That's right, straight ahead!
+Dialogue: 10,0:11:10.27,0:11:13.24,Default,,0,0,0,,And that front part is a heck of a lot creepier!
+Dialogue: 10,0:11:13.61,0:11:17.20,Default,,0,0,0,,{\i1}I can't pick up the scent because of the wind,
+Dialogue: 10,0:11:17.20,0:11:19.58,Default,,0,0,0,,{\i1}but if Inosuke says so, there's no doubt about it!
+Dialogue: 10,0:11:19.58,0:11:22.08,Default,,0,0,0,,Is it around where the coal's loaded?
+Dialogue: 10,0:11:22.08,0:11:23.04,Default,,0,0,0,,Exactly!
+Dialogue: 10,0:11:23.04,0:11:24.08,Default,,0,0,0,,Got it!
+Dialogue: 10,0:11:24.46,0:11:26.21,Default,,0,0,0,,All right, let's go!
+Dialogue: 10,0:11:26.21,0:11:27.29,Default,,0,0,0,,Forward!
+Dialogue: 10,0:11:43.89,0:11:47.94,Default,,0,0,0,,{\i1}Rengoku is protecting five cars for us!{\i0}
+Dialogue: 10,0:11:48.44,0:11:50.94,Default,,0,0,0,,{\i1}Inosuke's found the enemy's weak spot!{\i0}
+Dialogue: 10,0:11:51.52,0:11:53.94,Default,,0,0,0,,{\i1}Zenitsu and Nezuko are fighting, too!{\i0}
+Dialogue: 10,0:11:56.11,0:11:59.24,Default,,0,0,0,,{\i1}I have to be useful, as well!{\i0}
+Dialogue: 10,0:11:59.62,0:12:02.20,Default,,0,0,0,,{\i1}I have to protect everyone!{\i0}
+Dialogue: 10,0:12:05.54,0:12:07.16,Default,,0,0,0,,This is it, huh?
+Dialogue: 10,0:12:11.34,0:12:12.50,Default,,0,0,0,,Hell yeah!
+Dialogue: 10,0:12:19.76,0:12:20.97,Default,,0,0,0,,Inosuke!
+Dialogue: 10,0:12:21.47,0:12:24.22,Default,,0,0,0,,Something's fishy, very fishy!
+Dialogue: 10,0:12:24.22,0:12:26.60,Default,,0,0,0,,Especially around here!
+Dialogue: 10,0:12:26.60,0:12:28.10,Default,,0,0,0,,Who the hell are you?
+Dialogue: 10,0:12:28.10,0:12:29.98,Default,,0,0,0,,G-Get outta here!
+Dialogue: 10,0:12:30.31,0:12:31.98,Default,,0,0,0,,It's here, the demon's head.
+Dialogue: 10,0:12:31.98,0:12:33.48,Default,,0,0,0,,The demon's
+Dialogue: 10,0:12:33.48,0:12:35.23,Default,,0,0,0,,weakness!
+Dialogue: 10,0:12:40.20,0:12:41.37,Default,,0,0,0,,Gross!
+Dialogue: 10,0:12:41.62,0:12:42.53,Default,,0,0,0,,Get away from me!
+Dialogue: 10,0:12:45.83,0:12:47.20,Default,,0,0,0,,Just how many hands—
+Dialogue: 10,0:12:48.21,0:12:49.16,Default,,0,0,0,,Shit!
+Dialogue: 10,0:12:51.96,0:12:53.50,Default,,0,0,0,,{\i1}Water Breathing.
+Dialogue: 10,0:12:53.50,0:12:54.67,Default,,0,0,0,,{\i1}Sixth Form.
+Dialogue: 10,0:12:55.13,0:12:56.42,Default,,0,0,0,,{\i1}Maelström!
+Dialogue: 10,0:13:04.30,0:13:05.93,Default,,0,0,0,,Are you all right, Inosuke?
+Dialogue: 10,0:13:05.93,0:13:08.52,Default,,0,0,0,,Don't act like you came to rescue me, okay?
+Dialogue: 10,0:13:08.52,0:13:09.56,Default,,0,0,0,,Yeah, I know!
+Dialogue: 10,0:13:12.31,0:13:13.27,Default,,0,0,0,,{\i1}It's here.
+Dialogue: 10,0:13:14.52,0:13:15.65,Default,,0,0,0,,{\i1}Right under us!
+Dialogue: 10,0:13:16.44,0:13:19.90,Default,,0,0,0,,{\i1}The demon's scent is strongest directly below this place.
+Dialogue: 10,0:13:19.90,0:13:22.87,Default,,0,0,0,,Inosuke! The demon's head is under here!
+Dialogue: 10,0:13:22.87,0:13:25.83,Default,,0,0,0,,Don't order me around! I'm the boss!
+Dialogue: 10,0:13:25.83,0:13:26.79,Default,,0,0,0,,Fine!
+Dialogue: 10,0:13:27.33,0:13:28.54,Default,,0,0,0,,Just watch.
+Dialogue: 10,0:13:28.54,0:13:30.37,Default,,0,0,0,,Beast Breathing.
+Dialogue: 10,0:13:30.37,0:13:31.67,Default,,0,0,0,,Second Fang.
+Dialogue: 10,0:13:32.83,0:13:34.17,Default,,0,0,0,,Hack and Slash!
+Dialogue: 10,0:13:41.30,0:13:42.30,Default,,0,0,0,,This is...
+Dialogue: 10,0:13:42.63,0:13:44.14,Default,,0,0,0,,It's his neck bone!
+Dialogue: 10,0:13:44.89,0:13:46.18,Default,,0,0,0,,{\i1}Water Breathing.
+Dialogue: 10,0:13:46.18,0:13:47.64,Default,,0,0,0,,{\i1}Eighth Form.
+Dialogue: 10,0:13:47.81,0:13:48.97,Default,,0,0,0,,{\i1}Waterfall Basin!
+Dialogue: 10,0:13:53.35,0:13:54.40,Default,,0,0,0,,{\i1}It blocked!
+Dialogue: 10,0:14:10.83,0:14:12.33,Default,,0,0,0,,{\i1}The gash is closing up!
+Dialogue: 10,0:14:12.96,0:14:14.33,Default,,0,0,0,,{\i1}It's regenerating so fast!
+Dialogue: 10,0:14:14.83,0:14:19.34,Default,,0,0,0,,{\i1}Not to mention, it took everything I had just to expose the bone!
+Dialogue: 10,0:14:19.76,0:14:21.59,Default,,0,0,0,,{\i1}I have to sever it!
+Dialogue: 10,0:14:21.92,0:14:25.43,Default,,0,0,0,,Inosuke! Let's synchronize our breathing and attack together!
+Dialogue: 10,0:14:25.43,0:14:30.14,Default,,0,0,0,,One of us will slash the flesh while the other jumps in to sever the bone!
+Dialogue: 10,0:14:30.14,0:14:31.48,Default,,0,0,0,,Y'know what?
+Dialogue: 10,0:14:31.48,0:14:32.89,Default,,0,0,0,,That's a great idea!
+Dialogue: 10,0:14:32.89,0:14:34.35,Default,,0,0,0,,Good thinkin'!
+Dialogue: 10,0:14:34.35,0:14:35.56,Default,,0,0,0,,Thanks!
+Dialogue: 10,0:14:37.11,0:14:38.48,Default,,0,0,0,,Let's do this!
+Dialogue: 10,0:14:46.28,0:14:50.62,Default,,0,0,0,,{\i1}Eyes of Forced Unconscious: Sleep.
+Dialogue: 10,0:14:50.62,0:14:51.83,Default,,0,0,0,,{\i1}A Blood Art!
+Dialogue: 10,0:14:52.79,0:14:55.75,Default,,0,0,0,,He got me! I'm falling asleep!
+Dialogue: 10,0:14:56.75,0:14:57.79,Default,,0,0,0,,Inosuke!
+Dialogue: 10,0:14:57.79,0:15:00.09,Default,,0,0,0,,Slash your own neck inside your dream!
+Dialogue: 10,0:15:00.09,0:15:01.55,Default,,0,0,0,,It'll wake you up!
+Dialogue: 10,0:15:05.97,0:15:07.59,Default,,0,0,0,,{\i1}It's all right!
+Dialogue: 10,0:15:07.59,0:15:09.76,Default,,0,0,0,,{\i1}I can still break the spell!
+Dialogue: 10,0:15:10.51,0:15:15.77,Default,,0,0,0,,{\i1}Keep your eyes closed, idiot! \NYou'll just fall asleep again otherwise!
+Dialogue: 10,0:15:16.94,0:15:18.69,Default,,0,0,0,,{\i1}All right, I'm awake!
+Dialogue: 10,0:15:24.86,0:15:29.49,Default,,0,0,0,,{\i1}The moment I wake up, I can't help but look directly into one of those demon eyes!
+Dialogue: 10,0:15:29.49,0:15:32.20,Default,,0,0,0,,{\i1}I've gotta keep them closed when I wake up!
+Dialogue: 10,0:15:32.20,0:15:34.12,Default,,0,0,0,,{\i1}I have to keep my eyes shut!
+Dialogue: 10,0:15:36.08,0:15:36.92,Default,,0,0,0,,{\i1}Again!
+Dialogue: 10,0:15:37.12,0:15:38.25,Default,,0,0,0,,{\i1}Wake up!
+Dialogue: 10,0:15:38.25,0:15:39.46,Default,,0,0,0,,{\i1}You have to wake up!
+Dialogue: 10,0:15:40.21,0:15:41.00,Default,,0,0,0,,{\i1}Hurry!
+Dialogue: 10,0:15:41.00,0:15:41.67,Default,,0,0,0,,{\i1}Sever the neck!
+Dialogue: 10,0:15:41.88,0:15:42.50,Default,,0,0,0,,{\i1}Sever the neck!
+Dialogue: 10,0:15:42.71,0:15:43.51,Default,,0,0,0,,{\i1}Cut it!
+Dialogue: 10,0:15:43.71,0:15:44.51,Default,,0,0,0,,{\i1}Slash it!
+Dialogue: 10,0:15:45.09,0:15:46.38,Default,,0,0,0,,{\i1}It's just a dream!
+Dialogue: 10,0:15:48.43,0:15:49.76,Default,,0,0,0,,There's no time left!
+Dialogue: 10,0:15:50.43,0:15:52.60,Default,,0,0,0,,{\i1}I have to wake up!
+Dialogue: 10,0:15:56.44,0:15:58.44,Default,,0,0,0,,This isn't a dream, dumbass!
+Dialogue: 10,0:15:58.44,0:16:00.81,Default,,0,0,0,,Don't fall for the trap!
+Dialogue: 10,0:16:00.81,0:16:03.19,Default,,0,0,0,,Don't die such pathetic deaths!
+Dialogue: 10,0:16:07.20,0:16:10.82,Default,,0,0,0,,I'm wearing the hide of the mountain god on my head.
+Dialogue: 10,0:16:10.82,0:16:13.87,Default,,0,0,0,,I bet he's too scared to look me in the eye!
+Dialogue: 10,0:16:15.00,0:16:17.00,Default,,0,0,0,,You loser eyeballs!
+Dialogue: 10,0:16:17.21,0:16:18.25,Default,,0,0,0,,{\i1}I see.
+Dialogue: 10,0:16:18.25,0:16:22.04,Default,,0,0,0,,{\i1}He's having a hard time\N telling which way Inosuke is looking!
+Dialogue: 10,0:16:22.04,0:16:23.42,Default,,0,0,0,,All right!
+Dialogue: 10,0:16:23.42,0:16:26.13,Default,,0,0,0,,Now we just gotta rip this thing to shreds!
+Dialogue: 10,0:16:30.43,0:16:31.55,Default,,0,0,0,,Inosuke!
+Dialogue: 10,0:16:31.55,0:16:34.93,Default,,0,0,0,,Don't you dare get in the way of my dream!
+Dialogue: 10,0:16:41.81,0:16:43.44,Default,,0,0,0,,Did he just stab you?
+Dialogue: 10,0:16:43.44,0:16:44.86,Default,,0,0,0,,I'm okay.
+Dialogue: 10,0:16:46.99,0:16:49.45,Default,,0,0,0,,Just forget about that bastard!
+Dialogue: 10,0:16:49.45,0:16:51.82,Default,,0,0,0,,I can't do that! I won't let him die!
+Dialogue: 10,0:16:52.91,0:16:56.66,Default,,0,0,0,,If we don't chop this thing's head off soon, \Nnone of us will make it!
+Dialogue: 10,0:16:56.91,0:16:59.12,Default,,0,0,0,,I hear you! Let's get moving!
+Dialogue: 10,0:17:16.18,0:17:17.64,Default,,0,0,0,,Inosuke!
+Dialogue: 10,0:17:17.64,0:17:19.48,Default,,0,0,0,,Let's synchronize our breathing!
+Dialogue: 10,0:17:19.48,0:17:23.23,Default,,0,0,0,,We'll attack together and chop off the demon's head!
+Dialogue: 10,0:17:58.52,0:17:59.64,Default,,0,0,0,,{\i1}Not good!
+Dialogue: 10,0:17:59.64,0:18:01.18,Default,,0,0,0,,{\i1}If I fall asleep now...
+Dialogue: 10,0:18:01.18,0:18:02.60,Default,,0,0,0,,I got ya!
+Dialogue: 10,0:18:02.85,0:18:05.19,Default,,0,0,0,,C'mon! Follow my lead!
+Dialogue: 10,0:18:05.19,0:18:06.77,Default,,0,0,0,,Beast Breathing.
+Dialogue: 10,0:18:06.77,0:18:08.19,Default,,0,0,0,,Fourth Fang.
+Dialogue: 10,0:18:11.15,0:18:12.90,Default,,0,0,0,,Slice and Dice!
+Dialogue: 10,0:18:16.62,0:18:19.24,Default,,0,0,0,,{\i1}Father, please guide my blade!
+Dialogue: 10,0:18:19.70,0:18:22.87,Default,,0,0,0,,{\i1}I'm going to sever that bone
+Dialogue: 10,0:18:23.58,0:18:24.67,Default,,0,0,0,,{\i1}with this strike!
+Dialogue: 10,0:18:24.88,0:18:26.96,Default,,0,0,0,,{\i1}Dance of the Fire God!
+Dialogue: 10,0:18:28.75,0:18:30.67,Default,,0,0,0,,{\i1}Azure Heaven!
+Dialogue: 10,0:20:44.18,0:20:46.43,Default,,0,0,0,,{\i1}What am I doing here?
+Dialogue: 10,0:20:48.19,0:20:50.94,Default,,0,0,0,,{\i1}I still haven't woken up from that dream?
+Dialogue: 10,0:20:58.49,0:20:59.45,Default,,0,0,0,,Huh?
+Dialogue: 10,0:21:04.53,0:21:08.21,Default,,0,0,0,,Big Brother...
+Dialogue: 10,0:21:08.75,0:21:10.83,Default,,0,0,0,,I will protect you!
+Dialogue: 10,0:21:11.25,0:21:12.21,Default,,0,0,0,,Ne...
+Dialogue: 10,0:21:12.58,0:21:14.34,Default,,0,0,0,,Ne...
+Dialogue: 10,0:21:18.22,0:21:20.59,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:21:22.14,0:21:24.10,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:21:25.31,0:21:26.64,Default,,0,0,0,,{\i1}It was a dream?{\i0}
+Dialogue: 10,0:21:27.14,0:21:28.68,Default,,0,0,0,,{\i1}Thank goodness!{\i0}
+Dialogue: 10,0:21:29.02,0:21:33.10,Default,,0,0,0,,{\i1}Your sweet little chin looked like a butt!{\i0}
+Dialogue: 10,0:21:33.48,0:21:35.15,Default,,0,0,0,,I almost forgot the preview!
+Dialogue: 10,0:21:35.15,0:21:37.48,Default,,0,0,0,,Next, Episode 6, "Akaza"!
+Dialogue: 10,0:02:34.63,0:02:39.89,OP,,0,0,0,,{\an8\blur5\fad(300,300)}taiyou wo akaku tojikomete
+Dialogue: 10,0:02:39.89,0:02:44.14,OP,,0,0,0,,{\an8\blur5\fad(300,300)}kuruma wa doko e susumu
+Dialogue: 10,0:02:44.64,0:02:50.15,OP,,0,0,0,,{\an8\blur5\fad(300,300)}konton no fukiareru yoru ni
+Dialogue: 10,0:02:50.15,0:02:53.11,OP,,0,0,0,,{\an8\blur5\fad(300,300)}bokura no koe ga hibiita
+Dialogue: 10,0:02:53.11,0:02:58.24,OP,,0,0,0,,{\an8\blur5\fad(300,300)}negai no akari wo tomoshite
+Dialogue: 10,0:02:58.24,0:03:02.79,OP,,0,0,0,,{\an8\blur5\fad(300,300)}kokoro wa yume wo nugisutete
+Dialogue: 10,0:03:02.79,0:03:05.04,OP,,0,0,0,,{\an8\blur5\fad(300,300)}shiroi michi wo yuku
+Dialogue: 10,0:03:06.12,0:03:10.96,OP,,0,0,0,,{\an8\blur5\fad(300,300)}kurai sora ni wa akeboshi ga mirai wo
+Dialogue: 10,0:03:10.96,0:03:15.97,OP,,0,0,0,,{\an8\blur5\fad(300,300)}dou shitemo sashite ugokanai kara
+Dialogue: 10,0:03:15.97,0:03:21.60,OP,,0,0,0,,{\an8\blur5\fad(300,300)}yasashiku sasou kinou ni te wo futte
+Dialogue: 10,0:03:21.60,0:03:24.10,OP,,0,0,0,,{\an8\blur5\fad(300,300)}bokura wa naita
+Dialogue: 10,0:03:24.10,0:03:26.94,OP,,0,0,0,,{\an8\blur5\fad(300,300)}mata hashiridasu tame
+Dialogue: 10,0:03:26.94,0:03:31.02,OP,,0,0,0,,{\an8\blur5\fad(300,300)}mayottemo nageittemo inochi wa
+Dialogue: 10,0:03:31.02,0:03:36.07,OP,,0,0,0,,{\an8\blur5\fad(300,300)}akarui hou e te wo nobasu kara
+Dialogue: 10,0:03:36.07,0:03:41.91,OP,,0,0,0,,{\an8\blur5\fad(300,300)}hikari wo inori sora takaku utagoe
+Dialogue: 10,0:03:41.91,0:03:47.37,OP,,0,0,0,,{\an8\blur5\fad(300,300)}semete kimi ni todoku you ni
+Dialogue: 10,0:02:34.63,0:02:39.89,OP,,0,0,0,,{\blur5\fad(300,300)}With the red sun trapped inside,
+Dialogue: 10,0:02:39.89,0:02:44.14,OP,,0,0,0,,{\blur5\fad(300,300)}where is the train heading?
+Dialogue: 10,0:02:44.64,0:02:50.15,OP,,0,0,0,,{\blur5\fad(300,300)}In the chaotic night
+Dialogue: 10,0:02:50.15,0:02:53.11,OP,,0,0,0,,{\blur5\fad(300,300)}our voices resonate.
+Dialogue: 10,0:02:53.11,0:02:58.24,OP,,0,0,0,,{\blur5\fad(300,300)}With the light of hope
+Dialogue: 10,0:02:58.24,0:03:02.79,OP,,0,0,0,,{\blur5\fad(300,300)}our hearts shed our dreams
+Dialogue: 10,0:03:02.79,0:03:05.04,OP,,0,0,0,,{\blur5\fad(300,300)}and go onward down the path
+Dialogue: 10,0:03:06.12,0:03:10.96,OP,,0,0,0,,{\blur5\fad(300,300)}In the dark sky, the morning star \Nshines down on the future,
+Dialogue: 10,0:03:10.96,0:03:15.97,OP,,0,0,0,,{\blur5\fad(300,300)}unmoving no matter how much we point,
+Dialogue: 10,0:03:15.97,0:03:21.60,OP,,0,0,0,,{\blur5\fad(300,300)}so we waved farewell as yesterday gently beckoned.
+Dialogue: 10,0:03:21.60,0:03:24.10,OP,,0,0,0,,{\blur5\fad(300,300)}We cried so that
+Dialogue: 10,0:03:24.10,0:03:26.94,OP,,0,0,0,,{\blur5\fad(300,300)}we could start running again.
+Dialogue: 10,0:03:26.94,0:03:31.02,OP,,0,0,0,,{\blur5\fad(300,300)}Even if we get lost or cry
+Dialogue: 10,0:03:31.02,0:03:36.07,OP,,0,0,0,,{\blur5\fad(300,300)}life reaches out to where the light shines.
+Dialogue: 10,0:03:36.07,0:03:41.91,OP,,0,0,0,,{\blur5\fad(300,300)}Let us pray for the light, the singing voice up in the sky,
+Dialogue: 10,0:03:41.91,0:03:47.37,OP,,0,0,0,,{\blur5\fad(300,300)}and let our song at least reach you.
+Dialogue: 10,0:19:13.80,0:19:16.22,ED,,0,0,0,,{\an8\blur5\fad(300,300)}zankokuna unmei ga
+Dialogue: 10,0:19:16.22,0:19:18.26,ED,,0,0,0,,{\an8\blur5\fad(300,300)}kiba o mukidashite
+Dialogue: 10,0:19:18.26,0:19:21.31,ED,,0,0,0,,{\an8\blur5\fad(300,300)}bokura o machikamaeteite mo
+Dialogue: 10,0:19:21.31,0:19:24.94,ED,,0,0,0,,{\an8\blur5\fad(300,300)}kono michi wa yuzurenaiyo
+Dialogue: 10,0:19:27.48,0:19:29.94,ED,,0,0,0,,{\an8\blur5\fad(300,300)}mada tarinai konna mon janai
+Dialogue: 10,0:19:29.94,0:19:32.36,ED,,0,0,0,,{\an8\blur5\fad(300,300)}todokanai nowa iyada
+Dialogue: 10,0:19:32.36,0:19:33.99,ED,,0,0,0,,{\an8\blur5\fad(300,300)}mukimi ni nare
+Dialogue: 10,0:19:33.99,0:19:37.11,ED,,0,0,0,,{\an8\blur5\fad(300,300)}kizuna hitotsu ni senaka o azuke
+Dialogue: 10,0:19:37.86,0:19:41.12,ED,,0,0,0,,{\an8\blur5\fad(300,300)}utsukushii sekai wo
+Dialogue: 10,0:19:41.12,0:19:44.12,ED,,0,0,0,,{\an8\blur5\fad(300,300)}kimi no namida wo
+Dialogue: 10,0:19:44.12,0:19:47.37,ED,,0,0,0,,{\an8\blur5\fad(300,300)}mamoritai
+Dialogue: 10,0:19:47.37,0:19:50.46,ED,,0,0,0,,{\an8\blur5\fad(300,300)}raimei ga toki o tsugeru
+Dialogue: 10,0:19:50.46,0:19:54.09,ED,,0,0,0,,{\an8\blur5\fad(300,300)}bokura wa sora ni hanatarete
+Dialogue: 10,0:19:54.09,0:19:57.01,ED,,0,0,0,,{\an8\blur5\fad(300,300)}wazawai ni furisosogu
+Dialogue: 10,0:19:57.01,0:20:00.89,ED,,0,0,0,,{\an8\blur5\fad(300,300)}shirogane no yaiba ni kawaru
+Dialogue: 10,0:20:00.89,0:20:03.85,ED,,0,0,0,,{\an8\blur5\fad(300,300)}oitekita monogatari to
+Dialogue: 10,0:20:03.85,0:20:07.44,ED,,0,0,0,,{\an8\blur5\fad(300,300)}mou naku senai mono ga aru
+Dialogue: 10,0:20:07.44,0:20:10.98,ED,,0,0,0,,{\an8\blur5\fad(300,300)}kurayami o nuritsubuse
+Dialogue: 10,0:20:10.98,0:20:17.45,ED,,0,0,0,,{\an8\blur5\fad(300,300)}gouka no fuchi e massugu ni
+Dialogue: 10,0:19:13.80,0:19:16.22,ED,,0,0,0,,{\blur5\fad(300,300)}Cruel fate
+Dialogue: 10,0:19:16.22,0:19:18.26,ED,,0,0,0,,{\blur5\fad(300,300)}has bared its fangs
+Dialogue: 10,0:19:18.26,0:19:21.31,ED,,0,0,0,,{\blur5\fad(300,300)}and is waiting for us,
+Dialogue: 10,0:19:21.31,0:19:24.94,ED,,0,0,0,,{\blur5\fad(300,300)}but we're not giving up this path.
+Dialogue: 10,0:19:27.48,0:19:29.94,ED,,0,0,0,,{\blur5\fad(300,300)}It's not enough, not like this,
+Dialogue: 10,0:19:29.94,0:19:32.36,ED,,0,0,0,,{\blur5\fad(300,300)}I don't want to miss it.
+Dialogue: 10,0:19:32.36,0:19:33.99,ED,,0,0,0,,{\blur5\fad(300,300)}Get up from nothing,
+Dialogue: 10,0:19:33.99,0:19:37.11,ED,,0,0,0,,{\blur5\fad(300,300)}we are one for all.
+Dialogue: 10,0:19:37.86,0:19:41.12,ED,,0,0,0,,{\blur5\fad(300,300)}I want to preserve
+Dialogue: 10,0:19:41.12,0:19:44.12,ED,,0,0,0,,{\blur5\fad(300,300)}the beautiful world
+Dialogue: 10,0:19:44.12,0:19:47.37,ED,,0,0,0,,{\blur5\fad(300,300)}and your tears.
+Dialogue: 10,0:19:47.37,0:19:50.46,ED,,0,0,0,,{\blur5\fad(300,300)}The thunderclap gives the signal,
+Dialogue: 10,0:19:50.46,0:19:54.09,ED,,0,0,0,,{\blur5\fad(300,300)}we are released into the sky,
+Dialogue: 10,0:19:54.09,0:19:57.01,ED,,0,0,0,,{\blur5\fad(300,300)}turning into a platinum blade,
+Dialogue: 10,0:19:57.01,0:20:00.89,ED,,0,0,0,,{\blur5\fad(300,300)}that rains down disaster.
+Dialogue: 10,0:20:00.89,0:20:03.85,ED,,0,0,0,,{\blur5\fad(300,300)}There are stories we've left behind,
+Dialogue: 10,0:20:03.85,0:20:07.44,ED,,0,0,0,,{\blur5\fad(300,300)}and stories we can't lose anymore.
+Dialogue: 10,0:20:07.44,0:20:10.98,ED,,0,0,0,,{\blur5\fad(300,300)}Go straight to the edge of hellfire,
+Dialogue: 10,0:20:10.98,0:20:17.45,ED,,0,0,0,,{\blur5\fad(300,300)}and fill the darkness.
+Dialogue: 4,0:21:38.90,0:21:41.11,Sign,,0,0,0,,{\pos(1031.64,979.58)\fscx500\fscy500\fnCCFlameOn\c&H14FFFF&\4a&HFF&\blur20\q2\t(0,220,0.5,\blur0.6\fscx163\fscy163)}TO BE CONTINUED
+Dialogue: 3,0:21:38.90,0:21:41.11,Sign,,0,0,0,,{\pos(1031.64,979.58)\fscx500\fscy500\fnCCFlameOn\bord2\c&H031D66&\3c&H031D66&\blur20\q2\t(0,220,0.5,\blur0.6\fscx163\fscy163)}TO BE CONTINUED
+Dialogue: 2,0:21:38.90,0:21:41.11,Sign,,0,0,0,,{\pos(1031.64,979.58)\fscx500\fscy500\fnCCFlameOn\bord6\c&H0282FF&\3c&H0282FF&\blur20\q2\t(0,220,0.5,\blur0.6\fscx163\fscy163)}TO BE CONTINUED
+Dialogue: 1,0:21:38.90,0:21:41.11,Sign,,0,0,0,,{\pos(1031.64,979.58)\fscx500\fscy500\fnCCFlameOn\bord8\c&H9CFEFF&\3c&H9CFEFF&\blur20\q2\t(0,220,0.5,\blur0.6\fscx163\fscy163)}TO BE CONTINUED
+Dialogue: 0,0:21:38.90,0:21:41.11,Sign,,0,0,0,,{\pos(1031.64,979.58)\fscx500\fscy500\fnCCFlameOn\bord14\c&H001647&\3c&H001647&\blur20\q2\t(0,220,0.5,\blur0.6\fscx163\fscy163)}TO BE CONTINUED
+Dialogue: 0,0:02:31.42,0:02:35.72,Sign,,0,0,0,,{\fade(800,930)\fnBrushstroke 35\fs67\c&H010100&\pos(1013.327,284.757)}Demon Slayer
+Dialogue: 1,0:02:31.42,0:02:35.72,Sign,,0,0,0,,{\fade(400,930)\t(400,800,\alpha&FF)\fnBrushstroke 35\fs67\c&H000000&\pos(1013.327,284.757)}Demon Slayer
+Dialogue: 1,0:02:31.42,0:02:35.72,Sign,,0,0,0,,{\fade(400,930)\c&H000000&\t(0,400,\c&H1000E6&)\t(3360,4290,\c&H000000&)\fnIwata Mincho Old Pro H-Fate\b0\fs50\fscx99\pos(1011.17,786.51)}Infinity Train
+Dialogue: 1,0:02:31.42,0:02:35.72,Sign,,0,0,0,,{\fade(400,930)\alpha&FF)\c&H000000&\fnIwata Mincho Old Pro H-Fate\b0\fs50\fscx99\pos(1011.17,786.51)}Infinity Train
+Dialogue: 1,0:03:56.67,0:04:01.05,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fs120\blur0.9)\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}5\N\N\N{\fscx90\fscy90}F{\fsp0}orward
+Dialogue: 0,0:11:29.04,0:11:33.09,Sign,,0,0,0,,{\an2\fscx100.46\fscy100.46\fnBrushstroke 35\fs43\c&H000000&\blur0.8\pos(1542.277,614.287)}Demon Slayer
+Dialogue: 0,0:11:33.09,0:11:37.09,Sign,,0,0,0,,{\an2\fscx100.46\fscy100.46\fnBrushstroke 35\fs43\c&H000000&\blur0.8\pos(442.543,613.753)}Demon Slayer
+Dialogue: 0,0:11:29.04,0:11:33.09,Sign,,0,0,0,,{\c&H1000E6&\fnIwata Mincho Old Pro H-Fate\b0\fs30\fscx99\pos(1532.77,889.977)}Infinity Train
+Dialogue: 0,0:11:33.09,0:11:37.09,Sign,,0,0,0,,{\c&H1000E6&)\fnIwata Mincho Old Pro H-Fate\b0\fs30\fscx99\pos(435.703,891.043)}Infinity Train
+Dialogue: 1,0:14:49.12,0:14:49.24,Sign,,0,0,0,,{=31}{\fscy100\fnFOT-ComicReggae Std B\fscx84\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1042.81,660.86)}Dream
+Dialogue: 1,0:14:49.24,0:14:49.33,Sign,,0,0,0,,{=31}{\fscy100.23\fnFOT-ComicReggae Std B\fscx84.19\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1035.82,660.07)}Dream
+Dialogue: 1,0:14:49.33,0:14:49.37,Sign,,0,0,0,,{=31}{\fscy100.24\fnFOT-ComicReggae Std B\fscx84.2\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1035.82,660.08)}Dream
+Dialogue: 1,0:14:49.37,0:14:49.45,Sign,,0,0,0,,{=31}{\fscy100.38\fnFOT-ComicReggae Std B\fscx84.32\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1028.82,659.41)}Dream
+Dialogue: 1,0:14:49.45,0:14:49.49,Sign,,0,0,0,,{=31}{\fscy100.39\fnFOT-ComicReggae Std B\fscx84.33\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1028.82,659.42)}Dream
+Dialogue: 1,0:14:49.49,0:14:49.58,Sign,,0,0,0,,{=31}{\fscy100.48\fnFOT-ComicReggae Std B\fscx84.4\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1022.1,658.95)}Dream
+Dialogue: 1,0:14:49.58,0:14:49.62,Sign,,0,0,0,,{=31}{\fscy100.47\fnFOT-ComicReggae Std B\fscx84.39\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1022.08,658.95)}Dream
+Dialogue: 1,0:14:49.62,0:14:49.66,Sign,,0,0,0,,{=31}{\fscy100.57\fnFOT-ComicReggae Std B\fscx84.48\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1015.29,658.57)}Dream
+Dialogue: 1,0:14:49.66,0:14:49.70,Sign,,0,0,0,,{=31}{\fscy100.56\fnFOT-ComicReggae Std B\fscx84.47\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1015.28,658.57)}Dream
+Dialogue: 1,0:14:49.70,0:14:49.74,Sign,,0,0,0,,{=31}{\fscy100.54\fnFOT-ComicReggae Std B\fscx84.46\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1015.26,658.56)}Dream
+Dialogue: 1,0:14:49.74,0:14:49.79,Sign,,0,0,0,,{=31}{\fscy100.58\fnFOT-ComicReggae Std B\fscx84.49\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1008.66,658.3)}Dream
+Dialogue: 1,0:14:49.79,0:14:49.87,Sign,,0,0,0,,{=31}{\fscy100.58\fnFOT-ComicReggae Std B\fscx84.49\fs40\c&H51260A&\blur0.8\1a&H14&\frx4\fry14\frz349.7\pos(1008.65,658.3)}Dream
+Dialogue: 1,0:14:49.87,0:14:49.91,Sign,,0,0,0,,{=31}{\fscy100.67\fnFOT-ComicReggae Std B\fscx84.56\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(1002.24,658.14)}Dream
+Dialogue: 1,0:14:49.91,0:14:49.95,Sign,,0,0,0,,{=31}{\fscy100.66\fnFOT-ComicReggae Std B\fscx84.56\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(1002.23,658.15)}Dream
+Dialogue: 1,0:14:49.95,0:14:49.99,Sign,,0,0,0,,{=31}{\fscy100.65\fnFOT-ComicReggae Std B\fscx84.55\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(1002.21,658.14)}Dream
+Dialogue: 1,0:14:49.99,0:14:50.04,Sign,,0,0,0,,{=31}{\fscy100.76\fnFOT-ComicReggae Std B\fscx84.63\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(996.22,658.17)}Dream
+Dialogue: 1,0:14:50.04,0:14:50.08,Sign,,0,0,0,,{=31}{\fscy100.76\fnFOT-ComicReggae Std B\fscx84.64\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(996.21,658.16)}Dream
+Dialogue: 1,0:14:50.08,0:14:50.12,Sign,,0,0,0,,{=31}{\fscy100.78\fnFOT-ComicReggae Std B\fscx84.65\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(996.2,658.18)}Dream
+Dialogue: 1,0:14:50.12,0:14:50.16,Sign,,0,0,0,,{=31}{\fscy100.81\fnFOT-ComicReggae Std B\fscx84.68\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(990.2,658.21)}Dream
+Dialogue: 1,0:14:50.16,0:14:50.20,Sign,,0,0,0,,{=31}{\fscy100.81\fnFOT-ComicReggae Std B\fscx84.68\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(990.23,658.2)}Dream
+Dialogue: 1,0:14:50.20,0:14:50.24,Sign,,0,0,0,,{=31}{\fscy100.83\fnFOT-ComicReggae Std B\fscx84.69\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(990.22,658.23)}Dream
+Dialogue: 1,0:14:50.24,0:14:50.29,Sign,,0,0,0,,{=31}{\fscy100.97\fnFOT-ComicReggae Std B\fscx84.81\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(984.73,658.46)}Dream
+Dialogue: 1,0:14:50.29,0:14:50.37,Sign,,0,0,0,,{=31}{\fscy100.98\fnFOT-ComicReggae Std B\fscx84.82\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(984.75,658.46)}Dream
+Dialogue: 1,0:14:50.37,0:14:50.41,Sign,,0,0,0,,{=31}{\fscy101.19\fnFOT-ComicReggae Std B\fscx85\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(979.37,658.85)}Dream
+Dialogue: 1,0:14:50.41,0:14:50.45,Sign,,0,0,0,,{=31}{\fscy101.2\fnFOT-ComicReggae Std B\fscx85.01\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(979.37,658.86)}Dream
+Dialogue: 1,0:14:50.45,0:14:50.49,Sign,,0,0,0,,{=31}{\fscy101.24\fnFOT-ComicReggae Std B\fscx85.04\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(979.41,658.89)}Dream
+Dialogue: 1,0:14:50.49,0:14:50.54,Sign,,0,0,0,,{=31}{\fscy101.52\fnFOT-ComicReggae Std B\fscx85.28\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(974.4,659.39)}Dream
+Dialogue: 1,0:14:50.54,0:14:50.58,Sign,,0,0,0,,{=31}{\fscy101.53\fnFOT-ComicReggae Std B\fscx85.28\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(974.4,659.38)}Dream
+Dialogue: 1,0:14:50.58,0:14:50.62,Sign,,0,0,0,,{=31}{\fscy101.53\fnFOT-ComicReggae Std B\fscx85.28\fs40\c&H51260A&\blur0.81\1a&H14&\frx4\fry14\frz349.7\pos(974.41,659.38)}Dream
+Dialogue: 0,0:14:49.12,0:14:49.24,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100\fnFOT-ComicReggae Std B\fscx84\fs40\c&HFFE377&\blur2\bord2.5\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1042.81,660.86)}Dream
+Dialogue: 0,0:14:49.24,0:14:49.33,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.23\fnFOT-ComicReggae Std B\fscx84.19\fs40\c&HFFE377&\blur2\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1035.82,660.07)}Dream
+Dialogue: 0,0:14:49.33,0:14:49.37,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.24\fnFOT-ComicReggae Std B\fscx84.2\fs40\c&HFFE377&\blur2\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1035.82,660.08)}Dream
+Dialogue: 0,0:14:49.37,0:14:49.45,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.38\fnFOT-ComicReggae Std B\fscx84.32\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1028.82,659.41)}Dream
+Dialogue: 0,0:14:49.45,0:14:49.49,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.39\fnFOT-ComicReggae Std B\fscx84.33\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1028.82,659.42)}Dream
+Dialogue: 0,0:14:49.49,0:14:49.58,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.48\fnFOT-ComicReggae Std B\fscx84.4\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1022.1,658.95)}Dream
+Dialogue: 0,0:14:49.58,0:14:49.62,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.47\fnFOT-ComicReggae Std B\fscx84.39\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1022.08,658.95)}Dream
+Dialogue: 0,0:14:49.62,0:14:49.66,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.57\fnFOT-ComicReggae Std B\fscx84.48\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1015.29,658.57)}Dream
+Dialogue: 0,0:14:49.66,0:14:49.70,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.56\fnFOT-ComicReggae Std B\fscx84.47\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1015.28,658.57)}Dream
+Dialogue: 0,0:14:49.70,0:14:49.74,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.54\fnFOT-ComicReggae Std B\fscx84.46\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1015.26,658.56)}Dream
+Dialogue: 0,0:14:49.74,0:14:49.79,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.58\fnFOT-ComicReggae Std B\fscx84.49\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1008.66,658.3)}Dream
+Dialogue: 0,0:14:49.79,0:14:49.87,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.58\fnFOT-ComicReggae Std B\fscx84.49\fs40\c&HFFE377&\blur2.01\bord2.51\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1008.65,658.3)}Dream
+Dialogue: 0,0:14:49.87,0:14:49.91,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.67\fnFOT-ComicReggae Std B\fscx84.56\fs40\c&HFFE377&\blur2.01\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1002.24,658.14)}Dream
+Dialogue: 0,0:14:49.91,0:14:49.95,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.66\fnFOT-ComicReggae Std B\fscx84.56\fs40\c&HFFE377&\blur2.01\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1002.23,658.15)}Dream
+Dialogue: 0,0:14:49.95,0:14:49.99,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.65\fnFOT-ComicReggae Std B\fscx84.55\fs40\c&HFFE377&\blur2.01\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(1002.21,658.14)}Dream
+Dialogue: 0,0:14:49.99,0:14:50.04,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.76\fnFOT-ComicReggae Std B\fscx84.63\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(996.22,658.17)}Dream
+Dialogue: 0,0:14:50.04,0:14:50.08,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.76\fnFOT-ComicReggae Std B\fscx84.64\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(996.21,658.16)}Dream
+Dialogue: 0,0:14:50.08,0:14:50.12,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.78\fnFOT-ComicReggae Std B\fscx84.65\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(996.2,658.18)}Dream
+Dialogue: 0,0:14:50.12,0:14:50.16,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.81\fnFOT-ComicReggae Std B\fscx84.68\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(990.2,658.21)}Dream
+Dialogue: 0,0:14:50.16,0:14:50.20,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.81\fnFOT-ComicReggae Std B\fscx84.68\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(990.23,658.2)}Dream
+Dialogue: 0,0:14:50.20,0:14:50.24,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.83\fnFOT-ComicReggae Std B\fscx84.69\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(990.22,658.23)}Dream
+Dialogue: 0,0:14:50.24,0:14:50.29,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.97\fnFOT-ComicReggae Std B\fscx84.81\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(984.73,658.46)}Dream
+Dialogue: 0,0:14:50.29,0:14:50.37,Sign,,0,0,0,,{=32}{\3a&H00&\fscy100.98\fnFOT-ComicReggae Std B\fscx84.82\fs40\c&HFFE377&\blur2.02\bord2.52\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(984.75,658.46)}Dream
+Dialogue: 0,0:14:50.37,0:14:50.41,Sign,,0,0,0,,{=32}{\3a&H00&\fscy101.19\fnFOT-ComicReggae Std B\fscx85\fs40\c&HFFE377&\blur2.02\bord2.53\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(979.37,658.85)}Dream
+Dialogue: 0,0:14:50.41,0:14:50.45,Sign,,0,0,0,,{=32}{\3a&H00&\fscy101.2\fnFOT-ComicReggae Std B\fscx85.01\fs40\c&HFFE377&\blur2.02\bord2.53\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(979.37,658.86)}Dream
+Dialogue: 0,0:14:50.45,0:14:50.49,Sign,,0,0,0,,{=32}{\3a&H00&\fscy101.24\fnFOT-ComicReggae Std B\fscx85.04\fs40\c&HFFE377&\blur2.02\bord2.53\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(979.41,658.89)}Dream
+Dialogue: 0,0:14:50.49,0:14:50.54,Sign,,0,0,0,,{=32}{\3a&H00&\fscy101.52\fnFOT-ComicReggae Std B\fscx85.28\fs40\c&HFFE377&\blur2.03\bord2.54\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(974.4,659.39)}Dream
+Dialogue: 0,0:14:50.54,0:14:50.58,Sign,,0,0,0,,{=32}{\3a&H00&\fscy101.53\fnFOT-ComicReggae Std B\fscx85.28\fs40\c&HFFE377&\blur2.03\bord2.54\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(974.4,659.38)}Dream
+Dialogue: 0,0:14:50.58,0:14:50.62,Sign,,0,0,0,,{=32}{\3a&H00&\fscy101.53\fnFOT-ComicReggae Std B\fscx85.28\fs40\c&HFFE377&\blur2.03\bord2.54\1a&H14&\frx4\fry14\3c&HFFE377&\frz349.7\pos(974.41,659.38)}Dream
+
+[Aegisub Extradata]
+Data: 31,a-mo,e{"uuid"#3A"2ab25ef0-bf5c-4439-9f81-320e95cb1bd0"#2C"originalText"#3A"{\\fscy100\\fnFOT-ComicReggae Std B\\fscx84\\fs40\\c&H51260A&\\blur0.8\\1a&H14&\\frx4\\fry14\\frz349.7\\pos(1042.81#2C660.86)}Dream"}
+Data: 32,a-mo,e{"uuid"#3A"c22f1392-73dd-40a5-b939-be37aab8095e"#2C"originalText"#3A"{\\fscy100\\fnFOT-ComicReggae Std B\\fscx84\\fs40\\c&HFFE377&\\blur2\\bord2.5\\1a&H14&\\frx4\\fry14\\3c&HFFE377&\\frz349.7\\pos(1042.81#2C660.86)}Dream"}
+
