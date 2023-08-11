@@ -152,7 +152,7 @@ Dialogue: 10,0:08:11.85,0:08:12.76,Default,Touya,0,0,0,,Yes.
 Dialogue: 10,0:08:12.76,0:08:16.60,Default,Touya,0,0,0,,This room remains as it was when the incident occurred.
 Dialogue: 10,0:08:16.60,0:08:21.02,Default,Touya,0,0,0,,For the sake of verification, \NI have prepared a bottle of wine without poison.
 Dialogue: 10,0:08:21.02,0:08:25.61,Default,Touya,0,0,0,,I can't drink it since I'm a minor, \Nso General Leon, if you would.
-Dialogue: 10,0:08:26.40,0:08:28.28,Default,Yumina,0,0,0,,A "minor?"
+Dialogue: 10,0:08:26.40,0:08:28.28,Default,Yumina,0,0,0,,A "minor"?
 Dialogue: 10,0:08:28.28,0:08:30.53,Default,Leon,0,0,0,,I don't understand, but very well.
 Dialogue: 10,0:08:32.78,0:08:34.45,Default,Leon,0,0,0,,Yes, it's very good.
 Dialogue: 10,0:08:34.45,0:08:38.33,Default,Leon,0,0,0,,Now that you've all confirmed this wine isn't poisoned,
@@ -190,7 +190,7 @@ Dialogue: 10,0:10:10.26,0:10:10.84,Default,Touya,0,0,0,,Huh?
 Dialogue: 10,0:10:11.76,0:10:13.34,Default,Balsa,0,0,0,,I won't let you catch me!
 Dialogue: 10,0:10:14.59,0:10:15.14,Default,Touya,0,0,0,,Slip.
 Dialogue: 10,0:10:23.31,0:10:25.73,Default,Yumina,0,0,0,,Stare...
-Dialogue: 10,0:10:25.73,0:10:28.23,Default,Touya,0,0,0,,"Stare?"
+Dialogue: 10,0:10:25.73,0:10:28.23,Default,Touya,0,0,0,,Stare?
 Dialogue: 10,0:10:28.23,0:10:31.15,Default,King,0,0,0,,You've done us a great service.
 Dialogue: 10,0:10:31.15,0:10:35.78,Default,King,0,0,0,,I'd like to repay you for saving my life.
 Dialogue: 10,0:10:35.78,0:10:37.41,Default,Touya,0,0,0,,Please, think nothing of it.

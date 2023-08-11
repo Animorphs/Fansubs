@@ -91,7 +91,7 @@ Dialogue: 10,0:04:21.37,0:04:25.33,Default,Yumina,0,0,0,,We'll move forward with
 Dialogue: 10,0:04:25.33,0:04:26.04,Default,Elze,0,0,0,,Yeah.
 Dialogue: 10,0:04:26.04,0:04:26.83,Default,Linze,0,0,0,,Yes.
 Dialogue: 10,0:04:26.83,0:04:27.91,Default,Yae,0,0,0,,Understood.
-Dialogue: 10,0:04:27.91,0:04:31.00,Default,Touya,0,0,0,,"Discussed?" What did you discuss?
+Dialogue: 10,0:04:27.91,0:04:31.00,Default,Touya,0,0,0,,Discussed? What did you discuss?
 Dialogue: 10,0:04:31.00,0:04:32.08,Default,Four,0,0,0,,It's a secret.
 Dialogue: 10,0:04:32.08,0:04:33.59,Default,Touya,0,0,0,,O-Okay...
 Dialogue: 10,0:04:33.59,0:04:38.13,Default,Kohaku,0,0,0,,It seems you're the one \Nwith the least authority in this household, Master.
@@ -133,7 +133,7 @@ Dialogue: 10,0:06:25.20,0:06:28.41,Default,Sue,0,0,0,,Well, I'd welcome Touya, o
 Dialogue: 10,0:06:28.41,0:06:32.50,Default,Alfred,0,0,0,,Then, are you interested in marrying Sue along \Nwith Yumina, Mister Touya?
 Dialogue: 10,0:06:32.50,0:06:36.42,Default,Touya,0,0,0,,Please don't get carried away like that.
 Dialogue: 10,0:06:36.42,0:06:39.46,Default,Alfred,0,0,0,,Well, I'll stand down for today.
-Dialogue: 10,0:06:39.46,0:06:41.34,Default,Touya,0,0,0,,"For today?"
+Dialogue: 10,0:06:39.46,0:06:41.34,Default,Touya,0,0,0,,For today?
 Dialogue: 10,0:06:43.30,0:06:46.22,Default,Alfred,0,0,0,,Actually, I'm here with a different request for all of you.
 Dialogue: 10,0:06:46.22,0:06:47.68,Default,Touya,0,0,0,,What's that?
 Dialogue: 10,0:06:47.68,0:06:53.48,Default,Alfred,0,0,0,,Recently, our nation has decided to form an alliance \Nwith the Kingdom of Mismede.
