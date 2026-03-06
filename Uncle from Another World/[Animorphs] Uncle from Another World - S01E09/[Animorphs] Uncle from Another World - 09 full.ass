@@ -86,7 +86,7 @@ Dialogue: 99,0:03:33.65,0:03:35.11,Default,,0,0,0,,Huh. There's an idea.
 Dialogue: 99,0:03:35.11,0:03:36.45,Default,,0,0,0,,Absolutely not.
 Dialogue: 99,0:03:36.45,0:03:38.07,Default,,0,0,0,,Huh? Why not?
 Dialogue: 99,0:03:38.07,0:03:41.78,Default,,0,0,0,,Uncle, can you display what I'm thinking right now?
-Dialogue: 99,0:03:41.78,0:03:45.46,Default,,0,0,0,,Let's see... it's "Icuras Yuul Elran," so...
+Dialogue: 99,0:03:41.78,0:03:45.46,Default,,0,0,0,,Let's see... It's "Icuras Yuul Elran," so...
 Dialogue: 99,0:03:45.46,0:03:50.17,Default,,0,0,0,,Spirit of Memory, display their envisioning.
 Dialogue: 99,0:04:02.76,0:04:04.10,Default,,0,0,0,,This would absolutely happen.
 Dialogue: 99,0:04:04.10,0:04:05.89,Default,,0,0,0,,People would write those things?
@@ -289,7 +289,7 @@ Dialogue: 99,0:15:04.47,0:15:05.93,Default,,0,0,0,,Me too!
 Dialogue: 99,0:15:05.93,0:15:10.01,Default,,0,0,0,,{\an8}Gotta put that cocky elf girl in her place!
 Dialogue: 99,0:15:06.80,0:15:10.01,Default,,0,0,0,,You brought this on yourself, Lady Elf.
 Dialogue: 99,0:15:10.01,0:15:14.39,Default,,0,0,0,,Perhaps a painful lesson \Nmight help remind you of your place.
-Dialogue: 99,0:15:14.39,0:15:17.10,Default,,0,0,0,,I'm not as nice to my enemies as orc face over here.
+Dialogue: 99,0:15:14.39,0:15:17.10,Default,,0,0,0,,I'm not as nice to my enemies as Orc Face over here.
 Dialogue: 99,0:15:17.10,0:15:19.31,Default,,0,0,0,,Can you beat this entire army?
 Dialogue: 99,0:15:19.73,0:15:21.78,Default,,0,0,0,,In the blink of an eye.
 Dialogue: 99,0:15:27.99,0:15:32.66,Default,,0,0,0,,This is a cosmite ring, \Nsaid to be one of only seven in existence.{E01: 21:28}
@@ -393,7 +393,7 @@ Dialogue: 99,0:22:08.52,0:22:10.39,Default,,0,0,0,,Must've caught it from a fish
 Dialogue: 99,0:22:10.81,0:22:12.31,Default,,0,0,0,,Poor thing.
 Dialogue: 99,0:22:12.31,0:22:14.69,Default,,0,0,0,,I didn't know a stomach could do that.
 Dialogue: 99,0:22:14.69,0:22:16.27,Default,,0,0,0,,He said it's a parasite.
-Dialogue: 99,0:22:21.82,0:22:22.95,Default,,0,0,0,,Orc face?
+Dialogue: 99,0:22:21.82,0:22:22.95,Default,,0,0,0,,Orc Face?
 Dialogue: 99,0:22:22.95,0:22:24.99,Default,,0,0,0,,Hold on, you can't just barge in like that!
 Dialogue: 99,0:22:24.99,0:22:25.87,Default,,0,0,0,,It's an emergency.
 Dialogue: 99,0:22:33.79,0:22:36.13,Default,,0,0,0,,Good. You're all clear.
@@ -1003,7 +1003,6 @@ Dialogue: 50,0:01:09.72,0:01:09.72,Ojisan OP,,0,0,0,,{\an5\pos(935,50)\bord0\p1}
 Dialogue: 50,0:01:05.38,0:01:09.76,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(667,767,\alpha&H00&)\move(965,110,965,50,829.89583333333,929.89583333333)}l
 Dialogue: 50,0:01:06.00,0:01:06.05,Ojisan OP,,0,0,0,,{\an5\pos(965,110)\bord0\p1}m 0 0 l 30 0 30 60 0 60
 Dialogue: 50,0:01:09.72,0:01:09.76,Ojisan OP,,0,0,0,,{\an5\pos(965,50)\bord0\p1}m 0 0 l 30 0 30 60 0 60
-Dialogue: 50,0:01:05.38,0:01:09.76,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(688,788,\alpha&H00&)\move(980,110,980,50,829.89583333333,929.89583333333)}​
 Dialogue: 50,0:01:06.05,0:01:06.05,Ojisan OP,,0,0,0,,{\an5\pos(980,110)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:09.76,0:01:09.76,Ojisan OP,,0,0,0,,{\an5\pos(980,50)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:08.97,0:01:12.34,Ojisan OP 2,,0,0,0,,{\an5\move(1920,50,1360,50,0,150)}

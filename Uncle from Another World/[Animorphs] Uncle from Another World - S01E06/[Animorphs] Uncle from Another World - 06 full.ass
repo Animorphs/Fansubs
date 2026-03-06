@@ -161,7 +161,7 @@ Dialogue: 99,0:10:27.19,0:10:30.03,Default,,0,0,0,,The battle finally ended at d
 Dialogue: 99,0:10:34.28,0:10:35.70,Default,,0,0,0,,Baraibgarl.
 Dialogue: 99,0:10:49.50,0:10:55.01,Default,,0,0,0,,I'll always be grateful to the monsters \Nwhose meat nourished my starved body.
 Dialogue: 99,0:10:57.72,0:10:59.81,Default,,0,0,0,,Well, how do I say this?
-Dialogue: 99,0:11:00.10,0:11:04.35,Default,,0,0,0,,Though my 17 years in the other world \Nwas full of painful experience,
+Dialogue: 99,0:11:00.10,0:11:04.35,Default,,0,0,0,,Though my 17 years in the other world \Nwas full of painful experiences,
 Dialogue: 99,0:11:04.35,0:11:09.61,Default,,0,0,0,,as you saw, at least I had a great start.
 Dialogue: 99,0:11:09.61,0:11:10.61,Default,,0,0,0,,{\i1}What?!
 Dialogue: 99,0:11:10.61,0:11:13.19,Default,,0,0,0,,{\i1}How was any of that a great start?!
@@ -945,7 +945,6 @@ Dialogue: 50,0:01:21.73,0:01:21.73,Ojisan OP,,0,0,0,,{\an5\pos(935,50)\bord0\p1}
 Dialogue: 50,0:01:17.39,0:01:21.77,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(667,767,\alpha&H00&)\move(965,110,965,50,829.89583333333,929.89583333333)}l
 Dialogue: 50,0:01:18.02,0:01:18.06,Ojisan OP,,0,0,0,,{\an5\pos(965,110)\bord0\p1}m 0 0 l 30 0 30 60 0 60
 Dialogue: 50,0:01:21.73,0:01:21.77,Ojisan OP,,0,0,0,,{\an5\pos(965,50)\bord0\p1}m 0 0 l 30 0 30 60 0 60
-Dialogue: 50,0:01:17.39,0:01:21.77,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(688,788,\alpha&H00&)\move(980,110,980,50,829.89583333333,929.89583333333)}​
 Dialogue: 50,0:01:18.06,0:01:18.06,Ojisan OP,,0,0,0,,{\an5\pos(980,110)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:21.77,0:01:21.77,Ojisan OP,,0,0,0,,{\an5\pos(980,50)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:20.98,0:01:24.36,Ojisan OP 2,,0,0,0,,{\an5\move(1920,50,1360,50,0,150)}

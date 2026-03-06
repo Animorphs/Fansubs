@@ -232,7 +232,7 @@ Dialogue: 99,0:12:28.52,0:12:30.60,Default,,0,0,0,,Let's see, the next game is..
 Dialogue: 99,0:12:30.60,0:12:31.44,Default,,0,0,0,,Show us!
 Dialogue: 99,0:12:31.44,0:12:33.82,Default,,0,0,0,,Wait, the manual! I haven't—
 Dialogue: 99,0:12:32.90,0:12:34.57,Default - Alt,,0,0,0,,Show us, Uncle!
-Dialogue: 99,0:12:40.07,0:12:42.78,Default,,0,0,0,,You look happy, orc face.
+Dialogue: 99,0:12:40.07,0:12:42.78,Default,,0,0,0,,You look happy, Orc Face.
 Dialogue: 99,0:12:43.87,0:12:44.70,Default,,0,0,0,,Oh, it's you.
 Dialogue: 99,0:12:44.99,0:12:47.00,Default,,0,0,0,,I thought I'd managed to lose you.
 Dialogue: 99,0:12:47.00,0:12:48.08,Default,,0,0,0,,What was all that?
@@ -328,7 +328,7 @@ Dialogue: 99,0:17:09.51,0:17:11.64,Default,,0,0,0,,A calamity's guaranteed if th
 Dialogue: 99,0:17:11.64,0:17:15.51,Default,,0,0,0,,but nobody's bothered looking after them \Nsince the song's about a foreign warrior.{this is quite ambiguous in the Japanese}
 Dialogue: 99,0:17:15.85,0:17:16.77,Default,,0,0,0,,Foreign...
 Dialogue: 99,0:17:16.77,0:17:18.10,Default,,0,0,0,,...warrior?
-Dialogue: 99,0:17:19.23,0:17:22.56,Default,,0,0,0,,If it's orc face, couldn't he take on the shrine trials?
+Dialogue: 99,0:17:19.23,0:17:22.56,Default,,0,0,0,,If it's Orc Face, couldn't he take on the shrine trials?
 Dialogue: 99,0:17:22.56,0:17:24.56,Default,,0,0,0,,Baraibhut Folg Bastohl!
 Dialogue: 99,0:17:48.30,0:17:51.38,Default,Manga 31,0,0,0,,Raging holy magic, huh?
 Dialogue: 99,0:17:51.38,0:17:54.18,Default,,0,0,0,,This calls for maximum firepower right out of the gate!
@@ -383,7 +383,7 @@ Dialogue: 99,0:20:46.77,0:20:48.23,Default,,0,0,0,,That must be what this is.
 Dialogue: 99,0:20:48.23,0:20:49.19,Default,,0,0,0,,Oh, crap!
 Dialogue: 99,0:20:52.11,0:20:53.94,Default,,0,0,0,,Armor Piercing Titan!{E11 9:09}
 Dialogue: 99,0:20:56.78,0:20:59.03,Default,,0,0,0,,All right! That's one orc down!
-Dialogue: 99,0:20:59.03,0:21:00.53,Default,,0,0,0,,All you two all right?
+Dialogue: 99,0:20:59.03,0:21:00.53,Default,,0,0,0,,Are you two all right?
 Dialogue: 99,0:21:02.12,0:21:04.70,Default,,0,0,0,,We're here to slay the singing monster!
 Dialogue: 99,0:21:04.70,0:21:06.12,Default,,0,0,0,,We'll take it from here!
 Dialogue: 99,0:21:06.12,0:21:07.91,Default,,0,0,0,,Lady Alicia?!
@@ -394,7 +394,7 @@ Dialogue: 99,0:21:16.13,0:21:17.38,Default,,0,0,0,,Miss Elf?!
 Dialogue: 99,0:21:17.38,0:21:20.26,Default,,0,0,0,,Huh?! Then that orc I just...
 Dialogue: 99,0:21:20.93,0:21:24.30,Default,,0,0,0,,Kuroki! We're sorry, I'll heal you right now!
 Dialogue: 99,0:21:24.30,0:21:25.47,Default,,0,0,0,,Wait!
-Dialogue: 99,0:21:25.47,0:21:27.85,Default,,0,0,0,,Orc face is under mind control! He's dangerous!
+Dialogue: 99,0:21:25.47,0:21:27.85,Default,,0,0,0,,Orc Face is under mind control! He's dangerous!
 Dialogue: 99,0:21:28.89,0:21:31.10,Default,,0,0,0,,Our enemy isn't the singing monster.
 Dialogue: 99,0:21:31.10,0:21:33.81,Default,,0,0,0,,It's a mass of pure holy magic that's been released!
 Dialogue: 99,0:21:36.53,0:21:38.61,Default,,0,0,0,,B-Body manipulation?
@@ -410,7 +410,7 @@ Dialogue: 99,0:22:19.78,0:22:21.74,Default,,0,0,0,,I saw his inner darkness.
 Dialogue: 99,0:22:21.99,0:22:23.53,Default,,0,0,0,,His inner darkness?
 Dialogue: 99,0:22:24.70,0:22:26.70,Default,,0,0,0,,It was a young Kuroki.
 Dialogue: 99,0:22:26.70,0:22:31.54,Default,,0,0,0,,He was alone in a tiny room, \Nsitting and staring endlessly at a cold, black box.
-Dialogue: 99,0:22:31.54,0:22:33.58,Default,,0,0,0,,Orc face has a past that dark?
+Dialogue: 99,0:22:31.54,0:22:33.58,Default,,0,0,0,,Orc Face has a past that dark?
 Dialogue: 99,0:22:33.58,0:22:34.54,Default,,0,0,0,,That's messed up.
 Dialogue: 99,0:22:34.54,0:22:35.42,Default,,0,0,0,,How horrible.
 Dialogue: 99,0:22:35.42,0:22:37.00,Default,,0,0,0,,I never would've known.
@@ -433,7 +433,7 @@ Dialogue: 99,0:23:21.30,0:23:22.46,Default,,0,0,0,,That bottle...
 Dialogue: 99,0:23:22.71,0:23:24.01,Default,,0,0,0,,I've seen it somewhere.
 Dialogue: 99,0:23:39.31,0:23:40.82,Default,,0,0,0,,A fire...{not saying Blaze Dragon. 炎の竜 != 魔炎竜}
 Dialogue: 99,0:23:40.82,0:23:42.28,Default,,0,0,0,,...dragon?
-Dialogue: 99,0:23:42.69,0:23:45.11,Default,,0,0,0,,Orc face! Don't tell me you...!
+Dialogue: 99,0:23:42.69,0:23:45.11,Default,,0,0,0,,Orc Face! Don't tell me you...!
 Dialogue: 99,0:23:45.11,0:23:46.20,Default,,0,0,0,,Yeah.
 Dialogue: 99,0:23:46.20,0:23:50.24,Default,,0,0,0,,I'm not gonna fight some unknown enemy \Nwith no physical body.
 Dialogue: 99,0:23:50.49,0:23:51.99,Default,,0,0,0,,The Blaze Dragon.
@@ -1031,7 +1031,6 @@ Dialogue: 50,0:01:07.67,0:01:07.71,Ojisan OP,,0,0,0,,{\an5\pos(935,50)\bord0\p1}
 Dialogue: 50,0:01:03.38,0:01:07.71,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(667,767,\alpha&H00&)\move(965,110,965,50,829.89583333333,929.89583333333)}l
 Dialogue: 50,0:01:04.00,0:01:04.04,Ojisan OP,,0,0,0,,{\an5\pos(965,110)\bord0\p1}m 0 0 l 30 0 30 60 0 60
 Dialogue: 50,0:01:07.71,0:01:07.71,Ojisan OP,,0,0,0,,{\an5\pos(965,50)\bord0\p1}m 0 0 l 30 0 30 60 0 60
-Dialogue: 50,0:01:03.38,0:01:07.76,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(688,788,\alpha&H00&)\move(980,110,980,50,829.89583333333,929.89583333333)}​
 Dialogue: 50,0:01:04.04,0:01:04.04,Ojisan OP,,0,0,0,,{\an5\pos(980,110)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:07.71,0:01:07.76,Ojisan OP,,0,0,0,,{\an5\pos(980,50)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:06.96,0:01:10.34,Ojisan OP 2,,0,0,0,,{\an5\move(1920,50,1360,50,0,150)}

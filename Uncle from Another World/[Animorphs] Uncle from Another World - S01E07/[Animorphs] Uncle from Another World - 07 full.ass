@@ -411,7 +411,7 @@ Dialogue: 99,0:15:42.67,0:15:43.42,Default,,0,0,0,,Yup!
 Dialogue: 99,0:15:43.67,0:15:47.63,Default,,0,0,0,,I'm visiting college with my sister \Nto shoot a YouTube video!
 Dialogue: 99,0:15:47.63,0:15:49.60,Default,,0,0,0,,Uncle!
 Dialogue: 99,0:15:49.60,0:15:50.60,Default,,0,0,0,,Wow.
-Dialogue: 99,0:15:48.01,0:15:50.60,Default,,0,0,0,,{\an8}Really? You're a Youtuber, Chiaki?
+Dialogue: 99,0:15:48.01,0:15:50.60,Default,,0,0,0,,{\an8}Really? You're a YouTuber, Chiaki?
 Dialogue: 99,0:15:50.60,0:15:50.93,Default,,0,0,0,,{\an8}Yup!
 Dialogue: 99,0:15:50.93,0:15:51.93,Default,,0,0,0,,{\an8}Awesome!
 Dialogue: 99,0:15:52.89,0:15:55.64,Default,,0,0,0,,{\an8}I even hit a whole 50 views!
@@ -1167,7 +1167,6 @@ Dialogue: 50,0:02:56.70,0:02:56.70,Ojisan OP,,0,0,0,,{\an5\pos(935,50)\bord0\p1}
 Dialogue: 50,0:02:52.36,0:02:56.74,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(667,767,\alpha&H00&)\move(965,110,965,50,829.89583333333,929.89583333333)}l
 Dialogue: 50,0:02:52.99,0:02:53.03,Ojisan OP,,0,0,0,,{\an5\pos(965,110)\bord0\p1}m 0 0 l 30 0 30 60 0 60
 Dialogue: 50,0:02:56.70,0:02:56.74,Ojisan OP,,0,0,0,,{\an5\pos(965,50)\bord0\p1}m 0 0 l 30 0 30 60 0 60
-Dialogue: 50,0:02:52.36,0:02:56.74,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(688,788,\alpha&H00&)\move(980,110,980,50,829.89583333333,929.89583333333)}​
 Dialogue: 50,0:02:53.03,0:02:53.03,Ojisan OP,,0,0,0,,{\an5\pos(980,110)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:02:56.74,0:02:56.74,Ojisan OP,,0,0,0,,{\an5\pos(980,50)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:02:55.95,0:02:59.33,Ojisan OP 2,,0,0,0,,{\an5\move(1920,50,1360,50,0,150)}

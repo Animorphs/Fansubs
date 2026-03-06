@@ -84,7 +84,7 @@ Dialogue: 99,0:03:40.70,0:03:42.45,Default,,0,0,0,,Flags and smoke signals...
 Dialogue: 99,0:03:42.87,0:03:45.71,Default,,0,0,0,,{\i1}I didn't realize this was a medieval castle.
 Dialogue: 99,0:03:48.50,0:03:49.42,Default,,0,0,0,,Huh?
 Dialogue: 99,0:03:50.46,0:03:52.42,Default,,0,0,0,,This coffee's super delish!
-Dialogue: 99,0:03:53.00,0:03:53.88,Default,,0,0,0,,I know right!?
+Dialogue: 99,0:03:53.00,0:03:53.88,Default,,0,0,0,,I know right?!
 Dialogue: 99,0:03:54.21,0:03:59.51,Default,,0,0,0,,Uncle gave me 10,000 yen for my 20th birthday, \Nso I bought a cloth coffee filter and a bag of beans!
 Dialogue: 99,0:03:59.51,0:04:01.93,Default,,0,0,0,,I've never had coffee brewed from fresh beans before,
 Dialogue: 99,0:04:01.93,0:04:04.22,Default,,0,0,0,,but it sure hits different, doesn't it?
@@ -106,7 +106,7 @@ Dialogue: 99,0:05:09.58,0:05:16.42,Default,,0,0,0,,{\an8\i1}This is what I found
 Dialogue: 99,0:05:09.58,0:05:12.08,Default,,0,0,0,,Wait, why are you deleting it?
 Dialogue: 99,0:05:12.08,0:05:14.29,Default,,0,0,0,,This could get me in trouble, seriously.
 Dialogue: 99,0:05:14.29,0:05:16.80,Default,,0,0,0,,Really, you could get in trouble?
-Dialogue: 99,0:05:16.80,0:05:19.63,Default,,0,0,0,,If dead I'm caught with this. Socially speaking.
+Dialogue: 99,0:05:16.80,0:05:19.63,Default,,0,0,0,,I'm dead if I'm caught with this. Socially speaking.
 Dialogue: 99,0:05:21.09,0:05:24.43,Default,,0,0,0,,This can get you killed? How scary!
 Dialogue: 99,0:05:24.43,0:05:25.72,Default,,0,0,0,,I wouldn't go that far...
 Dialogue: 99,0:05:26.22,0:05:28.31,Default,,0,0,0,,Actually, I don't know that.
@@ -155,7 +155,7 @@ Dialogue: 99,0:09:07.11,0:09:08.11,Default,,0,0,0,,Sorry.
 Dialogue: 99,0:09:08.11,0:09:10.45,Default,,0,0,0,,When you look at me like that,
 Dialogue: 99,0:09:10.91,0:09:14.28,Default,,0,0,0,,it's flattering, actually.
 Dialogue: 99,0:09:31.22,0:09:32.72,Default,,0,0,0,,Fujimiya,
-Dialogue: 99,0:09:33.30,0:09:35.60,Default,,0,0,0,,you've been always so thoughtful.
+Dialogue: 99,0:09:33.30,0:09:35.60,Default,,0,0,0,,you've always been so thoughtful.
 Dialogue: 99,0:09:36.81,0:09:38.10,Default,,0,0,0,,I'll take responsibility.
 Dialogue: 99,0:09:38.10,0:09:40.31,Default,,0,0,0,,R-Responsibility? What do you mean?
 Dialogue: 99,0:09:46.19,0:09:48.32,Default,,0,0,0,,I placed the flag upside down.
@@ -195,12 +195,12 @@ Dialogue: 99,0:10:52.13,0:10:54.30,Default,,0,0,0,,{\i1}I'm so happy that we rec
 Dialogue: 99,0:10:54.76,0:10:58.51,Default,,0,0,0,,{\i1}I hope she feels the same as I do.
 Dialogue: 99,0:11:05.06,0:11:06.94,Default,Manga 12,0,0,0,,Hey, hey, hey!
 Dialogue: 99,0:11:07.31,0:11:09.98,Default,,0,0,0,,Fujimiya, aren't you still underage?
-Dialogue: 99,0:11:09.98,0:11:12.53,Default,,0,0,0,,I'm 20 today so it's perfectly legal.
+Dialogue: 99,0:11:09.98,0:11:12.53,Default,,0,0,0,,I'm 20 today, so it's perfectly legal.
 Dialogue: 99,0:11:12.53,0:11:14.32,Default,,0,0,0,,Is that so? Happy birthday.
 Dialogue: 99,0:11:14.70,0:11:16.16,Default,,0,0,0,,Thank you.
 Dialogue: 99,0:11:16.16,0:11:19.95,Default,,0,0,0,,Uncle, you were in the other world since 17, \Nso you're about 34, right?
 Dialogue: 99,0:11:20.28,0:11:21.41,Default,,0,0,0,,Around 30?
-Dialogue: 99,0:11:24.58,0:11:28.08,Default,,0,0,0,,No, my birthday passed so I'm actually 35.
+Dialogue: 99,0:11:24.58,0:11:28.08,Default,,0,0,0,,No, my birthday passed, so I'm actually 35.
 Dialogue: 99,0:11:28.08,0:11:29.13,Default,,0,0,0,,I see.
 Dialogue: 99,0:11:29.13,0:11:30.59,Default,,0,0,0,,Around 40 then!
 Dialogue: 99,0:11:32.17,0:11:36.72,Default,,0,0,0,,{\an8\i1}"Around 30" and "around 40" \Nare Japanese slang coined in 2006.
@@ -223,7 +223,7 @@ Dialogue: 99,0:12:22.35,0:12:24.18,Default,,0,0,0,,A crisis is an opportunity, h
 Dialogue: 99,0:12:24.18,0:12:27.39,Default,,0,0,0,,Sounds deep when a YouTuber \Nfrom another world says that.
 Dialogue: 99,0:12:27.39,0:12:29.81,Default,,0,0,0,,What the heck is this kid saying?!
 Dialogue: 99,0:12:29.81,0:12:31.44,Default,,0,0,0,,But still,
-Dialogue: 99,0:12:31.69,0:12:34.82,Default,,0,0,0,,both of you have reached the legal drinking age, huh?
+Dialogue: 99,0:12:31.69,0:12:34.82,Default,,0,0,0,,you've both reached the legal drinking age, huh?
 Dialogue: 99,0:12:34.82,0:12:36.69,Default,,0,0,0,,Icuras Elran.
 Dialogue: 99,0:12:37.90,0:12:41.37,Default,,0,0,0,,This was the very first time I drank alcohol.
 Dialogue: 99,0:12:41.70,0:12:43.87,Default,,0,0,0,,It was right after I turned 20.
@@ -259,7 +259,7 @@ Dialogue: 99,0:14:05.91,0:14:07.41,Default,,0,0,0,,There's more where that came 
 Dialogue: 99,0:14:07.41,0:14:11.75,Default,,0,0,0,,Also, it'd be great if you don't tell anyone \Nthat I broke the barrier.
 Dialogue: 99,0:14:11.75,0:14:12.08,Default,,0,0,0,,Huh?
 Dialogue: 99,0:14:12.08,0:14:14.33,Default,,0,0,0,,P-Pretty please don't tell anyone.
-Dialogue: 99,0:14:16.04,0:14:19.42,Default,,0,0,0,,Hey, how did you become so strong, orc face?
+Dialogue: 99,0:14:16.04,0:14:19.42,Default,,0,0,0,,Hey, how did you become so strong, Orc Face?
 Dialogue: 99,0:14:19.71,0:14:24.51,Default,,0,0,0,,I worked hard and trained every day... alone.
 Dialogue: 99,0:14:24.51,0:14:26.68,Default,,0,0,0,,No, that's not what I meant.
 Dialogue: 99,0:14:27.39,0:14:30.02,Default,,0,0,0,,Three years ago, when I first met you...
@@ -300,7 +300,7 @@ Dialogue: 99,0:16:15.58,0:16:16.83,Default,,0,0,0,,What?
 Dialogue: 99,0:16:16.83,0:16:18.50,Default,,0,0,0,,This is a motto I live by.{11:47}
 Dialogue: 99,0:16:18.79,0:16:23.30,Default,,0,0,0,,A single move may drastically turn the tables \Neven in the worst circumstances.
 Dialogue: 99,0:16:23.30,0:16:28.22,Default,,0,0,0,,That's why you should never give up, \Nand should always rise to the challenge.
-Dialogue: 99,0:16:29.22,0:16:32.47,Default,,0,0,0,,Unexpectedly profound coming from you, \Norc face. Who said that first?
+Dialogue: 99,0:16:29.22,0:16:32.47,Default,,0,0,0,,Unexpectedly profound coming from you, \NOrc Face. Who said that first?
 Dialogue: 99,0:16:33.31,0:16:35.68,Default,,0,0,0,,The strategy guidebook for {\i1}Puyo Puyo Tetris{\i0}.
 Dialogue: 99,0:16:37.39,0:16:40.44,Default,,0,0,0,,{\i1}When playing {\i0}Puyo Puyo Tetris{\i1}, \Neven when the screen is nearly full,
 Dialogue: 99,0:16:40.44,0:16:42.31,Default,,0,0,0,,{\i1}keep building and don't give up.
@@ -354,7 +354,7 @@ Dialogue: 99,0:19:12.46,0:19:13.84,Default,,0,0,0,,Did I go to bed?
 Dialogue: 99,0:19:13.84,0:19:14.55,Default,,0,0,0,,Yeah.
 Dialogue: 99,0:19:14.93,0:19:17.51,Default,,0,0,0,,Let's skip to the following morning.
 Dialogue: 99,0:19:18.76,0:19:20.18,Default,,0,0,0,,{\i1}My head is killing me.
-Dialogue: 99,0:19:20.18,0:19:22.31,Default,,0,0,0,,{\i1}Orc face! You sleepyhead.
+Dialogue: 99,0:19:20.18,0:19:22.31,Default,,0,0,0,,{\i1}Orc Face! You sleepyhead.
 Dialogue: 99,0:19:22.31,0:19:24.39,Default,,0,0,0,,{\i1}What are your plans for today?
 Dialogue: 99,0:19:22.97,0:19:24.39,Default - Alt,,0,0,0,,{\i1}Why are you here?
 Dialogue: 99,0:19:25.10,0:19:28.56,Default,,0,0,0,,{\i1}I'm going to try to clear the Death Trap Dungeon.
@@ -396,7 +396,7 @@ Dialogue: 99,0:22:31.75,0:22:33.75,Default,,0,0,0,,Is there anything I can do fo
 Dialogue: 99,0:22:33.75,0:22:36.25,Default,,0,0,0,,Um, could you leave me alone for a while?
 Dialogue: 99,0:22:36.25,0:22:39.75,Default,,0,0,0,,Idiot! I can't leave you alone in this weakened state.
 Dialogue: 99,0:22:40.13,0:22:43.01,Default,,0,0,0,,What is it? Is your stomach sore?
-Dialogue: 99,0:22:45.84,0:22:47.18,Default,,0,0,0,,Orc face...
+Dialogue: 99,0:22:45.84,0:22:47.18,Default,,0,0,0,,Orc Face...
 Dialogue: 99,0:22:47.72,0:22:48.68,Default,,0,0,0,,Wait...
 Dialogue: 99,0:22:48.68,0:22:49.64,Default,,0,0,0,,What?
 Dialogue: 99,0:22:50.60,0:22:51.52,Default,,0,0,0,,Sorry.
@@ -1004,7 +1004,6 @@ Dialogue: 50,0:01:47.67,0:01:47.67,Ojisan OP,,0,0,0,,{\an5\pos(935,50)\bord0\p1}
 Dialogue: 50,0:01:43.33,0:01:47.67,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(667,767,\alpha&H00&)\move(965,110,965,50,829.89583333333,929.89583333333)}l
 Dialogue: 50,0:01:43.96,0:01:44.00,Ojisan OP,,0,0,0,,{\an5\pos(965,110)\bord0\p1}m 0 0 l 30 0 30 60 0 60
 Dialogue: 50,0:01:47.67,0:01:47.67,Ojisan OP,,0,0,0,,{\an5\pos(965,50)\bord0\p1}m 0 0 l 30 0 30 60 0 60
-Dialogue: 50,0:01:43.33,0:01:47.71,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(688,788,\alpha&H00&)\move(980,110,980,50,829.89583333333,929.89583333333)}​
 Dialogue: 50,0:01:44.00,0:01:44.00,Ojisan OP,,0,0,0,,{\an5\pos(980,110)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:47.67,0:01:47.71,Ojisan OP,,0,0,0,,{\an5\pos(980,50)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:46.92,0:01:50.30,Ojisan OP 2,,0,0,0,,{\an5\move(1920,50,1360,50,0,150)}

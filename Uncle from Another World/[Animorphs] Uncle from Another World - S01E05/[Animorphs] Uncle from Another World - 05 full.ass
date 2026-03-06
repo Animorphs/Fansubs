@@ -189,7 +189,7 @@ Dialogue: 99,0:11:00.18,0:11:00.81,Default,,0,0,0,,Huh?
 Dialogue: 99,0:11:01.72,0:11:02.89,Default,,0,0,0,,Sell the ring?
 Dialogue: 99,0:11:03.27,0:11:04.18,Default,,0,0,0,,Yeah.
 Dialogue: 99,0:11:04.18,0:11:08.48,Default,,0,0,0,,As I said, sell the ring and never worry \Nabout money for the rest of your life.
-Dialogue: 99,0:11:23.62,0:11:24.87,Default,,0,0,0,,Hey, orc face!
+Dialogue: 99,0:11:23.62,0:11:24.87,Default,,0,0,0,,Hey, Orc Face!
 Dialogue: 99,0:11:25.41,0:11:26.92,Default,,0,0,0,,It's too late for this!
 Dialogue: 99,0:11:27.42,0:11:30.54,Default,,0,0,0,,Have you awakened to some sort of orc instinct?
 Dialogue: 99,0:11:30.54,0:11:33.51,Default,,0,0,0,,Th-Then, I'll stay with you until you feel bett—
@@ -283,7 +283,7 @@ Dialogue: 99,0:16:46.40,0:16:49.07,Default,,0,0,0,,broke the seal of the sword \
 Dialogue: 99,0:16:49.07,0:16:50.11,Default,,0,0,0,,and slew the Blaze Dragon.
 Dialogue: 99,0:16:50.41,0:16:52.57,Default,,0,0,0,,The sword's been passed down your clan for generations.
 Dialogue: 99,0:16:55.49,0:16:58.25,Default,,0,0,0,,She spoiled it just when it was getting interesting!
-Dialogue: 99,0:16:58.25,0:17:02.96,Default,,0,0,0,,B-Back to my point, how do you see orc face?
+Dialogue: 99,0:16:58.25,0:17:02.96,Default,,0,0,0,,B-Back to my point, how do you see Orc Face?
 Dialogue: 99,0:17:03.38,0:17:07.67,Default,,0,0,0,,T-Telling this story is the only thing I'm good at.
 Dialogue: 99,0:17:09.51,0:17:12.30,Default,,0,0,0,,I practiced so hard.
 Dialogue: 99,0:17:13.01,0:17:15.68,Default,,0,0,0,,I'm sorry, I'm sorry! Don't cry.
@@ -995,7 +995,6 @@ Dialogue: 50,0:01:24.69,0:01:24.73,Ojisan OP,,0,0,0,,{\an5\pos(935,50)\bord0\p1}
 Dialogue: 50,0:01:20.39,0:01:24.73,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(667,767,\alpha&H00&)\move(965,110,965,50,829.89583333333,929.89583333333)}l
 Dialogue: 50,0:01:21.02,0:01:21.06,Ojisan OP,,0,0,0,,{\an5\pos(965,110)\bord0\p1}m 0 0 l 30 0 30 60 0 60
 Dialogue: 50,0:01:24.73,0:01:24.73,Ojisan OP,,0,0,0,,{\an5\pos(965,50)\bord0\p1}m 0 0 l 30 0 30 60 0 60
-Dialogue: 50,0:01:20.39,0:01:24.77,Ojisan OP,,0,0,0,,{\an5\alpha&HFF&\t(688,788,\alpha&H00&)\move(980,110,980,50,829.89583333333,929.89583333333)}​
 Dialogue: 50,0:01:21.06,0:01:21.06,Ojisan OP,,0,0,0,,{\an5\pos(980,110)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:24.73,0:01:24.77,Ojisan OP,,0,0,0,,{\an5\pos(980,50)\bord0\p1}m 0 0 l 0 0 0 60 0 60
 Dialogue: 50,0:01:23.98,0:01:27.36,Ojisan OP 2,,0,0,0,,{\an5\move(1920,50,1360,50,0,150)}
